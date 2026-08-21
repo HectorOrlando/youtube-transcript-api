@@ -1,0 +1,430 @@
+Titulo              : La IA puso a prueba más de 12.000 estrategias de trading (esto es lo que funciona)
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-01
+Duracion            : 23:14
+Vistas              : 3,171
+URL                 : https://www.youtube.com/watch?v=cPWm-xFakGY
+----------------------------------------------------------------------
+
+Usé la Switch de validación de estratos para 
+ejecutar más de 12,000 validaciones cruzadas de  
+estrategias de trading. 127 estrategias distintas 
+sobre 20 activos diferentes en Forex, índice,  
+metales, criptomonedas y energía sobre más de 15 
+años de datos históricos sin escribir ni una sola  
+línea de código. El objetivo no era encontrar la 
+estrategia perfecta para este mes. El objetivo era  
+descubrir qué familias de estrategia sobreviven 
+realmente cuando les aplicas las mismas pruebas  
+de estrés que usan los fondos cuantitativos. Wall 
+Forward, embudo de filtro, Montecarlo Bootstrap,  
+test de sensibilidad de parámetro y validación 
+multiactivo. De esas 12,000 validaciones,  
+solo 847 pasaron todos los filtros. Y cuando 
+apliqué el test de sensibilidad de parámetros,  
+que verifica si tu estrategia colapsa al mover un 
+simple periodo de RSI de, por ejemplo, 14 a 13,  
+ese número se redujo en menos de 400. Y sé lo que 
+estás pensando. Otro vídeo de back generado por  
+inteligencia artificial, pero frena ahí. Si es 
+la primera vez que ves este canal, mi nombre es  
+Ignacio Yago, soy ingeniero informático graduado 
+en ADE y llevo más de 15 años como analista de  
+mercado y trader cuantitativo profesional, 
+desarrollando, auditando y desplegando miles  
+de algoritmos de trading. Mi último gran proyecto 
+profesional es Stratos, una plataforma de diseño  
+visual para la creación y validación de Expert 
+Advisor para Metatrader 4 y Metatrader 5 o como  
+tú los conocerás bot de trading. Todo lo que 
+ves en este vídeo, los motores de back test,  
+los workers paralelos, el catálogo de 127 
+estrategias, el clasificador de regímenes  
+de mercado, lo he diseñado y programado desde cero 
+junto con mi equipo de ingeniero aquí en Dubai. No  
+soy un trader que descubrió la IA la semana pasada 
+y se subió a la moda. Soy ingeniero informático y  
+construyo alguno de los mejores motores del sector 
+que ejecutan estas pruebas. Y eso importa porque  
+cuando ves a alguien hacer miles de back test 
+con cloud o Python, lo que estás viendo como  
+norma general es un experimento de laboratorio 
+casero hecho en media tarde con $50 de crédito  
+para la API de Cloud, solo para tener algo bonito 
+que mostrar en un vídeo. Pero lo que yo te voy a  
+mostrar hoy aquí es un sistema de producción 
+profesional, real y objetivo. un entorno que  
+puedes usar para diseñar, validar y exportar tu 
+estrategia de trading directamente a Metatrader  
+sin depender de que un modelo de lenguaje adivine 
+el código por ti. En este vídeo voy a hacer tres  
+cosas clave para ti. Primero te voy a mostrar 
+por qué el back test que haces en Trading View,  
+Metatrader o Strategic One, etcétera, te está 
+mintiendo a la cara. Segundo, vamos a destripar  
+los resultados. ¿Qué estrategias sobrevivieron? 
+cuáles murieron y por qué operas con sistemas que  
+están estadísticamente rotos. Y tercero, te voy 
+a enseñar cómo replicar exactamente esta misma  
+prueba tú mismo, sin tener que programar nada 
+en tu navegador y en menos de 5 minutos. Como  
+siempre, esto no es asesoramiento financiero, 
+solo tiene fines educativos. No te garantizo  
+un Lamborghini en tu puerta mañana. Lo que sí te 
+garantizo es que los datos que vas a ver hoy aquí  
+no tienen maquillaje. Si una estrategia es basura 
+estadística, lo verás. Aquí no hay cherry picking,  
+solo matemática fría y objetividad. Vamos a 
+la interfaz. Esto es la suit de validación de  
+robustez de estratos. Es muy fácil y rápida de 
+configurar porque todo se organiza y gestiona de  
+forma automática internamente. No obstante, déjame 
+simplificártelo un poco más para que entiendas en  
+esencia qué es lo que hace y por qué sin superar 
+este test tus bots de trading jamás deberían pasar  
+a gestionar capital real. Esta suit hace lo 
+que ningún back tester comercial retail hace,  
+someter a tu estrategia a un interrogatorio real y 
+objetivo y le hace tres preguntas clave. Pregunta  
+número uno, ¿tu estrategia generaliza o tuviste 
+suerte? Solo sube varios CSV de activos distintos  
+y la Switch ejecuta la misma estrategia en todos 
+ellos. Y si no tienes data, no te preocupes,  
+utiliza la data que viene en estratos, que es de 
+calidad institucional. Para que nos entendamos,  
+es como ser un buen jugador de fútbol. Si solo 
+sabes jugar bien en el campo de tu barrio,  
+eres un aficionado. Si juega igual de bien 
+en hierba, tierra, con lluvia y en otro país,  
+eres un profesional. Esto es precisamente lo 
+que queremos validar de un bot de trading,  
+si es un profesional robusto que le permitirá 
+ser rentable o es un afeccionado sobreoptimizado  
+que quebrará tu cuenta más pronto que tarde. 
+Pregunta número dos, ¿tu estrategia es honesta  
+o lo que es lo mismo? Si cambias el periodo de 
+tu media móvil, por ejemplo, de 20 a 18, tu bot  
+sigue sobreviviendo. Esto es la sensibilidad 
+paramétrica o sensibilidad de parámetros. Si tu  
+bot no la supera favorablemente, está condenado 
+matemáticamente a la quiebra y es mejor que lo  
+sepas ahora antes de que te cueste más dinero 
+descubrirlo por las malas, como suele suceder.  
+Pregunta número tres, ¿aganta el azar? Es decir, 
+si desordenamos tus operaciones 1000 veces,  
+sigue ganando. Esto es el test de Montecarlo y 
+te da un veredicto sincero y directo, sólido,  
+neutral frágil. No sabemos el orden en el que 
+se van a dar las mejores o peores operativas  
+ni en qué racha, pero sí sabemos que tu voz 
+debería poder sobrevivir a este desorden o no  
+debería ir al mercado. Todo confluye aquí porque 
+puedes optimizar, puedes hacer 1000 pruebas,  
+pero ningún resultado es definitivo hasta que 
+pasa por esta picadora de carne profesional.  
+Si le tienes aprecio a tu dinero, ninguno de tus 
+bots debería ir a mercado sin pasar por un test  
+de validación y robustez paramétrica profesional 
+como este. Es un estándar mínimo para cualquier  
+algoritmo de trading que vaya a destinarse para la 
+gestión de capital. Sinceramente no entiendo como  
+en el sector retail la gente tiene el valor de 
+poner a gestionar capital real con un bot que haya  
+sacado, por ejemplo, de cloud o de Strategic One 
+o descargado de internet o similar, sin realizar  
+un proceso de validación mínimo. Y con proceso de 
+validación mínimo no me refiero a un back test. Un  
+back test es un back test, fin, no un proceso 
+de validación. Apúntate esta regla básica del  
+trading cuantitativo si quieres ser rentable 
+o tener opciones de serlo. Nunca, bajo ningún  
+concepto y sin excepción alguna, un algoritmo o 
+bot de trading debe llegar a operar en realipo
+y que las métricas obtenidas del mismo certifiquen 
+que pueden pasar a real. Esto que vamos a hacer  
+ahora es solo uno de los pasos de este pipeline 
+de validación profesional. Cuando un gurú de redes  
+sociales te quiera vender una idea ganadora con un 
+back test por muchos años en los que este se base,  
+ten muy por seguro que sabe de trading menos 
+que mi abuela y te puedo asegurar que mi abuela  
+de trading sabe entre cero y nada. Las cosas 
+bien hechas, bien aparecen. Existen protocolos  
+rigurosos de validación de algoritmos de trading 
+por un motivo concreto y el motivo es simplemente  
+para no perder la cuenta tontamente jugando al 
+azar, poniendo tu dinero bajo un riesgo totalmente  
+innecesario, que es totalmente detectable con 
+anterioridad. Vamos al corazón de la bestia,  
+el embudo de validación. Esto es lo que separa a 
+los profesionales de los que le dan al botón de  
+play en Metatrader o Trading View y se emocionan 
+al ver el primer número verde. Para que esto no  
+sea muy extenso en el vídeo, empezamos con unos 
+3,000 a 4,000 escenarios. Cada escenario tiene que  
+sobrevivir a seis filtros. Si falla en uno, está 
+muerto. El filtro número uno es el shave ratio  
+fuera de muestra, es decir, el out of sample, que 
+debe ser mayor a 0.5. Diseñamos la estrategia con  
+dato viejo y la probamos con dato reciente que 
+nunca he visto. Para que te hagas una idea,  
+es como aprender a conducir en un parking vacío 
+el domingo por la tarde. Eso sería insample,  
+el típico IS. Y luego pretender que sabe conducir 
+metiéndote en la hora punta del centro de Madrid.  
+Eso sería el out of sample. Si te chocas ahí 
+no sabes conducir. Este filtro eliminó 700  
+escenarios de golpe. Filtro número dos, dry 
+máximo menor al 35%. Si tu cuenta cae más de  
+un tercio es demasiado frágil. Filtro número 
+tres, el save ratio del out of sample. No debe  
+ser absurdamente alto, es decir, descartamos a los 
+mentirosos que hacen tres operaciones perfectas y  
+se rompen. Filtro cuatro. Antisobreajuste. Si el 
+resultado con datos nuevos es mágicamente mejor  
+que con los datos de entrenamiento, huela a 
+chamusquina. Filtro número cinco, mínimo de  
+operaciones. Si hiciste ocho operaciones en 15 
+años, eso no es estadística, es una anécdota.  
+Filtro número seis, Save Ratio in sample 
+positivo. Si no funciona en el parking vacío,  
+ni lo saques ya a la calle y mucho menos a meterlo 
+en el centro de Madrid en hora punta. Resultado,  
+de 892 quedan 46. El 94% de las estrategias que 
+creías que eran la bomba acaban de ser trituradas  
+por la estadística básica. Evidentemente son 
+estrategias de flujo base. Era evidente que  
+iban a perecer muchas de ellas por el camino. No 
+obstante, dejemos claro que es una estrategia base  
+del flujo que tenéis aquí en el catálogo para 
+comenzar a construir un bot dentro de estrato,  
+porque ya son estrategias base que tienen gestión, 
+eh, control de riesgo, filtro avanzado, etcétera,  
+etcétera, por lo que ya son mucho más avanzadas 
+que la mayoría de estrategias de redes sociales.  
+¿Quieres saber por qué el 99% de la gente pierde 
+dinero con los algoritmos que compran por ahí?  
+Te lo voy a enseñar. Este es el cementerio del 
+sobreajuste. El eje horizontal es como rindió en  
+el pasado, el vertical como rindió en el futuro 
+con datos nuevos. ¿Ves todos estos puntos aquí  
+abajo en la línea a la derecha? rendimientos 
+brutales en el pasado y rentabilidad negativa  
+en el futuro. Estas son estrategias base, las 
+estrategias que te venden en internet a precio  
+de estrategias profesionales. Es como tener 
+un estudiante que saca un 10 raspando porque  
+se aprendió de memoria las respuestas exactas del 
+examen anterior, pero en cuanto le cambia una coma  
+en la pregunta nueva, suspende con un cero. Eso es 
+el sobreajuste. Solo el 5.1% 1% de las estrategias  
+mantuvieron el tipo. Los puntos de arriba son 
+nuestro superviviente. Y adivina qué, plataformas  
+como Trading View o Metatrader no te hacen este 
+gráfico. Te venden la ilusión del parking vacío  
+sin remordimiento, haciéndote creer que sabes 
+conducir. Y ahora vamos un paso más allá de lo  
+que hacen los script de IA Vidales, el test de 
+sensibilidad. Analizamos la estrategia ganadora.  
+Recuerda que se le han movido un más menos 5% 
+los parámetros. Tiene un 37% de superviviente, lo  
+que la deja clasificada como frágil. No está mal 
+teniendo en cuenta que hemos dedicado literalmente  
+0 minutos a crearla y mejorarla. Vamos a correr 
+de nuevo la suit de validación ahora solo con  
+esta estrategia y varios mercados para afinar más 
+los datos y ver si hay algún mercado en el que se  
+concentren los datos positivos. Si sobrevive 
+más del 70% es robusta. Si sobrevive menos del  
+40% es frágil. Y entiende esto. Operar con una 
+estrategia frágil es como conducir un Fórmula  
+1 hipermodificado. Corre rapidísimo, sí, pero 
+solo si hace exactamente 22.5 gr. El asfalto es  
+perfecto y no hay viento. En el instante en el 
+que cae una gota de lluvia en el mercado real,  
+el coche se sale de la pista, se incendia 
+y te quedas a cero. Buscamos todoterrenos,  
+no Fórmulas 1. La última parada del viaje es el 
+Boostrap de Montecarlo, el polígrafo estadístico  
+de tu estrategia. Cogemos todas las operaciones de 
+cada escenario y las lanzamos al aire 1000 veces,  
+reorganizándolas en órdenes distintos para simular 
+futuros alternativos que podrían haberse dado en  
+el mercado, que serían por ejemplo pues 
+trade bueno y trade malo y no llegan en  
+el orden perfecto. En esta batería de pruebas, 
+el cruce de EMA con confirmación parabolicar  
+se comporta como lo que realmente es. Una buena 
+idea base, pero todavía frágil a nivel global.  
+El sistema tiene un 96% de probabilidad de 
+beneficio en los supervivientes dentro del embudo,  
+pero solo el 47% de los escenarios recibieron el 
+veredicto de sólido en Montecarlo y la robustez  
+paramétrica apenas llega al 29% con variaciones 
+del más 5%. Esto significa que la estrategia  
+puede generar beneficio bajo condiciones bastante 
+controladas, pero que una parte importante de esos  
+escenarios sigue dependiendo demasiado del orden 
+concreto en el que llegaron las operaciones o de  
+parámetros muy finos. En términos prácticos, no 
+es un castillo de naipe, pero todavía no es un  
+búnker. Necesitas saber exactamente en qué mapas 
+del mercado puede jugar con ella sin que se rompa.  
+Después de todo este proceso de embudos de filtro, 
+de sensibilidad de parámetro y de Montecarlo,  
+la pregunta clave es, ¿dónde aguanta realmente 
+este sistema y dónde se desintegra? Viendo los  
+datos reales, el mensaje es cristalino. Esta 
+familia de cruce de medias más parabolicar tiene  
+su hogar natural en metales e índices, no en todo 
+el universo de activos. En el oro, por ejemplo, 27  
+de 31 variantes superan el embudo de validación, 
+lo que representa un 87% de supervivencia.  
+Y hay un caso concreto en la versión 16 que tiene 
+un perfil casi perfecto. S ratio insample de 2.77,  
+Save Ratio Out of Sample de 2.96 un trown 
+máximo inferior al 10% y veredicto sólida  
+con una posibilidad de beneficio en Montecarlo 
+del 100% y una probabilidad de ruina del 0%.  
+En índices y acciones la historia se repite aunque 
+con menor contundencia. En Nvidia o Triple Q, pues  
+presentan, por ejemplo, tasas de supervivencia 
+de entre el 68 y 71% respectivamente y Apple se  
+mantiene en torno al 57%. Esto te dice que el AG 
+o ventaja de esta lógica de cruce y confirmación  
+existe, pero depende por completo de la estructura 
+de la volatilidad y la microestructura de estos  
+activos. Cuando la llevas a pares de fores 
+mayores como el eurodólar o el euroen,  
+la tasa de supervivencia cae a número de un 
+solo dígito, de la mayoría de casos directamente  
+a cero. Así que la conclusión honesta con los 
+propios datos es esta. El back testing clásico  
+podría haberte convencido de que el cruce de media 
+más para Olixar es bueno en todos los lados, pero  
+la su de validación de estratos demuestra que es 
+una estrategia frágil como familia global y sólida  
+solo en ciertos ecosistemas muy concretos como 
+por ejemplo el oro o algunos índices específicos.  
+Si operas fuera de estos mapas, estadísticamente 
+estás jugando a la ruleta con tu cuenta,  
+con tu dinero. Y si te quedas en los activos donde 
+la supervivencia y el Montecarlo dan veredicto  
+sólido, estás aprovechando el AG o ventaja real 
+y medible de la estrategia. Ahora hablemos del  
+elefante en la habitación. Cloud, Chat GPT, 
+Gemini, etcétera. Hacer miles de back tests con  
+Python generados por inteligencia artificial 
+es un ejercicio de investigación fantástico,  
+pero hay una diferencia abismal entre lo que hace 
+un modelo de lenguaje y lo que hace estratos.  
+Para programar a mano todo lo que acabamos 
+de ver en tu pantalla, tendrías que pasarte  
+días escribiendo código para importar datos de 13 
+activos distintos. Programar un optimizador para  
+probar decenas de combinaciones paramétricas en 
+paralelo. Codificar un embudo secuencial de seis  
+filtros estadísticos y programar una simulación 
+de Monteclos desde cero. Y aparte por añadir  
+5 o 10 años de experiencia en el sector para 
+saber cómo tienes que montarlo todo. A nuestra  
+plataforma a la que puedes acceder ahora en 
+menos de 5 minutos le tomó exactamente 48.2  
+2 segundos procesar de manera nativa los 402 back 
+test en paralelo, aplicar los filtro y ordenar  
+los resultados visualmente. Y la diferencia más 
+importante de todas, Cloud te da un fragmento de  
+código suelto en Python que probablemente contenga 
+errores de sintaxis o de lógica, mientras que en  
+Estratos solo tienes que hacer clic en el botón 
+de cargar en Canva la variante ganadora, en este  
+caso la V16 y exportar de inmediato un archivo 
+ejecutable para MQL4 o MQL5. Perfectamente limpio  
+con su gestión de riesgo y stop loss automáticos 
+listos para tu Metatrader. Si quieres construir  
+una estrategia que sobreviva al mercado real y 
+resista al paso del tiempo, necesitas utilizar  
+este framewor de robustez estructurado en diversas 
+capas consecutivas. La primera capa situada en la  
+base consiste en tener una señal con un age real 
+adaptado al mercado específico, entendiendo de  
+una vez por todas que no existen los sistemas 
+universales y que debes comenzar seleccionando  
+el activo adecuado. En la segunda capa debes 
+buscar los parámetros óptimos basándote en la  
+consistencia estadística real, tal como hicimos 
+al seleccionar la variante V16 en el oro, que  
+nos entregó un profit Factor de 4.10 y un Share 
+Ratio out of sample de 2.96, [música] demostrando  
+que rinde mejor en el futuro incluso que en el 
+pasado. La tercera capa requiere establecer una  
+gestión de riesgo estricta basada en el peor 
+de los casos. Si la simulación de Montecarlo  
+nos dice que el peor dryown esperado es del -8.2%, 
+debes ajustar tu apalancamiento para tolerar esa  
+pérdida sin que afecte a tu estrategia. La cuarta 
+capa implica la exclusión de activos débiles,  
+lo que significa desarrollar por completo tu 
+bot de trading en mercados hostiles, como,  
+por ejemplo, el eurodólar o las criptomonedas, 
+donde la estadística ya te demostró que vas a  
+perder dinero. Y finalmente, la quinta capa en la 
+cúspide de la pirámide es el filtro definitivo de  
+la suit de validación, asegurándote de que nunca 
+pongas a gestionar capital real a un algoritmo  
+que no haya superado este pipeline profesional 
+mínimo. Déjame enseñarte cómo puedes replicar  
+exactamente este mismo proceso en tu propio 
+navegador y en menos de un minuto. Primero  
+entras en la plataforma y arrastras al Canvas 
+la estrategia de cruces de medias móviles con  
+confirmación de parabolicar desde nuestro catálogo 
+visual. A continuación, ejecutas un test rápido  
+utilizando el back test runner para verificar 
+que las operaciones iniciales sean lógicas.  
+El tercer paso consiste en abrir la switch de 
+validación, botón derecho en el can. Una vez  
+dentro, arrastra los archivos históricos de los 
+activos que quieres poner a prueba o directamente  
+los seleccionas del catálogo. Después ajustas 
+los filtros del embudo estableciendo un drade  
+a un máximo tolerado del 35% y activando el test 
+de sensibilidad para que varíen los parámetros,  
+por ejemplo, un más menos 5% de forma automática. 
+El quinto paso es hacer clic en iniciar para que  
+el sistema procese los cent de back test en menos 
+de un minuto de forma local. Tras la ejecución,  
+el sexto paso consiste en revisar el mapa de 
+supervivencia, descartar los mercados perdedores  
+y enfocarte en el oro para seleccionar la variante 
+ganadora, como en este caso la V16. Para terminar,  
+el séptimo paso consiste en presionar el botón 
+de cargar en Canva y, finalmente, hacer clic  
+en exportar a Metatrader para descargar tu bot 
+listo para operar sin haber escrito ni una sola  
+línea de código. La conclusión de hoy es clara 
+y contundente. El 93% de las estrategias que ves  
+publicadas en internet son castillos de naipes 
+sobre ajustados que solo sirven en un mercado  
+perfecto del pasado y colapsan en el gráfico real 
+ante el menor cambio. El trading cuantitativo  
+real no consiste en adivinar el futuro, sino en 
+utilizar las matemáticas y la estadística para  
+descartar las mentiras y operar únicamente las 
+verdades estadísticas que sí funcionan y se pueden  
+replicar en tu cuenta. Si este baño de realidad 
+estadística te ha ayudado a abrir los ojos y  
+te ha ahorrado perder miles de dólares con una 
+estrategia rota, dale un buen me gusta al vídeo y  
+suscríbete al canal para no perderte las próximas 
+investigaciones. Tienes el enlace directo en la  
+formación y en el primer comentario fijado para 
+unirte a mi comunidad privada de school, donde  
+te comparto una formación de 14 días que te llevo 
+de cero a tu primer bot de trading. Además, déjame  
+por escrito en los comentarios qué otra estrategia 
+mítica o indicador popular te gustaría que metamos  
+en nuestra picadora de la suit de validación en el 
+próximo episodio. Nos vemos en el siguiente vídeo.
+[música]
+[música]

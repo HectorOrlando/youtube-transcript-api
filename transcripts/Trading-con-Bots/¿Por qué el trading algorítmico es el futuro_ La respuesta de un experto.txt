@@ -1,0 +1,459 @@
+Titulo              : ¿Por qué el trading algorítmico es el futuro? La respuesta de un experto
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-15
+Duracion            : 23:05
+Vistas              : 454
+URL                 : https://www.youtube.com/watch?v=0YFXSq4juws
+----------------------------------------------------------------------
+
+Un preso analfabeto, sin internet, sin ordenador y 
+con un teléfono de pago. Batía el mercado con gran  
+éxito desde su celda. Mientras tanto, entre el 70 
+y el 85% de los traders con todas las herramientas  
+del mundo pierde dinero. Hoy te destripo el método 
+de Curtis Carror, el oráculo de San Quintín,  
+y al final del vídeo te llevarás su protocolo de 
+cinco pasos traducidos a trading algorítmico. Te  
+adelanto algo, el paso cuatro es el que casi todo 
+el mundo se salta. y es el que lo cambia todo. Me  
+llamo Ignacio Yago, soy graduado en ADE, ingeniero 
+informático y llevo más de 15 años ejerciendo como  
+analista de mercado y operando en los mismos como 
+trader cuantitativo. Y vivo de mi voz de trading  
+que yo mismo [música] diseño, construyo y valido. 
+Y te lo digo claro, este método que vas a aprender  
+hoy nacido en una cárcel es más riguroso que el 
+de la mayoría de trader retail que conozco. El  
+plan de hoy tiene seis fases. Uno, cómo empezó 
+todo tras la reja. Dos, la cárcel invisible que  
+probablemente te tiene atrapado a ti. Tres, la 
+metodología exacta del oráculo. Cuatro, la pieza  
+emocional que casi nadie trabaja. Cinco, ¿qué 
+significa todo esto en el mercado de 2026? Y seis,  
+la gran revelación, el protocolo completo paso a 
+paso para que lo apliques a tus propios sistemas  
+de trading desde esta misma semana. Comenzamos. 
+17 de agosto de 1996, las puertas de San Quintín,  
+una de las prisiones más duras de California, 
+se cierran detrás de un chaval de 17 años. Se  
+llama Curtis Carrol. Su condena 54 años y hay un 
+detalle que lo cambió todo. Curtis no sabe leer,  
+no sabe escribir, es analfabeto total. 
+Sobre el papel, ese chico está sentenciado  
+a desaparecer. Para entender cómo llegó ahí, 
+hay que ir a East Oakland. Pobreza extrema,  
+bandas. Una familia atrapada en la adición y la 
+precariedad. Curti llegó a vender su propia sangre  
+para poder comprar comida. En su barrio, el crimen 
+no era una elección, era la única hoja de ruta que  
+la sociedad había dejado sobre la mesa. Nadie le 
+enseñó a ahorrar, nadie le habló de invertir. Le  
+enseñaron a sobrevivir hasta la noche siguiente. 
+Y sin embargo, dentro de esa presión pasa algo  
+extraño. Curtis observa. es lo único que puede 
+hacer y lo hace mejor que nadie y se da cuenta  
+de una cosa que le rompe los esquemas. Incluso ahí 
+dentro encerrado el dinero lo gobierna todo. Los  
+favores se compran. Los guardias hablan de sus 
+inversiones en los descansos. El dinero manda  
+fuera y manda dentro. Un día, según cuenta él 
+mismo, coge un periódico buscando la sección de  
+deportes. Un preso veterano le señala las páginas 
+de economía y le suelta una frase que se le queda  
+clavada. Ahí es donde está el dinero de verdad. 
+Curtis no puede leer ni una línea de esas páginas  
+y ahí toma la decisión que le cambia la vida. Va 
+a aprender a leer, no por placer, no por cultura,  
+sino por pura supervivencia [música] financiera. 
+Quería entender el tablero donde jugaban los que  
+tenían el poder. Aprendió a leer con 20 años en 
+una celda practicando la escritura en envoltorio  
+de caramelo. Piensa en eso un segundo. [música] 
+Tú y yo tenemos más información financiera en el  
+móvil que toda la que Curtis [música] vio en 20 
+años de vida. Y aún así la mayoría no la usamos.  
+Años después la escena se había invertido por 
+completo. Los sargentos que debían vigilarlo se  
+acercan a su celda antes de que abran los mercados 
+en Nueva York. ¿Para qué? Para pedirle consejos  
+sobre cómo mover sus ahorros. El preso asesorando 
+a sus carceleros. Puedes imaginarlo, le acaban  
+llamando incluso el oráculo de San [música] 
+Quintín. Y aquí está la pregunta que sostiene  
+todo este vídeo. ¿Cómo lo hizo? Sin internet, sin 
+ordenador, sin datos en tiempo real. ¿Qué sabía  
+Curtis que no sabe el trader medio de hoy en día 
+con tres monitores y suscripción premium a casi  
+todo? La respuesta no es talento y desde luego no 
+es suerte. Es una lección que él resumía en una  
+frase. La libertad no empieza cuando sales por 
+la puerta de la prisión, empieza cuando liberas  
+tu mente de la ignorancia. Esa ignorancia, la 
+financiera, es una condena que probablemente  
+tú también estás cumpliendo sin [música] saberlo. 
+Pero aquí es donde la historia deja de ser bonita  
+y empieza a hablar de ti, porque esa cárcel 
+de la que hablaba Curtis no tiene barrotes. Y  
+apunta esto, hay un error que comete casi todo 
+principiante cuando escucha esta historia. Te  
+lo destapo en unos minutos porque seguramente tú 
+también lo estás cometiendo ahora mismo. Vamos con  
+datos porque este canal funciona con datos. Según 
+las mediciones más recientes, aproximadamente  
+la mitad de los adultos de Estados Unidos 
+suspende en alfabetización financiera básica.  
+Interés compuesto, inflación, diversificación, 
+concepto de primero de economía y sin embargo,  
+la mitad del país más financiarizado del planeta 
+no los domina y el dato ha empeorado ligeramente  
+en los últimos años. Y los jóvenes, la prueba 
+PISA de 2022 evaluó a estudiantes de 14 países de  
+la OCDE. Un 18% no alcanza ni el nivel mínimo. No 
+sabrían aplicar lo aprendido en una decisión real  
+con dinero. [música] El sistema educativo fabrica 
+buenos empleados, gente que sabe seguir órdenes,  
+pero no enseña a gestionar el capital propio. Y 
+ahora el dato que conecta con Curti. Más del 60%  
+de las personas encarceladas en Estados Unidos 
+no tienen formación financiera formal. Curtis lo  
+decía sin rodeo. La mayoría de los que estaban con 
+él en San Quintín eran monstruos, eran personas  
+con una ignorancia financiera profunda que tomaron 
+las únicas decisiones que sabían tomar. Eso es  
+la cárcel invisible. Es como llevar una gafa 
+malgraduada toda la vida sin saberlo. Ves el  
+mundo borroso, tropiezas y crees que el problema 
+eres tú y no la caza. Deudas de consumo, compras  
+impulsivas, cero ahorro. Fuera de los muros hay 
+millones de personas cumpliendo esa condena. Y  
+atento porque los traders no estamos libres. Al 
+revés, te pongo el dato que más duele. Los brokers  
+europeos regulados están obligados a publicar 
+cuántos de sus clientes pierden dinero. La cifra  
+entre el 70 y el 85%. Y en horizontes más largos, 
+contando con los costes, algunos estudios dejan  
+a los rentables netos en torno a un 10%. Hay más. 
+Un estudio clásico de Barber y Odín analizó el day  
+trading en Taiwan. Unos 360,000 day trader al año 
+movieron el 17% del volumen del mercado. ¿Cuántos  
+mostraban habilidad persistente? Una fracción 
+minúscula, la mayoría perdía de forma recurrente.  
+Es decir, [ __ ] a alguien financieramente 
+analfabeto y darle una plataforma de trading  
+con apalancamiento no lo libera de nada. Acelera 
+su condena. Es [música] analfabetismo apalancado.  
+Imagina un trader típico retail de 40, 50 
+o 60 años. Nómina de, abre una cuenta de  
+3,000 € de sus ahorros, sin método, sin gestión de 
+riesgo, operando con lo que ve en redes sociales.  
+Estadísticamente no es un trader, es un donante 
+de liquidez para el resto del mercado. Y lo peor,  
+cree que su problema es que le falta el indicador 
+correcto o la estrategia secreta. Su problema  
+es el mismo que el de los compañeros de la celda 
+de Curtis. No conoce las reglas del juego. Vale,  
+las estadísticas están en contra. Entonces, 
+¿cómo salió Curti de esa estadística desde una  
+celda con un periódico atrasado y un teléfono de 
+prepago? Esto es lo que viene ahora y aquí mismo  
+te pago la deuda del error del principiante. ¿Cómo 
+batía el mercado sin herramientas digitales? Con  
+una disciplina que rozaba la obsesión. Mientras 
+el mundo operaba con plataformas instantáneas,  
+Curtis operaba con el periódico del día 
+anterior, un teléfono de prepago y una red  
+de familiares que ejecutaban las órdenes desde 
+fuera cuando podían. Sus herramientas cuadernos,  
+envoltorios de caramelo y un archivo de 15,000 
+artículos de prensa financiera guardados en sobre  
+de Manila organizado con lógica militar. 15,000 
+[música] artículos recortados, clasificados y  
+cruzados a mano. Eso en trading moderno tiene un 
+nombre, base de datos. Curtis construyó su propio  
+histórico de mercado con tijera y pegamento. 
+El error que comete casi todo principiante al  
+escuchar esta historia es preguntar, ¿vale? ¿Y 
+qué acciones compraba? ¿Quieren la conclusión,  
+el resultado, la señal? El dinero ya es el 
+mismo error que copiar las entradas de un  
+trader rentable sin entender su proceso. 
+Lo valioso de Curtis no era que compraba,  
+era cómo decidía comprarlo. Copiar la operación 
+sin el proceso es como fotocopiar el diploma de un  
+médico y ponerte a operar a pacientes. El papel lo 
+tiene, el criterio no. El proceso de Curti tenía  
+cinco verbos. Apúntalos porque son la semilla 
+de la revelación final. Registrar, analizar,  
+predecir, esperar y corregir. Registraba todo lo 
+que leía, analizaba patrones. Él no veía números,  
+veía comportamiento humano repetido. Predecía 
+por escrito lo que esperaba que ocurriera.  
+esperaba a veces, incluso semanas, a que el 
+mercado le diera la razón o se la quitara y  
+corregía su método con el resultado, no con 
+su ego. Su tesis favorita, empresas con valor  
+real que el mercado castigaba temporalmente, lo 
+que se conoce como oportunidades asimétricas.  
+Es como encontrar un abrigo de 300 € rebajado a 90 
+simplemente porque estamos en julio. El abrigo no  
+ha cambiado, ha cambiado el ánimo del vendedor. Y 
+fíjate en algo que parece una desventaja y era su  
+mayor ventaja. Su latencia de ejecución se medía 
+en día. Recibía al periódico con retraso. Llamaba  
+desde el teléfono de pago y la familia ejecutaba 
+cuando podía. Eso le hacía imposible operar ruido.  
+Estaba obligado a operar solo movimientos grandes, 
+lentos y con lógica. El sistema lo protegía de sí  
+mismo. La mayoría de trader Retle de hoy en día 
+tienen el problema contrario. Pueden ejecutar  
+en cualquier impulso en 3 segundos a las 2 de la 
+mañana desde la cama. Toda la fricción que salvó  
+a Curtis, nosotros la hemos eliminado. [música] Le 
+llamaban el trader que jugaba al ajedrez con los  
+ojos vendados y aún así ganaba sin especulación 
+emocional. porque su método no dejaba hueco para  
+ella. Cuando salió después de 27 años no se sintió 
+perdido por la tecnología, se sintió liberado por  
+ella. Pasar de la celda a tener el mercado global 
+en la palma de la mano fue quitarse la venda. En  
+sus primeros 16 meses fuera ayudó a otras personas 
+a generar hasta $200,000. Resultado pasado y  
+caso concreto, no una promesa. Pero la lección es 
+limpia, no es la plataforma la que te hace ganar,  
+es tu capacidad de ver valor donde otros solo ven 
+ruidos. [música] Pero aquí viene la complicación.  
+Cuando conocí la historia por primera vez, yo 
+esperaba que el secreto de Curty fuera al análisis  
+y cuando estudias lo que enseña hoy, descubres que 
+él pone el análisis en segundo lugar. Lo primero  
+es otra cosa y te afecta directamente. Al salir, 
+Cti fundó Project Field, empoderamiento financiero  
+y alfabetización emocional y su premisa era 
+demoledora. La estabilidad financiera no es una  
+habilidad matemática, es la consecuencia natural 
+de una vida emocionalmente estable. piénsalo,  
+la mayoría de la gente no gasta de más porque no 
+sepa sumar, gasta de más porque usa el dinero como  
+analgésico. Compramos [música] estatus, compramos 
+aceptación, compramos anestesia emocional. Es como  
+rascarse una picadura de mosquito, alivia 2 
+segundos y empeora la herida. Si no entiendes  
+por qué compras, nunca serás libre. ganes lo que 
+ganes. El proyecto FIL enseñaba cuatro pilares:  
+ahorro estratégico, control riguroso del coste de 
+vida, uso eficiente del crédito y diversificación  
+consciente. Cuatro pilares técnicos, sí, pero 
+sostenidos sobre una base emocional. Sin esa base,  
+cualquier curso de finanzas es una venda sobre una 
+herida abierta. Y ahora traslada esto al trading,  
+que es donde te duele a ti. El dinero es la suma 
+de nuestras emociones colectivas, decía Curtis. Si  
+no controlas tu miedo, si no controlas tu codicia, 
+el sistema te devora. Da igual cuánto ganes. Te lo  
+enseño con un caso que he visto decenas de veces. 
+Un trader típico que bien podría ser tú. Cuenta  
+de 10,000 € en Metatrader 5. Su plan dice, riesgo 
+máximo por operación 1% 100 € Una mañana encadena,  
+tres pérdidas, 300 € abajo. ¿Qué dice el plan? 
+Parar. ¿Qué se suele hacer? Doblar el lotaje  
+para recuperar. Dos operaciones después vas 
+perdiendo 100. un 12% de la cuenta en una  
+tarde saltándote tu propio plan. El análisis era 
+correcto, tu arquitectura emocional no. Y esa es  
+exactamente la herida que Curti señala. Ahora, 
+la parte incómoda para los que nos dedicamos  
+al trading algorítmico. Automatizar no te exime 
+del trabajo emocional totalmente. Lo he visto con  
+mis propios alumnos en multitud de ocasiones. 
+Puedes sabotear un bot igual que saboteas una  
+estrategia manual. Apagarlo en mitad de un dryown 
+normal. Subirle el riesgo tras una buena semana.  
+Tocarle los parámetros cada vez que pierde dos 
+operaciones. El bot ejecuta sin emociones, sí,  
+pero si quien decide si el bot vive o muere sigue 
+siendo tú, hay un problema [música] de base. Por  
+eso este canal insiste tanto en el proceso y no 
+en la señal. Un sistema bien construido hace algo  
+precioso. Mueve la decisión emocional del peor 
+momento posible en mitad del mercado y con el  
+dinero en juego al mejor momento posible. Antes 
+en frío cuando diseñas la estrategia. Es la misma  
+jugada de Curtis con su teléfono de prepago. Poner 
+distancia entre el impulso y la ejecución. Cada  
+euro que sale de tu cuenta es un voto sobre 
+quién eres y cada regla que escribes en frío  
+es un voto de tu propio yo racional contra tu yo 
+impulsivo. Si no tomas el control de tus impulsos,  
+alguien tomará el control de tu capital. El 
+mercado está lleno de voluntarios. Ahora la  
+pregunta del millón. Si Curtis logró todo esto en 
+papel y pegamento, ¿qué excusa tenemos tú y yo en  
+2026 con toda la tecnología del mundo a nuestro 
+alcance? Pues cuidado porque esa tecnología  
+es un arma de doble filo. Después de 27 años, 
+Curtis salió a un mundo irreconocible y hoy es  
+un referente nacional de educación financiera 
+en Estados Unidos, colaborando con estándares  
+del departamento del Tesoro. De analfabeto en una 
+celda a asesorar sobre política de alfabetización  
+financiera, el arco completo. Pero, ¿por qué su 
+historia importa hoy aquí a un trader con una  
+cuenta de 5,000 o 10,000 €? Por el contexto en 
+el que operas tú. El mercado global de trading  
+algorítmico movió 21,000 millones de dólares 
+en 2024. Las proyecciones lo sitúan cerca de  
+43,000 millones para 2030. Crece más de 12% anual. 
+¿Qué significa eso? Que las instituciones, fondo,  
+banco y proveedores de líquide ya operan casi todo 
+con sistemas. En ciertos segmentos la ejecución  
+manual ya es simplemente residual. Cuando compras 
+y vendes a mano, no compites contra otro humano,  
+compites contra arquitecturas de sistema. y a la 
+vez la paradoja. Nunca hubo tanto acceso. Datos,  
+plataformas, cursos, indicadores, señales de 
+Telegram, opiniones infinitas, gurús en redes  
+sociales y las estadísticas de pérdida del 
+retail siguen siendo clavadas donde estaban  
+e incluso empeorando por la aceleración de la 
+automatización con IAG como cloud al alcance  
+de todos. ¿Por qué? Porque el exceso de datos 
+sin un filtro metodológico no es información,  
+es confusión. Es como tener una farmacia entera 
+sin ser médico. Más botes y más pastillas no es  
+igual a más salud. Sin diagnóstico y sin criterio 
+es más peligro. Curtis tenía justo lo contrario,  
+poquísima información y un método brutal. El 
+retail medio tiene información infinita y cero  
+método. Y los datos son muy claros sobre cuál 
+de los dos extremos gana. Fíjate en la ironía  
+histórica. Por primera vez, la tecnología que 
+era exclusiva de los fondos de élite está al  
+alcance de cualquiera. [música] Machine learning, 
+back testing sobre años de histórico, ejecución  
+automática sin necesidad de programar nada. Yo he 
+vivido esa transición en 15 años de carrera. Lo  
+que antes exigía un equipo de programadores, 
+hoy lo monta un particular en una tarde con  
+plataformas como estrato de techin. Pero hay una 
+advertencia que casi nadie hace. La automatización  
+es un amplificador, amplifica un buen método y 
+amplifica un desastre. Un sistema mal diseñado,  
+sobreoptimizado y sin gestión de riesgo no 
+pierde dinero despacio como un trader manual,  
+lo pierde con eficiencia industrial. Por eso, la 
+conclusión de la historia de Curtis es la frase  
+que quiero que te lleve grabada. El mercado no 
+te exige ser un genio, te exige tener un método,  
+tener un plan. Antes de continuar con el vídeo, 
+quiero recordarte que en el primer comentario  
+fijado tienes un enlace para unirte a mi comunidad 
+privada de school totalmente gratuita. Dentro he  
+creado una formación de 14 días totalmente 
+gratis donde te enseño a crear tu primer bot  
+y te comparto alguna de las estrategias que me 
+han permitido ser rentable en la última década.  
+Al unirte vas a tener acceso totalmente gratuito 
+a un ecosistema de networking donde compartirás  
+espacio con personas como tú que quieren 
+avanzar y [música] crecer, aparte de con  
+ingenieros informáticos, matemáticos y traders 
+profesionales que avanzan en tu misma dirección y  
+que van a potenciar tu evolución técnica. Haz clic 
+en el enlace del primer comentario para unirte.  
+Nos vemos dentro. Y ahora sí, seguimos con el 
+vídeo. La pregunta ya no es si tienes acceso a  
+herramientas, es si tienes un protocolo que 
+merezca la pena ser automatizado. Así que  
+vamos a construirlo. Vamos a [ __ ] los cinco 
+verbos de Curti. Registrar, analizar, predecir,  
+esperar y corregir. Y lo vamos a traducir uno 
+a uno a un protocolo de trading algorítmico  
+cuantitativo que puedes empezar a aplicar desde 
+esta misma semana. Esta es la revelación que te  
+prometí al principio. Paso número uno, registrar. 
+Curtis lo registraba todo en sobres de Manila,  
+tu versión, reglas escritas en un diario. Antes de 
+automatizar nada, escribe tu estrategia en frases  
+que una máquina pueda obedecer. A esto se le llama 
+el proceso de especificación de la estrategia.  
+¿Cuándo [música] entras? ¿Cuándo sales? ¿Dónde 
+va el stop? ¿Cuánto arriesgas? Et. Prueba del  
+algodón. Si no puedes escribir la regla, no tienes 
+una estrategia. Tienes una corazonada y registra  
+siempre cada operación con su porqué. Ese diario 
+es tu archivo de 15,000 artículos. Paso número  
+dos, analizar. Curti buscaba patrones en años de 
+prensa. Tu versión actual, el backtest. Contrasta  
+tus reglas contra años de datos históricos 
+antes de arriesgar un solo centavo, pero con  
+una advertencia grabada a fuego, el sobreajuste. 
+Si retuerces los parámetros hasta que el back test  
+quede perfecto, no has creado un sistema. han 
+memorizado la respuesta de un examen antiguo y  
+en el examen nuevo, que es el del mercado real, 
+vas a suspender. Busca robustez, no perfección.  
+Un sistema razonable en varios periodos distintos 
+vale más que un espectacular en un solo año. Paso  
+número tres, predecir. Curtis escribía lo 
+que esperaba antes de que pasara. Tu versión  
+actual convierte tu sistema en una hipótesis 
+falsable. Antes de encenderlo, deja por escrito  
+qué resultado lo invalidaría. Por ejemplo, si el 
+dryown supera el 15% o si tras 100 operaciones el  
+profit factor está por debajo de uno, pues en ese 
+caso el sistema se apaga y se revisa. Decidir el  
+criterio de muerte en frío te salva de negociarlo 
+en caliente. Paso número cuatro, esperar. Y aquí  
+está el que te prometí al principio del vídeo, 
+el paso que casi todo el mundo se salta. Curtis  
+esperaba semanas a que sus tesis maduraran. tu 
+versión, la cuenta demo. Todo sistema pasa un  
+mínimo de 3 meses o 100 operaciones en demo antes 
+de tocar dinero real. Y sé lo que estás pensando.  
+Qué pereza. Exacto. Por eso casi nadie lo hace y 
+por eso la mayoría entrega su capital al mercado  
+como matrícula de un curso que podría haber hecho 
+gratis. La demo es tu simulador de vuelo. Ningún  
+piloto protesta por no estrellar el avión de 
+verdad. Y paso cinco, corregir Curtis. Ajustaba  
+el método con resultado, no con ego. Tu versión 
+actual, revisión periódica con reglas fijas. Una  
+vez al mes, con el mercado cerrado, revisa las 
+reglas contra los criterios del paso tres. Nunca  
+tocas parámetros en mitad de una racha, ni buena 
+ni mala. Este [música] protocolo es exactamente el  
+flujo con el que yo trabajo en estratos. Monto las 
+reglas de forma visual, las paso por el backtest,  
+valido su robustez y el sistema vive dentro de 
+una demo un par de meses como poco antes de ver  
+una cuenta real. Pero escúchame bien, el protocolo 
+no depende de ninguna plataforma. Curti lo ejecutó  
+con tijeras, sobre y un teléfono de prepago. Lo 
+que no perdona es saltarse los pasos. Y el aviso  
+honesto de siempre, esto no garantiza que ganes, 
+nada lo garantiza. Y quien te lo garantice te está  
+mintiendo y seguramente solo quiere estafarte y 
+robarte tu dinero. El trading tiene un riesgo real  
+de pérdida. Lo que este protocolo sí te da es otra 
+cosa, que si pierdes pierdas poco, aprendas rápido  
+y sepas exactamente el por qué, que es justo lo 
+que separa a los que sobreviven de la estadística  
+del 80%. Cerremos el círculo. ¿Cómo batía el 
+mercado un preso analfabeto? [música] Con un  
+método tan sólido que ni San Quintín pudo pararlo. 
+La celda no era su limitación y la falta de método  
+no tiene por qué ser la tuya. Si quieres construir 
+este sistema con este protocolo, paso a paso y sin  
+programar, tienes mi training gratuito de 14 días, 
+de cero a tu primer bot de trading en mi comunidad  
+privada de school. El enlace en la descripción 
+y en el primer [música] comentario fijado es la  
+versión guiada que te ayudará a asentar las bases 
+para ser un trader cuantitativo profesional. Y si  
+esta historia te ha movido algo por dentro, 
+tu siguiente paso es entender el cambio de  
+identidad que hay detrás, dejar de pensar como un 
+trader y empezar a pensar como un arquitecto de  
+sistema. Tengo un vídeo entero sobre ese cambio de 
+rol, lo tienes aquí en pantalla. Nos vemos dentro.
+[música]

@@ -1,0 +1,512 @@
+Titulo              : Convertí en Bot la Estrategia de Trading Viral del 83% de Winrate (y la Probé)
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-11
+Duracion            : 28:56
+Vistas              : 2,447
+URL                 : https://www.youtube.com/watch?v=YiC9gmo2A4Q
+----------------------------------------------------------------------
+
+Un 83% de win rate. Eso promete la estrategia de 
+scalping más viral del momento. Hoy la convierto  
+en un bot sin escribir una sola línea de código. 
+La someto a varios años de back test con spread,  
+comisiones y en lipajes reales y te enseño 
+exactamente lo que queda. Te adelanto una cosa,  
+el número final no se parece nada al 83. 
+Me llamo Ignacio Yago, soy graduado en ADE,  
+ingeniero informático y llevo más de 15 años 
+ejerciendo como analista de mercado y operando  
+los mismos como trader cuantitativo profesional y 
+vivo de mis bots de trading que yo mismo diseño,  
+construyo y valido. Así que destripar win rate de 
+marketing es literalmente mi trabajo. Al terminar  
+este vídeo sabrás dos cosas, cómo convertir 
+cualquier estrategia en un bot sin programar y  
+sobre todo cómo distinguir un sistema real de una 
+promesa viral. Y lo haremos en cinco fases. Fase  
+número uno, la autopsia de la estrategia. Fase 
+número dos, la ingeniería inversa de sus reglas.  
+Fase número tres, la construcción del bot con 
+inteligencia artificial. Fase número cuatro, el  
+back test honesto. Y fase cinco, el veredicto. Y 
+al final del vídeo te entrego el protocolo exacto  
+de cinco filtros que aplico yo antes de arriesgar 
+un solo dólar en cualquier sistema. Empezamos.  
+Empecemos por la autopsia. Tres medias móviles 
+exponenciales. Una rápida de nueve periodos,  
+una intermedia de 55 y una lenta de 200. Si están 
+ordenadas de arriba a abajo, tendencia alcista. Si  
+están invertidas, tendencia bajista. Hasta aquí 
+nada nuevo. Típica estrategia de redes sociales.  
+Segundo ingrediente, un MACD del que solo se usa 
+el histograma. La idea es detectar el pullback.  
+El precio retrocede contra la tendencia. El 
+histograma hace un pico y empieza a girar.  
+Tercer ingrediente, unas bandas de Bollinger. 
+Para un corto, el precio tiene que tocar la  
+banda superior y viceversa. Y cuarto, un filtro de 
+RSI. La gestión de riesgo también viene definida.  
+Stoploss entre 0,8 y el 0,9% del precio. 
+Objetivos entre 1,5 y dos veces ese riesgo.  
+Y tomas de beneficio parciales, 50% en el primer 
+objetivo, 25 en el segundo y el restante en el  
+tercero. Apunta el detalle de los parciales. Va a 
+ser clave en el veredicto final. Y ahora el primer  
+cálculo que te llevas hoy. Con un payoff medio de 
+1,8 a 1, ¿qué win rate necesitas para no perder  
+dinero? La fórmula es simple. 1 divre 1 más el 
+payf 1 2,8 un 36% aproximadamente. Es decir,  
+esta estrategia empataría ganando solo 36 de cada 
+100 operaciones y dicen que gana 83. Esos serían  
+47 puntos de ventaja sobre el equilibrio. Para que 
+te hagas una idea, los mejores sistemas que yo he  
+operado y que he visto en real tienen colchones 
+de 10, 15 o 20 puntos como mucho. Y te hablo de  
+algoritmos profesionales. Que un trader retail 
+diga tener ese margen de 47 puntos me genera  
+ya de entrada cuanto menos un poco de rechazo y 
+cero credibilidad. 47 puntos de colchón es como  
+un bar que asegura llenar todas las mesas todos 
+los días cobrando el doble que la competencia,  
+pero ofreciendo exactamente lo mismo. Por poder 
+puede pasar, pero lo vamos a comprobar porque  
+cuando algo suena así de perfecto, nuestra 
+obligación profesional es como mínimo dudar.  
+Y aquí abro una cuenta pendiente contigo. Hay un 
+error muy concreto que comete casi todo el mundo  
+al backtestear scalping. Un error que convierte 
+estrategias perdedoras en aparentes máquinas de  
+imprimir dinero. Te lo enseño en la fase cuatro 
+porque sospecho que es exactamente el error que  
+hay detrás de ese 83% de win rate. Pero antes 
+necesitamos algo que casi nadie hace bien,  
+convertir un vídeo viral en reglas que una máquina 
+puede ejecutar. Y aquí llega la primera sorpresa  
+del reto. Cuando me senté a escribir las reglas 
+exactas, descubrí que la estrategia tal y como  
+se cuenta en el vídeo base no se puede programar. 
+Y eso ya de por sí es una señal, una mala señal.  
+Fase dos, la ingeniería inversa. Este es el filtro 
+donde caen la mayoría de las estrategias virales.  
+Para automatizar una estrategia, cada regla tiene 
+que ser una condición que un ordenador pueda  
+evaluar como verdadera o falsa. Sin zona gris, 
+piensa en una receta de cocina. Si yo te digo,  
+echa un poco de sal y cuece hasta que esté listo, 
+tú te apañas porque interpretas. Pero si esa  
+receta la tiene que ejecutar un cocinero que jamás 
+te ha visto cocinar, necesita gramos y minutos  
+exactos. El bot es ese cocinero, no interpreta 
+absolutamente nada. Ejemplo real de este proceso,  
+el vídeo dice, entra cuando el histograma del 
+MACD haga un pico y empieza a revertir. ¿Qué es  
+un pico? ¿Cuántas barras? ¿Cuánto debe durar? ¿O 
+hasta dónde debe llegar para considerarse un pico?  
+Yo lo formalicé así. El histograma marca un máximo 
+local en las últimas tres velas y la vela actual  
+cierra con un histograma menor que el anterior. 
+Pero, ¿es exactamente lo que hace el autor? A,  
+ojo, no lo sé. Es la traducción más fiel que 
+se puede escribir. Seguramente el autor no haya  
+operado nunca la estrategia tan siquiera y sea la 
+típica copia de copia de la copia de otro vídeo  
+de YouTube que haya funcionado para subirse a lo 
+que funciona en YouTube y que más ingenuos puedan  
+llegar a su vídeo por la coletilla de dinero fácil 
+y rápido. Pero esto ya te dice algo importante.  
+Cuando una estrategia depende de interpretación 
+subjetiva, dos personas operándola tendrán  
+resultados distintos. En el supuesto de que todo 
+fuese cierto, el win rate que te venden es el de  
+los ojos del creador, no el de las reglas. 
+Pero seguimos. Las condiciones de tendencia  
+sí son limpias. Para cortos, la media de nueve por 
+debajo de la de 55 y esta por debajo de la de 200.  
+Para largo lo contrario. El RSI también por debajo 
+de 59 para cortos y por encima de 41 para largos.  
+El toque de la banda de Bollinger con 20 periodos 
+y dos desviaciones también es programable. El  
+máximo de la vela toca o supera la banda superior, 
+por ejemplo. Eso es una condición objetiva. Donde  
+tuve que tomar decisiones fue en las salidas. Los 
+parciales los repliqué tal cual. Primer objetivo  
+en el 0.7. 75. Segundo objetivo en el 1.5 y el 
+tercero con un ratio de 1 a 2, stop fijo del 0,8%.  
+Al terminar tenía un documento con 14 condiciones 
+formales, 14 de un vídeo que parecía tener tres  
+indicadores y a imprimir billetes. Quédate 
+con esta idea porque es la más valiosa de  
+esta fase. El simple ejercicio de formalizar una 
+estrategia ya es un test en sí mismo. Si no puedes  
+escribir tus reglas de forma que otra persona 
+o una máquina opere exactamente igual que tú,  
+no tienes una estrategia, tienes una intuición 
+con indicadores de decoración. Con el documento  
+de reglas cerrado tocaba construir el bot. Y aquí 
+es donde hace 5 años este vídeo se habría acabado  
+porque habrían necesitado meses aprendiendo MQL5 
+o pagar 300 € a un programador. Y esto es lo que  
+nadie me contó cuando yo empecé a automatizar 
+hace ya algunos años. Hoy el código ya no es  
+la barrera. La barrera es saber qué pedirle 
+exactamente a la máquina. Y eso precisamente  
+es lo que acaba de aprender en la fase dos, la 
+especificación de la estrategia. Fase número tres,  
+construir el bot sin escribir ni una sola línea 
+de código. Primero, un dato de contexto porque  
+importa. En Forex se estima que alrededor del 92% 
+del volumen ya se ejecuta mediante algoritmos.  
+92%. Cuando haces scalping manual en gráfico de 5 
+minutos o de cualquier time frame, compites contra  
+máquinas que ejecutan en milisegundos. Tienen la 
+derrota asegurada antes tan siquiera de pensar en  
+abrir la operativa, solo que tú todavía no lo 
+sabes. Piénsalo por un momento. Aún no te has  
+sentado en tu escritorio, no has encendido ni el 
+PC para hacer trading hoy y ya es seguro que vas  
+a perder dinero. Si no, hoy en esta sesión será en 
+la suma de todas las sesiones en el medio plazo.  
+como repartir paquetes en bicicleta compitiendo 
+contra toda una flota de furgonetas con GPS y  
+rutas optimizadas. Algún paquete entregarás, claro 
+que sí, no te digo que no, pero la estructura  
+del juego está en tu contra. Por eso, si una 
+estrategia de scalping tiene algún sentido,  
+tiene todavía más sentido automatizarla. 
+Ejecución instantánea, sin duda, sin fatiga y,  
+sobre todo medible. ¿Por qué debes tener 
+claro que lo que no se puede medir no se  
+puede controlar y desde luego no se puede mejorar 
+ni optimizar? Para construirlo todos usé Estratos,  
+la plataforma que he desarrollado con mi equipo 
+de ingenieros y analistas y trader cuantitativo  
+aquí en Dubai. Exactamente para esto, crear 
+bot de trading sin programar. Pero atento,  
+porque lo importante es el proceso. Uses la 
+herramienta que uses. Primer paso, le pasé a  
+la inteligencia artificial el texto con las 14 
+condiciones formales de la fase dos, tal cual.  
+Indicadores con sus parámetros exactos, medias 
+de 95 y 200. MCD 12 26 9. Solo el histograma.  
+Bollinger de 20 periodos y dos desviaciones, 
+IRSI de 14 y el umbral en 59. Segundo paso,  
+las condiciones de entrada, largos y cortos 
+como reglas lógicas encadenadas. Tercer paso,  
+la gestión de la posición. Stoplad, parciales al 
+50, 25 y 25. Y riesgo por operación fijado en el  
+1% de la cuenta, ni más ni menos. Cuarto paso, 
+la plataforma genera el expert advisor o bot  
+de trading listo para llevar a tu Metatrader. 
+Un EA sin código, sin tocar MQL5, sin abrir el  
+metaeditor, sin pelear con la A de turno y sin 
+ningún tipo de complicación. El bot completo,  
+listo en menos de 5 minutos. Y aquí quiero ser 
+muy honesto contigo, que el bot se construya en  
+menos de 5 minutos no significa que la estrategia 
+valga. La herramienta elimina la barrera técnica,  
+no la responsabilidad. Es como una impresora 3D, 
+te fabrica cualquier pieza que diseñes, pero si el  
+diseño está mal, te imprime basura con un acabado 
+bonito. La validación sigue siendo tu trabajo y,  
+de hecho, todo lo que viene a partir de ahora 
+es el 90% del valor de este vídeo. Ahora podrías  
+ir a Lea en Metatrader 5, abrir el probador de 
+estrategia y hacer un back test. Pero no me voy  
+a ir al Metatrader, lo voy a hacer aquí en Stratos 
+porque me da acceso directo a datos históricos de  
+más de 500 mercado de calidad institucional, 
+por lo que los resultados que obtendremos,  
+sean buenos o malos, serán 100% reales. Pero no 
+vamos a hacer simplemente un back test sobre una  
+muestra significativa de verdad, algo que el vídeo 
+viral nunca hizo, ya que este tipo de vídeos se  
+limitan a irse a Trading Bio y enseñarte cuatro 
+ejemplos en la gráfica previamente seleccionados.  
+Vamos a realizar ese back test, por supuesto, pero 
+con dato de calidad institucional para ver qué  
+resultados obtiene. Pero además vamos a someter a 
+la estrategia a la suit de validación paramétrica  
+de estratos. un proceso obligatorio por el que 
+deberían pasar todos los bots antes de permitirles  
+tan siquiera acercarse a tu dinero. Hasta aquí 
+todo era teoría, pero ahora empieza el examen de  
+verdad y aquí es donde se pone interesante 
+de verdad, porque el primer back test que  
+lancé al principio del vídeo daba unos beneficios 
+espectaculares del más 171%, pero era mentira. Una  
+mentira que lance a propósito, la misma que hace 
+casi todo el mundo sin saberlo y por eso pierden  
+luego al pasar al mercado real. Presta atención 
+para que veas la diferencia con tus propios ojos.  
+Fase cuatro, el back test honesto. Y aquí pago la 
+deuda que abrí en la fase uno. El error que comete  
+casi todo el mundo al back testear es este: probar 
+la estrategia sin costes de microestructura,  
+sin spread real, sin comisiones, sin el lipaje 
+y sin ningún tipo de fricción. Suena a detalle  
+técnico que podemos omitir, pero es la diferencia 
+entre la vida y la muerte de un sistema.  
+Vamos con los números, pero tengo que decirte que 
+de entrada la estrategia no habría operaciones por  
+la lógica que tenía, que pocas veces se daba. 
+Por suerte, para no volvernos locos buscando  
+dónde estaba el fallo, en Estratos, tenemos la 
+función de diagnóstico de estrategia. La ejecuté  
+y en cosa de un minuto ya tenía el problema 
+localizado y con él, evidentemente, la solución.  
+directamente no le veía mucho sentido a la 
+condición del flujo que bloqueaba la operativa,  
+por lo que la eliminé y después de ajustarla 
+ya comenzó a rodar correctamente. Con el bot ya  
+arreglado, configuré el probador de estrategias 
+de estrato Backest Runner con el eurodólar,  
+gráfico de una hora con un par de años 
+de histórico de calidad. Superimportante,  
+active el modo de ejecución realista. Ahí 
+dentro hay de todo, volatilidad, tendencia,  
+rango, etcétera. Yo dejé por defecto el perfil 
+conservador activado por defecto y así ya pues me  
+ahorré tener que configurarlo todo. Con ejecución 
+realista activada. Si una estrategia solo funciona  
+en un tipo de régimen de mercado, 2 años la van 
+a destapar rápido. Con esto nos vamos a ahorrar  
+el perder el tiempo con la primera pasada, que es 
+la tramposa de las redes sociales con el eh fijo  
+o acero, sin comisiones y sin el lipaje. Esa ya 
+la viste al inicio del vídeo. Evidentemente esto  
+nos va a dar una ejecución perfecta a precio 
+perfecto. es como calcular tu sueldo bruto y  
+creerte que eso es lo que te llega a tu cuenta 
+a final de mes. Todos sabemos que entre el neto  
+y el bruto hay un mundo, pues sobre todo si haces 
+scalping, ese mundo es enorme. Por eso vamos a ir  
+a por la pasada honesta, la que nadie quiere hacer 
+en un vídeo porque pocas estrategias la pasarían,  
+pero a nosotros nos da igual si una estrategia 
+es mala o es buena. Solo queremos conocerla con  
+certeza para saber si la utilizamos o la 
+descartamos. No aplicar el modo realista  
+sería mentirte a ti mismo y esto no terminaría 
+bien, sobre todo por el eslipaje y spread.  
+Si no sabes qué es el eslipaje, te lo explico ya 
+mismo. El eslipaje es el deslizamiento que sufre  
+el precio desde que tú mandas la orden a un precio 
+concreto hasta que se ejecuta en el mercado,  
+que puede ser a tu precio o puede ser a otro. Pues 
+esta desviación es el eslipaje o deslizamiento.  
+Sintetizando el concepto, el slipaje es lo que 
+pasa cuando pides un café que en la carta cuesta  
+1,50 y al pagar son 1,55. ¿Por qué? porque justo 
+acaban de actualizar el precio mientras que tú  
+lo pides hasta que tuviste que pagarlo. Esto 
+en cada operación te cuesta un pellizco, como  
+vamos a poder ver en unos instantes. ¿Y por qué 
+esto es letal en el trading y más concretamente  
+en scalping? Hagamos la cuenta rápida juntos sobre 
+un ejemplo teórico. Con un riesgo del 1% sobre una  
+cuenta de $10,000, cada operación arriesga $100. 
+Si el coste total medio por operación es de $2.5  
+Imagina un bot que de media haga 1912 operaciones. 
+La fricción acumulada es de 47,780, es decir, casi  
+el 48% de la cuenta inicial. Piénsalo fríamente, 
+1912 por $ son casi $5,000 en pura fricción,  
+la mitad de la cuenta inicial evaporada solo en 
+peajen del camino. ¿Por qué eso es exactamente  
+el spread? Un peaje que paga a la ida y a la 
+vuelta en cada trayecto sin excepción y hay un  
+defecto más sutil todavía. Los parciales de esta 
+estrategia sacan la posición en tres fracciones o  
+tramos, como quieras llamarlo. Cada salida es una 
+ejecución más con su propio enliipaje. Es decir,  
+la misma lógica que hace que la estrategia 
+parezca segura, multiplica sus costes y la  
+hace más inestable. ¿Cómo se te queda el cuerpo? 
+¿No lo habías pensado? La mayoría no se para a  
+pensarlo nunca. No se para a pensar nada, solo la 
+ven en un vídeo de redes, se tragan todo tal cual,  
+sin pensar, sin analizar, lo ven y lo ejecutan. 
+Luego se extrañan de que pierden. Esto es solo  
+una muestra más que podría evidenciar un fallo 
+de diseño en una estrategia de trading. Con todo  
+configurado, pulsé iniciar. Y mientras el 
+probador procesa 2 años de tic en segundo,  
+te adelanto la pregunta correcta. La 
+pregunta no es si el win rate baja del  
+83. Doy por hecho que va a bajar y mucho y que 
+si no baja la estrategia será super perdedora.  
+Y sé que esto parece contradictorio, pero vas 
+a ver que tiene todo el sentido matemático del  
+mundo. En unos instantes, no vas a tener que 
+esperar mucho y te vas a llevar una lección  
+de trading que te va a ahorrar miles de dólares. 
+La pregunta correcta es, ¿cuánto baja? Si baja y  
+si lo que queda sigue siendo por encima de aquel 
+36% de equilibrio que calculamos en la fase uno,  
+porque ese es el margen real de supervivencia 
+de esta estrategia. Si cae por debajo,  
+quebrará tu cuenta inevitablemente. No hace falta 
+ni que la ponga en ejecución. Yo esperaba que el  
+win rate cayera y de no hacerlo que el profit 
+factor se desplomase. Tras más de 15 años en el  
+sector y habiendo ya probado miles de algoritmos, 
+literalmente miles de algoritmos, ya veía donde  
+estaba escondido el truco del 83% del win rate. 
+Porque el truco no está en los indicadores, está  
+en cómo se cuentan las operaciones y cuando lo 
+veas no volverás a mirar igual un win rate viral.  
+Llegamos a la fase 5, el veredicto. Veamos los 
+resultados del bacter realista con spread real,  
+comisión y el lipaje. Win rate 91.2% es exagerado. 
+Profit Factor 0.75. Por cada dólar perdido se  
+recuperan solo 75 centavos. Esperanza matemática 
+negativa. Es cierto que el win rate es alto,  
+pero si pierde toda la cuenta no tiene sentido. 
+Era algo que, como os delanté, era de esperar.  
+o caía el win rate o se desplomaba el profit 
+factor. La cuenta de 10,000 € terminó en unos  
+$6,000, -1,380 € en un par de años con un dedown 
+máximo del 19% y racha de hasta 4 meses seguidos  
+en pérdidas. Ponle cara a esto. Imagínate a ti 
+que viste el vídeo viral, te lo creíste. El 83%  
+de Winray. Genial. Voy a hacerme millonario. 
+La gran rentabilidad que ofrecía era increíble,  
+así que la pusiste a trabajar en real, 5,000 
+o $10,000. Ganasteis más de la mitad de las  
+operaciones. Cada semana veías trades en verde. Tu 
+sensación era que la estrategia funcionaba y sin  
+embargo, tu cuenta bajaba mes a mes. Ese es el 
+escenario más peligroso que existe en el trading,  
+perder dinero mientras sientes que está ganando. 
+Y ahora el truco, ¿de dónde sale ese 83% que en el  
+eurodólar sube hasta el 91.2%. era evidente. No 
+obstante, me fui a los datos y recalculé el win  
+rate, contando como ganadora cualquier posición 
+donde se tocó el primer parcial. Resultado 79%.  
+Ahí lo tienes, prácticamente toda la cifra viral. 
+Contar como ganada una operación porque tocó el  
+primer parcial, aunque el resto acabe en el 
+stop loss, es como un delantero que cuenta como  
+gol cada tiro a puerta. Las estadísticas quedan 
+preciosas, el marcador no. Con esa contabilidad,  
+casi cualquier estrategia con un parcial cercano 
+presume de win rate de 80 y pico% y más. Y ojo,  
+no quiero decir que necesariamente sea mala 
+fe del creador de la estrategia. Quizás este  
+sabe menos de trading que los espectadores que 
+ven su contenido. En muchas ocasiones esto se  
+produce por el sesgo natural de mirar el gráfico 
+y recordar los aciertos. Por eso, el back test  
+riguroso no es opcional. Es el análisis de 
+sangre que te hace el médico en el chequeo anual,  
+que no acepta opiniones. Mi veredicto final, 
+con honestidad total, la estrategia tal y  
+como se enseña suspende, no sobrevive al mercado 
+real. Ahora bien, esto también hay que decirlo,  
+la lógica de fondo, tendencia definida más 
+entrada en el pullb que sea totalmente desechable.  
+Por ello, hice una prueba adicional y ejecuté el 
+optimizador Autopro de Stratos para que buscase  
+los mejores parámetros para esta estrategia 
+dentro del mercado. Después de varias pasadas,  
+seleccioné el escenario que más me convenció. Lo 
+cargué en el bot y me lo llevé al backest runner  
+para correrlo y poder analizar todas las métricas 
+al detalle. Seleccioné la data institucional del  
+euroólar que ya tenemos dentro de estratla de 
+internet y no saber realmente la calidad de  
+esta. Evidentemente seleccioné ejecución realista 
+y corrí el back testil. Las métricas cambiaron  
+mucho. Se eliminaron los cierres parciales, 
+por lo que el Winray cayó por debajo incluso  
+del 50%, concretamente hasta el 48.2%. No 
+obstante, el profit factor subió al 1.57%.
+Lo que llevó la estrategia de ser perdedora a ser 
+rentable, terminando en este caso concreto con un  
+más 152% con una curva del equity estable que 
+no está nada mal, aunque sinceramente para mí  
+sigue sin ser suficiente. Yo no despliego nada 
+en real con dry down por encima del 5%. Pero  
+demuestra algo fundamental. La diferencia entre 
+una estrategia viral y un sistema operable no  
+está en los indicadores, está en la ejecución, 
+en la gestión, en los costes y en el criterio  
+de validación. Y ese criterio es exactamente lo 
+que te llevas ahora. Misma estrategia. Cambiando  
+la gestión. Ya habéis visto que ha cambiado 
+radicalmente, sin haber eliminado o modificado  
+ni uno tan solo de los indicadores que utiliza ni 
+la lógica de entrada. Es solo una muestra más de  
+lo que siempre os digo. La gestión correcta es el 
+80% de una estrategia rentable. Por este motivo,  
+en el sector retail hay tan pocos traders 
+rentables porque basan sus esfuerzos y búsqueda  
+en la entrada perfecta, en la estrategia ideal 
+y en el indicador que mejor entrada proporcione,  
+omitiendo totalmente la gestión porque es 
+tediosa y nos da pereza. Este es el protocolo  
+de cinco filtros básico que aplico a cada bot 
+antes de arriesgar un solo dólar. Es el mismo  
+que ha suspendido hoy a la estrategia viral y el 
+mismo que han aprobado los sistemas que opera,
+filtro uno, el filtro del equilibrio. Calcula 
+el win rate de equilibrio con la fórmula de hoy,  
+1 / 1 más el payoff y exige que tu win rate real 
+después de coste lo supere en al menos 12 o 15  
+puntos. Sin colchón no hay sistema, hay una moneda 
+al aire con comisiones. Filtro dos, el filtro de  
+mínimo un par de años. Back test profesional con 
+data institucional real y con costes completos,  
+spread variable, comisión por lote y el lipaje y 
+que la muestra incluye al menos tres regímenes de  
+mercado distintos, tendencia alcista, bajista 
+y rango. Filtro tres, el filtro de la muestra.  
+Mínimo 300 operaciones para alcanzar una 
+significancia estadística válida. Con 50  
+trades no tienes estadística, tienes anécdotas. Es 
+como juzgar un restaurante por dos reseñas. Puede  
+salirte cualquier cosa. Filtro número cuatro, el 
+filtro fuera de muestra. Reserva el último año de  
+datos y no lo toques mientras diseñas y ajustas. 
+Cuando el sistema esté cerrado, pruébalo ahí.  
+Si funciona en los datos con los que has 
+construido, pero muere en el año que nunca vio,  
+has sobreoptimizado. Es el alumno que estudia 
+solo el examen del año pasado. Aprueba ese examen  
+y suspende todos los demás. Y filtro cinco, 
+el filtro de la robustez paramétrica. Mueve  
+cada parámetro un más menos 20% arriba y abajo. 
+La media de 55, pruébala en 45 y también en 75.  
+Si el sistema colapsa por mover una pieza, no 
+tienes un sistema. Tenías una mesa que se cae si  
+desplazas la pata 1 cm. Un H real aguanta que lo 
+zarandén, cinco filtros, equilibrio con colchón,  
+un par de años con costes, 300 operaciones, 
+fuera de muestra y robustez. La estrategia  
+del 83% ha caído en el filtro 2. La mayoría de las 
+estrategias de trading virales de redes sociales  
+ni siquiera pasan el uno. Y esto es lo que quiero 
+que entiendas. Este protocolo no te garantiza  
+ganar. Nadie honesto puede prometerte eso. Lo que 
+hace es algo más valioso. Te protege de perder tu  
+capital con sistemas que solo funcionan en un 
+vídeo de YouTube. Y proteger el capital es la  
+primera condición innegociable para llegar algún 
+día a ser rentable. Así que cerramos el loop. ¿Qué  
+queda del 83% de win rate al final del camino? 
+un 90% con el eurodólar, pero con un profitif  
+factor por debajo de uno. Una lección que vale 
+más que la estrategia. sin validación rigurosa,  
+un win rate es solo marketing. Si quieres 
+aprender este proceso completo de principio a fin,  
+construir tu primer bot sin programar 
+y validarlo con este mismo protocolo,  
+tienes mi información gratuita de 14 días de cero 
+a tu primer bot con estratos y Metatrader 5. El  
+enlace está en la descripción y en el primer 
+comentario fijado y es el camino que yo habría  
+querido tener hace 15 años cuando comencé. Y si 
+quieres ver la construcción de un bota en detalle,  
+paso a paso y desde cero, tienes en pantalla 
+el vídeo donde genero un bot completo sin  
+escribir ni una sola línea de código. Ese es 
+tu siguiente paso lógico. Nos vemos dentro.

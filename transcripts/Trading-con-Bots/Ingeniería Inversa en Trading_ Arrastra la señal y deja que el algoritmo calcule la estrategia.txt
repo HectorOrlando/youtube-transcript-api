@@ -1,0 +1,671 @@
+Titulo              : Ingeniería Inversa en Trading: Arrastra la señal y deja que el algoritmo calcule la estrategia
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-21
+Duracion            : 35:23
+Vistas              : 3,633
+URL                 : https://www.youtube.com/watch?v=OhcnrB7Bn9A
+----------------------------------------------------------------------
+
+En este vídeo te voy a enseñar la que posiblemente 
+sea la plataforma de trading definitiva para este  
+2026. Y no te lo digo, te lo enseño para que 
+lo juzgues tú mismo. Estamos ante la plataforma  
+definitiva, tanto para crear indicadores de 
+trading como para crear bot de trading. Y lo  
+más importante, y en estos últimos validarlo y 
+probarlo de forma profesional antes de arriesgar  
+ni un solo céntimo. Y para que puedas juzgarlo por 
+ti mismo, te voy a mostrar la última actualización  
+para que puedas ver sus nuevas funcionalidades. 
+Y cuando veas esto, tu forma de hacer trading, de  
+ver trading y de entenderlo cambiará para siempre. 
+Voy a empezar por una de las más potentes y una de  
+las que mayor quebradero de cabeza trae a todos 
+los que hacemos trading. La data institucional.  
+¿Cuántas veces os ha pasado? A mí me ha pasado 
+muchísimas que he descargado data desde Tic Story,  
+desde Titic Data Suite, desde Quata Manager, 
+desde el propio Metatrader, etcétera, etcétera,  
+etcétera. Confiamos en los datos, pensamos que son 
+datos profesionales, que todo está correcto, pero  
+cuando abrimos el CSV y lo analizamos vela por 
+vela, solo vemos huecos, datos repetidos, velas  
+que se repiten un día tras otro sin ningún tipo de 
+sentido, etcétera. Es decir, datos con una calidad  
+de modelado muy baja, decepcionante, aunque se 
+parametrice como 100% de calidad de modelado.  
+¿Por qué? porque rellenan los huecos, duplican las 
+velas y entonces el Metatrader cuando recibe esto  
+detecta una calidad de modelado 100%. ¿Por qué? 
+Porque no hay huecos y todo está relleno. Pero si  
+abrís el CSV veréis dato repetido, velas que se 
+repiten, faltan 3 horas, no pasa nada. La última  
+vela de una hora la repiten cuatro veces más, 
+rellenan los tres huecos y calidad de modelado  
+100%. Es un caos total, es un rompecabeza brutal. 
+¿Por qué? Porque todo lo que hagas con una data  
+corrupta no vale para nada, es pura basura. Es 
+como intentar hacer una barra de pan sin harina,  
+intentando hacerla con cemento. Lo único que vas a 
+conseguir es con cuanto menos quedarte los dientes  
+pinchados en la barra de pan. La data es todo. 
+El poder está en los datos, en la información  
+y son la base fundamental tanto de indicadores 
+como de voz de trading. Si no estamos seguros de  
+la calidad de los datos, no estamos haciendo nada, 
+estamos tirando tiempo y dinero. Pues eso se acaba  
+hoy y aquí con estratos. Aquí tengo un bot cargado 
+en la plataforma. Y bien, vamos a empezar con una  
+de las primeras funcionalidades, porque este bot 
+tiene un fallo y os voy a enseñar cómo detectar  
+fallos en vuestros bots. Y para ello empezamos 
+con la primera parte de la actualización. Data  
+institucional 100% de calidad directamente desde 
+la institución hacia estratos. Fijaros, me vengo  
+aquí a por ejemplo testing y optimización. Dentro 
+de todas las funcionalidades que tengo para  
+probar, optimizar y validar un bot de trading 
+antes de poner ni un solo euro en el mercado,  
+tengo Back Test Runner, que es la modalidad 
+de back testing avanzado dentro de Stratos.  
+¿Qué diferencia tiene esto de un back testing con 
+otras plataformas o con Metatrader como la noche  
+y el día directamente? Lo vais a ver aquí ahora 
+vosotros. Pero como os digo, este bot tiene un  
+fallo y ese fallo le impide operar correctamente. 
+En este caso le impide abrir operativas. ¿Y  
+cuál es el problema? Que este bot está sacado 
+literalmente de una estrategia de YouTube que  
+promete un win rate del 83% y os lo voy a subir 
+en un vídeo, evidentemente mejorada y corregida  
+porque no ha llegado al 83%. De hecho, no ha 
+llegado ni a abrir operaciones, pero aquí os voy a  
+enseñar cómo detectar estos fallos y solucionarlos 
+sobre la marcha. Fijaros, desde estratos tengo la  
+opción que había ya anteriormente de subir un CSV. 
+Yo si ya tengo un proveedor de confianza de datos,  
+descargo el CSV y lo traigo aquí a estrato. Lo 
+arrastraría aquí y funcionaría. Pero si no tengo  
+un proveedor de datos o no me fío de mi proveedor 
+de datos, podéis utilizar la data institucional de  
+estratos. Tenemos más de 540 mercados. Y ojo al 
+dato, tenemos 540 y no 3,000 porque precisamente  
+3,000 no tiene sentido, pero si queréis uno y no 
+está aquí lo podemos añadir sin ningún problema  
+en 5 minutos. Simplemente dale tu mercado no está 
+en la lista, elige, escribe el nombre del mercado,  
+el activo al el tipo al que pertenece, escribes tu 
+activo, escribes la categoría, selecciona, le das  
+a enviar y directamente nos llega un aviso con 
+el mercado que tú quieres, lo incorporamos y lo  
+tienes sobre la marcha porque tenemos literalmente 
+acceso a más de 5,000 activos. Simplemente aquí  
+hemos seleccionado los más de 500 que son los 
+que se utilizan mayormente dentro de Metatrader,  
+pero podemos añadir cualquiera. Fijaros en esto. 
+Por ejemplo, tengo divisas, materias primas,  
+índices, criptomonedas, acciones, ETF, etcétera. 
+Puedo desplegar y buscarlos. están en todos los  
+time frame. Yo, por ejemplo, voy a poner en el 
+buscador, también lo podéis buscar desde desde  
+el buscador. Pongo eurodólar y le selecciono el 
+eurodólar. Aquí podría elegir un minuto, 5, 15,  
+30 y H1. Por ejemplo, eh, en H1 vemos que están 
+desde el 2023 hasta la fecha actual, es decir,  
+unos 3 años. ¿Por qué no hay 5, 10, 15, 20 años 
+de histórico? Los tenemos, tenemos acceso a ello,  
+pero no tiene ningún sentido. O sea, no queremos 
+que nadie pierda aquí el tiempo ni que se lleve  
+a engaño. Un back test sirve para lo que sirve. Ya 
+sabéis cómo os enseñamos a utilizarlo en estratos,  
+porque un back test que sale rentable solo 
+significa que tu bot ha funcionado en el  
+pasado en ese periodo, lo cual no quiere decir 
+que funcione en el en el futuro. Lo que pasa  
+en el pasado no es garantía de futuro. Para eso 
+hay que hacer una suit de validación correcta.  
+Aquí lo que vamos a hacer es un back test. Tengo 
+el eurodólar, elijo el mercado y fijaros en  
+esto. 3 años de histórico. Le doy a cargar datos. 
+Cargado. ¿Os habéis dado cuenta de la cosa? Así es  
+como funciona. ¿Por qué? Porque dentro de estratos 
+todo es nuestro. Nuestro propio sistema operativo.  
+Ya sabéis que estrato viene de Strategy iOS, el 
+sistema operativo de los estrategas del trading.  
+Es todo nuestro. código nuestro 100% y tenemos 
+una integración y optimización que no se consigue  
+con ningún otro software del mercado porque todo 
+es nuestro 100% lo controlamos y lo procesamos.  
+Los datos una vez que os llegan aquí, antes de 
+llegar aquí han sido revisados, recalculados,  
+resampleado y analizado uno por uno. Es decir, 
+nunca vais a hacer un back test con una data  
+histórica que no haya sido comprobada y que sea 
+100% calidad de modelado real. Si eso no sucede,  
+directamente esa data se desecha, se 
+contacta con el distribuidor institucional,  
+se vuelve a solicitar y se os manda nuevamente. 
+O sea, tenéis la garantía 100% de que esto es  
+data 100% de calidad institucional. Fin. No hay 
+más misterio. Podéis creerlo, podéis no creerlo.  
+Tenéis mi palabra 100% de que esto es así. Y ya 
+sabéis, el que me conozca un poco, que cuando os  
+digo algo realmente es porque es así. Me voy a ir 
+hacia abajo y le voy a dar a ejecutar backtest.  
+Y fijaros, este es un bot de una estrategia sacado 
+de internet con un 83% de win rate. No solo no  
+tiene 83% de win rate, sino que fijaron, la 
+línea del balance no abre ni una sola operativa,  
+es decir, la propia estrategia de winray del 83% 
+que prometían hecha con Cloud que ganaba no sé  
+cuánto, tiene una lógica contradictoria 
+que no le permite ni abrir operativa,  
+por lo que en el vídeo que enseñaron el backter 
+donde la creaban era falso, no era el back test  
+ni de la estrategia. O sea, muchísimo cuidado con 
+lo que veis por internet siempre, juzgar todo,  
+analizar todo, probarlo por vosotros mismos y 
+no os creáis nunca nada ni a nadie, ni a mí ni  
+a nadie. Comprobarlo siempre por vosotros mismos. 
+Fijaros, cero operativas, no ha hecho nada. Claro,  
+yo evidentemente me puse aquí a mirar el diseño y 
+rápidamente ya vi el fallo. ¿Por qué? porque tengo  
+ya una experiencia desarrollando y diseñando eh 
+bot de trading de más de 15 años. Rápidamente vi  
+el fallo contradictorio. ¿Qué pasa? Seguramente 
+vosotros mirando el cana no lo veis y esto es lo  
+que os pasa muchas veces que me enviáis, "Ignatio, 
+tengo este bot de trading y no me abre operativa.  
+No soy capaz de ver qué es lo que le pasa." 
+Pues fijaros con esto y atento porque esta es la  
+segunda funcionalidad de la actualización. Botón 
+derecho en el cana. Me voy a analizar estrategia,  
+diagnóstico de estrategia. Me vengo aquí. Lo mismo 
+lo podéis hacer con vuestro CSV si ya lo tenéis.  
+Si no, no hace falta que paguéis servicios de de 
+tercero. Lo tenéis gratis dentro de Teche. Y voy a  
+poner aquí el mismo mercado, euroólar. Selecciono 
+euroólar una hora y le doy a ejecutar diagnóstico.  
+Me le digo que sí y ejecuto diagnóstico. 
+Y mucho cuidado con esto. Lo importante,  
+esta funcionalidad es gratis, incluida también 
+dentro de la plataforma. No cuesta crédito de  
+ningún tipo. Lo hemos automatizado y optimizado 
+de tal forma que lo podáis utilizar gratis,  
+comprobar y revisar y diagnosticar vuestro bot 
+de trading siempre, todas las veces que queráis.  
+Revisar todo la calidad y el rigor es fundamental 
+para la rentabilidad consistente a largo plazo.  
+Fijaros con lo que ha pasado. Aquí tengo el 
+veredicto y me dice, "Tu estrategia no abrió  
+ninguna operación en las 18,511 velas analizadas. 
+Como le he cargado el euroólar, ha hecho un backte  
+y ha dicho, esto, ¿qué pasa aquí?" no ha abierto 
+ni una operativa. No es que ya haya un win rate  
+del 83%, es que hay un win rate del cero. No ha 
+hecho ninguna operativa. Fijaros, me dice, "¿Qué  
+hemos encontrado?" Y aquí me sale las señales 
+contradictorias. La señal del flujo H1 mayor a H2,  
+que es una condición que está puesta en el MACD 
+para encontrar un pico, no se cumplió ni una vez  
+en la señal de compra y no se cumplió ni una 
+vez en la señal de venta. Y fijaros en esto.  
+Bajo hacia abajo y aquí tengo la parte de abrir 
+compra. Todo esto es el flujo dentro del Canva. Ya  
+habéis visto que hay un flujo de nodos que se van 
+conectando por cable, por el cableado, y llegan al  
+final al nodo de compra y al nodo de venta. Os lo 
+voy a enseñar ahora para que lo veáis. Pues bien,  
+ese flujo tiene unas señales, unas condiciones 
+que son las que va generando nuestra estrategia  
+de trading, pues para abrir o no operativa. Pues 
+bien, aquí tengo el flujo analizado. Me dice,  
+fijaros, todo se ha cumplido en mayor o menor 
+medida. Hay señales que se cumplen menos, por  
+ejemplo, esta se ha cumplido un 32% de las veces, 
+esta un 49%, pero aquí hay una que pone bloqueo  
+principal. Se ha cumplido 0% de las veces. Bajo 
+hacia la señal de y aquí me pone igual H1 mayor  
+a H0. Se ha bloqueo principal, se ha cumplido 
+el 0% de las veces. O sea, la propia estrategia  
+que se diseñó con con Cloud en el en el vídeo 
+más 570% con Cloud tal tal es contradictoria,  
+no abre ni operación. O sea, esa persona, el 
+backte que enseñó ganando dinero es de otro bot,  
+de otra cosa o o o directamente falseado desde 
+la nada, porque la estrategia no abre operaciones  
+y ya la habéis visto vosotros aquí. Y os digo, 
+tengo un vídeo completo de esto donde la cojo,  
+la creo, evidentemente la arreglo y os la regalo. 
+Así que suscríbete al canal si no estás suscrito  
+porque te vas a llevar ese bot puesto para casa. 
+Pero bien, dicho esto, yo ahora me voy al Can y  
+ya sé dónde está el fallo. Lo voy a eliminar y 
+vais a ver lo que pasa. Igualmente le puedo dar  
+aquí a descargar PDF. Una vez que descargo el PDF, 
+¿qué pasa con este PDF? Pues fijaros siempre como  
+hacemos todo en Techain, como digo yo, las cosas 
+bien hechas, bien aparece información de todo,  
+que podáis saber qué pasa, por qué pasa y cómo 
+pasa y cuándo pasa y qué debemos hacer si queremos  
+que pase o no pase. Pero para poder decidir 
+objetivamente si algo queremos que pase o no,  
+debemos saber qué está pasando, ¿no? Y aquí, por 
+ejemplo, en 18,500 velas que se dé cero veces el  
+criterio es una significancia. estadística muy 
+alta. O sea, ese criterio hay que quitarlo porque  
+si no esto no funciona y luego ya veremos si hay 
+que poner otra cosa o no. Pero fijaros, aquí está  
+el diagnóstico de la estrategia. Aquí tengo lo 
+que se ha analizado, el eurodólar, el periodo,  
+las operaciones que se han hecho, evidentemente 
+cero, está bloqueado total, o sea, el flujo está  
+muerto, no pasa nada. Aquí tenemos lo de compra 
+y aquí el análisis de venta. ¿Qué pasa? Pues yo  
+ahora con este informe que es totalmente gratis 
+generarlo dentro del app y tenéis el informe de  
+vuestro vot. O sea, todo esto que estamos viendo 
+está incluido dentro de estrato, no supone ningún  
+crédito de nada. Lo tenéis. Yo ahora me vendría 
+aquí, me abriría el PDF e iría haciendo los  
+cambios necesarios. En este caso, fijaros, este es 
+el flujo maldito que está rompiendo todo. Fijaros,  
+el el MACD, el H1 mayor a H2 y el H1 mayor a 
+H0. Estas dos condiciones, si os fijáis aquí,  
+van hacia delante y conectan aquí con este AN y 
+conectan aquí con este AN, que van luego al nodo  
+de B y al nodo de cell que tenemos aquí abajo, o 
+sea, están en el flujo. Fijaros lo que voy a hacer  
+aquí. Cojo esto y lo elimino, lo ventilo de la 
+ecuación y fijaros lo que pasa aquí. Ahora vuelvo  
+a Back test runner, entro aquí y le entro aquí, 
+por ejemplo, voy a poner también eurodólar para  
+hacerlo con lo mismo, que no haya variabilidad 
+ninguna. Eurodólar, una hora. Cargo dato, pum,  
+instantáneo y cojo y ejecuto. Fijaros, ya está 
+abriendo operaciones. Ese era el bloqueo que  
+había. Esta estrategia tal como está aquí. Ya veis 
+que no es rentable. Pese a que su creador dice que  
+la hizo y con Cloud y tenía un 83% de win rate, es 
+que tiene un 97.1% de win rate. O sea, el win rate  
+es cierto. ¿Qué está pasando aquí? que la gestión 
+que tiene es malísima, nefasta, pero ya veis el  
+potencial que tiene la estrategia, por lo que algo 
+dentro del vídeo cierto sí que era, pero bueno,  
+no voy a entrar en la estrategia porque tengo un 
+vídeo específico para esto donde la arreglo y os  
+lo regalo. Dicho esto, fijaros cómo hemos pasado 
+de un bot eh obsoleto que no hacía operativa ni  
+nada a una solución práctica y corrección. Esto es 
+importante porque con cualquier bot que tengáis,  
+que no sepáis por qué abre operaciones, que está 
+pasando algo, etcétera, etcétera, lo vais a poder  
+detectar aquí rápido con un par eh de clics. 
+Dicho esto, vamos al apartado de indicadores,  
+porque hay muchas cosas que se han cambiado 
+aquí. Una de ellas es el chat IA ingeniero,  
+pero esto os lo enseñaré en otro vídeo porque es 
+una pasada lo que podéis hacer, ¿eh? aquí con él  
+cómo ha cambiado directamente con un nuevo motor 
+que hemos evolucionado y hablando aquí como con  
+un compañero te va a empezar incluso ahora eh no 
+solo ya es eh reactivo, sino que es proactivo,  
+te va a ir haciendo preguntas y no solo te va 
+a hacer preguntas que tú puedes no saber que  
+contestar a esas preguntas, sino que te va a hacer 
+preguntas, te va a dar una opción recomendada,  
+dos alternativas y un campo para que tú escribas 
+si quieres que se haga otra cosa. Pero dicho esto,  
+vamos aquí al apartado de indicadores. Estaba 
+cacharreando un poco por aquí. Voy a limpiar el  
+Canva y fijaros lo potente de esto de aquí, 
+porque aquí es donde se ha hecho gran parte  
+de la actualización. No las voy a decir todas 
+porque son muchas, pero os voy a enseñar esta  
+para indicadores y os va a volar la cabeza. O sea, 
+fijaros con esto. Voy a [ __ ] por ejemplo, voy a  
+buscar un nodo de RSI normal y corriente. Voy a 
+sacar nodo de RSI. Fijaros con esto. Ya sabéis,  
+el nodo render obligatorio lo pone aquí arriba, lo 
+saco aquí abajo. Siempre tiene que estar, no hay  
+mayor problema. Cojo el RSI y fijaros con esto le 
+voy aquí y lo conecto al render. Vale, pues un RSI  
+normal y corriente sin mayor misterio, ¿no? Le doy 
+a visualizar aquí en la parte superior. Ya sabéis  
+que cuando le dais aquí lo visualizáis. Y bueno, 
+fijaros aquí tercera parte de la actualización.  
+Antes teníais cinco mercados con data real, pero 
+que eran cinco mercados estáticos con una data que  
+no se actualizaba, simplemente para que vieseis 
+cómo se eh mostraban los indicadores mercado  
+real. Ahora tenéis un los activos principales 
+dentro de cada categoría. O sea, si quieres ver  
+cómo se ve este indicador, por ejemplo, en el oro, 
+selecciona el oro y aquí lo tienes. Que lo quieres  
+en un minuto, en 15 minutos, como quieras. Que 
+quier el eurodólar, pues el eurodólar en una hora,  
+en un minuto, en 15, como tú quieras, o 
+sea, no hay ningún problema. Pero bien,  
+ahora lo que tenemos aquí es un RSI normal y 
+corriente que ya podemos ver los indicadores sobre  
+el mercado real actualizado, o sea, una eh ventaja 
+total, o sea, esto es el eurodólar de de ahora.  
+Pero fijaros en esto, en el render voy a hacer 
+clic en superior porque ahora era un indicador de  
+ventana inferior en la parte de abajo, el típico 
+RSI. ¿Qué pasa si quiero que se muestre el RSI  
+en la ventana superior? ¿Cuántos habéis visto 
+un RSI en la ventana superior? Pues bien, aquí  
+tenéis la siguiente actualización. El RSI en la 
+ventana superior, es decir, ya no existe ni arriba  
+ni abajo. Hemos roto literalmente la regla del 
+trading. Se acabaron los indicadores que tienen  
+que ir arriba y los que tienen que ir abajo. Monta 
+el indicador donde a ti te plazca, donde que tú  
+quieras y como tú quieras. Y esto combinado con 
+la opción de fusionar indicadores por inteligencia  
+artificial para crear cosas únicas es una pasada. 
+Pero fijaros con esto para que veáis el potencial,  
+porque ¿qué se está mostrando aquí arriba? Pues 
+fijaros que yo tengo el R6 y tengo eh dos niveles,  
+nivel superior y nivel inferior. Voy a poner, 
+por ejemplo, el nivel 40 y aquí el nivel 60. Y  
+fijaros con esto. Le doy okay y fijaros, renderizo 
+y fijaros lo que pasa aquí. Se ha cambiado. Y esto  
+es muy importante porque podéis hacer zoom. Antes 
+eran datos estáticos, ahora podéis hacer zoom y  
+navegar, moveros hacia delante o hacia atrás, 
+ya sea pinchando en pantalla o con la barra. Y  
+fijaros en esto, porque ahora tengo un RSI en la 
+ventana superior. Ignacio, ¿y para qué me sirve  
+esto? Pues tener el RSI o cualquier indicador 
+sin limitación, arriba o abajo, donde tú quieras,  
+te va a permitir crear indicadores y combinaciones 
+que van a cambiar tu trading para siempre. Fíjate,  
+cuando el R6 llega al nivel 60 cambia a verde. 
+Cuando está entre 60 y 40 se queda en gris y  
+cuando está por debajo de 40 se pone en rojo. O 
+sea, fíjate un simple RSI que muchas veces en la  
+parte inferior se ve raro, no sabemos extrapolarlo 
+a la gráfica superior. Fijaros aquí como  
+mostrándose sobre esta media móvil de un periodo 
+cómo se ve muchísimo más claro el indicador.  
+Fijaros los movimientos. Por ejemplo, aquí una 
+venta, aquí una compra, aquí otra venta. O sea,  
+fijaros cómo cambia simplemente llevándolo a 
+la parte superior. Pero bien, esto es solo la  
+cuarta actualización porque vamos a continuar. 
+Eh, hay más, evidentemente que hay más. Fijaros,  
+con esto me vengo aquí a señales y saco el 
+monitor. ¿Qué hace el nodo de monitor? Pues bien,  
+este nodo de monitor le voy a poner, por ejemplo, 
+condición alcista. Le voy a conectar el RSI. ¿Y  
+qué hace esto? Pues fijaros lo que me acaba de 
+sacar aquí. ¿Veis este panel aquí en pantalla?  
+Pues este panel es un monitor al que le podéis 
+conectar hasta cuatro condiciones de compraaventa,  
+22 do y cuatro valores y os va a sacar aquí lo 
+que está pasando. ¿Qué pasa si no queréis tener el  
+RSI aquí en pantalla o el indicador que vosotros 
+queráis? Si no queréis tener el indicador aquí, no  
+haría falta. Teniendo el monitor ya te va a marcar 
+cuando sea compra, cuando sea venta o cuando sea  
+esperar. El propio monitor ya analiza, recibe la 
+data de los indicadores que le tengas conectado,  
+lo transforma a señal y automáticamente te va a 
+dar la señal de compra, venta o esperar. Ya veis  
+cómo funciona, o sea, una auténtica eh pasada. 
+Fijaros que aquí ya está dando señal de compra  
+y el precio todavía está empezando justo casi que 
+a revertirse, pero para que veáis cómo funciona,  
+esta es la actualización número cinco, un monitor 
+personalizado para vuestros indicadores. ¿Y qué  
+sirve esto? Bueno, si hacéis trading manual vais 
+a tener muchísimas más ventajas y recordar que  
+este indicador de aquí ahora lo podríamos 
+llevar al estudio de EA donde creábamos los  
+bots de trading e incorporarlo y automatizarlo 
+porque todo está dentro de estratos. Todos lo  
+los indicadores que hagáis los podéis llevar a 
+vuestro bot de trading y automatizarlo sin tener  
+que salir de la plataforma. Así que si tienes tu 
+indicador favorito o creas uno que te encanta,  
+aquí sin salir de estrato en un par de minutos 
+con cinco o seis clic, lo tiene automatizado en  
+un bot de trading que opere por ti 247. Aquí 
+tenéis el monitor, o sea, una pasada total,  
+pero aquí no termina todo porque ahora viene la 
+siguiente actualización. Fijaros con esto. Os lo  
+voy a enseñar muy fácil, por ejemplo, con un cruce 
+de medias móviles y esta os va a volar la cabeza.  
+O sea, yo la he estado probando y es una pasada, 
+una pasada. Bueno, de hecho la la he diseñado yo  
+porque me gusta y os la incluyo aquí para que la 
+tengáis vosotros también. Yo es una una utilidad  
+que que he aplicado en mi bot de trading desde 
+hace muchos años. Es una utilidad que lo vais  
+a ver aquí ahora, es una pasada total, pero que 
+hasta ahora estaba diseñada simplemente para pues  
+ingenieros de alto nivel, trading cuantitativo 
+con equipos de desarrolladores potentes,  
+etcétera, etcétera, pero desde hoy la vais a tener 
+vosotros también. ¿Y cuál es esta funcionalidad?  
+Ingeniería. inversa. Y muy atento, atentos con 
+esto. Voy a poner aquí y voy a sacar, por ejemplo,  
+un nodo. Vamos a poner el de, por ejemplo, cruce 
+alcista, por ejemplo. Vamos a poner un nodo de  
+cruce alcista y le digo que la media móvil de 10, 
+un cruz alcista sobre la de 20, la rápida sobre  
+la lenta, un cruce al alza y señal de compra. Eso 
+es algo muy sencillo, todos lo tenéis claro. Pues  
+fijaros con esto. Le voy a dar aquí y le voy a 
+poner aquí un nodo de dibujar señal. Fijaros con  
+esto. Dibujar señal. Y se lo conecto. Aquí en este 
+nodo elijo el color que quiero que tenga la señal.  
+La voy a dejar verde lima. El icono que quiero 
+que tenga le voy a dejar flecha arriba. Así,  
+verde lima, flecha arriba. Y fijaros con esto 
+de aquí. Ahora le doy, lo voy a colocar todo un  
+poquito por aquí, que me gusta tener las cosas 
+colocadas. Y esto lo vamos a [ __ ] y lo vamos  
+a agrupar porque es un proyecto del solo. Y así 
+ya con la caja me lo traigo aquí arriba. Fijaros  
+con esto, atento al tema. Le doy aquí y fijaros 
+que me sale la flecha verde. No sé si alcanzáis  
+a verla. Por ejemplo, le voy a dar más zoom hacia 
+atrás. Le voy a cambiar el color y lo voy a poner,  
+por ejemplo, en gris. Y a esta también se 
+la voy a poner, ¿eh? en gris, por ejemplo,  
+para que no nos enturb mucho la la gráfica. Ya 
+veis que se cambia en tiempo real. Fijaros, ahora  
+veis mejor la flecha. Fijaros en la flecha, ¿vale? 
+Atentos al dato porque aquí viene lo importante.  
+Ahora tengo un cruce cualquiera de una media de 
+10 sobre 20. Vale, no pasa, no pasa, no pasa nada,  
+¿no? Fijaros, por ejemplo, voy a subir la media 
+móvil y voy a poner una de, por ejemplo, de de 17.  
+de 17 sobre una más mayor. Por ejemplo, vamos 
+a ponerle. Fijaros cómo va cambiando. Fijaros  
+la gráfica cómo va cambiando en tiempo real. Y 
+fijaros la flecha cómo se va moviendo hacia arriba  
+porque el cruce tarda más en darse. O sea, fijaros 
+lo fluido que va esto. O sea, es una pasada.  
+Realmente hemos echado muchas horas el equipo y 
+yo trabajando en la optimización de todo para que  
+esto sea superfuido y podáis disfrutar realmente 
+creando vuestros bots e indicadores de trading.  
+Fijaros con esto. Lo voy a dejar así. Las voy a 
+dejar abiertas para que las veáis vosotros aquí  
+lo que va a pasar porque esto es literalmente 
+ingeniería inversa de alto nivel. ¿Qué es lo que  
+va a pasar? Fijaros, veis esta flecha de aquí 
+arriba está dando la señal de by aquí arriba,  
+donde está el cruce. Estaría genial que no 
+la diese aquí, que la diese, por ejemplo,  
+pues por aquí, ¿no? Cuando el cruce ya sale y 
+está un poco confirmado, que no la diese aquí,  
+sino que la diese aquí. ¿Qué hacéis o qué hacía 
+yo hace años cuando quería que los indicadores  
+se adaptasen más al mercado y poder tener mejores 
+señales? Pues bien, pasaba horas y digo horas por  
+no decir días o semanas y el que lo haya hecho ya 
+me entenderá un poco. En el metatrading, trading  
+view, donde fuese, cambiando los parámetros del 
+indicador. Venga, le subo uno al parámetro. Vení  
+aquí, pum, le subo uno a 18 y venga a tirar 
+para atrás de histórico. A ver, a ver qué No,  
+no me gusta. Venga, pues le subo otro y venga a 
+tirar de histórico. Y podías pasar horas y horas  
+y horas para ver cuál era la combinación para la 
+mejor señal. para la señal que tú querías aquí y  
+no aquí. ¿Qué pasa? Aquí está pasando un concepto 
+muy sencillo. Tenemos dos indicadores de medias  
+móviles y un nodo de crucealcista. Entonces, 
+primero el indicador recibe la data del mercado.  
+Los indicadores, en este caso, las dos medias 
+móviles, se calculan. Se calcula una, se calcula  
+la otra, después se calcula el cruce y desde ahí 
+se calcula la señal, que la señal es donde está  
+el cruce, es decir, la flecha verde que tenemos 
+aquí. ¿Qué hemos hecho aquí? ¿Qué llevo haciendo  
+yo años? Y por eso saco mucha ventaja con mi voz 
+de trading al mercado y desde hoy lo vais a tener  
+vosotros. ingeniería inversa. ¿Qué quiere decir? 
+En lugar de tener que volveros locos, directamente  
+yo le voy a decir, "Quiero la flecha aquí en esta 
+parte." Y ahora con la flecha en esa parte calcula  
+dónde se tendría que dar el cruce. Con ese cruce 
+calcula qué valores tienen que tener las medias  
+móviles para que se produzca ese cruce con los 
+datos del mercado. En vez de ir hacia delante,  
+vamos a ir hacia atrás con ingeniería inversa, 
+con unos controles especiales para trading,  
+porque si no, ya os digo que ingeniería inversa 
+normal y corriente hay mucha forma y metodología  
+y no funciona. Aquí es una específica para trading 
+que utilizo yo para series de datos temporales de  
+mercados financieros como en este caso. ¿Y cómo 
+vamos a hacer esto? Fijaros aquí, ajustar señales.  
+Le voy a dar clic. El botón se activa. Fijaros 
+en esta flecha le acaba de salir un circulito.  
+Fijaros. ¿Veis el circulito? Ahora, ¿qué me 
+sale? Me sale aquí un una ventana informativa,  
+un modal que me dice, "Arrastra la flecha con alo 
+a donde tú quieras." ¿Qué quiere decir esto? Que  
+fijaros cuando paso la flecha, el mouse por encima 
+de la flecha, me sale una mano. Yo ahora cojo la  
+flecha y fijaros lo que me sale. Me están saliendo 
+sitios ya donde esta estrategia de yo soltar la  
+flecha ahí más rentable puede ser. Pero fijaros, 
+yo quiero que la señal salga, por ejemplo, en  
+esta vela. Cojo y fijaros en los valores de medias 
+móviles, 19 y 100. Cojo, me lo traigo hacia atrás.  
+y la suelto, por ejemplo, aquí. Fijaros, la señal 
+se ha vuelto aquí. Pero, ¿qué tiene que pasar para  
+que la señal salga aquí? Pues fijaros las medias 
+móviles que han cambiado. Hay una de CCO y una de  
+434 periodos. Y ahora la señal se produce aquí, 
+donde yo quiero. Si yo lo muevo hacia delante,  
+lo mismo. Fijaros que yo mando sobre en los 
+indicadores. No tengo que volverme loco. Yo decido  
+donde quiero que salgan las señales. Y las señales 
+se cambian en todo el gráfico. Fijaros lo que  
+acabamos de hacer aquí. Un cruce de medias móviles 
+que daba más perdidas que otra cosa. Ya sabéis  
+cómo funciona. Fijaros. Este al alza, ganancia, 
+estos dos al alza, ganancia. Estos dos alza,  
+ganancia. Este al alza, ganancia. Fijaros que 
+incluso retrocede, tocas la media móvil al alza,  
+positivo. Este al alza, ganancia. Este se hubiese 
+perdido, este de aquí se hubiese perdido. Estos  
+dos al alza superpitivos también. Fijaros. Uno, 2, 
+3, 4, 5, 6, 7, 8, 9, 10, 11. De 11 señales, nueve  
+a Tape Profity. Y Tape Profy considerable, que 
+estamos en 15 minutos. Fijaros estos take profit,  
+el precio no se va más de un ATR por detrás 
+de la entrada, lo que quiere decir que con un  
+stop loss a dos ATR y un T profy a tres o cuatro 
+ATRs hubiésemos sacado todo esto con un win rate  
+positivo y un profit factor muy alto. ¿Qué pasa? A 
+nadie seguramente que se le ocurre poner una media  
+móvil de 371 periodo. O sea, casi seguro que a 
+nadie se le ocurre. O sea, va, normalmente no  
+se ocurre este tipo de valores. Por eso se omiten 
+las ventajas del mercado, porque vamos a valores  
+lógicos que nos parecen lógicos, rango razonable 
+y omitimos la casuística, la ventaja real que está  
+sobre la ineficiencia del mercado. Yo he movido y 
+le he dicho, "Quiero la señal aquí, cámbiame para  
+que esto sea aquí." Y fijaros lo que ha pasado. 
+No tengo que volverme loco con el Metatrader,  
+con Trading View, con nada, cambiando para 
+adelante, para atrás, haciendo optimizaciones,  
+porque incluso si hicieseis optimizaciones con 
+Metatrader, con lo que queráis, seguro que nadie  
+pondría un rango de hasta 400 periodos en medias 
+móviles. Pondríamos hasta 100, 200 quizás para  
+la lenta en el mejor de los casos. O sea, hay 
+opciones que se os están escapando literalmente,  
+que no dejan ser rentables porque vais a lo que 
+hace el sector retail, con lo que sale en YouTube,  
+con lo que os enseña y estáis mirando el mundo, 
+el trading por un catalejo pequeñito cuando el  
+trading es mucho más amplio de lo que os enseñan 
+dentro de redes sociales y sobre todo de de gurú  
+del trading. O sea, aprender. Por eso siempre 
+os digo, a juzgar las cosas por vosotros mismos,  
+a comprobarlo todo y a probarlo. Yo esta 
+funcionalidad de de ingeniería inversa la  
+utilizo muchísimo. ¿Por qué? Porque cuando tengo 
+una idea y y sé a dónde quiero llegar, ¿no? A que  
+sea rentable y puedo trazar el camino, es decir, 
+por ejemplo, quiero que la señal saliese aquí,  
+aquí hubiese sido el momento correcto, aquí no, 
+un poquito antes, un poquito después. O sea,  
+más o menos veo donde tendrían que haberse dado 
+las cosas para que el bot o la estrategia fuese  
+rentable. ¿Qué pasa? Hacer eso a mano es brutal. 
+Por eso yo como trader cuantitativo, ingeniero  
+informático, desde hace muchos años aplico otro 
+tipo de de técnicas que no están en el sector  
+retail, como por ejemplo la ingeniería inversa. 
+Sé dónde estoy, sé dónde quiero llegar, pero el  
+camino es lo que no conozco. Claro, es lo que 
+se me escapa. Pero si sé dónde estoy y sé dónde  
+quiero llegar, puedo hacer ingeniería inversa 
+desde ese camino hacia atrás. ¿Cómo se pinta  
+un mapa? Un mapa se pinta desde la salida todo 
+el camino hasta el final. Pues nosotros tenemos  
+en la salida tenemos el final, pero no tenemos 
+el mapa. Pero teniendo el final, el principio y  
+teniendo el final, podemos dibujar el camino 
+volviendo hacia atrás sobre nuestros propios  
+pasos. Eso se llama ingeniería inversa. Y en el 
+trading profesional, en el trading cuantitativo,  
+no en el trading algorítmico, no en el trading 
+discrecional, es una de las muchas metodología y  
+herramientas que se utilizan para llegar a diseñar 
+bot de trading e indicadores realmente rentables  
+que se separan de literalmente todo lo que 
+conocéis y habéis visto por YouTube. Y me faltan  
+todavía algunas mejoras más que se han lanzado en 
+esta última actualización, pero sinceramente el  
+vídeo ya se ha hecho muy largo, lo voy a dejar 
+aquí. Seguiremos hablando por la comunidad de  
+School o lo subiré por ahí donde tenéis siempre 
+el RO má. Ya sabes, si no estás dentro de la  
+comunidad de School de Techain, apúntate ahora 
+porque es totalmente gratis. Tienes el link en  
+la descripción y en el primer comentario fijado. 
+Pero si quieres ahora empezar a hacer las cosas  
+de forma profesional, con objetividad y con 
+criterio, haz clic en este vídeo que te aparece  
+en pantalla donde te enseño a crear un bot con 
+inteligencia artificial desde cero y llevarlo  
+al mercado. Y no, no estoy hablando de cloud 
+ni chat GPT porque esos no son bot de trading,  
+son inteligencias artificiales generativas y van 
+muy bien para contestarte un email o generarte  
+una imagen o crearte una receta de cocina, 
+pero no para hacer trading. Nos vemos dentro.
+he

@@ -1,0 +1,510 @@
+Titulo              : Construir capital propio vs fondeo: La verdad que no te dicen
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-23
+Duracion            : 26:31
+Vistas              : 725
+URL                 : https://www.youtube.com/watch?v=zLqnxL-UuP8
+----------------------------------------------------------------------
+
+Esta curva que ves en tu pantalla no es de un 
+novato que abrió su primera cuenta la semana  
+pasada, es de un trader con experiencia que en 
+una sola tarde borró tres semanas completas de  
+ganancia. Lo más duro es que no fue culpa de la 
+estrategia, no fue que el mercado se volvió loco  
+ni que el broker le cazó el stop. fue culpa de 
+algo de lo que casi nadie habla con honestidad,  
+de cómo gestionó la realidad del mercado y de cómo 
+gestionó su propia mentalidad. Si alguna vez has  
+visto tu equity subir con paciencia durante días y 
+días para luego desplomarse en cuestión de horas,  
+si te ha pasado eso de irte a dormir con la 
+sensación de cómo he podido hacer esto otra vez,  
+este vídeo es para [música] ti. En los próximos 
+minutos voy a enseñarte los tres errores que  
+están haciendo que pierdas dinero de forma 
+totalmente innecesaria y tonta. cómo estoy  
+eliminando esos errores con sistema automatizado y 
+cómo puedes construir un entorno en el que incluso  
+tus peores días tu cuenta no puede reventar 
+simplemente porque tú estés en modo peligro.  
+Soy Ignacio Yago. Llevo más de 15 años en los 
+mercados financieros ejerciendo profesionalmente  
+como trader cuantitativo y analista. He 
+operado manualmente, he creado esperadisor  
+para Metatrader, he pasado por época de euforia 
+y épocas de querer apagar todas las pantallas y  
+opo principalmente a través de sistema con bots. 
+En estos 15 años puedo asegurarte que he vivido  
+prácticamente todos los errores que se pueden 
+cometer y sobre todo he visto cómo se repiten una  
+y otra vez en traders que ya tienen experiencia, 
+no solo en principiantes. Por eso este vídeo no  
+va de te falta una super estrategia secreta para 
+ser rentable, sino de algo mucho más incómodo,  
+pero mucho más liberador. Entender que la mayoría 
+no quiebra por falta de conocimiento del mercado,  
+sino por falta de gestión de realidad. En este 
+vídeo vamos a recorrer un camino muy concreto.  
+Primero te voy a contar la historia de uno de 
+mis peores días de overtrading para que veas  
+paso a paso cómo se destruye una buena racha por 
+no respetar los límites. Después desmenuzaremos  
+el primer error, creer que productividad en el 
+trading significa operar más. Luego entraremos en  
+el segundo error, que es no proteger lo que ya has 
+ganado. Y veremos cómo un sistema tipo guardián  
+puede literalmente quitarte el botón del pánico 
+de las manos. En el tercer error mezclaremos  
+psicología y datos. Te enseñaré por qué no sabes 
+cuándo eres tu peor versión como trader y cómo un  
+sistema coolarning puede aprender de tus patrones 
+y tomar mejores decisiones que tú en caliente.  
+Y cerraremos hablando de energía, de obsesión 
+positiva y de cómo todo esto se traduce en  
+libertad real, no en estar 12 horas diarias pegado 
+a seis pantallas. Quiero que arranquemos con una  
+historia muy concreta, porque si esto se queda 
+en teoría, no te va a cambiar nada. Imagina que  
+llevas tres semanas maravillosas, has respetado 
+y seguido el plan al milímetro, has respetado el  
+riesgo. Tus operaciones tienen sentido y no te has 
+vuelto loco con el tamaño de las posiciones. Todo  
+parece genial. Abres la plataforma una mañana y 
+ves uno de esos movimientos que parecen diseñados  
+para ti. El mercado está en plena tendencia, tus 
+señales encajan, todo se alinea. Lanzas la primera  
+operación, sale perfecta, cierras con beneficios, 
+lanzas la segunda operación, todavía aún mejor.  
+Estás on fire, ya sientes que dominas el trading 
+realmente. En ese momento, la versión racional  
+de ti mismo debería levantarse de la silla y 
+decir, "Listo por hoy, hecho mi trabajo." Pero no  
+aparece una voz mucho más peligrosa que te susurra 
+al oído. Si con dos operaciones has hecho esto,  
+imagina lo que puedes hacer si sigues operando 
+un poco más. ¿Conoces esa voz? Seguro que sí.  
+El mercado, como siempre cambia de régimen sin 
+avisar. Lo que era tendencia limpia empieza a  
+volverse caos errático, a lateralizar, a mostrar 
+mechas por todas partes, pero tú sigues mirando  
+el gráfico con las gafas del momento anterior, 
+sigues viendo lo que quieres ver inconscientemente  
+de que acabas de perder tu ventaja estadística 
+por completo y de que todo lo que hagas de aquí  
+en adelante va a ser para perder todo tu dinero. 
+empiezas a adelantar las entradas, a saltarte los  
+filtros, a mover el stop loss para darle un poco 
+más de aire a la operación que te está saliendo  
+mal. La racha ganadora deja de ser un impulso a 
+tu disciplina y se convierte en gasolina para tu  
+ego. Cuando te quieres dar cuenta, lleva varias 
+operaciones encadenadas que nunca habrías tomado  
+en frío. El resultado del día que iba encaminado 
+de ser un cierre perfecto de semana empieza a  
+agujerear tu curva de equity. Terminas con una 
+secuencia absurda. Empezaste el día ganando uno  
+o dos RS y lo terminas en -7R, simplemente por no 
+saber parar cuando tu mejor versión ya se había  
+ido de la sala. Ese día yo entendí que el problema 
+no estaba en la estrategia. La lógica de entradas  
+y salida era la misma que me había dado las tres 
+semanas buenas anteriores. El problema estaba en  
+que todo dependía de que yo, Ignacio, un humano 
+con poca experiencia y control sobre mi trading  
+en aquel momento, supiera reconocer cuando el 
+mercado había cambiado y cuando mi estado mental  
+ya no era apto para seguir operando. No tenía 
+una estructura por encima de mí que me dijera,  
+"Hoy has terminado. aunque quiera seguir. Y ese es 
+el primer gran error que vamos a atacar. El primer  
+error es confundir productividad con cantidad de 
+operaciones. Durante años nos han vendido la idea  
+de que si estás 8 horas frente a la pantalla, 
+si estás entrando y saliendo constantemente del  
+mercado, si no paras de hacer clic, entonces 
+estás trabajando duro y merece ganar dinero.  
+Y esta mentira ha sido fácilmente creíble 
+para muchos, pues en muchos trabajos es así.  
+Mientras más trabajas, mejor trabajador eres, 
+más vas a ganar. Pero en el trading, no. El  
+trading no premia el esfuerzo visible, premia la 
+precisión. Cada vez que abres una operación, pagas  
+comisiones, spreads, el lipaje y sobre todo pagas 
+energía mental. Cada clic que das bajo presión,  
+abres la puerta a que tus sesgos y tus emociones 
+se cuelen en la ecuación. Si operas más veces de  
+la que tu sistema está preparado para gestionar, 
+no está siendo más productivo, está multiplicando  
+tus oportunidades de riesgo. Piensa en un 
+restaurante de alta cocina. Podrías tener el mejor  
+chef del mundo con la mejor receta del mundo, 
+pero si compra ingredientes de cualquier calidad,  
+cocina a cualquier hora y sirve los platos cuando 
+se acuerda y abre el restaurante todos los días  
+sin mirar reservas ni stock, el negocio se hunde. 
+No por la receta o por la falta de experiencia del  
+chef, sino por la gestión. En el trading pasa 
+exactamente lo mismo. La gestión es el 80% de  
+la rentabilidad de tu operativa. Si no tenías 
+gestión, no tienes rentabilidad. fin. Puedes  
+tener una estrategia técnicamente sólida, pero 
+si la aplicas en cualquier contexto de mercado,  
+en cualquier horario y en cualquier estado 
+mental, estás gestionando tu negocio como un  
+amater. Operar por aburrimiento, por venganza, 
+por necesidad de acción es como sacar los platos  
+de cocina sin mirar si el cliente los ha pedido 
+o no. Aquí entra un concepto clave que muy poca  
+gente integra de verdad. estrategia solo gana 
+dinero en determinados contextos de mercado.  
+Una estrategia de tendencia funciona cuando 
+hay tendencia, una de rango funciona cuando  
+hay rango. Una misma lógica que es rentable 
+en un entorno puede destruir tu cuenta y la  
+destruirá en otro entorno diferente. La mayoría de 
+traders pierden porque se empeñan en usar el mismo  
+destornillador para todos los tipos de tornillo 
+y el mercado no perdona ese tipo de ingenuidad.  
+La pregunta no es cuántas operaciones he hecho 
+hoy, sino en cuántas operaciones de las que he  
+hecho he tenido realmente ventaja estadística. 
+En mi caso, la solución no fue prometerme la  
+próxima vez estaré más atento. La solución fue 
+dejar de confiar en que mi ojo humano detectaría  
+siempre los cambios de régimen de mercado y 
+externalizar esa tarea a un sistema realmente  
+objetivo y matemático. Empecé a construir y luego 
+a integrar en estratos un bloque que llamamos  
+detector de régimen. En lugar de estar todo el 
+día preguntándome si el mercado está tendencial,  
+lateral o directamente inoperable, ese módulo 
+analiza la estructura de precio, la volatilidad,  
+ciertos indicadores y clasifica en tiempo real el 
+contexto del mercado. Solo cuando la clasificación  
+dice, "Este entorno es compatible" con 
+la lógica de tu estrategia de tendencia,  
+se permiten nuevas entradas. Cuando el entorno es 
+hostil, las operaciones simplemente no se lanzan.  
+Eso cambia el juego por completo. Dejas de medir 
+tu productividad en número de trade y empiezas a  
+medirla en calidad de decisiones. Tu trabajo como 
+trader deja de ser apretar el botón y pasa a ser  
+diseñar la lógica que decide cuándo tiene sentido 
+o no apretarlo y la supervisa. Es un cambio de  
+identidad. Dejas de ser el soldado que está en 
+la trichera disparando a todo lo que se mueve  
+y empiezas a ser el arquitecto que diseña el mapa 
+de cuándo, cómo y bajo qué condiciones se lucha.  
+Déjame que te haga una pregunta incómoda. ¿Cuántas 
+veces [música] has visto el mercado y has pensado,  
+"Hoy no lo veo claro, pero aún así has abierto 
+operaciones por no sentir que estabas perdiendo  
+el día." Si tu respuesta es muchas, quédate 
+porque en un momento te voy a enseñar cómo es  
+un día en el que literalmente tu propio sistema te 
+prohíbe operar por tu bien. Y cómo eso ha salvado  
+cuentas enteras de entrar en drynow absurdos. 
+El segundo gran error es no proteger lo que ya  
+has ganado. Perder dinero es parte estructural 
+del trading y la pérdida normal, la que está  
+contemplada en tu sistema es simplemente el coste 
+de mantenimiento de tu negocio. No hay problema en  
+eso. La tragedia viene cuando pierdes lo que con 
+una gestión mínimamente seria nunca deberías haber  
+puesto en peligro. Esa es la diferencia entre un 
+dryown sano, fruto de la varianza del mercado,  
+y un agujero en tu equity provocado por pura 
+negligencia promovida muchas veces por el  
+desconocimiento. Muchos traders tienen semana 
+muy buena y luego las tiran a la basura en uno  
+o dos días por descontrol. La secuencia suele ser 
+parecida. Semana positiva, confianza alta, cierre  
+en verde. Llega un día malo, te saltan dos o tres 
+stoploss seguidos y en lugar de aceptar que forma  
+parte del juego, cerebro entra en modo rescate. 
+Tengo que recuperar esto hoy. A partir de ahí,  
+subes el riesgo, entras en operaciones que no 
+cumplen el plan, mueves stops por miedo a que  
+salten, dejas correr pérdidas porque seguro 
+que se va a dar la vuelta y esto nunca pasa.  
+ignoras pasa de una posición de fuerza a una 
+posición de fragilidad. No es el mercado,  
+es tu saboteamiento propio de tu negocio. Los 
+traders profesionales pensamos al revés, no nos  
+obsesionamos con cuánto podemos ganar en un día 
+bueno, nos obsesionamos con cuánto podemos perder  
+en un día malo. Nuestra prioridad es maximizar la 
+ganancia puntual, es minimizar la probabilidad de  
+ruina. Esa mentalidad de no perdida innecesaria 
+es la que te permite sobrevivir años y años en el  
+mercado. Solo cuando sobrevives años, el interés 
+compuesto empieza [música] a hacer su magia.  
+Para eso creé el concepto de guardián, que en 
+estrato se materializa en un nodo concreto,  
+pero que podría replicar con otras herramientas 
+si entienden la idea de fondo. El guardián es un  
+sistema que monitoriza en tiempo real la salud de 
+tu cuenta. Dry down desde máximos, profit factor  
+en una ventana de operaciones, racha de pérdidas, 
+cualquier métrica que quieras vigilar. Tú en frío  
+cuando estás lúcido definen las reglas del tipo, 
+si pasa esto, quiero que automáticamente ocurra  
+esto otro. Por ejemplo, puedes decidir que si el 
+dryown desde máximos históricos supera el 10%,  
+todas las estrategias se pause, no se permita 
+abrir nuevas operaciones hasta que tú lo revises  
+o que si encadenas cuatro operaciones perdedoras 
+seguidas, los tamaños de posición se reduzcan  
+automáticamente a la mitad. que si el profit 
+factor de los últimos 100 trades cae por  
+debajo de uno, el sistema entre en modo defensa 
+y solo gestione salidas sin nuevas entradas. Lo  
+importante aquí no es la cifra exacta que uses. 
+Lo importante es que el sistema ejecuta esas  
+decisiones por ti cuando tú ya no eres de fiar. 
+Es como un amigo que te quita las llaves del coche  
+cuando ve que has bebido demasiado. El guardián 
+no discute contigo, no se deja manipular por  
+tus excusas, simplemente aplica la lógica que tú 
+mismo definiste en frío. Eso convierte tu gestión  
+de riesgo en algo objetivo. Deja de depender 
+de tu fuerza de voluntad en el peor momento,  
+que es cuando estás perdiendo y la emoción 
+está al máximo. Imagina despertarte un día,  
+abrir tu plataforma y ver que el sistema ha 
+pausado todas tus estrategias porque has alcanzado  
+el límite de drynow que tú mismo marcaste. En 
+vez de encontrarte con una cuenta destrozada,  
+te encuentras con una notificación que dice, 
+"El guardián ha hecho su trabajo. Revisa qué  
+ha pasado antes de continuar." En unos minutos 
+voy a contarte un caso real en el que esa simple  
+automatización salvó a un trader de quemar una 
+cuenta entera en una sola sesión de noticias.  
+Antes de continuar con el vídeo, quiero recordarte 
+que en la primera línea de la descripción  
+tienes un enlace para unirte a mi comunidad 
+privada de school totalmente gratuita. Dentro  
+he creado una formación de 14 días totalmente 
+gratis, donde te enseño a crear tu primer bot  
+y te comparto alguna de las estrategias que me 
+han permitido ser rentable en la última década.  
+Al unirte vas a tener acceso totalmente gratuito 
+a un ecosistema de networking donde compartirás  
+espacio con personas como tú que quieren avanzar 
+y crecer, aparte de con ingenieros informáticos,  
+matemáticos y traders profesionales que avanzan tu 
+misma dirección y que van a potenciar tu evolución  
+técnica. Haz clic en el enlace de la descripción 
+para unirte. Nos vemos dentro y ahora sí, seguimos  
+con el vídeo. El tercer error es no saber cuándo 
+eres tu peor versión como trader. Todos tenemos  
+patrones que nos sabotean. Hay quien opera peor 
+los lunes porque viene con demasiada energía del  
+fin de semana. Hay quien se descontrola después de 
+una gran ganancia porque se siente invencible. Hay  
+quien por la tarde, agotado del trabajo principal 
+abre la plataforma solo por inercia y empieza a  
+ver oportunidades donde no las hay. La explicación 
+estándar suele ser el mercado estaba difícil, pero  
+muchas veces el que estaba difícil eras tú. Cuando 
+empecé a jornalear de verdad mis operaciones con  
+fecha, hora, activo, contexto y estado mental, 
+empecé a ver cosas que dolían. Me di cuenta de  
+que los lunes por la mañana mis resultados eran 
+sistemáticamente peores porque llegaba con ganas  
+de operar y forzaba muchas veces los setups. Vi 
+que después de un trade muy grande en positivo,  
+los siguientes tres o cuatro eran mucho más 
+agresivos y tenían menor calidad. Descubrí que  
+por la tarde noche, cuando ya estaba cansado, mis 
+decisiones eran más impulsivas y menos cuidadas.  
+Todo eso no era azar, eran patrones repetitivos 
+de conducta. El problema es que la mayoría de  
+traders nunca llega a ese nivel de análisis 
+porque da pereza registrar todo a mano y porque  
+racionalizar tus propios defectos pues duele. 
+Ahí es donde de nuevo un sistema puede hacer  
+lo que tú no vas a hacer de forma constante. En 
+tu historial de operaciones se va registrando  
+automáticamente todo. Variables como el día de 
+la semana, franja horaria, activo, volatilidad,  
+resultado, dryown y cualquier otra métrica 
+que nos interesa. Con suficientes operaciones,  
+el analizador de backest inteligente de estratos 
+puede generar informes donde se ve claramente,  
+por ejemplo, que en cierto par y en cierta sesión, 
+por ejemplo, asiática, tu rentabilidad es negativa  
+de forma persistente o que los lunes por la 
+tarde siempre devuelves parte de lo ganado  
+el resto de la semana. La clave es que con esos 
+datos objetivos puedes tomar decisiones lógicas.  
+Desactivar ese horario, bajar el riesgo solo 
+en esa ventana de tiempo, limitar el número de  
+operaciones después de una gran ganancia. Incluso 
+la propia herramienta ya te da un feedback de los  
+puntos claves. Dejas de tomar decisiones basadas 
+en sensaciones y empiezas a tomar decisiones  
+basadas en evidencia. Y si das un paso más, puedes 
+hacer que sea el propio sistema el que reaccione  
+a esos patrones sin que tú tengas que estar 
+ahí pendiente. Aquí entra en juego algo que me  
+apasiona, el coolernic, una técnica de aprendizaje 
+por refuerzo que me ha costado muchísimo tiempo  
+pulir y mejorar a lo largo de los años para que 
+realmente fuese efectiva aquí en el trading,  
+pero que tú puedes aplicarla en tu bots con solo 
+hacer clic en un nodo de estratos. Imagina que  
+en lugar de tener un conjunto de reglas, tienes un 
+sistema que prueba distintas acciones en distintos  
+contextos y aprende con el tiempo cuáles son las 
+combinaciones que generan mejores resultados.  
+El bot observa el entorno, toma una decisión, 
+recibe una recompensa o un castigo y ajusta sus  
+preferencias. No tiene ego, no tiene miedo, no 
+tiene afán de venganza contra el mercado, solo  
+tiene una tabla de estados, acciones y recompensas 
+que se va afinando con cada operación. Aplicado al  
+trading, esto significa [música] que el sistema 
+puede, por ejemplo, aprender que cierto patrón  
+en cierto horario y con cierta volatilidad suele 
+ser rentable si se gestiona de una forma concreta  
+y penalizar acciones que en ese mismo contexto 
+han llevado recurrentemente a pérdidas grandes.  
+Tu capital deja de ser un termómetro de emociones 
+del día y empieza a ser el reflejo de un proceso  
+de aprendizaje continuo. Hasta ahora te he hablado 
+de mercado, de botch, de métrica y de algoritmos,  
+pero falta una pieza que tienda a subestimarse, 
+tu energía. La mayoría de traders usan su energía  
+como si fuera una batería barata. Se levantan, 
+abren las pantallas, se pasan horas delante del  
+gráfico, se vacían psicológicamente, terminan el 
+día agotados y sin fuerza para revisar nada. Al  
+día siguiente repiten y repiten y repiten. Ese 
+ciclo es perfecto para mantenerte en el mismo  
+nivel en el que estás ahora para siempre. ¿Por qué 
+nunca reservas energía para mejorar el sistema,  
+solo para sobrevivir el día? El cambio de 
+paradigma que te propongo es otro. Empieza  
+a ver tu energía como un generador. Tus mejores 
+horas del día, esas en las que tu mente está más  
+fresca, no deberían gastarse en tomar decisiones 
+repetitivas que puede ejecutar un bot de trading.  
+Deberían gastarse e invertirse en diseñar, 
+revisar y optimizar tu sistema. Back testing,  
+revisión de operaciones, refinamiento de reglas, 
+análisis de datos, diseño de nuevos escenarios,  
+etcétera, etcétera, etcétera. Ese es el trabajo 
+de alto valor que mueve la aguja. Una vez hecho  
+la ejecución, la delegas en la máquina. En mi 
+caso, me apoyo en el asistente Copilot IA dentro  
+de Stratar variaciones de estrategias, hacer 
+stress test y generar ideas de flujo sin tener  
+que escribir código cada vez desde cero. Mi rol 
+es formular preguntas y validar los resultados,  
+no picar líneas de código como tenía que hacer 
+hace años. Mientras tanto, los bots que ya están  
+en producción ejecutan en el mercado siguiendo las 
+reglas que hemos definido. Detectan el régimen,  
+respetan los límites del guardián, aprenden de 
+sus resultados mediante cool learning, etcétera,  
+etcétera. Yo no necesito estar delante de la 
+pantalla para cada clic y eso cambia por completo  
+mi relación con el trading y con el mercado. La 
+principal consecuencia de todo esto no solo es  
+que empiezas a ser rentable, sino que empiezas a 
+recuperar tiempo y presencia en otras áreas de tu  
+vida. Y créeme, sé de lo que te hablo porque soy 
+padre. Puedes irte a comer con tu pareja, puedes  
+hacer deporte, puedes trabajar en otros proyectos, 
+puedes pasar tiempo con tu familia y amigos,  
+sabiendo que tu capital está siendo gestionado 
+por un sistema que tú mismo has diseñado y que no  
+depende de si hoy te levantaste de buen humor o si 
+has dormido poco. Esa es la verdadera promesa del  
+trading sistemático bien hecho. no ganar dinero 
+rápido, sino recuperar control sobre tu tiempo  
+y tu estrategia mientras tu dinero trabaja 
+con un método para generarte más dinero. Para  
+mi rentabilidad, la diferencia entre obsesión 
+destructiva y obsesión positiva fue la clave.  
+La obsesión destructiva es la que te empuja a no 
+dormir, a sacrificarlo todo en nombre del trading,  
+a medir tu compromiso por el número de horas que 
+pasa frente a las pantallas. Es la narrativa del  
+si no estás 247 conectado, no lo quieres de 
+verdad. Esa obsesión suele terminar en ansiedad,  
+en culpa, en decisiones impulsivas y al final 
+en cuentas quebradas y relaciones deterioradas.  
+La obsesión positiva es completamente 
+distinta. Es una obsesión estructurada,  
+casi aburrida desde fuera, pero tremendamente 
+poderosa. Es la obsesión por documentar tus  
+operaciones con honestidad brutal. Es la obsesión 
+por mejorar un pequeño aspecto de tu sistema cada  
+semana. Es la obsesión por respetar los 
+límites que tú mismo has definido en frío,  
+incluso cuando el mercado te tienta a romperlos. 
+Es la obsesión por cuidar tu energía para llegar  
+lúcido a las decisiones importantes. Esa obsesión 
+te lleva a sentarte delante del ordenador,  
+no para buscar adrenalina, sino para construir y 
+mejorar un proceso rentable que te genere dinero  
+de forma consistente. Cuando combinas esa obsesión 
+positiva con herramientas adecuadas, ocurre algo  
+interesante. dejas de definirte como day trader 
+que está todo el día pegado a la pantalla  
+y empiezas a verte como el dueño de un sistema 
+que opera el mercado siguiendo una lógica que tú  
+has construido. Ves los drynows como información, 
+no como tragedias personales. Ves las ganancias  
+como validación del proceso, no como un premio a 
+tu ego. Y eso, lejos de alejarte de los mercados,  
+te permite permanecer más tiempo en ello con una 
+cabeza mucho más clara. Si has llegado hasta aquí,  
+seguramente te has reconocido en alguno de estos 
+tres errores. Operar demasiado cuando el mercado  
+no es para ti, no proteger lo que ya has ganado 
+y no saber cuándo eres tu peor enemigo, tu peor  
+versión como trader. La idea central de todo lo 
+que hemos visto es muy sencilla, pero a la vez  
+muy dura de aceptar. Tu rentabilidad no depende 
+tanto de encontrar la próxima superestrategia,  
+sino de dejar de perder dinero de forma estúpida. 
+Y eso no se arregla con un indicador mágico,  
+se arregla con estructura. Esa estructura pasa 
+por tener sistemas que entienden el contexto del  
+mercado y que no te dejan operar en cualquier 
+entorno. Por ejemplo, tener un guardián que  
+vigile la salud de tu cuenta y te quite las 
+llaves cuando entres en modo autodestrucción  
+por registrar y explotar tus propios patrones 
+psicológicos con datos objetivos. Y si quieres  
+ir un paso más allá por dejar que algoritmos como 
+el Coolarning aprendan de tus resultados y vayan  
+afinando las decisiones con el tiempo, pasa por 
+usar tu energía para diseñar y mejorar el sistema,  
+no para improvisar todo el día delante de las 
+pantallas. y pasa por adoptar una obsesión  
+positiva y sostenible en el tiempo que te permita 
+seguir en el juego años tras años, no solo meses.  
+Si sientes que el mercado te ha arrancado ya 
+demasiadas semanas de tu trabajo, de tu vida,  
+en unas pocas horas, quizá ha llegado el momento 
+de dejar de operar como si estuviéramos en el 2020  
+y empezar a construir un sistema a la altura 
+de la tecnología que tenemos hoy. Tratos es el  
+entorno donde yo he concentrado todas esas ideas. 
+Detección de régimen, guardián de riesgo, bots  
+que aprende, asistentes que te ayudan a diseñar 
+flujo sin programar. Si quieres dar un paso más,  
+te invito a registrarte y a clonar uno de mis 
+sistemas base que ya he adaptado a tu realidad  
+de riesgo. Y si quieres ver y construir desde 
+ya tu primer bot con inteligencia artificial,  
+haz clic en este vídeo que te aparece en 
+pantalla, donde te enseño a crearlo paso a paso.
+[música]
+[música]

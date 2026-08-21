@@ -1,0 +1,368 @@
+Titulo              : De cero a Pro: Aprende a tradear con SMC y conviértete en un trader cuantitativo + Indiciador SMC
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-06
+Duracion            : 19:42
+Vistas              : 869
+URL                 : https://www.youtube.com/watch?v=kvoOpxXq0L0
+----------------------------------------------------------------------
+
+Esto de aquí es el mapa institucional. La línea 
+naranja punteada marca la liquidez que hay arriba,  
+la azul la liquidez que hay abajo, la caja 
+verde te dice cuando el precio está barato  
+y la roja cuando está caro. Todo esto lo dibuja 
+automáticamente un indicador llamado SMC Core y  
+hoy te lo lleva gratis al final del vídeo. 
+Pero un mapa sin saber leerlo no vale para  
+nada y la mayoría lo lee justo al revés. Llevo 
+más de 15 años en los mercados como trader  
+cuantitativo profesional y este marco de liquidez 
+es exactamente el que uso para convertir el Smart  
+Money discrecional en reglas de sistema que se 
+puedan medir. El plan es simple. Primero leemos el  
+mapa completo en 90 segundos. Después desmontamos 
+cómo se calcula cada línea para que no operes a  
+ciegas. Luego la estrategia completa de compras 
+y ventas paso a paso. Y si te quedas hasta el  
+final te diré cómo descargar gratis el indicador 
+SMC. Vamos pieza por pieza sobre el gráfico real.  
+Esta línea naranja punteada es el EQH Equal H. 
+Dos máximos casi al mismo precio. Ahí arriba hay  
+stops acumulados de traders que vendieron. No es 
+una resistencia clásica, es un imán de liquidez.  
+La azul es su espejo, EQL, Equal Lows, dos 
+mínimos iguales. Debajo hay stops de compradores  
+esperando a ser activados. En el centro, la línea 
+dorada punteada, el equilibrio es el 50% exacto  
+del rango entre el último máximo y el último 
+mínimo significativos. El ecuador del mercado  
+en este tramo. Y ahora las dos cajas. Atención, 
+porque aquí falla casi todo el mundo. No son dos  
+señales opuestas, son solo un rango partido por 
+la mitad. Por encima del equilibrio, caja roja,  
+zona premium, el precio está caro. Por debajo, 
+caja verde, zona de descuento, el precio está  
+barato. Piensa en rebajas. La chaqueta es la misma 
+en enero que en noviembre. Lo único que cambia es  
+lo que pagas por ella. Pues el activo es el mismo 
+arriba que abajo del equilibrio. Cambia el precio  
+que tú aceptas. De ahí la regla de oro del smart: 
+comprar en descuento y vender en premium. Comprar  
+en verde, vender en rojo. Ya sabes leer el mapa. 
+Ahora te enseño por qué existe, porque sin el  
+por qué no te vas a fiar del cuándo toque, pero 
+es cierto que se cen los stop loss o es un mito  
+urbano del Trading Retail. Vamos a ver qué dicen 
+los datos oficiales al respecto. Entre el 70 y  
+el 90% de los traders minoristas pierden dinero. 
+Es la cifra que los reguladores europeos obligan  
+a publicar a los brokers. Esto puede ser por stop 
+loss saltados o por pérdidas directas sin ningún  
+tipo de gestión. En la India, el regulador SEBI 
+documentó que el 93% de los traders individuales  
+en derivados perdió dinero en 3 años consecutivos. 
+y un estudio de la CFTC americana de 2024 encontró  
+algo más incómodo todavía. El minorista tiende 
+a operar contra el movimiento comprando cuando  
+cae y vendiendo cuando sube. Desde luego, estamos 
+hablando de cientos de millones de liquidez que  
+inyecta en el mercado el sector retail. Mientras 
+tanto, entre el 60 y el 75% del volumen de los  
+grandes mercados es algorítmico, institucional, 
+sistemático. ¿Y qué necesita una institución para  
+mover cientos de millones? Necesita contrapartida, 
+necesita liquidez. Los datos ya nos han dicho de  
+dónde proviene esa contrapartida, esa liquidez. 
+Piensa en las gasolineras de una autopista.  
+Un camión de gran tonelaje no puede repostar 
+en cualquier sitio, solo puede parar donde hay  
+depósito suficiente. Para el dinero grande, esas 
+gasolineras son la zona donde se acumulan stops,  
+dos máximos iguales. Un EQH, por ejemplo, 
+es un depósito lleno de órdenes de compra.  
+Los stops de muchos están ahí, sobre todo de 
+casi todos los que vendieron o quieren vender.  
+Por eso el precio a veces sube exactamente hasta 
+esa línea naranja, la perfora unos pips y luego  
+se da la vuelta bruscamente. No es mala suerte, es 
+un repostaje. Es MC Core te marca esas gasolineras  
+automáticamente sin que dibujen nada a mano. 
+Son las líneas naranjas y azules que hemos  
+visto. Y aquí abro algo importante. Casi todo 
+el que instala este indicador comete el mismo  
+error durante las primeras semanas, un error que 
+cuesta dinero real. Y te lo voy a enseñar con un  
+caso concreto en la fase de errores para que no 
+te pase a ti. Pero antes necesitas entender cómo  
+se calcula cada línea. Vamos dentro del motor. 
+Pero aquí viene lo que casi nadie te cuenta y  
+se lo guardan para vendértelo en un curso por un 
+par de miles, pero yo te lo muestro al completo,  
+sin guardarme nada. Y desde ya te adelanto 
+que estas líneas no las dibuja una opinión,  
+las dibuja una fórmula matemática concreta. Y si 
+entiendes la fórmula, sabrás [música] exactamente  
+cuándo fijarte del mapa y cuándo no. Todo 
+empieza con los swings. Un swing high es una  
+vela cuyo máximo es el más alto dentro de un 
+número de velas a cada lado. Ese número es el  
+parámetro swing period por defecto vale cinco. 
+Cinco velas a la izquierda y cinco velas a la  
+derecha. Y si nadie la supera, tenemos un giro 
+confirmado con los mínimos igual invertido. Este  
+parámetro funciona como el zoom de un mapa. Con 
+un valor bajo ves el despliegue del callejero,  
+todos los giros pequeños, mucho detalle, mucho 
+ruido. Con un valor más alto ves el mapa completo,  
+las carreteras y solo los giros que importan. 
+Segundo paso, la detección de máximos iguales.  
+Dos swing high casi nunca coinciden al pip exacto, 
+así que el indicador usa una tolerancia basada en  
+la volatilidad. Concretamente el ATR de 14 velas 
+multiplicado por el parámetro EQ tolerance que por  
+defecto es 0,15. Ejemplo real con números. En el 
+eurodólar con un ATR de 12 pips la tolerancia es  
+12 por 0,15 1 pip y 8 décimas. Si dos máximos 
+están a menos de 1,8 pips, el indicador los  
+declara iguales y dibuja un EQH. Es como una 
+cerradura con holg. No exige la llave perfecta.  
+Admite una llave con una pequeña imperfección 
+mínima, pero rechaza cualquier otra. Y ojo, porque  
+la tolerancia se adapta sola. Si la volatilidad 
+sube, el margen se ensancha. Tercer paso, el  
+equilibrio. Último swing high más último swing low 
+dividido entre dos. Si el cierre está por encima,  
+estás en premium. Por debajo, en descuento, 
+las cajas cubren aproximadamente las últimas  
+80 velas y se recalculan con cada swing nuevo. Son 
+dinámicas, no niveles fijos. Y cuarto paso, el que  
+lo ata todo, el sesgo de tendencia. El indicador 
+lee la secuencia de swings. Máximos y mínimos  
+crecientes. Sesgo más un alcista. Decrecientes, 
+-1, bajista. Estructura mixta cero neutro. El  
+sesgo es como el sentido de una escalera mecánica. 
+Puedes intentar bajarla en contra, pero vas a  
+gastar el doble de energía para llegar al mismo 
+sitio y encima más tarde. Sobre temporalidades,  
+en M15 y H1 los valores por defecto funcionan 
+relativamente bien. En H4 sube el swing period  
+a 8, por ejemplo, o 12. En diario a 10 o 15. 
+Cuanto más arriba, menos señales, pero más  
+significativa y de mayor probabilidad de éxito. 
+Ya sabes leer el mapa y sabes cómo se dibuja.  
+Ahora viene la parte por la que has hecho clic en 
+este vídeo. La estrategia completa con entrada,  
+stop, objetivo e invalidación. Empecemos por las 
+compras. Antes de cualquier entrada, tres filtros,  
+un sesgo, dos zonas y tres liquidez. Es como la 
+ITV del coche. Si falla un solo punto crítico, no  
+circula. Da igual lo bonito que se vea al resto. 
+Paso número uno, sesgo más un, máximos y mínimos  
+creciente. Es decir, la escalera sube. Paso número 
+dos, precio en descuento. Cierre por debajo de  
+la línea dorada y dentro de la caja verde. Estás 
+comprando barato en un mercado que tienda a subir.  
+Paso número tres, liquidez identificada debajo. 
+Una línea azul, un EQL marcada por el indicador.  
+Paso número cuatro. Y aquí está la clave de 
+todo. No entras todavía, esperas el barrido.  
+El precio baja, toca o perfora brevemente ese EQL 
+y recoge los stops de los compradores. Es como  
+sacudir el árbol para que caiga la fruta antes 
+de recogerla. La institución sacude los stoploss,  
+recoge la liquidez y entonces mueve el precio 
+de verdad. Paso cinco, confirmación. Una vela  
+de rechazo alcista clara. por ejemplo, un pin 
+bar, una envolvente, un cierre fuerte al alza,  
+etcétera. Sin esa vela no hay nada. Paso seis, 
+entrada tras la confirmación. Paso siete,  
+stop loss debajo del mínimo de la mecha del 
+barrido. Si el precio vuelve a romper ese mínimo,  
+tu tesis ha muerto y quieres estar fuera, créeme. 
+Paso ocho, objetivos escalonados. Primer objetivo,  
+la línea dorada del equilibrio. Hay cierras 
+entre el 30 y el 50% de la operativa. Segundo,  
+la zona premium o el EQH superior. Pero si quieres 
+ir a por todo, podrías utilizar el tercero. El  
+siguiente pool de liquidez, dejando correr el 
+resto de la orden con un pequeño trailing stop.  
+Y paso nueve, la invalidación. Si el precio barre 
+el EQL, pero no revierte en tres a cinco velas,  
+se cancela la operación por completo. Como una 
+cita que no aparece en 15 minutos, pues no te  
+quedas esperándola una hora, te levantas y te 
+vas. Ahora sí, aterricemos todo esto con números.  
+Imagina un trader típico. Cuenta de 10,000 € 
+riesgo al 1%, 100 € por operación, euroólar en H1,  
+sesgo más 1, precio en la caja verde. EQL 
+debajo, el precio barre el mínimo y deja  
+una mecha y cierra con una envolvente alcista. El 
+trader entra, su stop queda 12 pips por debajo de  
+la mecha, así que su posición es de unos, por 
+ejemplo, 0,8 lotes para arriesgar exactamente  
+esos 100 €. Ni uno más. Primer objetivo a 20 
+pips. En el equilibrio cierra la mitad, el resto  
+viaja hacia la zona premium. Existe también la 
+variante conservadora sin barrido, sesgo alcista,  
+precio en descuento y un order block o un fire 
+value gap alcista en la zona. Retest, rechazo,  
+entrada. Menos espectacular, igual de válida. 
+Ahora le damos la vuelta al mapa y presta atención  
+porque los cortos son exactamente donde más gente 
+rompe la metodología, sobre todo persiguiendo  
+velas rojas en el sitio equivocado. El corto es 
+el espejo exacto, así que voy directo. Sesgo -1,  
+máximos y mínimos decreciente. La escalera está 
+bajando. Precio en premium por encima de la línea  
+dorada dentro de la caja roja. Estás vendiendo 
+caro en un mercado que cae y liquidez arriba. Una  
+línea naranja, un EQH marcado por el indicador. 
+Espera el barrido al alza. El precio sube,  
+perfora brevemente el EQH, recoge los stops de 
+los vendedores y entonces busca la vela de rechazo  
+bajista. Píbar bajista, envolvente roja, cierre 
+débil, etcétera. Entrada tras la confirmación.  
+Esto por encima del máximo de la mecha del 
+barrido. Objetivos. Primero el equilibrio cerrando  
+parcial. Después la caja verde o el EQL inferior. 
+Y la misma invalidación, si barre el EQH y no cae  
+en tres a cinco velas, no hay operación. Caso 
+concreto, un trader típico opera una cuenta de,  
+por ejemplo, 5,000 € con riesgo del 0.5%. Eh, 
+por ejemplo, pues 25 € por trade. Eurodólar, A4,  
+sesgo -1, precio en la caja roja, EQH encima. 
+El precio sube en la apertura de Londres,  
+barre el máximo y cierra con una envolvente 
+bajista. Entra en corto el stop loss, 20 p mecha,  
+que con su riesgo son 0,12 lotes, por ejemplo. 
+Primer parcial en el equilibrio, el resto hacia  
+el EQL. Fíjate en lo que este trader no hizo. No 
+vendió al ver la primera vela roja en la mitad del  
+rango. No entró antes del barrido y no movió el 
+stop cuando el precio le fue unos pips en contra.  
+La metodología está en lo que no haces tanto 
+como en lo que haces y eso me lleva a la deuda  
+que tengo contigo desde la fase dos. Ya tienes las 
+dos estrategias completas. Pero te debo algo desde  
+el principio del vídeo, el error exacto que comete 
+casi todo el mundo que instala este indicador y te  
+aviso, probablemente lo ibas a cometer tú también 
+esta misma semana. El error número uno es este,  
+tratar los EQH y los EQL como señales de entrada 
+directa, ver la línea naranja y vender contra  
+ella sin barrido, sin sesgo, sin zona. Las líneas 
+de liquidez son objetivos y zonas de reacción,  
+no botones de compra y venta. Es como ver una 
+gasolinera en el mapa y pensar que ahí termina  
+el viaje, pero no, ahí es donde el camión reposta 
+y sigue. Te lo enseño con un caso concreto. Un  
+trader ve el precio subiendo con fuerza, sesgo más 
+un y compra. El problema compra dentro o muy cerca  
+de la caja roja en premium o por encima incluso 
+de la línea dorada. Estructura correcta. Precio  
+carísimo. El mercado retrocede al equilibrio, algo 
+perfectamente normal y sano y su stop loss salta.  
+Pierde 112 € en una operación donde la lectura 
+de tendencia es correcta. El diagnóstico también  
+pagó precio de escaparate por algo que estaba 
+a punto de entrar en rebajas. Con esto la lista  
+de cuándo no operar. Apúntala porque protege más 
+que cualquier señal. Sesgo cero, estructura mixta  
+fuera. Precio en premium o muy cerca. Conflicto. 
+Esperas el retroceso al descuento. Noticia de alto  
+impacto. Los barridos no siguen lógica alguna. 
+Fuera. Temporalidades de 1 a 5 minutos con  
+parámetros por defecto. Puro ruido. Los EQH falsos 
+se multiplican. Barrido sin reversión de tres a  
+cinco velas. Tesis cancelada y líneas de liquidez 
+muy antiguas. Esa liquidez probablemente ya fue  
+consumida. La mejor operación de Smart Money 
+muchas veces es la que no haces. Y esa frase dicha  
+en un nicho donde entre el 70 y el 90% pierde 
+dinero no es prudencia decorativa, es matemática  
+de supervivencia. Antes de continuar con el vídeo, 
+quiero recordarte que en el primer comentario  
+fijado tienes un enlace para unirte a mi comunidad 
+privada de school totalmente gratuita. Dentro he  
+creado una formación de 14 días totalmente 
+gratis donde te enseño a crear tu primer bot  
+y te comparto alguna de las estrategias que me 
+han permitido ser rentable en la última década.  
+Al unirte vas a tener acceso totalmente gratuito 
+a un ecosistema de networking donde compartirás  
+espacio con personas como tú que quieren avanzar 
+y crecer, aparte de con ingenieros informáticos,  
+matemáticos y traders profesionales que avanzan 
+en tu misma dirección y que van a potenciar  
+tu evolución técnica. Haz clic en el enlace del 
+primer comentario para unirte. Nos vemos dentro y  
+ahora sí, seguimos con el vídeo. Ahora la pregunta 
+incómoda. Si las reglas son tan claras, sesgo,  
+zona, barrido, confirmación, ¿por qué seguir 
+ejecutándolas a mano con tus emociones en medio?  
+Porque fíjate en algo, todo lo que hemos visto 
+hoy son condiciones binarias, se cumplen o no se  
+cumplen y eso significa que se pueden automatizar. 
+SMC Core no existe solo como indicador visual. En  
+estratos es también un nodo conectable dentro del 
+lienzo de bot con salidas concretas, la condición,  
+el descuento, la condición en premium, las 
+banderas EQH, EQL, el nivel de equilibrio como  
+valor numérico y el sesgo como +s1 o -1 o cero. 
+La lógica se monta arrastrando en descuento,  
+más sego alcista, más barrido confirmado, entran 
+a un nodo ilógico y ese nodo dispara la compra.  
+El equilibrio se conecta como objetivo parcial, 
+sin escribir ni una sola línea de código. Eso sí,  
+el SMC Core solo no es un bot completo, es la 
+brújula, no el motor. Las entradas de precisión  
+vienen de sus hermanos de la familia Smart Money, 
+el order Block para las zonas institucionales,  
+el detector de Fire Value Gap desequilibrios, el 
+barrido de liquidez para confirmar que el barrido  
+ocurrió de verdad y el market structure shift 
+para validar los cambios de estructura, brújula,  
+motor, volante y frenos. Y una advertencia de 
+ingeniero, cualquier sistema que montes con esto  
+pasa primero siempre por el back test y por demo, 
+sin excepciones. Las reglas se validan con datos,  
+no con C. Y aquí está la pieza que ordena todo 
+lo anterior, el protocolo de confluencias.  
+Confluencia máxima para un largo. Barrido EQL más 
+rechazo en descuento, más sesgo alcista. Las tres  
+a la vez. Confuencia máxima para un corto. Barrido 
+EQH. más rechazo en premium, más sesgo bajista,  
+confluencia alta, ruptura de estructura a 
+favor con el precio en la zona correcta y  
+las señales de no operar tan importantes como 
+las otras, sesgo neutro o zona de conflicto con  
+la estructura. Si solo memorizas una diapositiva 
+de este vídeo, que sea esta. Para Forex en H1,  
+mi configuración de partida. SMC Core con su 
+imperior entre 5 y 8 y tolerancia entre 0,15.  
+Border block con retroceso de 50 velas e 
+impulso de 1,5 veces el ATR. Fire Value  
+de mínimo 5 pips y market structure shift 
+con periodo de 20. Y ahora lo prometido,  
+el indicador SMC Core listo para llevar a tu 
+Metatrader. Te lo lleva gratis en mi comunidad  
+school. Tienes el enlace en la descripción y en 
+el primer comentario fijado. Entras, lo descargas,  
+lo cargas en tu gráfico y tienes este mapa exacto 
+hoy mismo, justo con la chuleta del protocolo en  
+una página. Y quizás te pregunte, Ignacio, ¿por 
+qué el SMC y no otro? Pues porque la mayoría de  
+votos del vídeo de indicadores fue aplastante 
+al SMC. Y como os dije que os regalaría el que  
+ganase, aquí lo tenéis con vídeo explicativo y 
+todo para que lo podáis sacar el máximo provecho.  
+El enlace de descarga del indicador está en la 
+descripción y con este indicador que os regalo  
+pago la deuda del vídeo del indicador. Y si 
+te preguntas cómo se convierte todo este mapa  
+de liquidez en un bot que opere solo sin que tú 
+tengas que programar ni una sola línea de código,  
+lo tienes resuelto en el vídeo que aparece en 
+pantalla, donde automatizo la estrategia ICT  
+completa paso a paso para que dejes de vigilar el 
+gráfico 8 horas al día. Te veo dentro. [música]

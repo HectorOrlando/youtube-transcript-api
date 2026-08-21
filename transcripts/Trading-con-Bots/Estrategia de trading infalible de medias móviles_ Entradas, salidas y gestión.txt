@@ -1,0 +1,441 @@
+Titulo              : Estrategia de trading infalible de medias móviles: Entradas, salidas y gestión
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-28
+Duracion            : 22:41
+Vistas              : 2,077
+URL                 : https://www.youtube.com/watch?v=spDENQO713E
+----------------------------------------------------------------------
+
+He tirado a la basura más de 2,500 configuraciones 
+de medias móviles. 2,500. Solo una sobrevivió a  
+años de dato en Metatrader 5. Hoy te la enseño 
+entera, entrada, salida y stop. Pero el matiz  
+que separa la versión que pierde dinero de la que 
+aguanta, ese te lo guardo para el final con el  
+backtest delante porque ahí entenderás todo. Y si 
+te quedas hasta el final te regalaré el indicador  
+completo para que puedas aplicar lo aprendido 
+en el vídeo hoy mismo. Me llamo Ignacio Yago,  
+soy graduado en ingeniero informático y llevo más 
+de 15 años ejerciendo como analista de mercado y  
+operando los mismos como trader cuantitativo. y 
+vivo operando con mi bot de trading, que yo mismo  
+diseño, construyo y valido. Y esta configuración 
+la he validado igual que valido mis propios bot  
+de trading, con datos de calidad y rigor, no con 
+capturas virales bonitas. Esto es lo que vamos a  
+construir hoy. Primero, montamos el sistema en 
+el estudio de indicadores. Tres capas de medias  
+móviles exponenciales paso a paso y la validaremos 
+juntos en los datos del mercado. Segundo, las  
+reglas exactas de entrada en corto y en largo con 
+triple confirmación. Tercero, lo veremos funcionar  
+en un gráfico real con sus aciertos y sus trampas 
+y al final los dos filtros que convierten esto  
+en algo operable. Sin ellos el sistema no vale. 
+Comenzamos. Primero abro estratos. Si no tienes  
+suscripción a estratos, no te preocupes, puedes 
+replicar todo el proceso en tu Metatrader 5.  
+Vamos a construir la primera capa del sistema, el 
+canal. Insertamos una media móvil, periodo 200,  
+método exponencial. Y aquí viene el detalle que 
+casi nadie usa. En el campo, precio aplicado,  
+la mayoría deja el cierre por defecto, nosotros 
+no. Esta primera media la aplicamos al máximo,  
+al alto, color verde, grosor, por ejemplo, de 
+dos y aceptamos. Ahora repetimos el proceso dos  
+veces más. Para ello, directamente duplico el 
+nodo de media móvil dos veces. Segunda media,  
+200 periodos, exponencial aplicada al cierre, 
+color, por ejemplo, amarillo. Y la voy a poner  
+punteada. Tercera media también de 200 periodos 
+y exponencial aplicada en este caso al mínimo y  
+color por ejemplo pues rojo. Las tres cada una 
+con su grosor y color y estilo. En Trading Viw,  
+por ejemplo, necesitarías trucos con cintas de 
+media, pues, para no gastar los indicadores del  
+plan gratuito o del de pago. En Metatader 45 no 
+hace falta nada de eso. Añades el indicador tres  
+veces y listo. Y con estrato lo simplificamos aún 
+más porque directamente creamos todo en un único  
+indicador inteligente que te regalaré al final 
+del vídeo. Le doy a previsualizar y fíjate en  
+lo que acaba de aparecer en medio del gráfico. No 
+es una línea, es una zona, una franja de control  
+que envuelve el precio como el cauce de un río 
+envuelve el agua. Y esa es exactamente su función.  
+El canal tricolor no te dice cuándo entrar, 
+te dice hacia dónde fluye la corriente. Si el  
+precio cotiza por encima del canal, la corriente 
+es alcista. Si el precio cotiza por debajo, la  
+corriente es bajista. Es como intentar nadar en un 
+río. Puedes hacerlo a favor de la corriente o en  
+contra. A favor, cada abrazada te lleva más lejos. 
+En contra, te agotas para no avanzar nada. Y aquí  
+tienes el primer resultado tangible del vídeo. Con 
+solo esta capa ya puedes abrir cualquier activo  
+en cualquier temporalidad y leer la tendencia de 
+fondo en 3 segundos sin dibujar línea subjetiva,  
+sin discutir con nadie dónde está el soporte, el 
+canal está o no está, el precio está por encima o  
+por debajo. Fin. Objetivo, medible y binario, 
+que es exactamente lo que buscamos en trading  
+cuantitativo, reglas que una máquina podría 
+ejecutar. A esto se le llama especificación y  
+sin ella no tienes un sistema, no tienes un plan, 
+tienes intuición y subjetividad. Pero una brújula  
+sola no te da entradas, te da dirección. Para el 
+gatillo necesitamos las otras dos capas. Y aquí es  
+donde el sistema empieza a diferenciarse de todo 
+lo que hayas visto con medias móviles. Segunda  
+capa. Vamos a añadir cuatro medias móviles 
+exponenciales más en dos pares. Primer par,  
+el canal blanco, media exponencial de cinco 
+periodos aplicada al máximo y otra exponencial  
+de cinco periodos aplicada al mínimo. Las 
+dos en blanco y grosor de, por ejemplo, dos.  
+Segundo par, el canal azul, media exponencial 
+de 13 periodos aplicada al máximo y otra de 13  
+periodos también aplicada al mínimo, azul intenso 
+y grosor 2. Ahora tu gráfico tiene tres capas  
+de información y quiero que entiendas qué mide 
+cada una, porque si no esto solo es decoración.  
+Piensa en tu propio cuerpo. El canal blanco de 
+cinco periodos es tu pulso. Reacciona a todo.  
+Se acelera con cualquier susto. El canal azul 
+de 13 periodos es tu respiración. Más lenta,  
+más estable, marca el ritmo real del esfuerzo. 
+Y el canal tricolor de 200 es tu forma física  
+de fondo, lo que eres de verdad, no lo que te pasa 
+en un minuto. Un médico no diagnostica solo con el  
+pulso, cruza las tres señales. Nosotros igual. 
+En un impulso fuerte verás que el canal blanco  
+y el azul se solapan y viajan pegados. Eso es 
+normal. Lo interesante ocurre cuando se separan,  
+cuando el pulso se desincroniza de la respiración, 
+porque esa separación y el cruce que viene después  
+es lo que nos va a decir cuándo un retroceso ha 
+muerto y cuándo la tendencia principal se reanuda.  
+Esa interacción entre capas es la fuente 
+de la ventaja estadística de este sistema.  
+No una línea mágica, sino la relación entre 
+tres velocidades de lectura del mismo precio.  
+Con esto ya tienen la base del sistema montado. 
+Ahora falta lo más importante, las reglas para  
+ejecutarlo correctamente. Porque un gráfico bonito 
+sin reglas es un cuadro, no una estrategia. Y  
+esto es lo que nadie te cuenta de los sistemas de 
+medias móviles. Regla número uno, y es inamovible,  
+el canal tricolor es la ley. Precio por encima del 
+canal tricolor, solo consideramos largos. Precio  
+por debajo, solo cortos. Precio dentro del canal 
+no existes, no operas, no miras. Las oportunidades  
+grandes aparecen cuando el precio cruza el canal 
+de un lado a otro. Un cruce limpio de arriba a  
+abajo sugiere que el control ha cambiado de manos 
+y aquí viene la trampa en la que cae casi todo el  
+mundo. La reacción instintiva es operar ese cruce 
+directamente. Precio rompe el canal, entro. No,  
+mal. Te lo digo con 15 años de cicatrices y 
+experiencia en los mercados. Operar el cruce en  
+bruto es la forma más rápida de quebrar tu cuenta. 
+Mira esto. El precio perfora el canal y reingresa  
+violentamente. Lo perfora otra vez y se queda 
+atrapado en un lateral errático durante horas.  
+Es como el semáforo en ar. Parece que puedes 
+pasar. Técnicamente casi puedes pasar. Aceleras  
+un poco para pasar y se pone en rojo mientras 
+pasas. Y justo ahí es donde caen las multas. Hice  
+el ejercicio con dato real, porque yo no opino, 
+mido. Cogí varios años del euroólar en una hora  
+y conté los cruces del canal tricolor. Más de la 
+mitad fueron falsas roturas o laterales. Más de la  
+mitad. Si operas cada cruces, estás lanzando 
+una moneda con comisiones. Esto, por cierto,  
+es otra de las grandes diferencias entre análisis 
+técnico clásico y trading cuantitativo. El clásico  
+te enseña la señal. El cuantitativo cuenta cuántas 
+veces la señal miente y cuando la señal miente,  
+más de la mitad de las veces necesitamos filtros. 
+Por eso este sistema no opera el cruce. El cruce  
+es solo el aviso, la señal cero. A partir de 
+ahí arranca un protocolo de triple confirmación  
+que va a filtrar la mayoría de esas trampas. Y 
+ese protocolo es el corazón de este vídeo. Te  
+lo enseño ahora mismo, paso a paso. Primero en 
+corto y luego en largo. Un apunte rápido antes  
+del protocolo. Todo lo que estamos haciendo 
+hoy, definir reglas objetivas que una máquina  
+podría ejecutar es exactamente el primer paso para 
+convertir una estrategia en un bot que opere por  
+ti 247. es la parte de especificación necesaria 
+para ello. Si quieres recorrer ese camino entero,  
+tengo un training gratuito de 14 días donde 
+te llevo de cero a tu primer bot de trading  
+funcionando sin escribir ni una sola línea 
+de código. Lo tienes en el primer enlace de  
+la descripción y en el primer comentario 
+fijado, desde el cual podrás acceder a mi  
+comunidad privada de school totalmente gratis. 
+Y ahora sí, el protocolo. El protocolo de triple  
+confirmación funciona básicamente como un proceso 
+de selección de personal. No contratas a alguien  
+por el currículum. Miras el currículum, haces 
+la entrevista y pones un periodo de prueba.  
+Tres filtros. Si falla uno, no hay contrato. 
+Aquí igual tres confirmaciones y si falla una,  
+no hay operación. Vamos con el corto. Confirmación 
+uno, el currículum. El precio que venía en  
+tendencia alcista cruza con decisión. y cierra por 
+debajo del canal tricolor. Esa es la señal cero  
+y en ese momento no hacemos absolutamente nada, 
+salvo vigilar. En el escenario ideal, los canales  
+blanco y azul también se colocarán por debajo del 
+tricolor. Esto nos dice que la presión vendedora  
+es total. Confirmación dos, la entrevista. 
+Esperamos el pullback. El precio debe subir y  
+buscar de nuevo la zona del canal tricolor. Puede 
+tocar la línea inferior o incluso puede meterse  
+entre las tres líneas tricolor, no pasa nada, pero 
+hay una condición innegociable. Ninguna vela puede  
+cerrar por encima del límite superior del canal. 
+Si cierra por encima, la señal se invalida. Se  
+acabó. siguiente candidato. Y mientras el precio 
+rebota, vigilamos el pulso. La línea superior del  
+canal blanco debe estirarse por encima de la línea 
+superior del azul. El pulso ha acelerado al alza  
+mientras el precio respira. Confirmación tres, el 
+periodo de prueba. La entrada se activa cuando el  
+canal blanco cruza y cierra de vuelta por debajo 
+del azul. las dos líneas blancas por debajo de las  
+dos líneas azules. Visualmente el canal blanco 
+queda sumergido otra vez dentro del canal tras  
+haber tocado toda la zona del canal tricolor. 
+Ahí, solo ahí abrimos el corto. Aterricémoslo  
+con números reales. Imagina a un trader retail 
+típico que podría ser tú mismo con una cuenta,  
+por ejemplo, de 5000 € en Metatrader 5 en el 
+eurodólar en una hora. Ve el cierre bajo el canal  
+tricolor y espera. El precio retrocede. Toca la 
+línea inferior del canal, no cierra por encima. El  
+blanco se estira sobre el azul y cruza de vuelta 
+hacia abajo. El trader entra en corto. Esto por  
+encima del máximo del retroceso o ligeramente 
+sobre el canal tricolor si queda cerca.  
+Pongamos 35 pipi, por ejemplo. Arriesga el 1%, 
+50 € take profit a un ratio de 12, por ejemplo,  
+70 pips. Y ahora fíjate en esto porque es lo 
+que asusta a todo el mundo. Tras la entrada,  
+el precio vuelve hacia arriba, sube, parece 
+que va a por el stop, no lo toca ni de lejos  
+y después se desploma hacia el objetivo. Si has 
+ejecutado las tres confirmaciones, ese retroceso  
+incómodo es parte del guion, ¿no? una señal de que 
+algo va mal. El sistema te ha metido justo donde  
+los compradores tempranos quedaron atrapados. Ese 
+es el diseño. El largo es el espejo exacto. Misma  
+lógica invertida. Confirmación uno. El precio 
+cruza con fuerza de abajo hacia arriba y cierra  
+por encima del canal tricolor. La probabilidad se 
+inclina hacia los compradores, pero no entramos en  
+la rotura, nunca en la rotura. Es como el autobús, 
+no te subes en marcha porque lo ves pasar. Esperas  
+en la parada y te va a dejar en el mismo sitio, 
+solo que llegas de una pieza. Confirmación dos,  
+el pullback. El precio baja de nuevo a testear la 
+zona tricolor del soporte. Queremos que las velas  
+toquen o entren levemente en la zona tricolor, 
+pero que ninguna cierre por debajo del límite  
+inferior. Un cierre por debajo invalida todo. 
+Mientras cae el pulso debe reflejar esa caída.  
+Las líneas blancas se colocan por debajo de las 
+líneas azules. Confirmación tres. El impulso  
+alcista reaparece. Las dos líneas blancas cruzan 
+por encima de las dos azules. Ahí abrimos el  
+largo. Esto por debajo del mínimo del retroceso. 
+Objetivo 1 a 2. Y aquí hay un detalle que me  
+encanta de este tipo de ejemplos reales. Esta 
+compra surgió justo después del corto que acabamos  
+de ver. Misma temporalidad de una hora. El sistema 
+cerró el corto en objetivo, detectó el cambio de  
+estructura, esperó el testeo del soporte y ejecutó 
+el largo. Dos operaciones, las dos con regla  
+idéntica, cero interpretación para el trader del 
+ejemplo y sus 5,000 € estos son dos operaciones  
+de 50 € de riesgo con 100 € de objetivo cada una. 
+No es para jubilarse, es para hacer posible algo  
+mucho más valioso, la replicabilidad. Porque 
+fíjate en lo que acabamos de conseguir. Cada  
+regla que he dicho es binaria. Cierra o no cierra, 
+cruza o no cruza, por encima o por debajo. No hay  
+ni una sola decisión que dependa de tu ojo, de tu 
+intuición o de cómo hayas dormido hoy. Y eso que  
+parece un detalle estético es la diferencia entre 
+una estrategia aleatoria y un sistema robusto,  
+estable y rentable a largo plazo. Pero antes de 
+ver más ejemplo, necesito pararme 30 segundos  
+en algo incómodo. Esto es lo que nadie me contó 
+cuando empecé y me costó mucho tiempo entenderlo.  
+La diferencia entre un apostador y un profesional 
+no es la estrategia, es el registro. El apostador  
+recuerda sus operaciones, el profesional las mide. 
+Cuando comenzamos con cero o no la experiencia,  
+esperamos que la disciplina sea cuestión de fuerza 
+de voluntad, pero no lo es. La fuerza de voluntad  
+se agota, los datos no. Si vas a operar este 
+sistema a mano, necesitas apuntar cada operación.  
+¿Qué confirmación te metió? ¿Dónde pusiste el 
+stop? ¿Qué pasó y sin excepciones? Porque dentro  
+de un rato te voy a enseñar cifras de este sistema 
+sobre años de datos y esas cifras solo existen  
+porque se han registrado con cada operación. La 
+diferencia es que yo ya no cuento a mano, lo hace  
+la máquina y a eso llegamos enseguida. Antes 
+veamos el sistema protegiéndote en un gráfico  
+en tiempo real y también fallando, porque fallar 
+falla. Mira esta sección. El precio cae por debajo  
+del canal tricolor. Señal bajista. Retrocede hacia 
+la zona sin cerrar por encima. El blanco se estira  
+sobre el azul y cruza de vuelta hacia abajo. Corto 
+y el precio se desploma cumpliendo el 1 a dos  
+con holg. Poco después la estructura gira. Rotura 
+alcista del canal. Testeo del soporte. Las blancas  
+caen por debajo de las azules y cruzan hacia 
+arriba, largo y captura del ascenso. Pero ahora  
+fíjate en lo que el sistema no hace, porque ahí 
+está la mitad de su valor. En este tramo lateral,  
+el precio cruza el canal tricolor varias veces, 
+varios avisos, cero operaciones. ¿Por qué? Porque  
+en ninguno se completó la secuencia o el pullback 
+no cerró donde debía o los canales de impulso  
+nunca se alinearon. La triple confirmación 
+actúa como el filtro de spam de tu correo.  
+La mayoría de la basura ni siquiera llega a tu 
+bandeja de entrada. Tú no tienes que decidir  
+nada. El filtro decide por ti. Y aquí es donde 
+se pone interesante, porque debemos ser honestos,  
+las cosas son como son. Este sistema tiene un 
+punto ciego y quien te venda lo contrario te  
+está mintiendo a la cara. En laterales muy largos 
+y estrechos, algunas secuencias sí se completan y  
+generan señales falsas encadenadas. El precio hace 
+toda la coreografía, cumple las señales y entra,  
+pero te saca en el stop dos, tres y hasta cuatro 
+veces seguidas. En mis pruebas, los periodos de  
+rango prolongado concentran la mayor parte de 
+las pérdidas del sistema. Es el mismo problema  
+que ataco en este canal con herramientas como, 
+por ejemplo, el Zore o la detección de régimen.  
+Los filtros estadísticos existen precisamente 
+porque ningún sistema de tendencia sobrevive  
+sin saber cuándo apagarse y uno de los dos matices 
+del final ataca exactamente ese punto ciego con un  
+número concreto. Pero primero deja que te enseñe 
+de dónde salen las cifras que te voy a dar. Todo  
+lo que hemos definido hoy son reglas binarias y 
+las reglas binarias tienen una propiedad preciosa,  
+se pueden automatizar. Yo este sistema no lo 
+validé mirando gráficos atrás o contando a ojos,  
+evidentemente, porque el ojo humano hace trampa, 
+ve señales buenas y olvida las malas. Lo monté  
+como un bot en estrato, sin escribir ni una 
+línea de código, definiendo exactamente las  
+reglas que te he contado, los tres canales, 
+las tres confirmaciones, el stop y el 1 a dos.  
+y lo lancé contra años de datos en el eurodólar, 
+conectado a data de calidad institucional dentro  
+de estratos. Es como pasarle la revisión en el 
+taller al coche antes de irte a hacer un viaje  
+largo. Puedes mirar el motor por encima y decir 
+que lo ves bien, eso sería el back testing a ojo.  
+O puedes enchufarlo en la máquina y que te diga 
+lo que tiene de verdad. Eso es el back test. 640  
+operaciones simuladas, cada una registrada, 
+medida y auditada. De este back test salen  
+las cifras de la revelación que viene ahora. Si 
+quieres aprender a hacer esto mismo con cualquier  
+estrategia y aprender las bases del trading 
+cuantitativo, te dejo el enlace a mi comunidad  
+privada de school en el primer comentario fijado y 
+en la descripción. podrás acceder gratuitamente a  
+una formación de 14 días donde te enseño desde 
+cero a tu primer bot de trading. Y ahora sí,  
+los matices que te prometí al principio, los 
+que separan la versión que pierde de la que se  
+sostiene. Estas son las dos versiones del sistema. 
+Misma estrategia, mismos años y mismos datos. La  
+versión en bruto, tal cual la hemos descrito. 
+Mira el porcentaje de acierto, expectativa  
+negativa. El R por debajo de cero por operación. 
+Pierde dinero de forma lenta y educada. Ahora la  
+versión con filtros personalizados, añadido 
+y optimizada. Mayor porcentaje de aciertos,  
+expectativa positiva con un R por operación mayor, 
+dedown máximo menor y sobre todo estable. Y todo  
+esto se refleja evidentemente en el resultado. 
+Fíjate en la curva del equity ascendente. Los  
+mismos canales, la misma estrategia, las mismas 
+reglas. La diferencia entera está en dos reglas.  
+Matiz número uno, el filtro de anchura. Antes de 
+aceptar cualquier señal, mide la distancia entre  
+la EMA del máximo y la EMA del mínimo del canal 
+tricolor. Compárala con el ATR de 14 periodos.  
+Si la anchura del canal es menor que 0,8 veces, 
+el ATR no opera. Fin. Un canal estrecho y plano  
+significa un mercado sin dirección. Y ahí es donde 
+vive el punto ciego que vimos antes. Es como la  
+presión de los neumáticos. Por debajo de un umbral 
+concreto no discutes, no interpretas directamente,  
+no sales a la autopista. Solo este filtro 
+eliminó casi la mitad de las señales falsas  
+de los laterales. Matiz número dos, la regla del 
+1%, pero hay que entenderla como matemática y no  
+como un eslogan de trading. Con un porcentaje 
+de aciertos como este en 600 operaciones,  
+es prácticamente seguro que encadenará rachas de 
+ocho o 10 pérdidas seguidas. Y no será mala suerte  
+o que el sistema haya dejado de funcionar. Es 
+simplemente estadística básica. Arriesgando el 1%,  
+esa racha te cuesta aproximadamente un 8% de la 
+cuenta. Incómodo recuperable. Arriesgando un 5%,  
+la misma racha te destruye un tercio del capital y 
+ya necesita un 50% de ganancia solo para volver al  
+punto más o menos en el que estabas inicialmente. 
+Imagina un caso típico de un trader con 20,000 €  
+al 1%. La racha le deja en 18,400. y sigue 
+operando relativamente tranquilo. Al 5% cae  
+por debajo de 13,500 y probablemente abandone el 
+sistema justo antes de que se recupere. La misma  
+estrategia, dos destinos totalmente diferentes 
+por aplicar gestiones diferentes. Y ojo, nada de  
+esto es una promesa de rentabilidad, es un back 
+test, es pasado y el mercado no firma contratos  
+con nadie. Lo que te llevas hoy no es una máquina 
+de imprimir dinero, es un sistema completo con  
+reglas objetivas, un filtro cuantitativo para su 
+punto ciego y la gestión de riesgo que te permite  
+sobrevivir a sus malas rachas. Lo que te llevas 
+es conocimiento real y objetivo, que te acerca  
+un paso más a tu objetivo de ser rentable. Eso 
+es lo máximo que un profesional honesto puede  
+darte y es muchísimo más de lo que da el 90% en 
+este sector. Recapitulemos el loop que abrimos  
+al principio. De 2,500 configuraciones, esta 
+última fue la única que sobrevivió. Y ahora,  
+¿sabes por qué? No por los canales, sino por los 
+matices, el filtro de anchura y el 1% matemático.  
+Si quieres convertir esta reglas en tu primer bot 
+sin programar, apúntate al entrenamiento gratuito  
+de 14 días que tienes en el primer enlace de 
+la descripción y el primer comentario fijado.  
+Empezamos desde cero y en dos semanas tienes tu 
+primer sistema corriendo en Metatrader. Y una cosa  
+más, el filtro de anchura es la versión sencilla 
+de un problema mucho más profundo. Saber en qué  
+régimen está el mercado antes de operar. Tengo 
+un vídeo entero sobre detección de régimen y el  
+filtro que decide cuándo un sistema como este 
+debe apagarse. Lo tienes aquí en pantalla. Es  
+el siguiente paso lógico que debe seguir para 
+ser rentable en el trading. Nos vemos dentro.
+he

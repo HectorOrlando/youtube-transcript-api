@@ -1,0 +1,494 @@
+Titulo              : Gestión de riesgos: el único manual que necesitas para no quemar tu cuenta
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-13
+Duracion            : 25:35
+Vistas              : 580
+URL                 : https://www.youtube.com/watch?v=JmtvLLhmp9g
+----------------------------------------------------------------------
+
+Entre el 74 y el 89% de las cuentas minoristas de 
+trading pierden dinero. Dato oficial del regulador  
+europeo. Y si te dijera que la mayoría no pierde 
+por su estrategia, hoy te doy el marco completo de  
+gestión de riesgos que uso en uno de mis propios 
+sistemas con números concretos para tu cuenta,  
+porque el mercado solo necesita pillarte una 
+vez y cada semana que estás operando sin esto  
+es una semana tirada de datos. Me llamo Ignacio, 
+soy graduado en ADE, ingeniero informático y llevo  
+más de 15 años ejerciendo como analista de mercado 
+y operando en los mismos como trader cuantitativo.  
+Y vivo con voz de trading que yo mismo diseño, 
+construyo y valido. Y todo lo que sigue  
+funcionando en mi operativa y me permite realizar 
+retiros mensuales se sostiene sobre una sola cosa,  
+la gestión de riesgo. Esto es lo que vamos 
+a construir hoy. Primero, los números reales  
+del trading, los que casi nadie te enseña 
+al principio. Segundo, el riesgo de ruina,  
+el concepto que lo gobierna todo. Tercero, cuánto 
+arriesgar exactamente en cada operación. Cuarto,  
+las reglas automáticas que usan las firmas 
+profesionales. Quinto, cómo validar tus números  
+para no autoengañarte a ti mismo. Sexto, los 
+multiplicadores que destrozan cuentas. Y al final  
+te daré el marco completo en tres niveles con 
+cifras concretas. Listo para copiar. Como siempre,  
+esto no es asesoramiento de ningún tipo. Todo 
+el contenido tiene únicamente fines educativos,  
+por lo que no voy a prometerte el Lambo mañana en 
+tu puerta, pero sí puedo prometerte que saldrá de  
+esta masterclass sobre gestión con mucho más 
+conocimiento y será un conocimiento de alto  
+valor que te acercará a tu meta financiera a la 
+velocidad de la luz. Empezamos. Vamos a poner  
+los pies en el suelo antes de construir nada. 
+Solo el 13% de los traders retail mantiene  
+rentabilidad consistente durante 6 meses y apenas 
+un 1% sigue siendo rentable al cabo de 5 años.  
+Hay un estudio que me parece demoledor, se hizo 
+en Brasil sobre uno de los mercados de futuro más  
+líquidos del mundo. Siguieron a todas las personas 
+que empezaron a hacer trading entre el 2013 y el  
+2015. A todas de quienes persistieron más de 300 
+días, el 97% perdió dinero. Solo el 1.1% ganó más  
+que el salario mínimo del país y no hace falta 
+irse tan lejos. La ESMA, el regulador europeo,  
+publica que entre el 74 y el 89% de las cuentas 
+minoristas pierden dinero con pérdidas media entre  
+1600 y 29,000 € por trader. La FCA británica 
+da un 80%. son datos de los propios brokers,  
+no de un canal de YouTube. ¿Y por qué empiezo por 
+aquí? Porque estos números cambian el objetivo del  
+juego. Tu primer objetivo en trading no es ganar 
+dinero, es sobrevivir. El mercado solo necesita  
+eliminarte una vez para que sea definitiva. Y aquí 
+va la primera pieza de valor de la clase de hoy,  
+la que quiero que apunte ya. Las pérdidas no son 
+simétricas. Si tu cuenta cae un 10%, necesitas  
+un 11% para recuperarte. Bueno, parece asumible. 
+Si cae un 50%, necesitas un 100%. Si cae un 80%,  
+necesitas un 400%. Y si cae un 90%, necesitas 
+un 900% solo para volver al punto de partida.  
+Es básicamente como excavar un hoyo. Cavar hacia 
+abajo es rápido y apenas cuesta esfuerzo. Solo  
+cavas y cabas. Es sencillo, pero cuando miras 
+hacia arriba y te das cuenta de que para salir  
+necesitas construir una escalera y cada metro de 
+profundidad te exige muchísimo más trabajo del que  
+te costó bajarlo, todo es un problema. Por eso los 
+profesionales no nos obsesionamos con ganar más,  
+nos obsesionamos con no caer en un hoyo profundo. 
+Y ahora te dejo una deuda pendiente. Hay un error  
+matemático muy concreto que comete casi todo 
+el principiante. Un error que consigue algo  
+aparentemente imposible. Arruinar una cuenta 
+operando un sistema ganador, incluso con una  
+ventaja estadística ganadora real. y te lo 
+voy a enseñar dentro de unos minutos porque  
+para entenderlo primero necesitas el concepto 
+más importante de toda esta clase. Ese concepto  
+se llama riesgo de ruina. ¿Y qué es el riesgo de 
+ruina? Te lo explico rápido. Es la probabilidad de  
+que tu cuenta alcance un nivel de pérdida que 
+te obligue a dejar de operar. Fin. Game over.  
+En los modelos cuantitativos, esa ruina se suele 
+definir como un drynow de entre el 25 y el 50%  
+del capital. Fíjate, no hace falta llegar a cero 
+para estar fuera del juego. Con perder la mitad  
+o un poco menos, la mayoría ya ni se levanta, ni 
+financiera ni psicológicamente. Como has podido  
+ver en este punto, tu hoyo es tan profundo que ya 
+no puede salir. Matemáticamente estás arruinado.  
+La fórmula clásica depende de dos cosas. La 
+primera es tu ventaja, tu age se calcula así,  
+porcentaje de acierto por ganancia media 
+porcentaje de fallo por pérdida media. Si  
+el resultado es positivo, tienes una ventaja. La 
+segunda es en cuántas unidades divides tu capital,  
+es decir, cuánto arriesgas por operación respecto 
+a tu capital total. Y aquí viene la conclusión que  
+lo cambia todo. Cuantas más unidades, más se cae 
+tu probabilidad de ruina. Aunque tu sistema sea  
+exactamente el mismo, con la misma estrategia, el 
+mismo tamaño de apuesta, decide si sobrevive o no,  
+aunque tú no seas consciente de ello o no, todo 
+lo consciente que debería serlo del efecto real  
+que tiene. La investigación clásica sobre el 
+riesgo de ruina muestra algo muy claro. Cuando  
+arriesgas más por operación, incluso un sistema 
+con esperanza matemática positiva puede tener una  
+probabilidad de ruina muy alta en pocas centenas 
+de operaciones. Por eso muchos profesionales  
+trabajamos con un riesgo de ruina por debajo 
+del 5% y muchos fondos incluso por debajo del  
+1%. Pero vamos a aterrizarlo todo. Imagina un 
+trader típico, que bien podrías ser tú. Este  
+trader tiene, por ejemplo, $10,000 y un sistema 
+con una ventaja real, 50% de acierto y gana 1.5  
+veces lo que pierde, un buen sistema. Este trader 
+arriesga el 5% por operación, es decir, unos 500  
+porque quiere ir rápido, no está suscrito a mi 
+canal y aún no sabe que la velocidad máxima para  
+ser rentable es hacer las cosas bien. Partimos 
+del elefante en la habitación del que nadie en el  
+sector retail te quiere hablar y que debes conocer 
+si quieres dedicarte a esto. En una secuencia  
+larga de operaciones, las rachas de pérdida son 
+inevitables y no es mala suerte ni que el sistema  
+no funcione en matemáticas. Tras esa racha, 
+nuestro trader, por ejemplo, tiene unos $6,600.  
+Su cuenta de trading ha caído un 34% y necesita 
+un 51% de acierto solo para volver a empezar,  
+para volver al punto de partida y restablecer el 
+juego. ¿Crees que ese trader o tú mismo vais a  
+seguir vuestro plan con la cabeza fría después de 
+eso? Ahora el mismo trader con el mismo sistema,  
+arricando el 1%, por ejemplo, $100 por operación. 
+La misma racha de ocho pérdidas consecutivas  
+te deja la cuenta con una reducción del 7.7%. 
+Incómodo, sí, pero recuperable. Mismo sistema,  
+misma racha, dos escenarios totalmente opuestos. 
+Todo por un dato que a simple vista parece tan  
+insignificante, pero que tiene el poder de decidir 
+sobre tu futuro en el trading. Arriesgar demasiado  
+por operación es como comprometerte cada mes a un 
+gasto tan grande respecto a tu sueldo que tras 3  
+meses malos te deja sin pagar el alquiler. Y no 
+te engañes, el problema no es el mes malo, es que  
+el tamaño del compromiso en los meses anteriores 
+no te dejaba margen para que el mes malo pudiese  
+existir. Pero aquí es donde se pone interesante. 
+Hasta ahora hemos hablado de cuánto puedes perder,  
+pero la pregunta de verdad es, ¿cuánto deberías 
+arriesgar exactamente en cada operación para no  
+quebrar más pronto que tarde. Y la respuesta que 
+da casi todo el mundo está mal. Te dije que te  
+compartiría un error que comete muchos traders 
+y le cuesta muy caro. El error matemático que  
+arruina cuentas con sistemas ganadores es este, 
+decidir el tamaño de la posición antes de decidir  
+el stop. La mayoría de principiantes opera 
+siempre el mismo lote. La verdad nunca lo he  
+entendido. Es como si se familiarizasen con 
+ese lotaje y lo operasen siempre. 0,1 o 0,5  
+o un lote entero. Da igual dónde esté el stop, 
+da igual la volatilidad y da igual el capital.  
+Y eso significa que su riesgo real por operación 
+es una lotería. No hay ningún tipo de cálculo real  
+ni mucho menos profesional detrás de ese lotaje. 
+Y si algún día lo hubo, hace ya tanto que está  
+superdesactualizado. Un día arriesgan el 1% sin 
+saberlo, otro día el 8% si la operativa que ven  
+pues parece más prometedora de lo habitual. Y 
+con lo que acabamos de ver del riesgo de ruina,  
+ya sabes cómo termina eso inevitablemente. La 
+solución para este mal del sector retail es el  
+modelo de porcentaje fijo, el estándar tanto en 
+trading discrecional como en sistema automático.  
+Y funciona así. Primero decides qué fracción de 
+tu capital arriesgas por operación. Para que tenga  
+algo aproximado, los rangos profesionales van del 
+0,25 al 2%. Segundo, define dónde está tu stop, el  
+punto donde tu idea queda invalidada. Y tercero, 
+calculas el tamaño, el riesgo en euro, en dólares,  
+en lo que quiera, dividido entre la distancia al 
+stop. Ejemplo, cuenta de $20,000, riesgo del 1%,  
+$200. Si tu stop está a por acción, compra 200 
+acciones. Si el stop tiene que ir a 4 porque el  
+gráfico te lo pide, pues compra 50. El riesgo es 
+siempre el mismo. Lo que cambia es el tamaño. Es  
+exactamente como dosificar un medicamento. La 
+dosis no es fija, se calcula según el peso del  
+paciente. Nadie le da la misma pastilla a un niño 
+de 20 kg que a un adulto de 90. Pues el lote fijo  
+es eso, la misma dosis para todos los escenarios, 
+sin importar si algún paciente muere o sufre por  
+sobredosis. Y ahora la pregunta ambiciosa. ¿Existe 
+un tamaño matemáticamente óptimo? Sí. Y se llama  
+criterio de Kelly. La fórmula dice Kelly es igual 
+a W -1 - W dividido R. Para que nos entendamos  
+todos, el criterio de Kelly dice básicamente que 
+la fricción óptima es igual a la ventaja esperada.  
+ajustada por tu ratio beneficio pérdida. Hagamos 
+cuenta con un sistema bueno. 55% de acierto,  
+ratio de 1.5. Kelly te da aproximadamente un 25% 
+del capital por operación. Eso es full Kelly y  
+suele ser demasiado agresivo para el trading real. 
+Con cuatro operaciones malas, adiós a la cuenta.  
+Por eso los profesionales usamos Kelly fraccional 
+o Kelly fractal, media Kelly, un cuarto de Kelly  
+o incluso menos. Y aún así con cautela porque tu 
+acierto y tu ratio salen de una muestra finita  
+y un pequeño error de estimación cambia mucho 
+el resultado. Kelly es como el límite técnico  
+de velocidad de tu coche. Que pueda ir a 220 
+no significa que debas ir a 220. Con lluvia de  
+noche y con tu familia dentro seguro que conduce 
+por debajo de ese límite. Mi criterio práctico,  
+entre el 0.5% 5% y el 1% por operación con Kelly 
+como techo teórico que normalmente no vas a tocar.  
+Ya sabemos dimensionar una operación, pero aquí 
+viene la complicación. Ninguna operación existe  
+sola. Existen los días malos, las semanas malas 
+y las rachas malas. Y para eso necesita reglas  
+a nivel de cuenta. Reglas del tipo sí. Entonces, 
+decidida en frío y ejecutada en automático.  
+Te enseño cómo lo hacemos los profesionales que 
+arriesgamos capital de verdad real todos los días.  
+Incluso las prof, las empresas de cuenta fondeada 
+imponen límites estrictos a sus trader. Una cuenta  
+típica de $100,000 suele llevar, por ejemplo, un 
+límite de pérdida diaria de unos 3,000 a 5,000.  
+Si lo superas, cuenta suspendida fuera. Y fíjate 
+en la trampa de esas empresas que incluso incluyen  
+en sus formaciones, porque el detalle es oro. 
+Si tu límite diario es de 2000 y arriesgas 1000  
+por operación, tienes cero margen de error, dos 
+fallos y estás en la calle. Por eso recomiendan  
+arriesgar entre el 1 y el 2% del límite diario por 
+operación, por ejemplo, 20 o $0 sobre un límite de  
+2,000. Así una mala racha no te expulsa del juego. 
+Imagina un trader típico que acaba de conseguir  
+una cuenta de fondeo de, por ejemplo, 100000. Su 
+escalera de regla debería ser algo así. Si en el  
+día llega a -1500, la mitad del límite reduce el 
+tamaño de todas sus posiciones al 50%. Si toca  
+los 3,000 de pérdida diaria, cierra todo y no 
+opera más ese [música] día sin debate. Si alcanza  
+límite semanal, opera la semana siguiente a la 
+mitad de tamaño mientras revisa sus operaciones.  
+Y si toca el límite mensual, para varios días y 
+hace una auditoría completa de su operativa. ¿Por  
+qué tan rígido? Porque estas reglas no protegen 
+solo tu capital, protegen tu calidad de decisión.  
+Un trader frustrado operando por venganza 
+ya no opera con su valor esperado normal,  
+opera con otro peor y no se da cuenta en tiempo 
+real. Estas reglas son como el diferencial del  
+cuadro eléctrico de tu casa. Cuando hay un 
+cortocircuito, tú no decides si cortar la luz,  
+salta solo. Se decidió al instalarlo en frío, 
+precisamente porque en el momento del fallo  
+nadie está en condiciones de decidir bien. Y si 
+operas con bot, esto tiene una ventaja enorme,  
+porque estas reglas se pueden codificar. Riesgo 
+máximo diario, exposición máxima por instrumento,  
+desconexión automática al superar un dryown, 
+etcétera, etcétera. El sistema se apaga solo,  
+sin negociar contigo, que es exactamente 
+lo que hacen las mesas profesionales,  
+colocar las barreras fuera del trader en la 
+infraestructura, porque asumen que hasta el  
+mejor trader del mundo en su peor día es un 
+peligro para su propia cuenta. Y esto es lo  
+que nadie me contó cuando empecé. Puedes tener 
+todas estas reglas perfectas. y aún así engañarte,  
+porque los números sobre los que las construyes 
+pueden ser mentiras. Vamos con la parte que separa  
+a un aficionado de un profesional. Todo tu marco 
+de riesgo se apoya en datos, tu porcentaje de  
+acierto, tu ratio, tu dedown esperado, etcétera. 
+¿Y de dónde sale? Del back test y del pipeline  
+de validación que todo bot de trading debe 
+superar antes de ir a real. Si el back test  
+y el pipeline están mal hechos, todo lo demás 
+es un castillo construido sobre arena movediza.  
+Estas son las condiciones mínima para fiarte 
+de un back test. Primero, muestra suficiente,  
+al menos 100 operaciones y preferiblemente 200 
+o más. Con 30 o 50 trades no tienes estadística,  
+tienes anécdotas. Segundo, historial suficiente. 
+Dos o tres años de datos para una estrategia de  
+intradía suele ser lo aceptable y que el periodo 
+incluya regímenes distintos, tendencia alcista,  
+mercado bajista, lateral, etcétera. Un sistema 
+probado solo en un mercado alcista es un sistema  
+que solo sabe hacer una cosa bien. Tercero, y aquí 
+cae casi todo el mundo, los costes, comisiones,  
+spread, deslizamiento, etcétera. Te pongo un caso 
+de los que veo constantemente. Un bot de scalping  
+con 300 operaciones y un Profit Factor del 1.6 
+en bruto. Precioso. Perfecto. Metes el spread,  
+el enlipaje realista y se queda en 0.9. Perdedor, 
+el mismo bot. Hacer un backter test sin costes  
+es como presupuestar una reforma sin IVA y sin 
+impuesto. El número te encanta, pero no es el que  
+vas a pagar realmente. Cuarto, validación fuera de 
+muestra. Reserva en torno al 30% de los datos que  
+el sistema no haya visto durante la optimización. 
+Si funciona en lo que conoce y se derrumba en lo  
+que no, has fabricado una máquina de memorizar, no 
+de operar. Y cuidado con los resultados demasiado  
+bonitos, porque un factor de beneficio por 
+encima de dos con pocas operaciones suele oler  
+a sobreajuste. Entre 1.3 y 1.8 con una muestra 
+grande es un territorio relativamente sano.  
+Y quinto, la joya, la simulación de Montecarlos 
+consiste básicamente en barajar los resultados de  
+tu sistema miles de veces, como quien baraja las 
+mismas cartas para ver todos los órdenes posibles,  
+las mismas operaciones en secuencia distintas. 
+De ahí sale la distribución real de tus dry down  
+posibles. Si en una parte relevante de esos 
+escenarios el dryown supera el límite de ruina,  
+no cambia la estrategia. Bajas el tamaño hasta que 
+las simulaciones lo respeten, hasta que respeten  
+tu umbral. En esencia, así es como dimensiono yo 
+mis sistemas en estrato, donde la capa de riesgo  
+va separada de la lógica de entrada. Y ese diseño 
+es la lección, porque el AG y la protección son  
+módulos distintos. Pueden mejorar uno sin romper 
+el otro. La señal propone, el riesgo dispone. El  
+pipeline de validación que utilizo en mi bot 
+es algo más complejo, pero si no haces nada,  
+solo con aplicar este proceso que te acabo de 
+compartir, vas a notar una gran mejoría en tus  
+resultados. Antes de continuar con el vídeo, 
+quiero recordarte que en el primer comentario  
+fijado tienes un enlace para unirte a mi comunidad 
+privada de school totalmente gratuita. Dentro he  
+creado una formación de 14 días totalmente 
+gratis donde te enseño a crear tu primer bot  
+y te comparto alguna de las estrategias que me 
+han permitido ser rentable en la última década.  
+Al unirte vas a tener acceso totalmente gratuito 
+a un ecosistema de networking donde compartirás  
+espacio con personas como tú que quieren avanzar 
+y crecer, aparte de con ingenieros informáticos,  
+matemáticos y traders profesionales que avanzan 
+en tu misma dirección y que van a potenciar tu  
+evolución técnica. Haz clic en el enlace del 
+primer comentario para unirte. Nos vemos dentro  
+y ahora sí seguimos con el vídeo. Nos queda hablar 
+de los multiplicadores, los productos y decisiones  
+que amplifican todo lo anterior para bien y sobre 
+todo para mal. El primero es el apalancamiento,  
+ese cuchillo de doble filo que tantas cuentas ha 
+ayudado a quebrar. Para calibrar su peligro. No  
+hace falta mi opinión. Basta mirar lo que hizo 
+el regulador. La ESMA limitó el apalancamiento  
+minorista en Europa por niveles de riesgo. 
+30 a un para los grandes pares de divisa,  
+20 a un para oro y grandes índices, 10 a un para 
+otras materias primas, 5 a un para acciones y solo  
+2 a un para criptomonedas. Léelo al revés y tienes 
+un ranking oficial de peligrosidad. Junto a eso,  
+cierre de margen, protección de saldo negativo 
+y la advertencia obligatoria del porcentaje  
+de clientes que pierden. El regulador tuvo que 
+poner el cinturón porque nadie se lo ponía solo.  
+El apalancamiento es como un amplificador. Sube la 
+música, sí, pero sube exactamente igual el ruido.  
+Y en cripto, por ejemplo, donde ese cinturón 
+no existe, ya sabemos qué pasa. Solo en 2021  
+se liquidaron unos 80.000 millones de dólares 
+en posiciones de derivado de chain, es decir,  
+más de 200 millones al día de media. Imagina al 
+trader medio cómo terminó por no gestionar su  
+riesgo correctamente. Con apalancamientos elevados 
+que tanto gustan a los retail, un movimiento en  
+contra de menos del 10% que en cripto ocurre en 
+una tarde cualquiera y su posición se liquida  
+entera. Game over. No salta un stop. desaparece 
+la cuenta completa. Segundo multiplicador,  
+las opciones DTE, las que vencen en el mismo día. 
+FinRA ha publicado advertencia específica sobre  
+ella y un estudio académico reciente estima que 
+los trader retail pierden de media unos $241,000  
+al día en este instrumento y con tendencia al 
+alza. Beneficio rápido y pérdida rápida son  
+la misma moneda. Tercero, los cortos. Cuando 
+compras un contrato en el oro, por ejemplo, sin  
+apalancamiento, tu pérdida máxima es lo que hayas 
+invertido. Cuando vendes en corto, la pérdida  
+teórica no tiene techo, porque el precio puede 
+subir sin límite. Esa simetría exige tamaños más  
+conservadores. No puedes arriesgar lo mismo en las 
+compras que en las ventas porque no tiene sentido.  
+Y el cuarto es el que casi nadie usa, retirar 
+beneficio. El dinero dentro de la cuenta de  
+trading sigue estando en riesgo siempre. Sacarlo 
+periódicamente, por ejemplo, un 25% de la ganancia  
+al final de mes es gestión de riesgo pura. Yo hago 
+retiros mensuales aunque no necesite el dinero.  
+Siempre se puede invertir en otros sectores. 
+Diversificar es una de las claves del ahorro.  
+Es como pasar dinero de la cuenta que usa a diario 
+a un depósito que no toca. Sigue siendo tuyo,  
+pero ya no está expuesto a tu siguiente decisión. 
+Y créeme, operar sabiendo que parte del progreso  
+ya está asegurado te da una frialdad que ninguna 
+técnica te va a dar. Yo esperaba cerrar aquí, pero  
+falta la pieza que lo une todo. El marco completo 
+con números concretos, listo para copiar en tu  
+operativa hoy mismo. Vamos a por él. Este es el 
+marco de riesgo en tres niveles que resume toda la  
+clase. Apúntalo porque es lo que yo aplicaría hoy 
+a cualquier cuenta retail. Nivel uno, las reglas  
+inquebrantables, las que protegen tu supervivencia 
+y no se negocian jamás. Dri máximo total del 10%  
+sobre el máximo de la cuenta. Si se toca, parada 
+completa y auditoría del sistema. A ver qué es lo  
+que está pasando. Pérdida diaria máxima del 2%. 
+Si se alcanza se cierra todo y se acabó el día  
+de trading. Pérdida semanal máxima del 5%. Si se 
+alcanza la semana siguiente, se opera a la mitad  
+del tamaño y retirada periódica de beneficios 
+cuando la cuenta marca nuevos máximos. Nivel dos,  
+la regla de estrategia. Riesgo por operación de 
+entre 0.5 y el 1% del capital, nunca por encima  
+del 2%. Riesgos de ruina simulado por Montecarlo, 
+por debajo del 5% e idealmente del uno. Si no  
+lo cumple, se baja el tamaño, no se retoca la 
+estrategia. Límite de exposición correlacionada,  
+nunca más de tres posiciones abiertas que dependan 
+del mismo movimiento. Y para botch, desconexión  
+automática si el dry down en real supera una 
+vez y media el máximo del back test, porque  
+eso significa que el mercado ya no es el que tú 
+probaste. Nivel tres, las reglas de operación.  
+Stop definido antes de entrar en el punto donde 
+la idea queda invalidada. Tamaño calculado siempre  
+como riesgo en euros, en dólares, como quiera y 
+dividido entre la distancia del stock. Y nada,  
+entra en real 100 operaciones de back test con 
+costes y validación fuera de muestra. Vamos a  
+aterrizarlo todo en una cuenta de $5,000, que es 
+donde está la gran mayoría de la gente que puede  
+estar viendo este vídeo. Riesgo por operación $50, 
+pérdida diaria máxima 100. Dos operaciones malas  
+y se acabó el día. Pérdida semanal $250. y línea 
+roja absoluta en 4,500. Si la cuenta llega ahí, se  
+para todo y se revisa desde cero. Con este marco, 
+una racha de ocho pérdidas te cuesta menos del 8%.  
+Molesta, sí, pero no te saca del juego. Y ahora la 
+parte honesta, porque debo decírtela, este marco  
+no te hace rentable. No existe marco alguno que 
+garantice rentabilidad y quien te prometa lo  
+contrario te está mintiendo descaradamente a la 
+cara. seguramente para quedarse con tu dinero de  
+alguna forma poco ética. Lo que hacen estas reglas 
+es otra cosa. Garantizan que ningún día ninguna  
+racha y ningún producto te expulse del mercado 
+antes de que tu ventaja, si la tienes y la has  
+validado, tenga tiempo de manifestarse. Recuerda 
+el 13% y el 1% del principio. La diferencia entre  
+estar dentro o estar fuera de esa minoría casi 
+nunca es la estrategia. es esto. Y con esto  
+queda cerrada la pregunta con la que abrimos. La 
+mayoría no pierde por su estrategia, pierde por  
+operar sin este marco. Tú ya lo tienes. Si quieres 
+dar el siguiente paso y convertirlo en un sistema  
+automático con las reglas de riesgo codificadas 
+para que se ejecuten solas y comenzar hoy mismo  
+a sembrar las bases profesionales de tu futuro 
+como trader algorítmico cuantitativo, tienes mi  
+formación gratuita de 14 días de cero a tu primer 
+bot en mi comunidad. privada de Schools. El enlace  
+está en la descripción, el acceso es gratis. Y 
+si quieres ver este marco funcionando de verdad,  
+quédate con el vídeo que te dejo en pantalla. 
+Construyo un botía desde cero, paso a paso,  
+para ayudarte a automatizar el groso de la gestión 
+de la operativa. Nos vemos dentro. [música]

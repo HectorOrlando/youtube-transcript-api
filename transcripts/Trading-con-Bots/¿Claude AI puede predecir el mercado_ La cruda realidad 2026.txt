@@ -1,0 +1,351 @@
+Titulo              : ¿Claude AI puede predecir el mercado? La cruda realidad 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-30
+Duracion            : 18:00
+Vistas              : 718
+URL                 : https://www.youtube.com/watch?v=H2RRlzPncx4
+----------------------------------------------------------------------
+
+Si en 2026 alguien te promete que con Cloud u otra 
+IA vas a conseguir un bot de trading rentable,  
+no te está enseñando tecnología, te está 
+anunciando en voz alta que te va a estafar.  
+En este vídeo te voy a demostrar de forma empírica 
+por qué Cloudve como solución mágica para trading,  
+cómo se ha montado la estafa de moda alrededor 
+de la IA y te voy a dar criterios profesionales  
+y datos oficiales para que puedas detectar 
+estas trampas antes de que te roben el dinero  
+por desconocimiento. No voy a enseñarte un 
+bot milagroso ni un alumno que pasó de 2000  
+a 75,000 € con Cloud. Te voy a enseñar cómo 
+piensan de verdad los traders cuantitativos.  
+¿Qué dicen los reguladores sobre este tema y qué 
+están advirtiendo empresas como Xperian sobre las  
+estafas masivas con IA en el sector retail? Si te 
+quedas hasta el final del vídeo, vas a salir de  
+aquí con un filtro mental que, sinceramente, 
+te puede ahorrar unos años de frustración y  
+varios ceros de pérdida. Si te interesa el trading 
+cuantitativo y quieres protegerte de la moda Cloud  
+más trading este 2026, suscríbete ahora porque lo 
+que voy a contarte no le interesa nada a quienes  
+viven de venderte cursos milagros. Para que 
+entiendas, no soy un hater de la IA ni muchísimo  
+menos. Todo lo contrario. Trabajo todos los días 
+con modelos como Cloud. He construido cientos de  
+sistemas automatizados de todo tipo. Como analista 
+profesional de mercado e ingeniero informático,  
+me gano la vida en el cruce entre el software 
+y trading cuantitativo. Precisamente por eso sé  
+lo que estas herramientas pueden hacer y lo 
+que jamás van a poder hacer. A lo largo de  
+este vídeo voy a citar informes reales como el 
+futur o Fraud forecast de Xperia que alerta de  
+que en 2025 los consumidores perdieron 12,500 
+millones de dólares en estafas en el trading  
+y como en 2026 las estafas potenciadas por la IA 
+con bot inteligente y web clonada automáticamente  
+van a explotar como tendencia dominante si no 
+lo han hecho ya. También te voy a enseñar como  
+los principales reguladores como la CNMV en España 
+llevan años emitiendo advertencias sobre entidades  
+no registradas que ofrecen inversión milagrosa 
+por internet y cómo esta estructura ahora se está  
+reempaquetando con la etiqueta de I Trading Bot 
+y vendiendo de forma exitosa a traders novatos  
+como tú. Y vamos a bajar al detalle técnico 
+con estudios sobre código generado por IA.  
+análisis que muestran que más del 40% del código 
+que generan estos modelos tiene vulnerabilidades  
+o errores graves, incluso cuando se les pide 
+explícitamente código seguro. Trasladar eso  
+a tu cuenta de trading es multiplicar el riesgo 
+directamente sobre tu dinero. Primero, entendamos  
+el contexto. En 20252026 la IA Generativa ha 
+pasado de ser curiosidad a infraestructura,  
+chat GPT, cloud, Gemini, etcétera, etcétera. y una 
+lista interminable de modelos que escriben texto,  
+generan código y crean imágenes. Esa 
+disponibilidad masiva hace dos cosas  
+a la vez. Da poder a empresas serias y da 
+herramientas brutales a los estafadores.  
+Experian lo llama machine to machine myem. 
+Agentes automático hablando entre sí,  
+tomando decisiones y ejecutando acciones 
+sin humano, lo que hace que el fraude sea  
+más escalable y más difícil de detectar. En su 
+informe de 2026 advierten específicamente de bots  
+con inteligencia emocional, capaces de sostener 
+conversaciones largas, ganarse tu confianza y  
+guiarte hacia decisiones financieras desastrosas 
+sin que haya una persona al otro lado del teclado.  
+Esto se mezcla con otro fenómeno, website cloning. 
+Crear una web que imita a la perfección una página  
+de inversión legítima nunca ha sido tan fácil. 
+Con la IA ahora puede generar textos convincentes,  
+fotos falsas de supuestos trader exitosos 
+y hasta reseñas inventadas. El resultado,  
+miles de minoristas entrando en plataformas no 
+reguladas con la sensación de estar en algo muy  
+profesional. Los reguladores no dan abasto. La 
+CNMV, por ejemplo, publica constantemente listas  
+de entidades no registradas, advertencias sobre 
+plataforma y brokers que usan marketing agresivo  
+para captar minoristas sin licencia alguna. En 
+2026 empiezan a aparecer nombres en estas listas  
+que directamente incorporan ahí en su marca, 
+aprovechando el hype para parecer innovadores  
+y esconder la falta de regulación. Esto nos lleva 
+a la sección Cloud. es un modelo de lenguaje,  
+no un trader. Hablemos de cloud. Cloud es 
+un modelo de lenguaje creado por Antropic.  
+Su función principal es generar texto y código a 
+partir de instrucciones. Es muy bueno en lógica,  
+en entender contexto y en escribir código en 
+múltiples lenguajes, Python, JavaScript, MQL,  
+lo que le pida. Antropic estructura su producto 
+en varias piezas. Cloud.ai para el chat. Cloud  
+Code como agente especializado en trabajar sobre 
+repositorios de código y herramientas como cloud  
+design, todo bajo un sistema de límites de uso 
+y cuotas de cómputo. En su propia documentación  
+y acuerdos de uso queda claro que el modelo está 
+pensado para asistencia, no para tomar decisiones  
+financieras autónomas ni para garantizar 
+resultados económicos de ningún tipo. Y  
+esto lo especifican en su documentación oficial. 
+No existe ningún documento serio del fabricante  
+con una promesa de que cloud es útil para operar 
+los mercados o incluso para crear bot de trading  
+rentables. Además, los autores y analistas de 
+seguridad del ecosistema de IA repiten siempre  
+la misma idea. El código generado por modelo 
+de lenguaje debe tratarse como no confiable  
+por defecto y someterse a revisión humana, 
+test automatizados, auditorías de seguridad  
+y verificación multietapa antes de desplegarlo 
+en producción. ¿Qué están haciendo muchos traders  
+novatos? exactamente lo contrario, conectar 
+ese código generado por Cloud directamente a  
+sus cuentas reales, sin revisión, sin auditoría y 
+sin entender ni siquiera qué está programando el  
+modelo. Cuando trasladas ese patrón al trading, 
+lo que estás haciendo es uno delegar decisiones  
+de riesgo en un sistema que no está diseñado 
+para gestionar tu capital ni tomar decisiones  
+de riesgo. Dos, ejecutar estrategias que no han 
+sido validadas con rigor. y tres, exponerte a BS  
+sobre ajustes y errores lógicos directamente sobre 
+tu dinero real. Veamos al detalle los tres grandes  
+mitos de cloud que más dinero te van a costar 
+si lo utilizas en tu trading. Mito número uno,  
+Cloud entiende trading mejor que tú. La primera 
+falacia que se repite en redes es que Cloud  
+es tan listo que entiende el mercado mejor que tú, 
+así que déjale tu dinero para que lo opere por ti.  
+No, Cloud entiende el mercado como un trader 
+cuantitativo, simplemente organiza información  
+textual y patrones y puede reproducir discursos 
+muy convincentes, aunque estén técnicamente  
+vacíos. Cuando le pides una estrategia, te va 
+a devolver algo que suena profesional, como por  
+ejemplo medias móviles, RCS, bandas de Bollinger, 
+gestión del riesgo del 2% por operación, etcétera.  
+Pero eso no significa que haya descubierto un aid 
+o una ventaja estadística estable, simplemente  
+está recombinando fragmentos de texto sobre 
+trading que ha visto durante su entrenamiento.  
+El mito número dos, si sé programar, ganaré 
+dinero. El segundo mito es que si sabes programar  
+vas a poder ganar dinero. Si Cloud programa por ti 
+entonces vas a poder ganar dinero. Ya estás dentro  
+del mercado rentable. Pero si saber programar 
+fuera la clave, bastaría con que cualquier  
+ingeniero informático se pusiera a operar mercado 
+para ser rentable. La realidad y los datos de  
+broker y reguladores es que la mayoría de cuentas 
+minoristas pierde dinero independientemente de que  
+el titular sepa o no programar. La clave no está 
+en el ID, ni en el lenguaje, ni en el código,  
+ni en la IA que te escribe ese código por ti. Está 
+en la capacidad de formular hipótesis robustas,  
+medir estadísticamente el age, entender la 
+microestructura del mercado y gestionar el  
+riesgo de forma fría y disciplinada. Eso no te lo 
+da ningún prom por muy sofisticado que parezca.  
+El mito número tres es que Cloud crea bot 100% 
+rentables. El tercer mito y el más peligroso es  
+el de los bots 100% ganadores y esas altas 
+rentabilidades en redes sociales gracias a  
+operar o diseñar con cloud. Aquí entramos ya 
+de lleno en el terreno de la estafa. En 2026  
+se ha normalizado el ver títulos del tipo la 
+única manera de crear robot de trading 100%  
+rentables con cloud o minidocumentales donde 
+supuestos trader enseñan curvas de capital  
+perfecta con bot de IA, le dan su dinero para 
+que opere y obtienen rentabilidades exorbitantes  
+e irrealistas. Cualquier promesa de rentabilidad 
+garantizada de sistemas que no tienen apenas dry,  
+de estrategias que nunca pierden, se sitúa 
+automáticamente fuera del mundo profesional, fin,  
+pero dentro del mundo del marketing fraudulento. 
+Y esto es algo que debes tener claro desde ya. Da  
+igual si lo visten con la palabra cloud a quantum 
+o lo que toque este año. Los reguladores llevan  
+décadas repitiendo lo mismo. No existe inversión 
+sin riesgo y las garantías de beneficio son una  
+señal roja inmediata. Si los usuarios hicieran 
+caso a estos avisos, existirían cero estafadores  
+en el sector y por lo tanto cero estafas. Se 
+podría decir que en cierto modo nosotros como  
+usuarios, como consumidores, creamos o como mínimo 
+incentivamos la estafa. Esto es así por la ley de  
+la oferta y la demanda. Mientras haya decenas 
+de usuarios novatos y desesperados entrando  
+masivamente al trading con el pensamiento de que 
+con solo 100 o peor aún con dinero prestado de una  
+empresa de fondeo van a poder vivir y pagar sus 
+facturas mensuales, la estafa seguirá existiendo.  
+Sencillamente porque para alcanzar el dinero 
+mensual que se requiere sobre esos $abilidad
+en un mes es posible y le comprarán a cualquiera 
+que les venda esa idea. Y lo peor de todo es que  
+no quieren esforzarse, por lo que necesitan 
+que al venderles la idea les incluyan o les  
+digan también que será fácil y rápido y en pocos 
+minutos sin dedicación o desde una playa de Bali.  
+Y ahí la IA es la llave para vender la estafa 
+bajo el argumento perfecto para la venta, pero  
+no nos dejemos llevar por la resignación ni por 
+opiniones personales, porque entonces no seríamos  
+mejor que los haters u odiadores que reparten 
+su toxicidad por las redes sociales. Vamos a  
+desgranarlo todo como ingeniero informático y como 
+trader profesional. ¿Cuál es el guion típico de la  
+estafa de moda con Cloud? Pues paso número uno, 
+construir la historia aspiracional. Primero se  
+construye la historia aspiracional de que alguien 
+ha pasado de 2000 a 75,000 con un bote hecho en un  
+fin de semana usando cloud. Se enseña una cuenta 
+generalmente simulada o falseada con un realismo  
+total. Tener en cuenta que son profesionales 
+de la estafa. Saben qué deben mostrar y cómo  
+deben mostrarlo. Llevan años haciéndolo y 
+se asocian automáticamente el éxito a la IA,  
+a herramientas como Cloud o la IA lo hizo por 
+mí. El paso número dos es vestirlo de autoridad  
+artificial. Después se viste eso de autoridad 
+artificial. Se añaden pantallazos de plataforma,  
+gráficos bonitos, logos de empresa tecnológica 
+y frases tipo: "Esto es lo que están usando los  
+institucionales." Algunos incluso piratean 
+logos de banco, fondos o fabricantes de IA  
+para parecer más sedios. Paso número tres, promesa 
+explícita y urgencia. A continuación siempre llega  
+la promesa explícita y la urgencia. Te enseño a 
+crear un bot 100% rentable con Cloud en un fin  
+de semana. Solo tienes que seguir mi sistema. 
+La IA se encarga de todo. Si no entras ahora,  
+te quedas fuera de la revoluciona y pierdes 
+todo. Y esto nos lleva al paso número cuatro,  
+monetización vía formación o plataforma sin 
+licencia, porque aquí llegamos al dinero y  
+esto lo monetizan básicamente por dos vías. cursos 
+y formaciones con supuesto niveles avanzados donde  
+el contenido real de valor es mínimo, afiliación 
+o conexión a plataforma no regulada, muchas veces  
+manejada desde fuera de jurisdicciones seguras, 
+donde el riesgo regulatorio y operativo recae  
+íntegrista. Y llegados al paso número cinco, entra 
+el ocultar el riesgo y los datos reales. Ocultan  
+sistemáticamente el riesgo, no enseñan dryown 
+o si los enseñas están falseados. No enseñan  
+periodos de pérdida, no muestran auditorías 
+independientes reales ni estados contables reales.  
+Los más 575% de rentabilidad suelen ser cifras 
+sobre muestras ridículas, back test, mal hechos  
+o directamente montaje. Cuando cruzas todo esto 
+con lo que nos dicen instituciones como Esperia,  
+que el fraude potenciado por IA está creciendo 
+y que los bots inteligentes van a protagonizar  
+muchas estafas este año, el patrón es clarísimo. 
+Cloud se ha convertido en el logo perfecto  
+para las redes sociales, para los vídeos, para 
+viralizar todo y desde luego para vender el mismo  
+cuento de siempre con un envoltorio nuevo. Lo peor 
+no es esto. Lo peor es que la gente está mordiendo  
+el anzuelo. Solo en las últimas semanas he podido 
+conocer decenas de casos donde usuarios, que lo  
+más que habían hecho con la tecnología era enviar 
+un email, comenzar a integrar Cloud en su trading,  
+bien para operar con él o para crear bot de 
+trading. Ahora veamos que sí puede aportarte cloud  
+si ya eres trader cuantitativo. Para ser honestos, 
+también hay que decir que si puede aportarte  
+cloud, que si puede aportarte como valor, pero 
+ojo en el contexto correcto. Si ya eres trader  
+cuantitativo, si ya dominas estadística, riesgo y 
+microestructura, cloud puede ser una ayuda brutal  
+en tu productividad. Claro que sí. Te puedo 
+ayudar, por ejemplo, a documentar sistemas de  
+forma clara, a generar código repetitivo de back 
+testing o gestión, a proponer baterías de pruebas  
+adicionales, a integrar pipelines de datos con 
+menos fricción. Pero incluso en ese escenario,  
+los expertos en seguridad y software recomiendan 
+tratar todo el código generado por IA como  
+no confiable por defecto. Hay que revisarlo, 
+testearlo, auditarlo y solo entonces llevarlo a  
+producción. En trading, producción significa tu 
+cuenta real. La diferencia entre hacer eso con  
+rigor y no hacerlo es literalmente la diferencia 
+entre estar en el mercado durante años o quemar tu  
+cuenta en una semana. Cloud puede ser un asistente 
+genial, pero nunca un oráculo y mucho menos se le  
+puede confiar o delegar ninguna responsabilidad ni 
+de gestión ni de programación sin supervisión. La  
+metodología tiene que seguir siendo cuantitativa, 
+disciplinada y basada en datos. Eso no se compra  
+con un pronto ni se obtiene copiando la receta de 
+un influencer desde su PDF mágico que te regala.  
+Y voy a resumirte los filtros que quiero que te 
+lleves de este vídeo para que evites ser estafado  
+y puedas tomar decisiones objetivas. Si un 
+influencer de trading, un curso o una plataforma  
+usa cloud o cualquier día en su marketing y cumple 
+uno solo de estos puntos, considéralo una señal  
+roja directa para todo su contenido, porque nadie 
+serio utilizaría este argumento ni en uno solo de  
+sus vídeos. Punto número uno, promete rentabilidad 
+garantizada. Bot 100% ganadores o sistemas sin  
+try. Dos, asocia resultados espectaculares, 
+más 500% más 25,000 € Todo a periodo muy corto,  
+sin mostrar realmente el riesgo en mercado ni en 
+condiciones exactas. No aporta ninguna evidencia  
+de auditoría independiente, estados reales, 
+tras récord verificado por tecero, etcétera.  
+Todo lo que te enseña son capturas muchas veces 
+tapadas, filtradas, codificadas que fácilmente  
+te genera la IA en 5 minutos o está vinculado a 
+plataformas de inversión no registradas fuera del  
+radar de reguladores como la CNMV, FCA, etcétera. 
+Te empuja con urgencia extrema. Entra ahora o te  
+pierde la revolución de la IA jugando con el miedo 
+a quedarse atrás. Si estás empezando, el camino no  
+pasa por buscar el prom mágico que te haga rico 
+ni por encadenar bot hecho en un fin de semana  
+con Cloud. Pasa por aceptar que el proceso real 
+de convertirte en trader cuantitativo es largo,  
+exigente y sí, muchas veces aburrido. Formular 
+hipótesis, diseñar sistema, validarlos con rigor,  
+supervisarlos en real y apagar los que dejen 
+de funcionar. La inteligencia en 2026 no está  
+en saber qué a usar, sino en ser más inteligente 
+que la narrativa de moda de redes sociales para  
+evitar ser estafado. Haz clic ahora en el vídeo 
+que te aparece en pantalla si quieres ver un bot  
+de trading con inteligencia artificial real 
+aplicada a los mercados financieros. [música]
+[música] he
