@@ -128,9 +128,27 @@ agregando ese idioma a la lista.
 Los archivos `.txt` se guardan dentro de la carpeta que elijas en el menu
 (por defecto `transcripts/`), con el nombre basado en el titulo del video.
 
-El contenido es solo el texto de la transcripcion (sin marcas de tiempo),
-con cada fragmento separado por saltos de linea, gracias al `TextFormatter`
-de la libreria (`youtube_transcript_api/formatters.py`).
+Cada archivo empieza con una cabecera de metadatos obtenida de YouTube,
+seguida de una linea separadora y el texto de la transcripcion (sin marcas
+de tiempo), gracias al `TextFormatter` de la libreria. Ejemplo real:
+
+```
+Titulo:               El poder de la automatización en trading_ cómo mis 32 bots ganan dinero las 24 horas
+Canal:                Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-20
+Duracion:             29:54
+Vistas:               1,598
+URL:                  https://www.youtube.com/watch?v=MTnrsUa1VA4
+----------------------------------------------------------------------
+```
+
+Importante sobre las fechas:
+
+- La `Fecha de publicacion` es SIEMPRE la fecha en que el autor subio el
+  video a YouTube (campo `uploadDate`). Nunca es una fecha local tuya.
+- Si YouTube no entrega algun dato, ese campo simplemente no aparece.
+- Si la pagina del video no responde, la cabecera puede venir reducida o
+  ausente y el archivo contiene solo la transcripcion.
 
 Otros formatos disponibles en la libreria, por si quieres extender el script:
 
@@ -198,8 +216,10 @@ git log HEAD..upstream/master --oneline
 
 - El ID del video NO es la URL completa: es el codigo de 11 caracteres, ej.
   `dQw4w9WgXcQ`.
-- El titulo del video se consulta via oEmbed (`https://www.youtube.com/oembed`),
-  un endpoint publico que no requiere API key. Si falla, el nombre sugerido es
+- El titulo y los metadatos (canal, fecha de publicacion, duracion, vistas)
+  se obtienen leyendo la pagina del video en YouTube, sin API key. Como
+  respaldo del titulo se consulta oEmbed
+  (`https://www.youtube.com/oembed`); si todo falla, el nombre sugerido es
   el ID del video.
 - Los archivos generados no se sobreescriben entre videos distintos (el nombre
   viene del titulo). Si corres dos veces el mismo video con el mismo nombre,

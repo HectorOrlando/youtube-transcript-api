@@ -1,3 +1,4 @@
+import json
 import re
 import sys
 
@@ -89,6 +90,65 @@ def get_video_title(video_id: str) -> str | None:
     return None
 
 
+def format_duration(segundos: int) -> str:
+    """Convierte segundos a texto tipo m:ss o h:mm:ss."""
+    horas, resto = divmod(segundos, 3600)
+    minutos, segs = divmod(resto, 60)
+    if horas:
+        return f"{horas}:{minutos:02d}:{segs:02d}"
+    return f"{minutos}:{segs:02d}"
+
+
+def _json_texto(crudo: str) -> str:
+    """Decodifica los escapes de un string JSON crudo (\\uXXXX, \\n, \\")."""
+    try:
+        return json.loads(f'"{crudo}"')
+    except ValueError:
+        return crudo
+
+
+def get_video_metadata(video_id: str) -> dict | None:
+    """Extrae metadatos leyendo la pagina del video en YouTube (sin API key).
+
+    Devuelve un dict con titulo, canal, fecha de publicacion del video
+    (segun uploadDate de YouTube, nunca una fecha local), duracion y vistas.
+    Si la pagina no responde o no contiene los datos, devuelve None.
+    """
+    try:
+        resp = requests.get(
+            f"https://www.youtube.com/watch?v={video_id}",
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "es"},
+        )
+        if not resp.ok:
+            return None
+        html = resp.text
+
+        def buscar(patron: str):
+            m = re.search(patron, html)
+            return m.group(1) if m else None
+
+        fecha_cruda = buscar(r'"uploadDate":"([^"]+)"')
+        duracion_cruda = buscar(r'"lengthSeconds":"(\d+)"')
+        vistas_crudas = buscar(r'"viewCount":"(\d+)"')
+        canal_crudo = buscar(r'"ownerChannelName":"((?:[^"\\]|\\.)*)"')
+        titulo_crudo = buscar(r'"title":"((?:[^"\\]|\\.)*)"')
+
+        if not any([fecha_cruda, duracion_cruda, vistas_crudas, canal_crudo, titulo_crudo]):
+            return None
+
+        return {
+            "titulo": _json_texto(titulo_crudo) if titulo_crudo else None,
+            "canal": _json_texto(canal_crudo) if canal_crudo else None,
+            "fecha": fecha_cruda[:10] if fecha_cruda else None,
+            "duracion": format_duration(int(duracion_cruda)) if duracion_cruda else None,
+            "vistas": f"{int(vistas_crudas):,}" if vistas_crudas else None,
+        }
+    except requests.RequestException:
+        pass
+    return None
+
+
 def choose_output_dir() -> Path:
     """Pregunta al usuario donde guardar y devuelve la carpeta elegida."""
     while True:
@@ -155,7 +215,13 @@ def main() -> None:
 
         carpeta_destino = choose_output_dir()
 
-        titulo = get_video_title(video_id)
+        metadatos = get_video_metadata(video_id)
+        titulo = metadatos.get("titulo") if metadatos else None
+
+        # Respaldo: si la pagina no dio titulo, consultar oEmbed
+        if not titulo:
+            titulo = get_video_title(video_id)
+
         if titulo:
             sugerido = sanitize_name(titulo) or video_id
             print(f"\n[INFO] Titulo detectado: {titulo}")
@@ -166,8 +232,29 @@ def main() -> None:
         respuesta = input(f"Guardar como [{sugerido}] (Enter=aceptar): ").strip()
         base_nombre = sanitize_name(respuesta) or sugerido
 
+        campos = []
+        if titulo:
+            campos.append(("Titulo", titulo))
+        if metadatos:
+            if metadatos.get("canal"):
+                campos.append(("Canal", metadatos["canal"]))
+            if metadatos.get("fecha"):
+                campos.append(("Fecha de publicacion", metadatos["fecha"]))
+            if metadatos.get("duracion"):
+                campos.append(("Duracion", metadatos["duracion"]))
+            if metadatos.get("vistas"):
+                campos.append(("Vistas", metadatos["vistas"]))
+
+        cabecera = ""
+        if campos:
+            ancho = max(len(etiqueta) for etiqueta, _ in campos)
+            lineas = [f"{etiqueta.ljust(ancho)}: {valor}" for etiqueta, valor in campos]
+            lineas.append(f"{'URL'.ljust(ancho)}: https://www.youtube.com/watch?v={video_id}")
+            cabecera = "\n".join(lineas) + "\n" + "-" * 70 + "\n\n"
+
         output_path = carpeta_destino / f"{base_nombre}.txt"
         with open(output_path, "w", encoding="utf-8") as f:
+            f.write(cabecera)
             f.write(text_output)
 
         print(f"\n[OK] Transcripcion guardada en: {output_path}")
