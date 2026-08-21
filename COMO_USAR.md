@@ -41,17 +41,47 @@ python get_transcript.py
 Pega la URL del video de YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
-4. Salida esperada:
+4. Elige donde guardar con el menu que aparece:
 
 ```
-[INFO] Obteniendo transcripcion para video ID: dQw4w9WgXcQ ...
-
-[OK] Transcripcion guardada en: transcript_dQw4w9WgXcQ.txt
-    ( 61 fragmentos )
+Donde guardar la transcripcion?
+  [1] Carpeta por defecto (transcripts)
+  [2] Crear una subcarpeta dentro de transcripts
+  [3] Usar una subcarpeta existente de transcripts
+Opcion: 1
 ```
 
-5. El archivo generado queda en la misma carpeta donde ejecutaste el script,
-   con nombre `transcript_<ID_del_video>.txt`, codificado en UTF-8.
+   - La opcion `[2]` pide un nombre y crea `transcripts/<nombre>/`
+   - La opcion `[3]` lista las subcarpetas existentes para elegir por numero
+
+5. El script detecta automaticamente el **titulo del video** (via el endpoint
+   publico oEmbed de YouTube, sin API key) y te propone ese nombre. Presiona
+   Enter para aceptarlo, o escribe otro nombre:
+
+```
+[INFO] Titulo detectado: El poder de la automatizacion en trading: como mis...
+Guardar como [El poder de la automatizacion en trading_ como mis...] (Enter=aceptar):
+```
+
+6. Salida esperada:
+
+```
+[OK] Transcripcion guardada en: transcripts\El poder de la automatizacion en trading_ como mis 32 bots ganan dinero las 24 horas.txt
+    ( 673 fragmentos )
+```
+
+7. El archivo se guarda en UTF-8 dentro de la carpeta elegida.
+
+### Sobre el nombre del archivo
+
+- Los caracteres prohibidos en Windows (`\ / : * ? " < > |`) se reemplazan
+  automaticamente por `_`. Ejemplo: los dos puntos del titulo se convierten
+  en `_`.
+- El nombre se recorta a 200 caracteres como maximo.
+- Si no se pudo consultar el titulo (sin internet, video borrado), el script
+  sugiere el ID del video como nombre.
+- Lo que escribas tambien se sanea con las mismas reglas, asi que puedes
+  escribir el nombre libremente.
 
 ---
 
@@ -95,9 +125,12 @@ agregando ese idioma a la lista.
 
 ## Formato de salida
 
-El archivo `.txt` contiene solo el texto de la transcripcion (sin marcas de tiempo),
-con cada fragmento separado por saltos de linea, gracias al `TextFormatter` de la
-libreria (`youtube_transcript_api/formatters.py`).
+Los archivos `.txt` se guardan dentro de la carpeta que elijas en el menu
+(por defecto `transcripts/`), con el nombre basado en el titulo del video.
+
+El contenido es solo el texto de la transcripcion (sin marcas de tiempo),
+con cada fragmento separado por saltos de linea, gracias al `TextFormatter`
+de la libreria (`youtube_transcript_api/formatters.py`).
 
 Otros formatos disponibles en la libreria, por si quieres extender el script:
 
@@ -165,7 +198,13 @@ git log HEAD..upstream/master --oneline
 
 - El ID del video NO es la URL completa: es el codigo de 11 caracteres, ej.
   `dQw4w9WgXcQ`.
+- El titulo del video se consulta via oEmbed (`https://www.youtube.com/oembed`),
+  un endpoint publico que no requiere API key. Si falla, el nombre sugerido es
+  el ID del video.
 - Los archivos generados no se sobreescriben entre videos distintos (el nombre
-  incluye el ID). Si corres dos veces el mismo video, el archivo se reemplaza.
+  viene del titulo). Si corres dos veces el mismo video con el mismo nombre,
+  el archivo se reemplaza.
+- Las transcripciones viven dentro de `transcripts/` (o la subcarpeta que
+  elijas); la raiz del repositorio queda limpia.
 - Este script depende de endpoints no documentados de YouTube: puede dejar de
   funcionar si YouTube cambia su API.
