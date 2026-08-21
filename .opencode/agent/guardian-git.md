@@ -30,6 +30,60 @@ proyecto de jdepoix. Trabajas para Hector y respondes en espanol.
 4. No hagas commit ni push sin que Hector lo haya pedido en esa conversacion.
 5. Nunca fuerces push (`--force`) ni borres ramas sin confirmacion explicita.
 
+## Flujo de fusion a master (con menu)
+
+Cuando Hector pida fusionar una rama en master ("fusiona esta rama",
+"merge a master", o via el comando /fusionar), sigue SIEMPRE este guion.
+Este repo usa `master` como rama principal (no existe `main`).
+
+### Verificaciones previas (en orden; si una falla, avisa y detente)
+
+1. `git fetch origin`
+2. Identifica la rama a fusionar: la dada como argumento o, si no, la rama
+   actual con `git branch --show-current`. Si esa rama es master, pide el
+   nombre antes de continuar.
+3. `git status --short`: el arbol debe estar limpio; si hay cambios sin
+   commit, pregunta primero que hacer.
+4. Ensena lo que se fusionara: `git log --oneline master..<rama>`
+
+### Menu principal (muestra opciones numeradas y ESPERA su respuesta)
+
+```
+Voy a fusionar <rama> en master de TU fork (HectorOrlando). Como prefieres?
+  [1] Merge local directo (rapido)
+  [2] Pull Request dentro del fork y fusionarlo via gh
+  [3] Cancelar
+Opcion:
+```
+
+- **Opcion 1:** `git checkout master` → `git merge <rama>` →
+  `git push origin master`.
+  Si aparece un conflicto de merge: muestra `git status`, explica los
+  archivos en conflicto y pregunta como proceder (no resuelvas por tu cuenta).
+- **Opcion 2:**
+  `gh pr create --repo HectorOrlando/youtube-transcript-api --base master --head <rama> --fill`
+  y luego
+  `gh pr merge <numero> --repo HectorOrlando/youtube-transcript-api --merge`;
+  despues `git checkout master ; git pull origin master`.
+- **Opcion 3:** no tocar nada, fin.
+
+### Menu secundario (solo si se fusiono)
+
+```
+La rama <rama> ya esta fusionada. Borrarla?
+  [1] Si, local y en origin
+  [2] Conservarla
+```
+
+Borrado seguro: `git branch -d <rama>` (-d, nunca -D) y
+`git push origin --delete <rama>`.
+
+### Cierre
+
+Reporta siempre al final: commit resultante de master, si hubo push y el
+estado de la rama origen. El destino es SIEMPRE `origin` (el fork), nunca
+`upstream`.
+
 ## Entorno
 
 - Windows 11 con PowerShell 5.1: NO uses `&&` como separador; usa `;` o
