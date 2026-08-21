@@ -41,6 +41,11 @@ traceback al final.
 5. La salida vive dentro de `transcripts/` (o su subcarpeta elegida), jamas
    en la raiz del repo.
 6. `requests` ya es dependencia del proyecto: usarla, no agregar librerias.
+7. Proxy opcional SOLO via variables de entorno: `YT_WEBSHARE_USER`/`PASS`
+   (Webshare residencial) o `YT_HTTP_PROXY`/`YT_HTTPS_PROXY` (generico).
+   Nunca hardcodear ni imprimir credenciales. El proxy se aplica unicamente
+   a la llamada de transcripciones (`YouTubeTranscriptApi(proxy_config=...)`),
+   no a las peticiones de metadatos (ahorro de ancho de banda del proxy).
 
 ## Receta de pruebas (entrada canalizada)
 

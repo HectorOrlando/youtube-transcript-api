@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import sys
 
@@ -8,6 +9,7 @@ import requests
 
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api.formatters import TextFormatter
+from youtube_transcript_api.proxies import GenericProxyConfig, WebshareProxyConfig
 from youtube_transcript_api._errors import (
     NoTranscriptFound,
     TranscriptsDisabled,
@@ -149,6 +151,35 @@ def get_video_metadata(video_id: str) -> dict | None:
     return None
 
 
+def build_proxy_config():
+    """Arma la configuracion de proxy desde variables de entorno (opcional).
+
+    - YT_WEBSHARE_USER + YT_WEBSHARE_PASS -> proxy residencial de Webshare
+    - YT_HTTP_PROXY y/o YT_HTTPS_PROXY   -> proxy generico por URL
+    - Sin variables                      -> None (conexion directa)
+
+    Las credenciales nunca se imprimen en consola.
+    """
+    ws_user = os.environ.get("YT_WEBSHARE_USER")
+    ws_pass = os.environ.get("YT_WEBSHARE_PASS")
+    if ws_user and ws_pass:
+        return WebshareProxyConfig(proxy_username=ws_user, proxy_password=ws_pass)
+
+    http_url = os.environ.get("YT_HTTP_PROXY")
+    https_url = os.environ.get("YT_HTTPS_PROXY")
+    if http_url or https_url:
+        urls = [u for u in (http_url, https_url) if u]
+        if any(not u.startswith(("http://", "https://")) for u in urls):
+            print(
+                "[-] Las variables YT_HTTP_PROXY / YT_HTTPS_PROXY deben empezar "
+                "por http:// o https://"
+            )
+            sys.exit(1)
+        return GenericProxyConfig(http_url=http_url, https_url=https_url)
+
+    return None
+
+
 def choose_output_dir() -> Path:
     """Pregunta al usuario donde guardar y devuelve la carpeta elegida."""
     while True:
@@ -206,7 +237,10 @@ def main() -> None:
     print(f"\n[INFO] Obteniendo transcripcion para video ID: {video_id} ...")
 
     try:
-        ytt_api = YouTubeTranscriptApi()
+        proxy_config = build_proxy_config()
+        if proxy_config is not None:
+            print("[INFO] Usando proxy para las transcripciones")
+        ytt_api = YouTubeTranscriptApi(proxy_config=proxy_config)
         fetched = ytt_api.fetch(video_id, languages=["es", "en"])
 
         # Convertir a texto plano usando TextFormatter

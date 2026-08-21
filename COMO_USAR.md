@@ -181,6 +181,39 @@ tambien bloquea IPs que hacen demasiadas peticiones. Si te pasa esto desde tu ca
 espera un rato o reinicia el router; para uso intensivo la libreria soporta proxies
 residenciales via `WebshareProxyConfig` (ver README.md, seccion "Working around IP bans").
 
+### Usar un proxy (opcional)
+
+Si los bloqueos se repiten (uso intensivo), el script puede enviar las
+transcripciones a traves de un proxy residencial SIN editar codigo. Se configura
+con variables de entorno ANTES de ejecutar:
+
+Opcion A - Webshare (proxy residencial de pago, la recomendada):
+
+```
+$env:YT_WEBSHARE_USER = "tu-usuario"
+$env:YT_WEBSHARE_PASS = "tu-clave"
+python get_transcript.py
+```
+
+Opcion B - Proxy generico por URL (solo sirve si es RESIDENCIAL; las IPs de
+datacenter/VPN suelen estar igualmente bloqueadas por YouTube):
+
+```
+$env:YT_HTTP_PROXY  = "http://usuario:clave@servidor:puerto"
+$env:YT_HTTPS_PROXY = "http://usuario:clave@servidor:puerto"
+python get_transcript.py
+```
+
+Notas:
+
+- El proxy se aplica SOLO a la descarga de transcripciones (el endpoint que
+  YouTube limita agresivamente). Los metadatos de la cabecera siguen yendo
+  directos, para no gastar ancho de banda del proxy de pago.
+- Para desactivar el proxy en la sesion actual:
+  `Remove-Item Env:YT_WEBSHARE_USER` (y lo mismo con la otra variable).
+- Sin esas variables el script funciona siempre en modo directo.
+- Las credenciales nunca aparecen en pantalla ni se guardan en el codigo.
+
 ---
 
 ## Como actualizar este repositorio
