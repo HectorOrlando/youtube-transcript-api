@@ -1,3 +1,11 @@
+Titulo              : El poder de la automatización en trading: cómo mis 32 bots ganan dinero las 24 horas
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-20
+Duracion            : 29:54
+Vistas              : 1,602
+URL                 : https://www.youtube.com/watch?v=MTnrsUa1VA4
+----------------------------------------------------------------------
+
 Estos son 179,643
 € gestionados por 32 bots, 24 horas al
 día, 7 días a la semana. Yo llevo meses
