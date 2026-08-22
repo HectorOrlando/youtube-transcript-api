@@ -266,7 +266,7 @@ git log HEAD..upstream/master --oneline
 ```
 transcripts/Trading-con-Bots/
 ├── 01-trader-manual-a-arquitecto-de-sistemas/
-├── 02-prop-firms-challenge/
+├── 02-supera-tu-challenge-y-protege-tu-cuenta/
 ├── 03-trading-cuantitativo-indicadores/
 ├── 04-crear-bot-sin-programar/
 └── 05-bots-que-queman-cuentas/
