@@ -1,0 +1,385 @@
+Titulo              : ¿Cuántos challenges has comprado? Este BOT evita el siguiente en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-07
+Duracion            : 19:57
+Vistas              : 1,739
+URL                 : https://www.youtube.com/watch?v=JbOHRLelZfc
+----------------------------------------------------------------------
+
+Hoy voy a compartirte la estrategia de trading 
+exacta del bot de trading que he diseñado para  
+superar challenge de fondeo de forma mecánica. Si 
+has hecho clic en este vídeo, tu objetivo es uno  
+solo. Quieres fondearte, quieres acceder a capital 
+para operar y quieres dejar de comprar challenge.  
+Fin. No estás aquí para escuchar más teoría 
+básica ni para que te hable de psicología barata.  
+Estás aquí buscando un sistema con esperanza 
+matemática positiva que te permita alcanzar un  
+objetivo de rentabilidad real sin saltar la regla 
+de pérdida máxima. Y eso es exactamente lo que te  
+voy a enseñar hoy. Para los que no me conozcan, yo 
+soy Ignacio Yago, trader cuantitativo y analista  
+profesional desde hace más de 15 años, durante 
+los cuales he trabajado y trabajo diseñando,  
+desarrollando, auditando y desplegando 
+miles de algoritmos de trading sobre los  
+mercados para resolver problemas específicos 
+como el de superar un challenge de fondeo.  
+Hoy vamos a ir directos al grano. Le voy 
+a mostrar qué busca exactamente mi voz de  
+fondeo en el mercado, a qué hora se enciende, cómo 
+detecta la liquidez institucional y dónde coloca  
+matemáticamente su entrada, su stoploss y su take 
+profit. y te voy a explicar la estrategia paso a  
+paso para que si quieres hacerla en manual también 
+puedas aplicarla desde hoy mismo. Es una de las  
+estrategias algorítmica más simple pero efectiva 
+que he probado en mucho tiempo para este tipo de  
+situaciones. Superar challenge de fondeo, porque 
+se basa en un criterio profesional, no retail. ha  
+sido diseñada desde cero con el único propósito de 
+superar un challenge de fondeo. Para ello necesita  
+proteger el capital y generar el porcentaje 
+necesario para superar la fase de evaluación  
+de cualquier propiner. Para que salgas de este 
+vídeo sabiendo exactamente cómo funciona este bot  
+y cómo aplicarlo en tu gráfica o Metatrader, 
+vamos a diseñarlo y construirlo desde cero,  
+siguiendo cuatro pasos exactos y sin escribir 
+ni una sola línea de código. Paso número uno, la  
+arquitectura defensiva. Aquí diseñaremos el flujo 
+para que el bot bloquee el overtrading y esquive  
+la pérdida diaria máxima para que no nos cierren 
+la cuenta por encumplimiento. El paso número dos  
+es el gatillo cuantitativo. Aquí crearemos el 
+sensor para detectar la ineficiencia de mercado  
+exacta que necesitamos para que el bot pueda ser 
+rentable. Es la regla matemática exacta con la que  
+el bot detecta manipulaciones institucionales 
+en el mercado. Paso número tres, el punto de  
+entrada y salida. Este es el punto crítico. Aquí 
+planificaremos la operativa completa. Es la parte  
+donde el bot coloca matemáticamente sus órdenes 
+al milímetro para no dejar nada a la intuición.  
+Paso número cuatro, el despliegue y back testing. 
+Aquí ya iremos directo al grano. Iremos al gráfico  
+a ejecutar este bot de trading para que vean la 
+rentabilidad real que genera operando y si será  
+o no capaz de superar un challenge de fondeo. 
+Y por cierto, para los que se queden hasta el  
+final del vídeo, aparte de llevaros la estrategia 
+completa para superar vuestro challenge de fondeo,  
+os voy a explicar cómo acceder a mi comunidad 
+privada de school, desde donde podréis acceder  
+a mi formación gratuita sobre trading algorítmico 
+y cuantitativo y todo totalmente gratis.  
+Vamos a empezar por los cimientos. El paso 
+uno es la arquitectura defensiva del algoritmo  
+y la primera decisión es el terreno de juego. 
+Está diseñado para operar el índice DAX alemán.  
+¿Por qué el DAX? Porque es un índice brutalmente 
+volátil que mueve muchísimo volumen en muy poco  
+tiempo y cuando decide tomar una tendencia no 
+mira atrás. Sin embargo, esta misma liquidez  
+es la que destruye las cuentas de fondeo, así 
+que hay que diseñarlo todo correctamente para  
+que el bot pueda superar un challeng de fondeo con 
+alta probabilidad. Debemos tener todos claro que  
+el modelo de negocio de las empresas de fondeo 
+se fundamenta en tu impaciencia. Ganan y mucho  
+a través de tu psicología. Quieren que abras 10 
+operaciones al día en el DAX para que su ruido  
+natural te arrastre rápidamente al menos 5% de 
+límite de pérdidas diarias y vuelvas a comprar  
+otro challenge. Por lo tanto, la primera regla 
+inquebrantable de la arquitectura de este bot  
+es la restricción operativa. Vamos a capar el 
+algoritmo para buscar una única oportunidad al  
+día. Si las condiciones se dan, opera, si no 
+se dan, se queda en efectivo y no opera. fin.  
+Habrá días e incluso semanas enteras donde el bot 
+no hará absolutamente nada y eso está bien. Esto  
+protege tu límite de pérdida de forma automática y 
+nos ayuda a superar el challenge. Pero aquí viene  
+la verdadera ventaja de la fase uno. Además de 
+operar solo una vez al día, el boss tiene un seco  
+estructuralmente de solo compras, es decir, solo 
+busca operaciones alcistas. ¿Por qué ignoramos los  
+cortos? Por pura estadística institucional, 
+necesitamos la mayor probabilidad de éxito  
+y los índices bursátiles están diseñados 
+económicamente para subir a largo plazo.  
+Tienen un drift alcista natural. Al operar solo a 
+favor de este empuje macroeconómico, eliminamos el  
+50% de las falsas señales del mercado. Y esto nos 
+lleva a la simetría del riesgo. La mayoría busca  
+un ratio 1 do, nosotros no. Como buscamos cazar 
+grandes tendencias en el DAX, este bot no tiene  
+un take profit fijo. Su objetivo es arriesgar un 
+1% de la cuenta de fondeo para capturar tendencias  
+masivas que nos den un 1.3, 1.5 o incluso hasta 
+un 1.10 de beneficio. Cualquier novato puede poner  
+una media móvil en un gráfico del DAC y esperar a 
+que cruce, pero si haces eso, el mercado en rango  
+te va a comer vivo a base de stop loss. Para 
+cazar una tendencia masiva de forma efectiva  
+y altamente rentable, primero tienes que saber si 
+el mercado está dispuesto a moverse. Aquí entramos  
+en el paso dos, los sensores cuantitativos. 
+Antes de mirar si el precio sube o baja,  
+el bot tiene que analizar la salud matemática del 
+mercado usando cuatro filtros avanzado. Si alguno  
+falla, el bot aborta la misión, no hay operativa. 
+¿Cómo lo vamos a hacer? Pues te explico cómo lo  
+tengo diseñado. Entropia de Sano debe ser menor a 
+0.7. Ignacio, me he perdido. La entropía de qué,  
+no te apures que te lo explico. La entropía 
+de Sanon es un concepto de la teoría de la  
+información. La entropía mide el nivel de caos o 
+ruido en los datos y nos dice qué tan organizado o  
+desorganizado está un mercado. Imagínate un centro 
+comercial el día de la apertura de Black Friday  
+con 1000 personas gritando y corriendo a la vez 
+en diferentes direcciones. Eso es alta entropía,  
+es decir, desorden. Si intentas superar ahí 
+una tendencia, sencillamente pierdes dinero  
+con alta probabilidad. Por ello, el bot 
+exige una entropía de sano menor a 0.7.  
+Esto nos confirma matemáticamente que el ruido ha 
+desaparecido y el mercado actúa de forma ordenada.  
+El ejemplo más claro serían esas 1000 personas en 
+un desfile militar ordenado, coordinado, todos al  
+mismo paso y en la misma dirección. Vamos ahora 
+con el exponente dejar, que debe ser mayor a 0.6.  
+Y si no sabes qué es o cuál es su función, no 
+te preocupes porque te lo explico rápido. Este  
+indicador mide la memoria del precio, es decir, su 
+persistencia o antipersistencia. Un valor de 0.5  
+significa que el mercado es un paseo aleatorio 
+absoluto. Nosotros exigimos que el HAR esté  
+por encima de 0.60, 60, lo que confirma que el 
+mercado está en un régimen tendencial persistente.  
+Para que lo entiendas fácil, imagina un borracho 
+caminando por la calle de madrugada. Da un paso  
+a la derecha, otro a la izquierda, tropieza hacia 
+atrás. No puedes predecir su próximo paso porque  
+es completamente aleatorio. Eso es un hardst 
+menor a 0.5. El mercado está borracho y no tiene  
+una dirección clara. Si intentas operar ahí, te 
+van a saltar todos los stoplots de una estrategia  
+de seguimiento de tendencia, sí o sí. Por eso 
+nosotros exigimos que el bot solo se active si el  
+hard está por encima de 0.6. ¿Qué significa esto? 
+Pues que el mercado ha dejado de ser un borracho y  
+se ha convertido en un tren de mercancía a toda 
+velocidad. Si el tren está avanzando hacia el  
+norte por pura inercia física, lo más probable es 
+que su próximo metro también sea hacia el norte.  
+El precio tiene memoria, hay una tendencia 
+direccional clara y el bot tiene vía libre  
+para operar, pero no queremos que simplemente 
+pase el challeng de fondeo, queremos que lo  
+pase sin hacernos sudar más de lo necesario por el 
+camino. Para ello vamos a incorporar un Chopinex  
+Inde menor a 38.2. Es la confirmación final de que 
+no estamos en una lateralización asesina. Si el  
+Chopinex está por debajo de 38.2, el mercado está 
+estirándose y esto es beneficioso para nuestra  
+estrategia de seguimiento de tendencia. Piensa 
+en el Chopinex Index, como el tráfico en una  
+carretera. Si el índice está alto, estás atrapado 
+en el centro de la ciudad, en hora a punta,  
+parando en cada semáforo en rojo. El precio sube 
+y baja mareándote sin ir a ninguna parte. Pero  
+si el chopines cae por debajo de 38.2, significa 
+que acabas de entrar en una autopista despejada,  
+sin límite de velocidad. No hay obstáculo y el 
+mercado está listo para estirarse libremente.  
+Pero para fluir o circular por esa autopista 
+correctamente, necesitamos velocidad, movimiento.  
+Aquí entra una DX mayor a 25. Necesitamos que 
+la fuerza de la dirección sea contundente,  
+superior a 25. Siguiendo con el símilopista 
+para que encajes todo correctamente. El HS  
+nos dice que vamos en línea recta. la entropía de 
+Shan, que el tráfico que hay está organizado y va  
+todo en la misma dirección y misma velocidad. El 
+Chopine nos dice que además no hay mucho tráfico  
+y el ADX es el motor del coche que lo mueve 
+hacia delante a gran velocidad por esa autopista.  
+Si el ADX está por debajo de 20, vamos a pedales. 
+La operación tardaría horas en darnos la razón y  
+correríamos el riesgo de que se girase con alta 
+probabilidad. Nosotros exigimos una DX superior  
+a 25 porque queremos un motor V8 pisado a fondo. 
+Necesitamos que el impulso sea contundente para  
+minimizar nuestro tiempo de exposición en el 
+mercado, entrar, cazar la tendencia y salir. Si  
+abres tu gráfico a las 9 de la mañana y ves que el 
+hard está en 0.4 y la entropía en 0.85, apagas la  
+pantalla. El mercado es un casino ese día. El bot 
+lo sabe y te acaba de salvar una pérdida absurda.  
+Una vez que los cuatro sensores cuantitativos 
+están en verde, el bot sabe que el océano está en  
+calma y se está formando un tsunami alcista. Es el 
+momento de activar el paso tres, el protocolo de  
+entrada y salida. Las cinco condiciones de entrada 
+son las siguientes. Como estamos en un entorno de  
+alta probabilidad, somos extremadamente exigentes 
+con esta parte. No se trata de operar más,  
+sino de operar de forma más efectiva y rentable. 
+Para abrir la operación de compra, el bot exige  
+que ocurran estas cinco cosas simultáneamente. 
+Uno, cruce alcista de la EMA rápida de 20 periodos  
+sobre la lenta de 50. Dos, que el precio rompa la 
+banda superior del canal Don Chen. De 20 periodos,  
+la clásica y letal estrategia de las tortugas. 
+Ya la conoceréis, que el indicador Supertrend  
+cambie a dirección alcista configurado con un ATR 
+de 10 y un multiplicador de tres. Cuatro, que el  
+DI positivo cruce por encima del DI negativo en 
+el sistema direccional. Quinto y muy importante,  
+la confirmación de flujo. El momentum debe ser 
+mayor a cero. El volumen debe estar por encima de  
+su media móvil de 20 barras y el Rci debe estar en 
+la zona dulce de impulso entre 50 y 70 sin haber  
+llegado a sobrecompra extrema todavía. En esta 
+parte no voy a entrar mucho en detalle porque  
+creo que estos son indicadores que todos conocemos 
+ya mayoritariamente y no merece la pena volver a  
+explicarlo. Así que vamos a pasar directamente 
+a la parte crucial donde la mayoría pierde los  
+challeng de fondeo y vamos a ponerle solución 
+ahora mismo. Antes de continuar con el vídeo,  
+quiero recordarte que en la primera línea de 
+la descripción tienes un enlace para unirte  
+a mi comunidad privada de school totalmente 
+gratuita. Dentro he creado una formación de  
+14 días totalmente gratis, donde te enseño a 
+crear tu primer bot y te comparto alguna de  
+las estrategias que me han permitido ser rentable 
+en la última década. Al unirte vas a tener acceso  
+totalmente gratuito a un ecosistema de networking 
+donde compartirás espacio con personas como tú  
+que quieren avanzar y crecer, aparte de con 
+ingenieros informáticos, matemáticos y traders  
+profesionales que avanzan en tu misma dirección y 
+que van a potenciar tu evolución técnica. Haz clic  
+en el enlace de la descripción para unirte. Nos 
+vemos dentro y ahora sí, seguimos con el vídeo.  
+Atento a esto porque aquí es donde se suspenden 
+las pruebas de fondeo tontamente y te voy a  
+mostrar cómo evitarlo. La mayoría entran bien, ven 
+un 1% de ganancia, les entra el pánico y cierran  
+la operación. Nuestro bot no piensa en él, como 
+por ejemplo en un psicópata frío y calculador  
+con una misión muy clara y la va a llevar a cabo 
+al 100% sin subjetividad ni emociones. Cuando el  
+bot abre la operación coloca inmediatamente un 
+stoplock innegociable estructurado por debajo  
+del último mínimo o del super trend. Ahí, en ese 
+punto debemos tener calculado y arriesgado solo el  
+1% de la cuenta de fondeo. Jamás más, por lo que 
+nuestro lotaje no puede ser fijo. Debe calcularse  
+en base a ese 1% de nuestra cuenta con el stop 
+loss en ese punto concreto. Pero por arriba las  
+cosas cambian. El cielo es el límite, no hay take 
+profit. Vamos a ir a por lo máximo que podamos ir.  
+Y aquí vienen las típicas dudas e inquietudes. 
+Si pongo un trailing esto muy ajustado, el precio  
+retrocede y me cierra antes de tiempo. Me quedo 
+fuera del movimiento. Y si lo pongo muy amplio,  
+muy alejado, no aprovecho bien la tendencia. ¿Cuál 
+es la solución? Ninguna de las dos. La solución es  
+un trailing stop inteligente y adaptativo, porque 
+si el mercado no es el mismo ni se mueve lo mismo  
+todos los días, utilizar un trailing stop estático 
+y fijo siempre no tiene ningún sentido. El bot va  
+a desplegar un trailing stop adaptativo basado 
+en el ATR o rango verdadero medio del mercado.  
+Concretamente, coloca el stoploss a una distancia 
+de 2 a 3 ATR por debajo del máximo que haya  
+alcanzado el precio en esa sesión. Así le damos 
+espacio al DAX para respirar. Si el mercado hace  
+un retroceso normal, nuestro stop holgado nos 
+mantiene dentro. Si la tendencia explota a lo  
+largo del día, el bot irá persiguiendo el precio 
+asegurando ganancias de forma escalonada. Podemos  
+terminar la sesión con un + 4%, un + 6% o incluso 
+más en una sola operación. No es lo más habitual,  
+pero en ocasiones se ha dado y se suele dar. sería 
+como superar ya medio challenge el primer día y si  
+la tendencia se invierte bruscamente, el trading 
+stop nos saca con un beneficio bloqueado. Con  
+esto tendríamos nuestra estrategia de trading bien 
+diseñada, especificada, 100% objetiva y totalmente  
+automatizada, lista para llevar a nuestro 
+Metatrader y barrer los challenge de fondeo.  
+Pero antes quiero que entiendas el inmenso poder 
+de lo que acabamos de construir en este cuarto y  
+último paso. Hemos cogido uno de los activos más 
+agresivos del mundo, el Dax, y le hemos puesto  
+un collar matemático. Si simulamos esto durante 
+un mes en una cuenta de fondeo, la realidad es  
+fascinante. Al exigir una entropía de sanon baja y 
+un hars tan alto de los 20 días hábiles de un mes,  
+es muy probable que el bot se quede completamente 
+quieto varios de esos días. Para el adicto a la  
+dopamina, esto es aburridísimo. Para un gestor 
+de capital profesional, para alguien que quiere  
+fondearse y vivir de su trading, es la perfección. 
+El bot evita comerse las sacudidas laterales que  
+queman el 5% de tu límite de pérdida diaria en 
+un momento. Pero en esos cuatro o c días del mes  
+donde los sensores se alinean, el volumen 
+explota y la macroeconomía empuja al alza,  
+el bot dispara la cuenta. Quizás una o dos de 
+esas operaciones toquen nuestro stopl del -1%,  
+pero las otras dos al no tener take profit y 
+utilizar un trailing stop inteligente pueden  
+correr literalmente capturando ratios de 14, 
+15, 17, etcétera. Al final del mes terminan la  
+fase uno del challenge de fondeo, que suele 
+requerir un 5, un 8, un 10% en función del  
+broker en el que estés. Con solo tres o cuatro 
+operaciones ganadoras masivas puedes lograrlo,  
+habiendo puesto tu capital a un mínimo absoluto 
+de tiempo al mercado. Así operan los Quant trader  
+y así se pasan las pruebas de fondeo de verdad. 
+La teoría está clara, un activo, una dirección,  
+sensores cuantitativos para evitar el ruido 
+y dejar correr las ganancias con un trailing  
+stop. Pero seamos sinceros, ejecutar todo 
+esto a mano controlando la entropía, el har  
+y 10 indicadores a la vez sin equivocarse es 
+casi imposible para un humano bajo presión,  
+además de ser totalmente innecesario en este 2026 
+con herramientas como estratos que nos permiten  
+automatizar estrategias de todo tipo, 
+solo arrastrando nodos como hemos hecho  
+y crear nuestro bot de trading profesional 
+en cuestión de minutos. Por eso yo automatizo  
+todo mi trading. Y si realmente quieres dejar 
+de quemar pruebas de fondeo y empezar a aplicar  
+estos sistemas mecánicos con herramientas de nivel 
+institucional, te he preparado algo de muchísimo  
+valor. En la descripción de este vídeo tienes el 
+enlace directo a mi comunidad privada de school.  
+Ahí te he compartido el acceso a mi información 
+completamente gratuita, donde te enseño paso a  
+paso a transformar tu trading, ayudándote a sentar 
+las bases del trading algorítmico y cuantitativo  
+que necesitas para ser rentable con tu trading. 
+Haz clic en el enlace de la descripción,  
+entra en la comunidad, no dejes que el ruido te 
+cueste otro challenge. Pero si quieres evolucionar  
+y mejorar aún más esta estrategia para que no 
+solo te sirva para superar challenge de fondeo,  
+sino que también te sirva para operar 
+tu cuenta una vez superado el challenge,  
+haz clic inmediatamente en el vídeo que te aparece 
+en pantalla, porque ahí te enseño a integrar el  
+poder de la inteligencia artificial dentro de este 
+bot para que puedas llevarlo al siguiente nivel.
+[música]

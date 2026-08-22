@@ -1,0 +1,809 @@
+Titulo              : Plata a $135: La Estrategia que Usan los Hedge Funds para Ganar $750 Mensuales
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-01-26
+Duracion            : 44:53
+Vistas              : 1,311
+URL                 : https://www.youtube.com/watch?v=edoCgPRDh0Q
+----------------------------------------------------------------------
+
+Mírame bien. Lo que ves en pantalla no es suerte, 
+es un retorno del 450% operando el activo más  
+peligroso y volátil del mundo en los últimos 
+6 meses. Mientras todo el mundo grita que la  
+plata está cara a $95, mi algoritmo no ha parado 
+de comprar. Hoy la plata está rompiendo máximos  
+históricos y el 90% de los que intenten operarla 
+van a quemar su cuenta antes de que toque los  
+$100. No dejes que esto te pase a ti. Soy Ignacio 
+y llevo más de una década analizando mercados de  
+commodities. He visto a trader brillantes perder 
+verdaderas fortunas apostando contra este metal.  
+La plata no es el oro, es el metal del [ __ ] Se 
+mueve rápido, destruye stops y no perdona. Pero si  
+te quedas, no solo te voy a explicar con datos 
+profesionales por qué los bancos de inversión  
+proyectan la onza a 135 y cómo sacarle una gran 
+rentabilidad de forma estratégica. Voy a hacer  
+algo que nadie hace gratis. Te voy a entregar la 
+lógica matemática exacta de la estrategia y el  
+código de gestión de riesgo del bot que diseñé 
+hace unos meses para cazar esta subida. Esto  
+no es un vídeo de noticias o de macroeconomía, 
+es una clase magistral de ingeniería financiera  
+para todo aquel que quiera aprender a operar 
+la plata de forma efectiva y profesional. En  
+los próximos minutos vamos a desmontar la mentira 
+de la inflación. Vamos a ver por qué la industria  
+solar y la inteligencia artificial han creado un 
+agujero negro en la oferta que es imposible de  
+llenar y cómo vamos a beneficiarnos de él para 
+seguir generando una rentabilidad estratégica.  
+Voy a compartirte la estrategia exacta de 
+trading para operar la plata paso a paso  
+para que la puedas poner en práctica hoy mismo 
+y después abriremos el capó del algoritmo de un  
+bot de trading especializado en operar la plata 
+con éxito de forma 100% automática. Te enseñaré  
+cómo he diseñado y programado la entrada 
+perfecta para los retrocesos de la plata.  
+Y lo más importante, te enseñaré a aplicar 
+una gestión de riesgo profesional para que  
+matemáticamente sea casi imposible arruinarse. 
+Esto es ingeniería financiera aplicada, esto  
+es techin. Empezamos. Debo ser sincero contigo, la 
+plata es uno de los activos que sigo muy de cerca,  
+tanto en inversión tradicional como en física. 
+Tengo decenas de datos, análisis e informes al  
+respecto. Y si has visto algún vídeo mío, sabes lo 
+mucho que me gusta el rigor, la objetividad y las  
+decisiones inteligentes basadas en información 
+real. Pero en este vídeo me he comedido y voy  
+a ir directo al grano, a lo que realmente 
+necesita saber 100% para operar este metal  
+con éxito. Primero, limpiemos el ruido. Cuando 
+escuchas plata a $100, ¿de qué estamos hablando?  
+No es de la plata que lleva en un anillo o en un 
+collar. Hablamos de la onza de Troy, 31,1 gureza,  
+es el estándar global desde la Edad Media. Y 
+aquí está el primer dato que necesitas conocer  
+antes de decidir operar este metal. La última vez 
+que la plata rozó $50 fue en 1980 y en 2011. En  
+ambas ocasiones se desplomó un 80% después. No es 
+como el oro que sube y sube década tras década.  
+La clave aquí es preguntarse por qué esta vez con 
+el precio a $9500 es diferente. Pues esta vez es  
+diferente porque en 1980 era manipulación y en 
+2011 era especulación, pero hoy en 2026 es escasez  
+física. Ya no es una burbuja, es un problema 
+matemático. La industria se ha quedado sin plata  
+y debe pagar el precio que exija el mercado. Aquí 
+tienes tu primer alfa del día. El mercado lleva 5  
+años consecutivos en déficit. Desde 2021, el mundo 
+consume más plata de la que sale de las minas y  
+la demanda total no deja de aumentar año tras 
+año. Hemos drenado 800 millones de onzas de los  
+inventarios globales. Eso es literalmente un año 
+entero de producción minera que ha desaparecido  
+para siempre. Aquí viene la parte que Wall Street 
+no quiere que entiendas y que nadie te cuenta la  
+demanda industrial de la plata. En 2024 se 
+consumieron 100 millones de onzas de plata,  
+de dónde el 55 60% vino de la demanda industrial. 
+Paneles solares, baterías, semiconductores,  
+no es especulación, es industria real que 
+necesita el metal. Ahora bien, escucha esto.  
+Cada gigwtio de capacidad solar instalada requiere 
+aproximadamente 1 millón de onzas de plata. Eso es  
+fijo, no es variable, es un componente crítico. 
+Las instalaciones anuales de solar globales son  
+300 GW. Esos son 300,000000 de onzas de plata solo 
+en paneles solares anualmente. Contexto. La Unión  
+Europea apunta 600 GW para 2030. China 100. USA 
+aceleró su inversión en energía limpia. Eso no  
+va a bajar. Es ley, es política global. La demanda 
+industrial está garantizada y crece a un 5% anual  
+mínimo. Pero aquí viene el dato que cambia todo. 
+La producción mundial de plata es de 885 millones  
+de onzas. Parece que hay suficiente, ¿verdad? Pero 
+aquí está lo que destruye esta lógica. La plata  
+es un subproducto, no se produce directamente, se 
+extrae con cobre, se extrae con zin, se extrae con  
+oro. Los mineros no controlan independientemente 
+la producción de la plata. Producen porque sus  
+clientes demandan cobre y zin. La plata es un 
+lcky bypruct. Las minas en Perú y en México están  
+viejas. Sus leyes mineras caen y no hay proyectos 
+nuevos. La oferta es inelástica. Aunque el precio  
+suba a $200 mañana, las minas tardarían 10 años en 
+producir más. El suelo del precio no es técnico,  
+es geológico y no entiende de precios de 
+cotización. ¿Qué significa eso? Que incluso  
+si la demanda de la plata explota, no puede haber 
+oferta inmediata para cubrirla. Los ciclos mineros  
+son de entre 5 a 10 años y no existe un botón de 
+aumentar producción. Y aquí está la ecuación que  
+nadie puede evitar y que necesitas conocer 
+hoy. Demanda 2024 700 millones de onzas.  
+Crecimiento 5% anual. Esto es igual a más 35 
+millones anuales. Demanda 2025 735 millones.  
+2026 771 27 810 2851 29 894 30 940 millones La 
+oferta es fija de 885 m000ones es fija fin aquí no  
+hay misterioso. En 2028-2029 se producirá un cruce 
+que pondrá en evidencia el déficit permanente  
+al que nos enfrentamos, generando una escasez 
+estructural permanente. Para que te hagas una idea  
+más clara, a lo largo de toda la historia humana 
+se han extraído aproximadamente 1.74 millones de  
+toneladas métricas de plata. Esta cifra se traduce 
+en aproximadamente 56,000 millones de onzas troid  
+de plata. una cantidad que suena astronómica 
+hasta que se visualiza en términos de volumen  
+físico. Mira esto. La visualización más precisa 
+disponible es la siguiente. Toda la plata jamás  
+minada cabe en un cubo que mide 55 m de lado a 
+lado. Para poner esto en perspectiva, el cubo de  
+55 m es comparable en altura a un edificio de 18 
+20 plantas, lo que lo hace relativamente modesto,  
+considerando que representa toda la riqueza 
+de plata extraída en mileni de civilización  
+humana. Esto es igual a que los precios suben, 
+sin excepciones, es ciencia, no especulación.  
+El mercado lo sabe y lo está descontando. Para 
+el que no lo sepa, en el sector institucional los  
+inversores no hacen scalping o entradía, se hacen 
+generalmente operaciones a 5, 10 años vistas,  
+por lo que no tienen problema en pagar el precio 
+de 2028 hoy en 2026 porque no tienen pensado  
+vender hasta 2033. Esto provoca que los precios 
+de hoy en La Plata estén reflejando este gran  
+problema de escasez al que se va a enfrentar la 
+industria. Suena fácil, ¿verdad? Compras plata,  
+espera y te haces rico. Pero aquí es donde te 
+equivocas. Si aplicas una estrategia de comprar  
+y mantener en un mercado como la plata, vas a 
+sufrir caída del 30% o más en una sola semana.  
+La plata es conocida como el metal del [ __ ] 
+por su volatilidad asesina. Si no sabes gestionar  
+estos giros, el mercado te expulsará justo antes 
+de la subida. Necesitas un sistema como el que  
+te voy a compartir. Pero, ¿cuánto durará esta 
+escasez y quién se está comiendo toda la plata?  
+Principalmente son dos monstruos, la energía 
+solar y la inteligencia artificial. Los nuevos  
+paneles solares TopC usan un 50% más de plata que 
+los viejos, lo que dispara aún más la demanda. Y  
+la IA, esos centros de datos masivos necesitan 
+una conductividad eléctrica perfecta. La plata  
+es el metal más conductor del universo conocido. 
+No tiene sustituto. Apple, Tesla y Samsung pagarán  
+lo que sea por ella. El precio es irrelevante para 
+ellos, pero es crítico para ti. Algunos pensaban  
+que la recesión económica frenaría esta demanda, 
+pero descubrimos un dato aterrador. Incluso en  
+los escenarios de recesión más duros proyectados 
+para 2026, la demanda industrial de plata aumenta.  
+¿Por qué? Porque la transición energética, como 
+ya hemos visto, es un mandato gubernamental, no  
+una elección del consumidor. El gobierno imprime 
+dinero para subsidiar paneles solares y ese dinero  
+va directo al precio de la plata. La recisión es 
+alcista para la plata. Mira este gráfico mensual.  
+Es una obra de arte. Se llama cupan handle o taza 
+con asa, pero no es una taza de un mes, es una  
+estructura que ha tardado 45 años en formarse. El 
+borde de la taza fueron los $50 de 1980 y 2011.  
+Al romper esa barrera el año pasado entramos en 
+descubrimiento de precios. No hay resistencia,  
+no hay memoria histórica de precios por encima de 
+$50. La proyección técnica mínima de esta ruptura  
+no son los $100 como algunos opinan. Si mid la 
+profundidad de la taza, el objetivo matemático  
+nos lleva a $135 por onza como mínimo. Y esta es 
+una proyección totalmente viable para el consenso  
+de analistas y está ampliamente aceptada. Estamos 
+solo a mitad de camino. Sé que son muchos datos,  
+pero esta información es necesaria para entender 
+el contexto de la plata en el mercado actual. Y  
+ahora sí, es el momento de [ __ ] toda esta 
+información y teniendo claro el contexto del  
+mercado, diseñar la estrategia para operarlo con 
+éxito. Tenemos claro el contexto. La plata subirá,  
+pero ¿cómo operamos esa subida sin que la 
+volatilidad nos destruya? Aquí viene el secreto.  
+La estrategia se llama Silver Surfer. Consiste 
+en detectar y cazar las retracciones del mercado  
+mediante un grit adaptativo y funciona así. No 
+vamos a intentar comprar en el mínimo exacto,  
+eso es imposible. No tenemos una bola de cristal, 
+nadie acertaría. Pero lo que sí podemos hacer es  
+construir una trampa de compra, una rejilla o 
+grit controlado para capturar esa retracción.  
+natural del mercado. Imagina que la plata está en 
+9945 y detectamos que están ocurriendo tres cosas  
+al mismo tiempo. Primero, la tendencia a largo 
+plazo es alcista. Las medias móviles están en el  
+orden correcto, la de 50 por encima de la de 200. 
+Segundo, hay una retracción pequeña. El precio  
+cayó temporalmente por debajo de la media rápida. 
+Es un pullback dentro de la tendencia. Y tercero,  
+el R6 está por debajo de 30, es decir, el momentum 
+está agotado, los vendedores se cansaron. Cuando  
+estas tres condiciones ocurren juntas, tenemos un 
+75 85% de probabilidad de que el precio suba desde  
+ahí. Y aquí es donde colocamos nuestro grid. Yo 
+no coloco una orden completa con el total de la  
+posición porque sería muy arriesgado. Divido el 
+lotaje y lo coloco en cinco órdenes distribuida en  
+un rango. Nivel 1, 9935, 50 puntos por debajo del 
+trigger. Nivel 2, 9940. Nivel 3, 9945. El precio  
+actual 9950 y nivel 5, 995. 50 puntos por arriba. 
+¿Por qué? Pues porque no sabemos exactamente dónde  
+va a rebotar el precio. Podría bajar a 9935 y 
+subir o podría bajar a 99,20, disparar nuestro  
+stoploss y luego subir. Con la rejilla capturamos 
+dinero en todos los escenarios, como vamos a ver  
+ahora aquí en directo. Si el precio baja a 9935, 
+ejecutamos la ordenancia, objetivo 100 puntos.  
+Pérdida máxima -1 puntos. Si baja a 9930 la orden 
+1 se detiene en pérdida. Pero ahora tenemos dinero  
+en efectivo. Si luego sube, ejecutamos las órdenes 
+superiores. Si sube en lugar de bajar ejecutamos  
+las órdenes del lado superior. También ganamos. La 
+cuestión aquí es que incluso si nos equivocamos en  
+la dirección dentro de ese rango, el sistema 
+nos ajusta automáticamente. Cada vez que una  
+posición comienza a ganar, activamos un trailing 
+stop dinámico de 50 puntos. Esto significa que si  
+ganamos estamos protegidos. Si el mercado revierte 
+salimos sin perder lo todo lo que ganamos. ¿Cuál  
+es el resultado esperado? En un mes normal, 
+la estrategia ejecuta entre 10 y 20 grits. De  
+esos grits, una a tres órdenes se ejecutan por 
+rejilla en promedio. De esas órdenes ejecutadas,  
+un 75% gana $100, lo que quedaría igual 100 
+* 0.75 = 75 y 25% pierden $100, lo que nos  
+quedaría 100 * 0.25 = -25. Resultado neto 75 - 25 
+$50 por operación o lo que es lo mismo por grit.  
+10 a 20 grit por $50 promedio igual $750 mensuales 
+con una cuenta media o pequeña. Evidentemente aquí  
+cada uno tiene que ajustar los cálculos con su 
+realidad particular, las reglas de su broker,  
+Sprits, comisiones, días malos, etcétera. y el 
+riesgo, porque evidentemente al contrario de lo  
+que algunos gurús predican con que tienen sistemas 
+o historias raras para invertir sin riesgo,  
+yo no te voy a mentir, la realidad es que las 
+inversiones conllevan un riesgo. Como todo en  
+esta vida, el dinero gratis no existe. El peor 
+caso es que todas las cinco órdenes se ejecuten y  
+todas pierdan. Eso sería igual a 5 * 0.1 * 100* 
+10 = 500 de pérdida. Y esto solo sucede si el  
+mercado colapsa completamente. En realidad sucede 
+una de cada 50 a 100 rejillas si tienes suerte,  
+pero ahora lo vamos a ver con datos reales para 
+que puedas tener una mejor aproximación de la  
+realidad. La clave aquí es que yo te muestro el 
+ejemplo de un grit de cinco órdenes equidistante  
+y equitativo. Pero esto es solo un ejemplo 
+para que se entienda el concepto. Pero se  
+puede amplificar a 10 o 15 órdenes de menor 
+lotaje, ampliando la zona de absorción de ese  
+retroceso del mercado. O incluso se puede utilizar 
+una rejilla de recuperación para salir más rápido  
+y con mayor beneficio del movimiento. Esto se 
+haría simplemente con poner el lotaje inicial  
+más bajo y repartir el sobrante en las últimas 
+posiciones, es decir, un incremento de lotaje  
+en el descenso del grid. Evidentemente estas 
+técnicas son más rentables, pero estos ya son  
+técnicas más avanzadas que requieren de un cálculo 
+muy meticuloso y preciso de los márgenes promedio  
+de los retrocesos del mercado, comisiones, 
+etcétera. Por lo que no voy a entrar en ello  
+en este vídeo. Pero por eso el sistema funciona, 
+porque está diseñado específicamente para capturar  
+retracciones del mercado. Solo hay que adaptar 
+el grid al promedio de las retracciones para  
+adaptarlo al mercado, porque no todos los mercados 
+son iguales. No es rentable porque sea perfecto,  
+es rentable porque es resiliente. Ahora bien, esto 
+que te he enseñado es la estrategia, el manual,  
+lo que cualquiera puede operar desde hoy mismo 
+con disciplina si quiere. Pero ahora vamos a  
+la gráfica a poner esto en práctica para que veas 
+exactamente cómo se ejecuta sobre el mercado real.  
+Bueno, aquí en la gráfica lo vamos a ver mucho 
+mejor. Yo tengo ya aquí con un Fibonacci he  
+simulado las cinco distancias de las operativas 
+para que podamos irla poniendo y vayamos viendo  
+todo. Y básicamente he creado aquí un RSI con 
+una zona que nos va a ir pintando en color verde,  
+como vemos aquí en esta parte nos va a pintar 
+de color verde cuando el RSI baje por el nivel  
+de 30. Y recordar que lo que tenemos que hacer 
+arriba es esta media móvil amarilla es la de 50.  
+La roja es la de 200 y lo que tenemos que ver 
+es un retroceso del precio por la media móvil  
+de 50 cuando a la vez el RSI esté en la zona de 
+30. Es decir, por ejemplo, aquí tenemos un RSI  
+en la zona de 30. Vamos a marcarlo. Estaría aquí. 
+Pues fijaros, aquí tendríamos una señal en el que  
+el RSI está en la zona de 30, pero el precio 
+tiene que estar por debajo de la EMA de 50.  
+y por encima de la de 200, por lo que aquí no se 
+cumple. Hubiese sido un buen momento para comprar  
+y vemos que va positivo, pero no se cumple. Si no 
+se cumple, seguimos hacia detrás. Vamos a ver otra  
+señal por aquí. Vamos a darle hacia atrás hasta 
+que veamos. Voy a darle zoom para que veamos las  
+señales mejor, que va a ser más sencillo. 
+Y fijaros, aquí tenemos más señales. Mira,  
+aquí tenemos varias. Vamos a analizar esta. 
+Le doy zoom aquí y lo hacemos más claro aquí.  
+Fijaros. Aquí tenemos una. ¿Cómo quedaría esta 
+señal? Primero voy a marcarla verticalmente aquí.  
+Y fijaros el precio. Cruza la media móvil de 50 
+en esta vela de aquí. Exactamente el precio está  
+rompiendo el RSI por la zona de 30, por lo que 
+aquí tendríamos la señal de compra. Es decir,  
+aquí en ese punto, en esa vela, pondríamos nuestra 
+operativa. Con la la operativa del medio tendría  
+la orden inicial en el precio actual, tal cual 
+hemos visto en la en la teoría, y luego las dos de  
+encima y las dos de abajo. ¿Qué nos quedaría aquí? 
+Pues bueno, se activaría en este caso solo una,  
+el precio ya pues subiría y se iría solo con la 
+tercera. En este punto de aquí, cuando se activa  
+una y el precio ya retrocede, recupera el nivel, 
+las otras ya se quitan automáticamente y no se  
+hacen. Por lo que aquí vemos que estaríamos 
+comprando en una zona clave para el precio.  
+Fijaros como esta operativa se iría a positivo. 
+Vamos a seguir buscando hacia atrás. Daros cuenta  
+que estoy aquí en el mercado real ahora, tal cual, 
+y me voy hacia atrás buscando operativa. O sea,  
+aquí no hay nada preparado ni nada, ni nos 
+vamos al al 2005 a buscar operativa. O sea,  
+estamos ahora en el en el time frame actual. 
+Fijaros, aquí, por ejemplo, otra zona tenemos el  
+R6 en el nivel de 30, pero la media móvil de 50 
+debe estar por encima de la media móvil de 200,  
+es decir, la amarilla por encima de la roja, por 
+lo que ya no se cumpliría. Aquí no haríamos nada.  
+Seguimos hacia atrás. Aquí tenemos otra señal, 
+pero lo mismo, tampoco no haríamos nada porque  
+el precio está está mal colocado, está por debajo 
+de la media móvil de 200. Nos vamos hacia atrás y  
+aquí sí que tenemos señal. Fijaros, ahí tendríamos 
+una y aquí tendríamos otra. Y si yo coloco aquí la  
+orden, estaríamos aquí en ese nivel. Lo mismo, se 
+activaría una, la segunda no llegaría a activarse,  
+por lo que estaríamos comprando aquí en este nivel 
+y nos la llevaríamos a positivo aquí en esta zona.  
+Vemos que finalmente pues esto se va muy muy 
+positivo porque el precio pues fijaros hasta donde  
+llegaría aquí en este nivel. O sea, son operativas 
+que, como veis, eh se recuperan relativamente eh  
+fácil, por lo que al final, bueno, aquí ya cada 
+uno lo que él quiera hacer, pero con esto quiero  
+decir, pues quizás podéis darle una vuelta al al 
+grid, a la configuración, tal como hemos dicho,  
+para que busquéis otro tipo de de configuraciones, 
+¿no? Fijaros, mira, aquí un caso muy interesante.  
+Aquí tenemos una caída muy muy potente, una caída 
+muy pronunciada. Fijaros aquí. Esta es la típica  
+caída de la plata que os comentaba, que si no 
+estás preparado te revienta literalmente. Pero,  
+¿qué estamos haciendo con nuestra estrategia? 
+Pues aquí entra en juego la estrategia para  
+protegernos, como decíamos, protegidos 
+por las matemáticas. Fijaros aquí. Bueno,  
+voy a quitarlo de la orden porque yo creo que esto 
+ya ha quedado claro el concepto. Voy a darle zoom  
+y fijaros aquí este caso con esta caída que es muy 
+potente. Tenemos aquí la señal. Aquí en este punto  
+es donde estaría el RSI por debajo de 30, pero 
+¿qué pasa? Como el precio está por debajo de la  
+media móvil de 200, no hacemos nada. Y al no hacer 
+nada, evitamos un dry con una caída muy potente,  
+que aquí ahora se ve pequeño, pero si lo doy 
+aquí esto creerme que es una caída muy potente,  
+sobre todo en un activo como la plata. Y sin 
+embargo, por el contrario, si nos vamos aquí  
+a esta zona y le damos zoom, justo antes sí que 
+tenemos una señal que sería esta de aquí. Fijaros  
+ahí en esa vela. En esta vela de aquí tendríamos 
+nuestra primera compra. Nuestra segunda compra  
+aproximadamente pues podría quedar por este 
+nivel. Y ambas se van a positivo, porque si esto  
+lo extendemos desde el precio de cierre, ambas se 
+van a positivo. Es a positivo y esta pues bastante  
+a positivo. Un punto clave también es que cuando 
+el precio se aproxima a la media móvil de 50, como  
+la rompe eh en corto, cuando se aproxima hacia 
+arriba, también es un punto para el que quiera  
+asegurar las operativas a break even, porque suele 
+ser un punto de rechazo. Es decir, si lo rompe se  
+va con fuerza y si no es capaz de romperlo se 
+rechaza en corto. Por lo que es un punto aquí  
+tipo esto para la gestión. Por eso, como digo, 
+es importante dedicarle un poquito de tiempo a la  
+gestión, porque son estas cositas las que hacen 
+que saquemos una rentabilidad mayor. Fijaros,  
+aquí tenemos otra operativa para que veáis que 
+es que hay muchísima operativa. De todas formas,  
+ahora os voy a enseñar una cosa que os va a volar 
+la cabeza para que veáis cómo funciona esto de  
+maravilla. Fijaros aquí otro retroceso muy grande, 
+muy potente. Esta vela de aquí es la que hace que  
+el RSI baje por el nivel de 30. O sea, aquí justo 
+tendríamos la compra, una compra que, como vemos,  
+se va pues muy muy a positivo. Fijaros aquí otra 
+igual aquí no llega a romper la media móvil de  
+200, se para aquí, por lo que aquí tendríamos otra 
+compra. Aquí en este caso vemos que el R6 baja  
+mucho y podríamos tener un negativo muy potente, 
+pero ¿qué está pasando? La media móvil de 50 por  
+debajo de la de 200 y el precio por debajo de 
+las dos. No hay nada que hacer. Aquí, fijaros,  
+otra caída muy potente, pero lo mismo aquí en 
+esta caída no se operaría porque esta vela,  
+que es la primera que ya rompe el RSI del nivel 
+30, fijaros, está ya cerrando aquí por debajo.  
+Voy a darle zoom para que se vea mejor, porque 
+yo lo veo, pero no sé si vosotros lo veis. Aquí  
+se ve mejor. Está ya cerrando por debajo de la 
+media móvil de 200. Es decir, está cerrando aquí,  
+por lo que cumpliendo la regla de no comprar con 
+el precio por debajo de la media móvil de 200,  
+pues nos evitamos meter un buy aquí en este 
+punto viendo con la caída importante que tiene  
+el precio. Aquí, fijaros, aquí tenemos otra. Vamos 
+a marcarla esta también. Aquí el precio en este  
+punto. Aquí tendríamos nuestra compra, una compra 
+que como vemos tendríamos rápido en positivo,  
+por lo que seguramente ya la habríamos cerrado. 
+Recordar, se aproxima la media móvil de 50,  
+pega, por lo que aquí ya sería un punto para para 
+asegurar o para o para cerrarla directamente, pero  
+en caso de que hagamos otro tipo de gestión, pues 
+ya veis que finalmente también se va a positivo.  
+Entonces, básicamente lo que estamos haciendo 
+es comprar en todos estos pequeños retrocesos.  
+Fijaros, aquí tenemos un rango bastante potente. 
+Mira, aquí en esta zona estaríamos comprando  
+también. O sea, es una barbaridad. Si la si la 
+hacéis bien y le dais una vuelta, vais a ver  
+cómo funciona. Fijaros de aquí esta vela también. 
+Aquí tenéis el RSI en la zona de 30. En esta vela  
+al cierre se ejecutaría la compra y fijaros que 
+es una compra que está segundos o minutos y se  
+va ya a positivo totalmente. Luego fijaros aquí 
+que tenemos un rango y caídas más pronunciadas,  
+pero eh en este caso de aquí nosotros tendríamos 
+la compra aquí en este punto. Esa vela nos daría  
+una compra que sería esta de aquí. rápidamente nos 
+la lleva a positivo. Yo lo que hago para no estar  
+pendiente el que quiera operarla en manual, pues 
+ya sabéis lo que cada uno quiera, eh, sacarle,  
+¿no? Lo suyo, dos, tres velas y e ir cerrando. 
+El que quiera automatizarlo, yo lo que hago es  
+le pongo un trailing stop para que si el precio se 
+va en positivo, automáticamente ya pues se ponga  
+un tril stop que vaya siguiendo el precio y si se 
+me gira pues que me cierre o en veren o un poco de  
+negativo y evito este tipo de de correcciones. 
+Pero bueno, fijaros, por ejemplo, estos rangos  
+como la media móvil de 50 está por debajo como 
+aquí o como aquí. Pues todo esto no compraríamos,  
+no lo evitaríamos. Sí que compraríamos, por 
+ejemplo, aquí en esta zona, o sea, es decir,  
+aquí esta vela que está por encima de la media 
+móvil de 200 compraríamos y rápidamente el precio  
+se va en positivo hasta este alto. Fijaros aquí 
+una caída brutal, pero la primera vela del RCSI  
+es esta de aquí. ¿Qué pasa? El la media móvil está 
+por el precio está por debajo de la media móvil  
+de 200, no se compraría y evitamos esta caída. 
+Es bueno, estos ejemplos son buenos también que  
+vosotros hagáis hagáis un back testing y lo vayáis 
+comprobando para que veáis como siguiendo la regla  
+evitamos este tipo de eh de catástrofes que 
+llevarían la cuenta a negativo. Y aquí es donde  
+la mayoría de traders se equivocan. Piensan que 
+con conocer la estrategia es suficiente, pero no.  
+Una estrategia es solo el 20% de tu trading. El 
+80% restante la ejecución y la gestión del riesgo.  
+Yo puedo darte la mejor estrategia del mundo, 
+pero si no sabes cómo dimensionar tus posiciones,  
+si sobrelotas, si no sabes gestionar, si no sabes 
+cuándo operar y cuándo replegarte, terminarás como  
+el 83% de los trader quemado por el mercado. 
+Por eso hice esto que te cuento ahora mismo.  
+Tomé esta estrategia, la validé en data histórica 
+de 5 años y luego la automaticé completamente  
+en un bot. ¿Por qué? Porque la automatización 
+elimina los tres enemigos principales del trader,  
+la emoción, la inconsistencia y la fatiga. Cuando 
+operas en manual tienes que estar ahí delante 6,  
+8, 10 horas por día monitoreando gráfico, 
+esperando y esperando. Y el ojo humano  
+guiado por un incorrecto psicotrading, después 
+de 6 horas mirando pantalla empieza a ver cosas  
+que no existe. Empieza a entrar cuando no debería 
+entrar, empieza a salir cuando debería quedarse,  
+pero un bot no se aburre, no se emociona y no se 
+cansa. El bot ve la señal, ejecuta, gestiona el  
+riesgo, cierra posiciones y registra todo de forma 
+automática, 247, sin dudas, sin el Pero, ¿qué pasa  
+así? Sin nada de todo eso. Esto es lo que separa 
+a los traders profesionales de los aficionados.  
+Los profesionales usan máquina, utilizan 
+algoritmos de ejecución. Bueno, y aquí os  
+voy a enseñar ahora a eh construirlo aquí dentro 
+de la plataforma. Yo tengo aquí ya guardado en mis  
+proyectos personales. Eh, si os interesa, pues 
+ponémelo en comentarios, lo subiré también a la  
+biblioteca. Bueno, yo aquí tengo algunos bots 
+que voy con los que voy trabajando y haciendo  
+pruebas. Voy a cargar el bot Silver Surfer. Lo 
+cojo, lo cargo y este lo voy a organizar. Este  
+es el bot básico. Si queréis os lo colgaré en la 
+biblioteca, bueno, lo colgaré igualmente para que  
+lo tengáis ya y podáis trabajar sobre él. Este es 
+el bot básico sobre el que luego podéis modificar  
+para añadir criterios de de gestión. Igualmente, 
+eh si tengo un hueco le haré varias modificaciones  
+de gestión para que eh podáis verlo. Voy a 
+desplegarlo y aquí os lo explico rápido para  
+que veáis cómo funciona. O sea, es tal cual la 
+estrategia que hemos dicho, pues aquí configurada,  
+pero con un toque que os va a gustar. No os lo 
+digo, os lo voy a enseñar. Aquí, por ejemplo,  
+tengo la media móvil de 50 y la media móvil de 
+200. ¿Qué hago? Pues bien, lo primero que hago es  
+con un umbral de comparación lo que hago es que la 
+media móvil de 50 tiene que ser mayor, es decir,  
+estar por encima de la media móvil de 200. Esto 
+es una condición, por lo que ya me la cojo y me la  
+llevo aquí al AN ant. O sea, eso es una condición, 
+la media móvil de 50 por encima de la de 200.  
+El RSI tiene que estar por debajo del nivel de 
+30, pues directamente el RSI normal por debajo  
+del nivel 30 y eso es otra condición. Y luego la 
+tercera condición es que el precio, voy a abrir  
+aquí este nodo, tiene que estar por debajo de la 
+media móvil de 50. Fijaros que aquí tenemos la  
+media móvil de 50 y el precio tiene que estar 
+por debajo, es decir, el valor uno del precio  
+por debajo de la media móvil de 50. Y eso es otra 
+condición. Cuando todas las condiciones, las tres  
+que tenemos, se dan, se ejecuta el nodo de grid, 
+que este es el nodo que ejecuta eh las órdenes  
+como nosotros queramos. Aquí os digo que os lo 
+subiré y que vosotros podéis hacer pruebas con él  
+y tal porque como sabéis aquí dentro de Strategy 
+Boost Risk Scalling, tenemos varios eh nodos de  
+gestión muy interesante. Por eso el icono ya le 
+he puesto eh le pusimos este icono pues para hacer  
+un poco plasmar el riesgo, ¿no?, que que lleva. 
+Pero son riesgos muy interesante porque está, por  
+ejemplo, el nodo de antimartingala, para el que 
+no lo conozca pues es muy interesante sobre todo  
+para mercados como La Plata, porque lo que hace 
+es un antimartingala matemático, es decir, cuando  
+entra en una tendencia, en un movimiento, lo que 
+hace es eh el algoritmo incrementa matemáticamente  
+la operativa siguiendo el precio, por lo que se 
+va cubriendo con las operaciones que ya tiene  
+previamente. C tiene un riesgo muchísimo menor 
+que la Martingala y para cazar tendencias como el  
+caso de la plata, pues bastante interesante. Luego 
+está también el grid de cobertura, que es muy muy  
+interesante para muchos, porque podréis hacerlo 
+un grit con cobertura, es decir, si queréis ese  
+incremento de lotaje, como os comentaba en el 
+vídeo. Bueno, para el caso, yo lo tengo hecho así.  
+Este, digamos que sería el voy a plegar todo 
+y colocarlo. Este sería la estrategia básica,  
+tal cual. Y aquí ahora nosotros pues le podríamos 
+por ejemplo eh si queremos quitarle el nodo de  
+grid y poner el nodo de IA si queremos que la 
+opere la IA. Aunque es interesante esta estrategia  
+utilizarla con un modo grid, porque lo que estamos 
+haciendo es la reabsorción del retroceso, por lo  
+que es interesante matemáticamente lidiar con ese 
+retroceso y absorberlo. Sabemos que está ahí, eh,  
+lo vamos a operar y nos preparamos para ello. El 
+problema de este tipo de nodos, de los nodos grit,  
+nodo Martingala, etcétera, o sea, no es que sean 
+malos, es como todo. Al final un cuchillo para  
+untar mantequilla es un cuchillo para untar 
+mantequilla. Si luego uno quiere salir a la  
+calle y apuñalar a otro con el cuchillo de untar 
+mantequilla de su casa, pues bueno, el problema es  
+de la persona, no del cuchillo que se hizo para 
+untar mantequilla, no para apuñalar, ¿no? Pues  
+esto es un poco lo mismo. Las estrategias de grit, 
+como en este caso, son muy útiles, se utilizan  
+muchísimo dentro del sector profesional, pero 
+utilizándolas correctamente. Es decir, tenemos  
+que ser conscientes. Por ejemplo, yo en este caso 
+con este bot soy consciente de que lo que estoy  
+operando es un retroceso del mercado, un retroceso 
+que puede llegar x puntos. Yo ya he medido todos  
+los movimientos, retrocesos medios de la plata, 
+los mínimos, los medios y los máximos, por lo que  
+ya sé, el escenario medio, el habitual, el normal, 
+el bueno y el malo. Entonces, ya me calculo mi  
+grid para soportar incluso los malos y nunca llevo 
+mi cuenta a la quiebra. Ahora, si yo no calculo,  
+si yo no hago nada, no dedico tiempo a la gestión, 
+no planifico, no hago ningún tipo de cálculo,  
+le pongo un grit, pues directamente es peligroso, 
+¿no? Es como eh me puedo estar sobrelotando,  
+sobrealancándome, me puedo quedar sin margen. 
+Entonces, no es que la estrategia de grid sea  
+mala, se utiliza mucho profesionalmente, sino que 
+es mala si no se utiliza o peligrosa, mejor dicho,  
+si no se utiliza correctamente. Por eso os animo, 
+pues al que quiera que haga pruebas en demo,  
+que pruebe y que mire. Pero bueno, esta sería la 
+estrategia básica y de aquí pues ya tenéis varios  
+tips para eh optimizarla. Así que ahora vamos al 
+Metatrader y vamos a ver aquí tal cual como está  
+en lo básico, sin nada, ningún tipo de gestión 
+para que veáis el potencial que tiene. Bien,  
+yo ya tengo aquí el bot. Abro los parámetros 
+para que veáis cómo está. O sea, es tal cual el  
+bot que hemos hecho aquí. Lo voy a poner aquí en 
+un back testing en tiempo real y vamos a ver cómo  
+funciona. Lo bueno es que ya sabéis la lógica, 
+lo habéis visto cómo está programado los nodos,  
+o sea, aquí no hay ni trampa ni cartón. A mí me 
+da igual que gane o o que pierda, eh, no lo estoy  
+vendiendo, pero quiero que veáis la estrategia 
+y cómo funciona, porque aquí ahora en el bas  
+testing es donde se ve realmente cómo funciona 
+y el potencial, ¿no? Porque contar la teoría es  
+muy bonita, ir a la gráfica y ver cuatro ejemplos 
+también, pero aquí es donde se ve. Fijaros. Aquí  
+acaba de desplegar la rejilla. Como se ha dado 
+tres veces la señal, ha hecho la rejilla. Fijaros,  
+ha abierto un by porque pone todos son by limits. 
+Uno lo ha pillado, espera, voy a poner aquí la  
+gráfica para que lo veáis. Y se lo ha llevado 
+aquí a Tape Profity. Aquí estarían los otros  
+by limits con sus Take Profity. Fijaros, este se 
+lo ha llevado y lo ha cerrado aquí. Mirad, aquí  
+vuelvo a desplegar porque se da la señal. Todavía 
+no ha activado ninguno. El primero está aquí en  
+este nivel. Ahí casi lo activa, no lo ha llegado 
+a activar. A ver si lo activa. Si no, pues cuando  
+se dé otra señal esto lo elimina, ¿no? Esta parece 
+que no la va a activar. Pero fijaros aquí en este  
+punto con el retroceso ha pillado el B y se la ha 
+llevado positivo. Aquí este hubiese sido una buena  
+operativa, pero no la ha llegado a tocar. Si no la 
+ha llegado a tocar, pues no la ha llegado a tocar.  
+Fijaros, aquí tiene otro. A ver si esto lo activa. 
+Fijaros, esta vela es la que da la señal y desde  
+ahí lanza la rejilla. De momento esto no lo ha 
+pillado tampoco por un poquito. Aquí vuelvo otra  
+vez. Lanza y a ver si desde aquí sí que activa 
+alguno para que fijáis. Mira, ahí ha activado dos.  
+Ha pillado dos, estos dos de aquí y se lo lleva 
+para arriba. Ahí cierra el primero y ahí cierra  
+el segundo. Fijaros que son los retrocesos. que 
+hace y son retrocesos que siguiendo la lógica de  
+la estrategia rápidamente se suele llevar luego 
+para arriba. Fijaros, fijaros cómo abre. Vamos  
+a dejar que abra algunos más. El basting tarda 
+mucho. Esto está puesto un año, o sea, aquí no  
+hay ni optimización ni nada. Esto está puesto a un 
+año. Mirar aquí vuelve otra vez. Da la señal. Aquí  
+tiene el primer by donde tengo yo la flecha. A ver 
+si si activa o no activa. De momento parece que  
+esto no los activa, se los lleva para arriba. Yo 
+los tengo puestos para que lo abra en el máximo,  
+eh perdón, en el mínimo. Eh se puede poner también 
+para que en lugar del mínimo lo ponga en el  
+cierre. En este caso lo hubiese puesto aquí en la 
+vela y hubiese hecho una o dos. Yo lo tengo en el  
+en el mínimo porque es interesante e para el tema 
+de dry. lo disminuye bastante. Va a hacer menos  
+operativa, pero lo disminuye bastante. Fijaros de 
+momento que el dry down es prácticamente, bueno,  
+prácticamente no, es cero. Lo ha pillado todo y 
+se la ha llevado. Vamos a ver algunas más. Mirad,  
+aquí hace otra. Activa por aquí. Vamos a ver 
+que si pilla alguno o no. Aquí va. A ver si  
+pilla alguno. Ahí pilla uno. El otro no lo ha 
+pillado por un pelo y se lo lleva positivo y  
+lo cierra aquí arriba. O sea, fijaros que lo coge 
+aquí. y se lo lleva aquí arriba. O sea, ha durado  
+nada. Fijaros la gráfica, lleva ya 722 € y estamos 
+ahora justo entrando ya para febrero, por lo que  
+ha hecho 722 € en enero. O sea, el cálculo que 
+os había hecho en la teoría no estaba con este  
+bas testing, pero para que veáis que realmente 
+esto pues llevo bastante tiempo haciéndolo y más  
+o menos los cálculos que os he dado son los que 
+los que son, ¿no? Evidentemente, ningún resultado  
+pasado garantiza un resultado futuro, pero eh 
+sí que nos da una aproximación. Vamos a hacer  
+un movimiento más que haga uno más y lo dejamos lo 
+dejamos ya el Bastam para que veáis cómo funciona.  
+Fijaros que es en los retrocesos. Fijaros aquí 
+retroceso caza y se lo lleva al alza. O sea, esta  
+es la lógica. O sea, ya hemos visto el indicador, 
+la lógica de la teoría por si la queréis hacer en  
+manual. Ya habéis visto en la plataforma de 
+Techin, que es eso mismo exacto, lo que está  
+hecho. Y habéis visto ya cuando hemos buscado 
+ejemplos en manualmente, o sea, es es esto baja,  
+está por debajo de la media de 50, por encima de 
+la de 200, RSI por debajo de 30, pone rejilla y  
+se la se la lleva. Fijaros, aquí viene. A ver si 
+activa alguno. Se da la señal en el mismo sitio. A  
+ver si activa alguno. Fijaros. Aquí va. Activa 
+uno, activa otro, activa el siguiente y pum,  
+se lleva y uno positivo, se lleva el otro y se 
+lleva el otro, los tres. Fijaros el retroceso cómo  
+ha funcionado y directamente se lo se lo lleva. En 
+este punto lleva ahora 1246. Estamos entrando en  
+marzo, por lo que en febrero tiene algo menos de 
+día, pero ha hecho también aproximadamente sobre  
+los 600 700 € o sea, un poco así sería como 
+funciona el algoritmo. Y aquí es donde entra  
+la pieza maestra que lleva todo esto al siguiente 
+nivel. Porque si quieres llevar la gestión de este  
+bot al siguiente nivel, por supuesto, hay técnicas 
+para hacerlo y la gestión es la pieza que sostiene  
+todo el edificio, por lo que suele ser interesante 
+dedicarle un poco de atención. Y la clave aquí  
+es el criterio de Kelly. Es una fórmula que te 
+dice exactamente cuánto apostar para maximizar  
+tu riqueza sin arruinarte. La fórmula es f = 
+bp - q y todo dividido por b, donde bán ganas,  
+cuándo ganas y p es tu probabilidad de éxito. Pero 
+el Kelly puro es demasiado agresivo para la plata,  
+a mi entender, es pura dinamita. Así que yo uso 
+el secreto de los Hedge Phone que aprendí hace ya  
+varios años, el Kelli fractal. Esto significa 
+que si la volatilidad de la plata aumenta,  
+el bot reduce automáticamente el tamaño 
+de la operación y si el mercado se calma,  
+el bot ataca con más fuerza. Esto es gestión de 
+riesgo dinámica. Es un concepto básico que debería  
+incluirse en todas las estrategias de trading y 
+de hecho en el sector profesional se incluyen este  
+tipo de gestiones siempre. Por lo que si alguien 
+te enseña o vende una estrategia de trading donde  
+el lotaje no tenga una gestión matemática y 
+adaptativa para su cálculo y siempre se utilice  
+el mismo lotaje, seguramente ni el curso ni la 
+persona sean verdaderos profesionales. Es uno de  
+los muchos tips que puedes utilizar para decidir 
+más inteligentemente y que no te roben tu dinero  
+comprando cualquier cosa que no sirva para nada. 
+Este tipo de gestión es lo que convierte un bot  
+perdedor en una máquina de imprimir dinero cuando 
+la estrategia es la correcta. Tenemos el déficit  
+de oferta más grande de la historia, tenemos 
+una demanda industrial inelástica por la IA  
+y tenemos una ruptura técnica de 45 años. Y ahora 
+tienes un sistema matemático que ajusta el riesgo  
+dinámicamente para comprar en los retrocesos. 
+$100 la onza no es el techo, es la barrera  
+psicológica. Una vez que la crucemos, el FOMO 
+institucional nos llevará a $15 y más allá y tú ya  
+estarás posicionado desde ahora comprando en cada 
+caída, protegido por las matemáticas. Si quieres  
+aprender todo sobre la fractalidad del mercado de 
+forma profesional y cómo puedes aplicarla desde  
+hoy mismo para mejorar la rentabilidad de tus 
+estrategias o bot de trading de forma explosiva,  
+te dejo aquí mismo un vídeo donde te lo cuento 
+todo al detalle paso a paso. Nos vemos dentro.
+he

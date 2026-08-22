@@ -1,0 +1,364 @@
+Titulo              : Estrategia Fibonacci +96% en vivo: ¿funciona realmente o es otro engaño?
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-03-15
+Duracion            : 19:50
+Vistas              : 1,812
+URL                 : https://www.youtube.com/watch?v=q8fJN6217tE
+----------------------------------------------------------------------
+
+En la búsqueda activa, por encontrar estrategias 
+de trading rentables que podamos aplicar de forma  
+objetiva y automática, un usuario de nuestra 
+comunidad propuso automatizar esta locura,  
+cruzar tres medias móviles exponenciales ultra 
+rápidas filtradas por el parabolic SAR en H4 y  
+los resultados destrozan a casi cualquier fondo 
+de inversión. Acepté el reto. He automatizado  
+la estrategia. He creado un bot de trading de 0 
+a 100. Pero lo más importante, vamos a analizar  
+todo al detalle para ver si es tan rentable como 
+promete su creador. Y si te quedas hasta el final,  
+te voy a regalar este bot exacto para que lo 
+conectes a tu cuenta hoy mismo. Ya he analizado  
+y automatizado la estrategia siguiendo al pie de 
+la letra las instrucciones del creador para que  
+tú no tengas que hacerlo. Por eso, directamente en 
+los próximos minutos vamos a ir al grano. Veremos  
+exactamente si la configuración de EMA 5813 
+detecta el momentum. Luego entraremos al lienzo de  
+Techin para automatizar las entradas y la salida. 
+Y al final del todo veremos el secreto de gestión  
+de riesgo que permite a este bot fallar el 60% de 
+las veces y aún así hacerte ganar dinero. Recuerda  
+siempre que con Techain si una estrategia 
+de trading existe, puedes automatizarla. Y  
+si quieres que te eche una mano a hacerlo, solo 
+tienes que entrar en el foro oficial de Techain,  
+compartir los detalles de la estrategia que te 
+ha gustado y la automatizaré en un bot de trading  
+como este hoy aquí. No puedo asegurarte que el vos 
+sea rentable, eso dependerá de la estrategia que  
+tú compartas, pero lo que sí puedo prometerte 
+es que si puedes soñarlo con Tchain, puedes  
+construirlo porque esto es ingeniería financiera 
+real aplicada. Esto es Techain. Comenzamos.  
+Vamos con el paso número uno, la configuración de 
+esta estrategia que supuestamente nos da un 96%  
+de rentabilidad. Importante que no lo he dicho, 
+el mercado sobre el que se prueba es el teter  
+como vais a tener el bot gratis, podéis hacer el 
+back testing en cualquier mercado y ver diferentes  
+configuraciones y resultados. La mayoría usa una 
+media de 50 y otra de 200. demasiado lento para la  
+mayoría de los mercados modernos. Esta estrategia 
+propone usar tres EMAS muy pegadas al precio,  
+una EMA rápida de cinco, una intermedia de 8 y una 
+lenta de 13. Pero, ¿por qué 5, 8 y 13? Pues bueno,  
+no son números aleatorios, son números Fibonacci 
+adaptados a las velas. La secuencia crea una  
+jerarquía dinámica de momentum. Déjame que te lo 
+muestro rápido. La EMA 5 captura el micromentum de  
+30 minutos, la de8, el momentum horario y la de 13 
+el momentum de la tendencia en corto. Cuando estas  
+tres capas se alinean, no estás viendo un cruce 
+bonito, estás viendo una convergencia de consenso  
+en múltiples escalas temporales que la teoría 
+del caos identifica como bifurcación predecible.  
+Evidentemente, como todo en la vida, tiene 
+ventajas y desventajas y debes conocerlas para  
+poder aplicar la estrategia con éxito. Comencemos 
+por las desventajas. El mayor problema que tiene  
+esta estrategia, al igual que tienen todas las 
+estrategias que utilizan medias móviles, es que  
+sufren mucho en mercados laterales, así que no 
+es válida para mercados laterales. Evidentemente,  
+debido al gran peso de las EMAs en la operativa, 
+es una estrategia con retraso, es decir, siempre  
+irá por detrás del precio, pero también tiene 
+grandes ventajas. Se apoya en la secuencia de  
+Fibonacci. y gracias a ello evita en gran medida 
+los solapamientos de precios. Por último, como  
+ventaja final, destacaría que el tener un flujo 
+de triples medias móviles en multitime frame,  
+pues le aporta una detección del momentum y ayuda 
+en gran medida a filtrar el ruido a la vez que  
+confirman bastante bien las tendencias. Esa es la 
+función principal de las medias móviles, confirmar  
+tendencia. Todos son indicadores bases que tienes 
+gratis en tu Metatrader. Igualmente, no debes  
+preocuparte porque el bot que te voy a regalar al 
+final del vídeo los calcula ya de forma autónoma  
+y automática, por lo que no necesita tener nada 
+extra. Cuando la D5 cruza la 13, tenemos una  
+alerta inicial, por lo tanto, esperamos a que 
+la D8 cruce también la 13 para confirmar la  
+estructura, confirmar si es alcista o bajista. 
+Pero aquí es donde la mayoría de traders retail  
+fracasan, confunden correlación con casualidad. 
+Un cruce de media sin contexto de tendencia mayor  
+tiene una probabilidad estadística del 48 al 52%. 
+Es decir, lanzar una moneda al aire. Necesitamos  
+un filtro de tendencia que funcione como test de 
+hipótesis estadístico. Créeme, lo he calculado  
+estadísticamente. Si no aplicas esto, vas a perder 
+dinero. Hasta aquí todo parece lógico y fácil,  
+¿verdad? Configuramos los indicadores, cruzan las 
+medias y compramos o vendemos. Pero si haces esto,  
+vas a ser masacrado en una semana lateral 
+de mercado. Si no activas este filtro de  
+temporalidad que vamos a conectar ahora mismo, 
+esta estrategia es una ruina matemática asegurada.  
+Vamos a verlo. Aquí entra el verdadero poder 
+de techin. Aunque es importante aprender y  
+practicar en este caso, para que no tengas que 
+complicarte y podamos ir directos al grano, ya he  
+planificado y diseñado el flujo de la estrategia 
+completo, nodo a nodo. Aquí lo tienes. Bueno,  
+en realidad tuve algo de ayuda del ingeniero IA de 
+Techain. Básicamente transcribí el vídeo donde ya  
+se explicaba la estrategia de trading y le pasé el 
+texto a la IA para que diseñase el bot en un par  
+de minutos e hiciese todo el trabajo pesado por 
+mí. Aunque es cierto que me vi el vídeo completo  
+un par de veces para entenderlo todo, analizar 
+la estrategia, ver puntos de mejora y sacar mis  
+propias conclusiones personales que te compartiré 
+al final del vídeo. Porque recuerda siempre,  
+IA para potenciarnos, sí, pero IA para hacernos 
+más tontos, no. Mantén tus neuronas activas y tu  
+cuenta de trading en positivo. Y esto de aquí 
+es el nodo en cuestión que va a controlar la  
+temporalidad mayor, la media móvil multitime 
+frame. Con esto básicamente le decimos al bot,  
+no entres a menos que en el gráfico de 4 horas las 
+EMAS 5, 8 y 13 también estén alineadas al alza.  
+Acabamos de eliminar de un plumazo todas las 
+señales falsas contra la tendencia macro.  
+Pensábamos que con las EMAS y el filtro de 4 
+horas, el bot ya era invencible, pero lo único  
+que hace este bot de forma consistente con esta 
+configuración es perder dinero. Tras analizarlo,  
+vi que esto sucede porque los smart money 
+o algoritmos institucionales hacen barrido  
+de liquidez que se acaban nuestro stoploss por 
+milímetro. El stoploss tradicional que te enseñan  
+en todos los vídeos de YouTube aquí no sirve. 
+y en casi ningún sitio. ¿Cómo evitamos entonces  
+que en un barrido de liquidez el precio liquide 
+tu posición antes de que el precio despegue, por  
+ejemplo, un 20%? La respuesta es gestión de riesgo 
+dinámica. Y en este punto, quiero ser honesto  
+contigo, los algoritmos institucionales no ven 
+como una protección, como lo ves tú. Para ellos  
+es simplemente liquidez. ejecutan stops mediante 
+algoritmo de detección de clúster de órdenes y  
+te borran del mercado. El stop estático es un 
+acronismo del trading discrecional que comúnmente  
+viene asociado a la degradación de la estrategia 
+para que nos entendamos todos a la quiebra de tu  
+cuenta. La solución la propone propio creador de 
+la estrategia, por lo que si queremos ejecutarla  
+con total rigor para replicar la supuesta 
+rentabilidad del 96%, debemos aplicar en este  
+caso el parabolixar. El precio de cierre tiene que 
+estar por encima de los puntos del parabolic Shar  
+y para el stop usaremos un nodo dinámico. Buscamos 
+el mínimo de las últimas cinco velas y le añadimos  
+un buffer o decir o mejor dicho un colchón del 
+0.8%. Supuestamente con esta configuración debería  
+disminuirse considerablemente el nivel de barrido 
+de stop loss, pero eso vamos a descubrirlo ahora  
+mismo. Si no sabes qué es un parabolic sar o 
+para qué se utiliza, no te angusties porque  
+te lo explico ya mismo antes de continuar para 
+que no pierdas el hilo. El parabolic Shar Stop  
+and reverse desarrollado por Wilder en 1978. 
+No es una decoración bonita en la gráfica, es  
+un sistema de seguimiento de tendencia basado en 
+la aceleración del mercado, por lo que pertenece,  
+evidentemente, a la familia de indicadores de 
+seguimiento de tendencia. Con esto nos da otra  
+pista sobre la estrategia para entenderla mejor 
+y sobre qué mercados ejecutarla. Combinando la  
+medias móvil con el parabolicar, tenemos una 
+estrategia 100% de seguimiento de tendencia,  
+por lo que solo se debería ejecutar en este 
+tipo de régimen de mercado y en ningún otro.  
+La fórmula de aceleración hace que los puntos 
+se aprieten conforme avance la tendencia,  
+actuando como un tipo de training stop 
+dinámico matemático. Lo usamos aquí como  
+filtro de confirmación direccional, no como una 
+salida. Lo que estás viendo no es una estrategia  
+montada al azar, es un sistema de ecuaciones con 
+variables de entrada definidas con un har de 0.68.  
+La estrategia nos deja claro que va a operar 
+tendencias. Eso es lo que sabe hacer y si la  
+ponemos en un mercado lateral, la cosa no saldrá 
+bien. Pero el age no está en los indicadores,  
+está en la simetría riesgo beneficio de 31, que 
+garantiza expectativa matemática positiva, incluso  
+con un win rate de aproximadamente el 35%. Sé 
+que todo esto parece mucha configuración técnica,  
+pero si estás viendo este vídeo es porque llevas 
+ya un tiempo en el trading y por fin has dejado de  
+creer en el dinero fácil, rápido y sin riesgos. 
+Quieres hacer las cosas bien porque si no has  
+descubierto que nunca vas a lograr resultados y 
+has decidido que quieres ser un trader algorítmico  
+y cuantitativo rentable. y yo voy a ayudarte a 
+ello, pero tú debes tomar notas e implicarte con  
+esfuerzo y disciplina en tus propios resultados, 
+porque si no nadie lo hará por ti. Y ahora sí  
+llegó el momento de la verdad. Vamos a llevar este 
+bot al Metatrader y vamos a ver de qué es capaz.  
+Así que acompáñame. Vamos a validar este modelo 
+mediante back testing wall for. No nos conformamos  
+con un cure fitting histórico simple. En pantalla 
+tenemos ya el campo de batalla. Preparado. El bot  
+está listo con todos los indicadores y la lógica 
+de la estrategia ya incorporada. Con las tres sem,  
+el parabolicar y el ATR listo para calcular la 
+volatilidad. Así que arrancamos el bot. Quiero  
+ser totalmente transparente contigo. Esto es un 
+test a ciega. No lo he probado. Es la primera vez  
+que lo voy a hacer. Vamos a ver su comportamiento 
+en crudo. Analizaremos las primeras operaciones  
+juntos para ver si realmente tiene el potencial de 
+capturar las tendencias. Como comenta su creador.  
+Fíjate en este momento. El algoritmo acaba de 
+detectar una ventana de momentum y lanza una  
+compra, un by. Vale, aquí va. Primera debilidad 
+detectada. Estamos probándolo en el eurodólar y  
+las distancias de salida son demasiado amplias 
+para este mercado. Habría que ajustarlas. El bot  
+ha cazado la entrada a la perfección. Fijaros 
+como el precio se va rápido a positivo en la  
+siguiente vela, pero claro, al tener el objetivo 
+tan lejos, no llega a cerrar con ganancia. Y  
+atención porque acaba de abrir un corto, un sell. 
+De nuevo, el trade entra en beneficio rápidamente,  
+pero choca con el mismo problema. Quizás incluso 
+sería interesante valorar un trailing stop.  
+Bueno, habría que estudiarlo, ahí te lo 
+dejo. La conclusión táctica hasta ahora,  
+hasta aquí es clara. Hay que ajustar los puntos 
+de salida y tiene todo el sentido matemático del  
+mundo. Lo estamos probando en el eurodólar, 
+pero como te expliqué antes, esta estrategia  
+tiene un exponente harz de 0.68. Esto es un misil 
+diseñado para mercados altamente tendenciales. En  
+lugar de divisas lentas, esto está pidiendo 
+a gritos ejecutarse en criptomoneda, el oro,  
+la plata o incluso índices. Mira esta operación en 
+corto. Entra y fíjate lo rápido que el precio cae  
+a plomo a nuestro favor. Si tuviéramos una gestión 
+aquí más ajustada, esto sería un take profit  
+directo. Sin embargo, al tener tanta distancia, 
+como estamos viendo, pues bueno, el precio se gira  
+y acaba aquí sacándonos en stop loss. El sistema 
+de entrada no parece nada malo, tiene un exponente  
+hard de 0.68, es decir, es para lo que es, nos 
+está dando oportunidades que darían mucho juego  
+con otro tipo de gestión. Y mira, aquí acaba 
+de abrir otra compra. El diagnóstico inicial,  
+sin ver más allá, hasta el momento es evidente. 
+Necesitamos disminuir las distancias y controlar  
+la gestión de seguimiento de la operativa. Esta 
+última compra ha entrado rápidamente en positivo.  
+Si tuviéramos configurado, por ejemplo, un treling 
+stop dinámico o un objetivo más conservador,  
+la operativa ya estaría en la cuenta sumando. Voy 
+a acelerar la simulación hacia delante para ver  
+cómo evoluciona la curva de resultados. Fíjate en 
+la operativa que teníamos abierta. Se mantiene en  
+un positivo sólido. Tiene pinta de que la va a 
+terminar cerrando en positivo. Ahí va. Operación  
+cerrada con éxito. Inmediatamente vemos que abre 
+otra compra que se va a pérdida sin salvación  
+posible. Esto era una pérdida directa. A partir 
+de aquí entra en una racha de compras y ventas.  
+Pero si observa la gráfica, pese a no tener ningún 
+tipo de optimización, la curva de balance aguanta,  
+digamos, marginalmente y va sumando beneficio 
+poco a poco. Y repito, esto es un mercado que no  
+es el óptimo para esta estrategia, pero es del que 
+tenía más datos descargados aquí en este servidor  
+y quería hacerlo con datos de calidad. La lectura 
+constante de este backtest es la misma. atrapa el  
+momentum de la forma correcta. Es para lo que está 
+diseñado. Desde que abre el precio se desplaza a  
+nuestro favor al instante en muchas operaciones. 
+Quizá un filtro de entropía de Shan le vendría  
+bien también. Son ideas que lanzo para que vayáis 
+pensando en ello. Pero veo que el ratio de riesgo  
+estático tan amplio le impide asegurar ganancias. 
+Si le hubiéramos puesto un T profit más justo,  
+el Win Ray seguramente se dispararía un poco más. 
+Aquí tenemos otra compra y esta sí se desarrolla  
+por completo a nuestro favor. Un movimiento 
+espectacular, aunque visualmente parezca poco,  
+estamos hablando de que ha capturado unos 880 
+puntos de beneficio en esta caída. Es una muy  
+buena operativa. La lógica matemática del sistema 
+para capturar movimientos tendenciales funciona.  
+El potencial es innegable. Es un sistema para 
+capturar tendencias como muchos otros. Es decir,  
+no es nada increíble, con un hard alto y eso es 
+lo que desarrolla aquí en el mercado. Analizando  
+un bot y el perfil del bot siempre podremos saber 
+para qué está diseñado y cómo se va a desarrollar.  
+Mi conclusión inicial tras esta prueba de estrés 
+rápida es que el bot tiene un filo estadístico  
+real y caza las tendencias con una precisión 
+razonablemente buena. Os lo entrego como un  
+diamante en bruto para que lo llevéis al siguiente 
+nivel. Lo subiré a la biblioteca para que podáis  
+seguir evolucionándolo y al grupo de Telegram 
+para que lo podáis descargar gratis. Yo quizá lo  
+usaría en temporalidades menores y en mercados 
+más volátiles, como la apertura de índice y  
+optimizaría las distancias, evidentemente. Fijaros 
+en este último corto. Entrada perfecta, se va a  
+positivo rápido y por milímetros no toca nuestro 
+take profit, se devuelve y nos saca en stop loss.  
+No todas se pueden ganar, no pasa nada. Este es el 
+ejemplo perfecto del comportamiento de un bot que  
+necesita algo de trabajo en la lógica de gestión. 
+Operativas que rozan el éxito, entran en positivo,  
+pero necesitan de tu ajuste final para terminar 
+de despegar definitivamente tu cuenta. El bot no  
+es el mejor del mundo, pero es relativamente 
+bueno en lo suyo y tiene potencial de mejora.  
+Lo dejo en tus manos para que hagas back testing, 
+saques tus propias conclusiones y compartas tus  
+configuraciones en el foro oficial de la comunidad 
+de Techain, el link en la descripción. Y un último  
+secreto de nivel profesional que te regalo gratis. 
+Si quieres evolucionar esta estrategia a una liga  
+superior, entra en Techain, elimina el nodo 
+estándar de by sale y cámbialo por el nodo de  
+agente estratégico de inteligencia artificial. 
+Y automáticamente vas a ver cómo el sistema  
+filtra las operaciones por sí solo, multiplica su 
+efectividad y elimina el problema de la gestión  
+porque automáticamente va a regular el take profit 
+y el stop loss. Recuerda, un bot sin entender la  
+matemática que lo sustenta es un proyecto de 
+lotería automatizado que no suele terminar  
+bien. Y así es como hemos convertido la idea de 
+un usuario de nuestra comunidad de Techain en  
+una máquina 100% automatizada. Como lo prometido 
+es deuda, el enlace para descargar este bot lo  
+tenéis ahora mismo ya aquí en la descripción del 
+vídeo. Pero escucha bien, tener este bot perfecto  
+no sirve absolutamente de nada si lo instalas en 
+un entorno que te genera milisegundos de latencia.  
+Eso es un error fatal que destroza las entradas 
+y hace que los institucionales se queden con tu  
+ganancia a diario. Y explico exactamente cómo 
+evitar esa latencia en este vídeo de aquí. Haz  
+clic ahora mismo y asegura que tu voz se ejecute 
+a la velocidad de la luz. Nos vemos dentro.
+[música]
+[música]

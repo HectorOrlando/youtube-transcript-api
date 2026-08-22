@@ -1,0 +1,821 @@
+Titulo              : La Estrategia Aburrida que los Traders Millonarios Usan | Sistema Chicago
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-01-21
+Duracion            : 50:09
+Vistas              : 3,778
+URL                 : https://www.youtube.com/watch?v=PPG1qZ6l4_U
+----------------------------------------------------------------------
+
+Hace más de 15 años, un trader legendario de 
+Chicago me enseñó un sistema tan mecánico y tan  
+simple que convertí 1,000 en 100,000 en menos de 
+un año. Hoy te voy a compartir exactamente cómo lo  
+hice y por qué funciona tan bien que ya no lo opo 
+en manual, lo tengo completamente automatizado.  
+Pero antes de que pienses que esto es suerte o que 
+necesitas años de experiencia, necesitas entender  
+algo crítico. Los traders de Chicago durante los 
+años 80 90 eran famosos mundialmente por una sola  
+razón. No era porque supieran predecir el futuro, 
+era porque habían descubierto algo que el 99% de  
+los traders modernos ignoran completamente. Cómo 
+leer la intención y la intensidad del precio en  
+tiempo real de forma matemática y profesional. 
+Mientras el resto del mundo estaba viendo  
+velas japonesas en time frame horarios, ellos 
+estaban en los pit del Chicago War of Trade  
+observando movimientos puros de precio, sin cortes 
+artificiales, sin interrupciones. Ellos vieron  
+patrones que nadie más veía y ese conocimiento 
+profesional, esa metodología exactamente es la  
+que te voy a enseñar en los próximos 20 minutos. 
+Vamos a ver exactamente qué es lo que hacían. esos  
+traders para generar esas enormes rentabilidades 
+de forma sistemática y aprenderás cómo reconocer  
+esos patrones en tu gráfico hoy. Es una estrategia 
+tan potente que permite crecer cuentas pequeñas  
+rápidamente, controlando el riesgo en todo 
+momento. A mí me ha funcionado y si lo aplicas  
+con disciplina te va a funcionar a ti también. y 
+puedo asegurarte que es una de las estrategias más  
+poderosas para crecer cuentas pequeñas rápido 
+que jamás hayas visto. Y te lo voy a demostrar  
+porque en los próximos minutos vamos a desglosar 
+la acción del precio de forma profesional, de una  
+forma que jamás has visto antes en el sector 
+retail por YouTube y por fin vas a entender la  
+estructura real del mercado de una vez por todas. 
+¿Y cómo lo vamos a hacer? Primero voy a explicarte  
+exactamente qué vieron esos traders de Chicago que 
+nadie más entiende hoy. La verdadera estructura  
+del mercado. Te explicaré la estrategia completa 
+sin guardarme nada y aquí aprenderás a leer y a  
+interpretar la intencionalidad y la intensidad 
+de tu mercado favorito para realizar mejores  
+operaciones. Segundo, te voy a mostrar en directo 
+cómo identificar esos movimientos en tu mercado  
+favorito usando herramientas que ya tienes gratis 
+en tu Metatrader. Y tercero, vamos a añadir un  
+indicador personalizado que yo mismo programé para 
+mecanizar esta estrategia que no puedes conseguir  
+en ningún otro lugar, pero no te preocupes 
+porque al final del vídeo te lo regalaré.  
+Esto que estás a punto de aprender hoy en este 
+vídeo es una estrategia de análisis técnico de  
+nivel institucional con una lógica profesional 
+que supera a todas las formaciones de miles de  
+euros de trading que vas a poder encontrar por 
+internet en el sector retail y lo vas a tener  
+hoy totalmente gratis. Así que si estabas pensando 
+pagarle dos o $3,000 a algún gurú de internet por  
+su formación, quédate porque esto te interesa. Y 
+sí, si vienes de otros canales, ya habrás visto  
+de todo. Y sé que esto suena demasiado bueno, pero 
+no te la estoy vendiendo, te la estoy regalando,  
+por lo que no tengo que adornarla. Tú mismo 
+vas a comprobar su potencial en este vídeo.  
+Comenzamos. Sentemos la base para entender la 
+estrategia y sus fundamentos. En los años 80 y 90,  
+Chicago fue legendario por su precio puro. Richard 
+Dennis ejemplifica esto perfectamente. Comenzó con  
+$1,600 como runner de la CME a los 17 años 
+y acumuló más de 200 millones de dólares,  
+revolucionando el trading mediante la lectura de 
+intención e intensidad del precio en tiempo real,  
+no gráficas con indicadores retardados. Eso es lo 
+que vas a aprender hoy. Mientras el mundo operaba,  
+velas japonesas, los traders de Chicago leían el 
+rastro del dinero directamente. Ese conocimiento  
+nunca muere, aunque el parqué cerró. Esta 
+estrategia no viene de un foro ni de un  
+chat GPT. La aprendí personalmente en Chicago, 
+directamente de uno de los grandes de la época,  
+cuando aún impartía formaciones hace poco más 
+de una década. Invertí más de $20,000 entre  
+formación y viaje. Una hipoteca para mí en ese 
+momento. Pero varios compañeros más veteranos  
+del sector me dijeron, "Si quieres ser de los 
+mejores, tienes que ir donde están los mejores."  
+Y eso hice. Con esa metodología transformé poco 
+más de $1,000 en más de 100,000 en menos de un  
+año. Mi error en aquel momento fue retirar todo y 
+comprarme mi primer deportivo, un Jaguar F Type.  
+Si volviera atrás lo habría reinvertido, pero en 
+aquel momento los caballos y la gasolina pudieron  
+más que la educación financiera. Si tú también 
+quieres cometer tus propios errores de despilfarro  
+económico, como hice yo en su día, empecemos 
+hablando de por qué tu trading falla o no  
+obtiene la consistencia que realmente necesitas. 
+Primer punto clave, que debes grabarte a fuego si  
+quieres ser rentable, porque aquí es donde los 
+traders queman sus cuentas sin saberlo. Están  
+intentando cronometrar un corredor en un maratón 
+con un cronómetro que se detiene cada 60 segundos.  
+Si no entiendes la diferencia entre lo que el 
+precio quiere hacer y con qué fuerza lo hace,  
+estás operando a ciegas. ¿Cuál es la solución que 
+necesitas para el mercado actual? Voy a enseñarte  
+a construir un cronómetro ilimitado para que 
+puedas cronometrar a cualquier corredor. Hablemos  
+de por qué fallas. El error principal son las 
+velas japonesas. El problema es este. Mira tu  
+gráfico ahora mismo. ¿Qué ves? Ya te lo digo yo. 
+Velas y más velas. Rojo, verde, rojo, verde. Y  
+probablemente incluso estés operando basándote 
+en patrones de vela, soporte. resistencia,  
+indicadores que miden esas velas, etcétera, tal 
+como te enseña el 99% de los expertos de internet.  
+Pero déjame contarte lo que los traders de Chicago 
+ya sabían en 1980. Las velas son una ilusión  
+óptica, un fraude visual. Fueron inventadas en 
+Japón en el año 1697 para comerciar con el arroz,  
+no para graficar los mercados financieros. 
+se introdujeron en el trading para intentar  
+simplificar la cotización del mercado y gran 
+parte de la esencia de la acción del precio se  
+fumó en ese preciso instante. Cometimos un error 
+fundamental. Forzamos el precio a reiniciarse  
+cada hora, cada 15 minutos, cada 5 minutos, 
+etcétera. Separamos movimientos que naturalmente  
+debían estar unidos. Es como si cortaras una 
+película a la mitad de una escena y dijeras,  
+"Esta es la escena uno, porque yo lo digo y punto. 
+Y ahora quiero que empiece la escena dos." ¿Ves  
+el problema? matamos la acción del precio y eso 
+es exactamente el motivo por el que la mayoría  
+de los inversores pierden dinero, operando con 
+análisis técnico clásico. Y si has probado ya  
+varios sistemas y ninguno te funciona, sabrás 
+de qué te estoy hablando, porque seguramente  
+ninguno habrá terminado de darte los resultados 
+que buscabas. Pero eso cambia hoy. Atento a esto.  
+Coge papel y lápiz porque aquí viene la estrategia 
+que cambia tu trading para siempre. Lo primero que  
+debes entender es esto. El precio no se mueve en 
+una dimensión. El precio se mueve simultáneamente  
+en dos dimensiones ortogonales. Y entender esto 
+es la diferencia entre ganar dinero y perderlo  
+consistentemente. Mira, el precio se mueve en 
+el eje horizontal de las X, que es el tiempo.  
+Vamos a ponerlo aquí en el color tiempo. Aquí lo 
+importante es que cada segundo que pasa, cada vela  
+que se forma, el tiempo simplemente avanza hacia 
+delante, pero al contrario del tiempo, el precio  
+avanza, se mueve o baja en el eje vertical, el eje 
+de la y, que es el valor del precio de cotización.  
+Vamos a ponerlo por aquí en otro color. Precio. 
+Precio o cotización. Y aquí viene lo importante  
+que debes tener en cuenta para que todo esto te 
+sirva y lo puedas aplicar de forma consistente en  
+tu operativa. Cuando el precio sube rápidamente, 
+cuando la línea se hace muy pronunciada, significa  
+que hay mucho dinero comprando. Los compradores 
+están siendo agresivos, están pagando más dinero,  
+más rápido. Pero cuando el precio sube lentamente, 
+cuando la línea es casi plana, significa que hay  
+poco dinero moviéndose, hay equilibrio, hay poca 
+presión y aquí es donde no hay nada que hacer. La  
+fórmula clave aquí es la siguiente. La intención 
+es igual al cambio de precio partido unidades  
+de tiempo o en término matemático y es igual a 
+delta de p/ delta de t. Esto es simplemente la  
+pendiente de la línea. Cuanto más pronunciada es 
+la pendiente, cuanto mayor es la inclinación que  
+tenemos en este caso hacia arriba, más intención 
+hay, más dinero y por lo tanto más poder. No te  
+preocupes si no lo entiendes, porque no tienes que 
+aprenderte ninguna fórmula ni sacar la calculadora  
+para calcular nada. El indicador que te voy a 
+regalar ya hace todo esto de forma automática.  
+por ti, pero es importante que entiendas el 
+concepto. Ahora bien, y aquí viene donde todo  
+se rompe en el trading moderno, porque los 
+traders hacemos algo que es absolutamente  
+contradictorio con lo que acabas de ver, algo 
+totalmente absurdo. Segmentamos el precio en  
+time frame artificiales. Fijaros en esto. Vamos a 
+pintar aquí una gráfica, una gráfica cualquiera.  
+Vamos a poner aquí una línea, por ejemplo. Vamos 
+a inventarnos aquí lo que podría ser un activo  
+cualquiera. ¿Y qué hacemos? Pues muy sencillo. Lo 
+que hacemos aquí es lo siguiente. Decimos, "Hasta  
+aquí va a ser una vela, la vela uno. Imaginaros 
+que estamos cortando por time frame. Hasta aquí va  
+a ser otra vela, la vela dos. Hasta aquí. va a ser 
+otra vela, por ejemplo, la vela tres y hasta aquí,  
+hasta el final va a ser la vela cu. Básicamente lo 
+que hacemos aquí es decirle al precio, desde aquí  
+hasta aquí es una hora y cuando termine la vela 
+debe reiniciarse para continuar en otra vela de  
+una hora. Pero mira lo que ocurre en el gráfico. 
+Te lo cambio de color para que quede más claro.  
+La línea de precio, como vemos aquí, la línea azul 
+es continua, suave, natural. El precio no sabe que  
+existe una vela de una hora, porque incluso otros 
+lo podrían cortar en vela de 30 minutos, de cinco,  
+a capricho, como queramos. Pero fíjate en un dato 
+clave. Aquí tendríamos el precio de apertura.  
+Y aquí tendríamos el precio de cierre. Esto quiere 
+decir que nos quedaría un cuerpo alcista de esta  
+forma. Hasta aquí arriba. El máximo sería la 
+mecha de la parte superior y hasta aquí abajo,  
+es decir, hasta el mínimo, la mecha de la parte 
+inferior. ¿Cuál es el problema de base aquí? La  
+pérdida de información. Pérdida de información 
+vital. Porque si nos fijamos en este periodo,  
+el precio realmente si esto lo trazásemos de esta 
+forma para ver realmente cuánto tiempo ha estado  
+el mercado realmente en la zona del cuerpo, nos 
+quedaría lo siguiente. Solo esta pequeña porción  
+de aquí, esta otra de aquí que apenas fue un 
+minuto y esta otra de aquí del final. Es decir,  
+si esto lo bajásemos hacia debajo, lo bajamos todo 
+hacia abajo para que veáis la proporción y veáis  
+la claridad del asunto. Si esto lo bajamos aquí 
+hacia abajo, ya veis que esto es un movimiento  
+perfectamente típico que podría darse en cualquier 
+mercado. Esto nos quedaría que solo esta pequeña  
+porción de aquí de tiempo el precio ha estado 
+realmente donde estaba el cuerpo de la vela.  
+Sin embargo, por el contrario, toda esta otra 
+porción de tiempo, el precio ha estado fuera  
+del cuerpo de la vela, en las mechas. La parte 
+que se ignora, la parte que poca gente tiene en  
+cuenta porque es una parte que normalmente 
+suele generar rechazo, rebote, etcétera,  
+etcétera, pero fijaros que es la gran parte de 
+la información de la vela. ¿Y qué pasa aquí? pues  
+que generamos un problema. Somos nosotros los que 
+cortamos la película artificialmente cada minuto,  
+cada hora, cada 4 horas, cada día. Imagina que ves 
+una película de cine, estás en una escena que dura  
+5 minutos, pero decides cortarla cada minuto 
+y crear nuevas películas. ¿Qué ocurre aquí?  
+Pues te lo digo rápido, de repente pierdes la 
+continuidad narrativa, el desarrollo, el contexto,  
+el hilo de lo que está pasando. ¿No te ha pasado 
+nunca que estás viendo una serie, la que sea,  
+incluso, aunque ya se diseñó y guionizó para 
+ser una serie por cortes de capítulo y aún así,  
+como de un capítulo a otro tardes mucho en verlos, 
+pierdes el hilo y necesitas el resumen previo para  
+medio volver a cogerlo. Eso es exactamente lo que 
+hacemos con los time frame. matamos la continuidad  
+de la acción del precio, pero con el agravante de 
+que el mercado no se diseñó para ir por capítulos  
+como tu serie favorita, por lo que agravamos el 
+problema de la desinformación. El precio es una  
+función continua en el tiempo. Fragmentarla es 
+como intentar entender una sinfonía escuchando  
+solo 3 segundos cada vez. Pierdes el hilo, pierdes 
+el contexto, pierdes la verdadera intención.  
+Por eso, la mayoría de los sistemas de trading 
+diseñados por trader retaile con trucos de  
+internet tienden a fallar porque no entienden la 
+melodía del mercado que pretenden operar. Y aquí  
+está el problema más grave. El 99% de los traders 
+minoristas operan basándose en lo que ven en esos  
+fragmentos artificiales. Ven una vela de 4 horas, 
+ven un patrón, una rotura, una señal y operan,  
+pero no entienden lo que pasó antes de esa vela 
+en la dimensión continua. no entienden el poder  
+detrás del movimiento. El resultado de operar 
+así ya lo conocemos todos, pero aquí es donde se  
+pone interesante y donde cambia todo para ti. Si 
+aprendes a ignorar los fragmentos del time frame y  
+simplemente mide la intención de los movimientos, 
+como te voy a enseñar, vas a ver la verdad del  
+mercado. Te lo muestro aquí en un ejemplo muy 
+simple. Voy a pintar una gráfica como siempre,  
+el eje vertical, es decir, el eje del precio 
+y el eje horizontal, el eje del tiempo.
+Vamos a ponerle una escala a 
+cualquiera, por ejemplo, 0 10
+y 40. Y hacia arriba, pues lo mismo. Vamos 
+a poner, por ejemplo, en pips 50, 100.  
+150, 200, 250 y 300. Y vamos a simular 
+aquí dos movimientos. Por ejemplo,  
+vamos a poner el movimiento A y vamos a decir que 
+este movimiento hizo 100 pips, por ejemplo, en 40  
+velas. Esto quedaría un movimiento tal que así. 
+Y aquí el cálculo es claro, como ya hemos visto,  
+si el movimiento hizo 100 pips en 40 velas, esto 
+nos daría 2.5 pips por vela. Y ahora vamos a poner  
+un movimiento B. Vamos a decir que este movimiento 
+hizo 250 pips en 40 velas, por lo que quedaría un  
+movimiento tal que así. Y aquí tendríamos el 
+movimiento B, es decir, 250 pips en 40 velas,  
+lo que nos daría un total de 6.25 pips por 
+vela. Y aquí ahora viene la pregunta clave.  
+¿Cuál tuvo mayor intención? O lo que es lo mismo, 
+en cuál se inyectó más dinero obviamente en el  
+movimiento B. ¿Pero por qué? Y aquí está la clave. 
+Porque aunque ambos movimientos duraron lo mismo,  
+es decir, ambos tuvieron una duración de 40 velas, 
+el recorrido del movimiento B realizó una mayor  
+distancia en el eje vertical, es decir, el eje del 
+precio, por lo que podríamos concluir que tuvo que  
+fue un precio más rápido, por lo que tuvo mayor 
+dinero detrás inyectándose. Así de sencillo. Y  
+esto es lo crucial que la mayoría de traders no 
+entienden. El tiempo es gratis, no cuesta nada  
+dejar pasar las velas y desplazarnos o deslizarnos 
+por el tiempo. Incluso si abriésemos una gráfica y  
+nadie comprase ni vendiese, la gráfica avanzaría 
+hacia delante con cada segundo, cada minuto, cada  
+hora, aunque fuese en encefalograma plano. Pero 
+el dinero, el precio no es gratis. Es decir, para  
+que el precio suba rápidamente o con agresividad, 
+necesita compradores, necesita poder adquisitivo,  
+necesita un desequilibrio severo, lo mismo que 
+para que cayese en el caso de que esto fuese  
+un ejemplo bajista. Para entender todo esto, 
+necesitamos entender dos propiedades básicas.  
+Necesitamos entender dos propiedades 
+que son completamente independientes de  
+cualquier movimiento, pero que actualmente las 
+mezclamos y las confundimos. La propiedad uno
+sería la intención, es decir, la i. Como 
+ya hemos visto, intención o i es igual a  
+delta de p/ido por delta de t. Y esto lo 
+que nos da básicamente es la pendiente,  
+la velocidad de cambio de precio. Un ejemplo, 
+por ejemplo, con cualquier mercado. Vamos a  
+poner el euro USD o eurodólar. Imaginaros, 
+por ejemplo, que tenemos un máximo en 1.150,
+que tenemos un mínimo, por ejemplo, en 1.0950.
+Aquí nos daría una amplitud de 100 pips, es decir, 
+tenemos una variación de 100 pips. La duración,  
+como vimos, es de 40 velas, lo que nos daría un 
+total de 2.5 pips por vela, que es lo mismo que  
+acabamos de ver en el ejemplo. Esto sería I, 
+la intención, es decir, I sería igual a 2.5. Y  
+la segunda propiedad que necesitamos entender y 
+diferenciar es la duración. Vamos a ponerlo por  
+aquí. Propiedad dos, que sería la D, es decir, 
+la duración. Y la D es igual a delta de T.  
+Simplemente cuántas velas duró. Con esto vais 
+a poder calcular ya cualquier movimiento,  
+la intensidad y la intencionalidad 
+de cualquier movimiento. Mira esto.  
+Lo mismo que el ejemplo anterior. 
+Vamos a simplificarlo más. Vamos a  
+poner que tenemos dos movimientos. 
+Movimiento uno y movimiento dos.
+Si nos fijamos en esto, tenemos que el movimiento 
+uno tardó x velas y realizó X pips. Sin embargo,  
+ya vemos rápidamente que el movimiento dos, el 
+movimiento rojo, realizó el mismo número de velas,  
+pero hizo muchos más pips en el recorrido 
+vertical. Por lo que la pregunta aquí sería,  
+¿cuál es más fuerte? ¿Cuál refleja más poder 
+del mercado? Obvio, el movimiento que tiene  
+mayor recorrido en el eje vertical. Pero fíjate 
+ahora en este ejemplo. Vamos a introducir un  
+tercer movimiento. Un movimiento que recorre 
+la misma intensidad en el eje del precio,  
+pero lo hace en un recorrido muchísimo más 
+corto, es decir, en menos tiempo. Y ahora  
+te vuelvo a realizar la misma pregunta. ¿Cuál 
+de los tres movimientos es más fuerte? ¿Cuál  
+refleja más el poder del mercado? Evidentemente 
+ahora es el movimiento más corto pero intenso,  
+porque fue el más rápido, porque ese movimiento 
+rápido implica o significa que los compradores  
+estaban inyectando mayor cantidad de dinero y 
+no solo mayor cantidad, sino mucho más rápido,  
+es decir, más dinero, más rápido y en mayor 
+cantidad, por lo que la presión fue mucho  
+más severa, es decir, había muchísima mayor 
+intencionalidad. En cambio, el movimiento lento,  
+aunque también tuvo una intensidad mayor que 
+el movimiento o más horizontal o más plano,  
+deja claro que aún habiendo una intencionalidad 
+en el mercado, no había urgencia. Es decir,  
+había compradores, pero no eran muchos, no 
+tenían mucho interés, por lo que al final  
+había menor intencionalidad. Si tuviésemos que 
+extraer de aquí una conclusión rápida, sería  
+que el movimiento verde es el que tiene mayor 
+intencionalidad, el movimiento rojo tiene una  
+intencionalidad media y el movimiento amarillo es 
+el que tiene menor intencionalidad. La conclusión,  
+es mejor un movimiento corto de alta intención que 
+un movimiento largo de baja intención, porque la  
+intención es igual a dinero y el dinero es igual a 
+poder y el poder es igual a continuación probable  
+del movimiento. Este es nuestro gatillo de entrada 
+y aquí viene donde entra la teoría financiera.  
+Cuando el movimiento amarillo A ocurre, existe 
+un desequilibrio moderado entre compradores y  
+vendedores. Cuando el movimiento rojo B ocurre, 
+este desequilibrio es mayor, pero cuando el  
+movimiento verde ocurre, está demostrando que hay 
+un desequilibrio mayor, un desequilibrio severo,  
+mayor intencionalidad. Los compradores dominan 
+y dominan de forma clara. Cuando la pendiente es  
+más pronunciada, el desequilibrio es más severo. 
+Cuando es más plana, el desequilibrio es más leve.  
+Y aquí está el secreto. Cuando el desequilibrio 
+es severo, tiene inercia o lo que es lo mismo,  
+tiene momentum y tiende a continuar. Por lo que 
+si los compradores están decididos a comprar que  
+el precio, por ejemplo, subió 250 pips en solo 
+40 velas, ¿por qué se iban a detener ahora de  
+repente? Grábate esto a fuego. Si quieres dejar 
+de perder dinero, deja ya de operar basándote en  
+soportes y resistencias porque están basados en 
+precio, ignorando intención. patrones de velas  
+porque están basados en la forma ignorando el 
+poder. Indicadores aleatorios porque están basados  
+en fórmulas ignorando la realidad. Si ya los 
+conoces a todos ellos, sabrás que son de lo más  
+subjetivo que hay y es como jugarte tu dinero a 
+la ruleta rusa. Es de todo menos profesional. Que  
+nadie te convenza de lo contrario. No he conocido 
+en todos estos años ni creo que conozca jamás a  
+ningún analista de un fondo o de una gestora que 
+hable de patrones de vela, soporte, resistencia,  
+ni mucho menos de indicadores aleatorios. Si 
+operamos basándonos en algunos de estos tres  
+criterios, realizaremos un trading muy subjetivo 
+y da igual si alguna operación la ganamos porque  
+la mayoría irán a pérdida. Esto se debe a que 
+ignoran completamente cuál fue la intención detrás  
+de cada movimiento. Cuando opera basándote en la 
+intención, operas con el lado fuerte del mercado.  
+Pero cuando operas basándote en la forma, operas 
+contra la intención del dinero. Es la diferencia  
+entre surfear una ola gigante o intentar nadar 
+en contracorriente. Aquí es donde se une todo.  
+Mira este gráfico. Podría ser cualquier gráfico de 
+trading. Fíjate en esto. Aquí en este último tramo  
+tenemos un movimiento bajista, una tendencia a la 
+baja, una pendiente negativa. Pero luego ocurre  
+algo, el precio cambia de dirección. Y no solo 
+eso, sino que este nuevo movimiento alcista tiene  
+una pendiente más pronunciada que el anterior 
+bajista. Esto significa dos cosas. Primero,  
+cambio de dirección, es decir, una reversión y 
+un cambio de magnitud. Es decir, la intención  
+alcista es mayor que la intención bajista. Pero 
+para que lo veas claro, te lo dibujo. Aquí vamos  
+a trazar una caja. Una caja, por ejemplo, que 
+podría ser esta de aquí. Aquí ahora mismo estamos  
+conteniendo el cuadro contiene el movimiento 
+bajista. Vamos a replicar este cuadro hacia la  
+derecha para que quede más o menos proporcional. 
+Y fijaros en lo curioso, en lo que sucede aquí.  
+El precio de la caída tuvo una duración x en el 
+precio y una duración x en el tiempo al igual  
+que el movimiento alcista. Pero la diferencia 
+clave es que la totalidad del tiempo que duró  
+el movimiento bajista, el movimiento alcista la 
+superó disminuyéndola casi en un 40% por lo que  
+tuvo mayor intencionalidad. Todo este tiempo 
+no se utilizó. realizó el mismo recorrido en  
+el eje vertical del precio en mucho menor tiempo y 
+cuando ocurren ambas cosas simultáneamente tienes  
+una reversión de intención clara. Es decir, el 
+dinero cambió de bando y cambió con mayor fuerza.  
+La fórmula aquí es i subíndice de 2 mayor a i 
+subíndice de 1, donde i subíndice de 2 es la  
+nueva intención e i subíndice de 1 es la anterior 
+y además i subíndice de 2 es en la dirección  
+opuesta a índice de i sub 1. Entonces tienes entre 
+70 y 90% de probabilidad de que el movimiento  
+continúe en esa dirección. Esto es estadística. 
+Es más fácil que el movimiento siga haciendo lo  
+que estaba haciendo antes de cambiar y hacer lo 
+opuesto. ¿Por qué? porque ha demostrado mayor  
+intencionalidad que en el movimiento anterior, 
+reflejando la verdad detrás del movimiento,  
+es decir, en la intencionalidad detrás del 
+mercado. ¿Por qué? Porque estás observando  
+un cambio real en la estructura, es decir, un 
+desequilibrio en el mercado. No es adivinanza,  
+no es predicción, es observación de un patrón que 
+ya ha ocurrido, que acaba de ocurrir ahora mismo.  
+El desequilibrio era en una dirección, ahora es 
+en otra dirección y es más severo, por lo que  
+es más real y tiene momentum. El concepto con 
+el que debes quedarte es el siguiente y te lo  
+dibujo aquí claramente. Vamos a ponerlo de esta 
+forma. Esto serían dos movimientos como los que  
+acabamos de ver arriba. Vamos a cambiar el color. 
+tenemos que la parte vertical es el precio y la  
+parte horizontal es el tiempo. ¿Qué sucede aquí? 
+Pues que vamos a medir los movimientos. Vamos a  
+[ __ ] siempre un primer movimiento, un movimiento 
+con una intencionalidad de índice sub uno y un  
+movimiento con una intencionalidad de índice sub2. 
+¿Y qué vamos a ver? Pues que cuando tengamos un  
+movimiento el que sea, por ejemplo, vamos a pintar 
+un movimiento e en este caso alcista que hiciese  
+este recorrido en tiempo y precio. Lo que vamos a 
+buscar es para la invalidación de este movimiento,  
+una vez que el precio se empieza a girar, 
+es que antes de llegar al final del tiempo,  
+es decir, antes de que tarde más que el movimiento 
+anterior, rompa la estructura, es decir, demuestre  
+mayor intencionalidad recorriendo el mismo 
+número de pips en el eje vertical, pero en una  
+menor duración. En el tiempo. Terminó la teoría. 
+Fin. Ya puedes [ __ ] aire. No era para tanto,  
+¿verdad? Ahora toca llevar esto a lo práctico 
+y transformarlo en beneficio en nuestra cuenta  
+de trading. Muchos piensan que para medir esto 
+necesitarán una supercutadora, pero la realidad  
+es que puedes hacerlo con un canal de regresión 
+estándar y poco más. El secreto no está en el  
+canal, sino en cómo vamos a medir el movimiento 
+para confirmar si hay combustible real detrás de  
+esa inclinación o no. Vamos a los gráficos. Aquí 
+lo vamos a ver de forma mucho más clara. Vamos  
+a plasmar ya la estrategia paso a paso cómo debe 
+hacerse. Aquí ya veis en la gráfica este indicador  
+que está midiendo y calculando todo lo que hemos 
+visto en la teoría. Este indicador os lo regalaré,  
+lo podréis descargar en el en el canal de 
+Telegram. El link lo tenéis en la descripción  
+y aquí estamos viendo lo siguiente. Estamos viendo 
+el promedio de todos los movimientos del euroólar.  
+Nos está diciendo que el promedio son 3.02. Nos 
+está dando la probabilidad de rotura, nos está  
+dando la potencia. Aquí donde vemos P o T. Esto 
+hace referencia a la potencia. En este caso vemos  
+que es una potencia de 1.30. Es decir, para que 
+un movimiento tenga mayor intencionalidad que el  
+anterior, debe tener mayor potencia. Lo podéis 
+calcular como como os he enseñado en la teoría  
+o podéis usar el indicador que ya implementa 
+otro tipo de de cálculo y lo hace todo de forma  
+automática. Luego ya aquí en la parte inferior 
+simplemente tengo un indicador de de contratos  
+que me que me programé hace ya un tiempo para ir 
+sacando la fuerza o la fortaleza del precio para  
+tenerlo como referencia. Lo podéis hacer con la 
+gráfica totalmente limpia si queréis. Para ello,  
+simplemente vais a necesitar un canal de regresión 
+lineal, nada más. La estrategia es tan efectiva  
+y tan potente que ya veis que estoy aquí en el 
+eurodólar, en este caso en 30 minutos, en tiempo  
+real, es decir, no hay más hacia delante, no hay 
+más hacia la derecha y es tan potente que la voy a  
+enseñar aquí ahora tal cual ahora. O sea, no tengo 
+necesidad de irme hacia atrás y empezar a buscar  
+movimientos por aquí detrás. Dicho esto, fijaros, 
+aquí estamos viendo ya una serie de movimientos.  
+Estos movimientos, ¿cómo los vamos a medir? 
+Pues vamos a [ __ ] siempre, como hemos dicho,  
+por ejemplo, desde aquí vemos que esto sería un 
+bajo que tendríamos aquí en esta zona y que este  
+movimiento empieza desde aquí y su alto sería aquí 
+en esta zona. ¿Qué tendríamos aquí? Ya tendríamos  
+un movimiento, pues simplemente cogeríamos el 
+canal de regresión lineal, tal cual como viene  
+y lo tiraríamos desde esta vela hasta el alto. Ya 
+está. Aquí lo tendríamos. No habría que hacer más.  
+Esto ya sería un movimiento. Lo que hago 
+aquí ahora es, como es un movimiento alcista,  
+me fijo en la parte inferior, es decir, en la 
+parte que tengo aquí. Esa parte donde termina el  
+canal de regresión sería el punto de referencia. 
+Simplemente cojo esto y lo extiendo como una zona  
+hacia la derecha. Y fijaros lo que sucede aquí. El 
+precio no sube a la parte superior, pero no solo,  
+sino que además vemos cómo reacciona con esta 
+parte del canal, esta parte, esta zona que nos  
+acabamos de inventar nosotros ahora mismo, 
+que no es ni ningún soporte ni resistencia.  
+¿Cómo reacciona? toca y se va en corto. Y fijaros 
+aquí la cuestión de lo que habíamos dicho. Vamos  
+a [ __ ] vamos a quitar estas líneas verticales 
+y vamos a hacer lo siguiente. Vamos a poner este  
+movimiento aquí en cuadrado. Vemos que este sería 
+el movimiento y directamente ahora lo cogemos y  
+nos lo llevamos hacia la derecha. Lo cojo y lo 
+pongo aquí. Y aquí tenéis la teoría. Fijaros aquí  
+en esta zona cómo está rompiendo por la parte 
+inferior antes de llegar a salir por la parte  
+derecha. Es decir, aumenta la intensidad vertical 
+en el desplazamiento o del lizamiento del precio  
+por encima de la duración en el tiempo. Por lo 
+que aquí en este punto tendríamos una entrada,  
+una entrada de confirmación. La primera 
+entrada os lo voy a marcar aquí.  
+La primera entrada sería cuando el precio rompe la 
+línea de la del canal de regresión. Vamos a quitar  
+esta zona. Esta sería la primera entrada. Aquí 
+tendríamos la primera entrada ahí en ese punto  
+que rompa con una vela de decisión. Y aquí, 
+¿dónde estaría nuestro take profit y es el  
+stop loss? Pues el take profit no vamos a tenerlo 
+porque vamos a dejar este movimiento hasta que se  
+invalide. Es decir, dejamos correr el precio, 
+nos movemos con él y dejamos que la operativa  
+se adapte al precio. Esto es lo que te permite 
+tener y crecer una rentabilidad exponencialmente,  
+pero el stop loss hay que tenerlo controlado. 
+¿Dónde lo vamos a tener? en la parte superior  
+de nuestra caja. Es decir, si el precio antes 
+de romper por debajo se va y rompe hacia arriba,  
+invalida el criterio de la operativa, invalida la 
+intencionalidad bajista, que es lo que estábamos  
+operando. Por lo que si ya no hay intencionalidad 
+bajista, no nos interesa seguir en el mercado.  
+Otro punto importante aquí es el punto de las 
+reentradas, es decir, una reentrada para maximizar  
+la rentabilidad. ¿Dónde se daría esa reentrada? 
+Esa reentrada se daría en el momento en el que el  
+precio rompe, como en este punto de aquí, la caja 
+por la parte inferior. En ese momento se podría  
+hacer otra reentrada. ¿Y qué haríamos con el stop 
+loss? Pues el stop loss lo bajaríamos. ¿Dónde?  
+por encima de la zona que teníamos marcada. Es 
+decir, recordaros aquí que marcábamos una zona,  
+pues el stop loss iría por encima de esta 
+zona. De esta forma tendríamos ya las dos  
+operativas aseguradas. La primera la tendríamos 
+prácticamente al break even y la segunda en este  
+caso la tendríamos un poco en negativo. En el 
+momento en el que el precio reaccionase como  
+aquí y se fuese hacia abajo, ahí tendríamos ya 
+nuestra operativa. Ahora borro esto y vamos a  
+ver un par de ejemplos más porque aquí tendríamos 
+la operativa, pero claro, este movimiento también  
+llega hasta la parte inferior, por lo que aquí 
+trazaríamos nuevamente nuestro canal de regresión.  
+Y para que se diese una operativa alcista, pues 
+lo mismo tendría que romper esta parte por la  
+parte superior. De no hacerlo, continuaríamos 
+con el movimiento que iríamos asegurando y  
+moviendo stop loss con cada nuevo recorrido como 
+estos más pequeños que estamos viendo por aquí,  
+por esta zona. Vamos a buscar otro ejemplo. Por 
+ejemplo, no hace falta que nos vayamos muy lejos.  
+Aquí detrás, por ejemplo, aquí esto está lleno 
+lleno de ejemplos. Mirad, aquí tenemos uno. Pues  
+tiramos desde esta vela hasta el alto. Y fijaros 
+cuándo sería la operativa. Pues la operativa sería  
+en el momento en el que se rompa el canal. Fijaros 
+en esto, como baja, toca. Le voy a dar zoom para  
+que se vea mejor. Fijaros como el precio baja, 
+toca en esta zona que no hay nada, pero toca,  
+rechaza el alza, no llega a la parte superior 
+de la vela, que ahí es donde estaría nuestro  
+stop loss, no llega a la parte superior y esta 
+vela que rompe aquí con fuerza bajista sería la  
+entrada. Y fijaros como el precio posteriormente 
+sigue reaccionando con la zona. Vamos a borrar  
+y vamos a buscar otra operativa, por ejemplo, 
+incluso, mira, este caso lo podemos hacer al alza,  
+desde el mismo sitio. Lo cogemos, lo trazamos 
+desde aquí y hacia arriba. ¿Qué pasaría aquí?  
+Pues lo mismo. ¿Dónde estaría la operativa? En la 
+parte superior, es decir, cuando el precio cierre  
+rompiendo en esta zona. vemos que no se da, que 
+no se da y que reacciona y se va en corto, por lo  
+que esta operativa alcista no se hubiese hecho, 
+hubiese quedado en una no operativa. Fijaros  
+cómo funciona esto. Es una barbaridad porque lo 
+lógico es que el precio hubiese podido subir más  
+pues a buscar uno de una de estas resistencias 
+que tenemos por aquí arriba, ¿no? o por ejemplo  
+esta de aquí que paró al precio en brusco, pero 
+sin embargo se frena en esta, justamente en esta.  
+Entonces este movimiento no saldría. Vamos con 
+el siguiente que sería el que le continúa en  
+esta zona de aquí. Lo mismo, tendríamos la entrada 
+aquí en este punto. Y fijaros lo curioso de nuevo,  
+aquí no hay nada. O sea, no hay nada. Si yo 
+ahora esto lo extendiese hacia atrás, vería  
+que en esta zona se empieza a frenar el precio, 
+que coincide con la línea del canal de regresión  
+y que aquí en esta vela, que es la que rompe, es 
+donde tendría la entrada. De nuevo, el stop loss  
+iría ahí en esa parte superior y volvemos a la 
+misma. podemos aplicar. Estas entradas tienen una  
+alta probabilidad de éxito, pero no obstante, 
+si queremos llevarlo al máximo, a la máxima  
+probabilidad de éxito, debemos aplicar el criterio 
+de intencionalidad que hemos aprendido aquí hoy,  
+que es [ __ ] esta caja y traspasarla, llevárnosla 
+hacia la derecha. Es decir, el i subíndice de un  
+debe quedar en la izquierda y el i subíndice de 
+dobe quedar en la derecha. Y fijaros lo que pasa  
+aquí. En este caso, el precio toca al milímetro 
+en el último momento, exacto, en el último minuto,  
+cuando ya la caja queda, no rompe hacia abajo y 
+se va hacia la derecha. Por lo que esta operativa,  
+por ejemplo, aquí vemos que finalmente va 
+en positivo, pero tarda muchísimo. Estamos  
+hablando de una operativa que se va casi 2 días. 
+Empieza el día 7 y termina el día 8 por la tarde,  
+por lo que vemos claramente que cuando no se da el 
+componente de intencionalidad, la operativa tiene  
+mucha mayor duración, cayendo en la incertidumbre 
+del mercado en que nos podamos comer cualquier  
+variación que se dé. por lo que disminuye la 
+probabilidad, es decir, la esperanza matemática de  
+la operativa positiva disminuye. Pero no solo eso, 
+sino que la gestión también se complica. Entonces,  
+básicamente, para que os quedéis con el 
+concepto, este sistema nos da dos tipos de  
+operativa. el tipo de operativa número uno y de 
+menor probabilidad, lo cual no quiere decir que  
+sea peor, simplemente tiene una menor probabilidad 
+de éxito en torno al 50 60% sería cuando el precio  
+rompe la línea del canal de regresión. Gestión, 
+ya sabéis, take profit por la parte superior  
+y luego a la rotura de la caja tendríamos 
+reentrada. Esta sería la primera operativa,  
+es decir, la operativa apresurada del sistema. Y 
+la operativa más pausada del sistema, es decir,  
+la que confirma, la que da la reentrada o no una 
+reentrada, sino la operativa principal, en el caso  
+de que queramos la mayor probabilidad de éxito, 
+sería a la rotura de la caja. Si el precio aquí  
+hubiese roto, por ejemplo, con esta vela hacia 
+abajo, pues aquí tendríamos nuestra reentrada.  
+Entonces, de esta forma lo vais a poder ver en 
+multitud de mercado, es decir, [ __ ] la gráfica,  
+irlo mirando, porque lo vais a ver una y otra vez. 
+Por ejemplo, aquí atrás lo mismo. Cojo desde aquí  
+arriba y tiro hacia aquí abajo. Fijaros dónde 
+estaría la entrada. La entrada estaría aquí en  
+esta zona. Fijaros, el precio, toca el milímetro 
+y se rechaza. No hay nada, pero sin embargo  
+toca. ¿Por qué? con nuestro canal de regresión, lo 
+tiramos hacia delante y aquí, en esta vela exacta,  
+tendríamos nuestra entrada. Si quisiésemos la 
+reentrada o solo directamente hacer la operativa  
+más segura, tiraríamos nuestra caja y esta caja 
+nos la llevaríamos hacia la derecha. vemos que  
+no rompe hacia arriba y se va hacia abajo. Por lo 
+que si yo hubiese hecho esta operativa apresurada,  
+en el momento en el que el precio sale por la 
+caja, invalida la intencionalidad, por lo que yo  
+aquí en este punto cerraría la operativa. Aquí en 
+esta vela, es decir, ya aquí en esta vela que baja  
+hacia abajo, ahí ya se podría cerrar la operativa. 
+¿Por qué? Porque es muy difícil que la siguiente  
+vela que abra aquí pueda hacer todo este tramo 
+para romper hacia arriba e incluso de hacerlo  
+ya estaría en el tramo final de la caja, por lo 
+que ya es muy difícil que que se pueda dar este  
+tipo de movimiento. Aquí en esta vela que cierra 
+hacia abajo cerraría y esta distancia sería el  
+take profit. En este caso aquí 155 puntos. Vamos 
+a seguir con otra operativa para que lo veáis.  
+El siguiente, el que continúa, ni nos complicamos. 
+Tiramos desde aquí. Lo mismo. ¿Dónde estaría la  
+operativa? Pues estaría aquí, en este punto. Aquí 
+en este punto exactamente rompe, por lo que aquí  
+tendríamos nuestra operativa. Ahí vendría un cel. 
+¿Y cómo haríamos para la reentrada? Pues lo mismo,  
+tiro la caja, me llevo la caja hacia la derecha 
+y fijaros nuevamente aquí en el punto final,  
+como no se da la rotura por la parte inferior y 
+el precio entra en rango, pues como mucho aquí ya  
+que es cuando sale cerraría y me h me hubiese 
+llevado pues este recorrido de take profit.  
+Una vez que tenéis estos movimientos trazados 
+por aquí, podéis bajar de time frame a 5 minutos,  
+15 minutos para validar la entrada de la 
+rotura anterior y poder entrar más rápido  
+en la operativa, aunque ya sabéis que eso implica 
+siempre una disminución del porcentaje de éxito,  
+pero bueno, para que lo tengáis y seáis consciente 
+de ello. Ya has visto cómo se hace manualmente,  
+es sencilla, es mecánica y no hay lugar para la 
+subjetividad. Hoy en día aún la sigue operando,  
+aunque lo hago en automático con un bot de 
+trading con Ias que ya lo ha ido puliendo  
+bastante y adaptándolo al mercado porque hace ya 
+un par de años que está aprendiendo sobre ella  
+y la opo junto con otras 29 estrategias con bots 
+que tengo dentro del portfolio para diversificar,  
+porque aunque sigue siendo una estrategia 
+muy buena, ya no salen tantas operaciones  
+como antaño. En mi caso, el automatizarla me ha 
+permitido ganar en precisión y mejorar la gestión,  
+añadiendo algunos filtros de patrones de vela 
+en la rotura para mayor confirmación. Gestión de  
+reentradas automáticas que yo manualmente perdería 
+por no estar frente al monitor, cierres parciales,  
+etcétera. Tú puedes hacer la tuya también 
+y evolucionarla como quieras. Y si quieres  
+mejorarla rápidamente, te comparto un tip que 
+te va a ahorrar meses de pruebas, porque dominar  
+la intensidad del precio es el primer paso, pero 
+si quieres llevar el sistema manual o automático  
+al siguiente nivel explosivo, necesitas saber en 
+qué momentos el mercado tiene más probabilidad de  
+mantener esa tendencia. Para eso he preparado este 
+otro vídeo de aquí donde te explico el exponente  
+HART, la herramienta definitiva para medir la 
+persistencia del precio de forma profesional y  
+elegir solo las operaciones con mayor probabilidad 
+de éxito. Haz clic aquí y nos vemos dentro.

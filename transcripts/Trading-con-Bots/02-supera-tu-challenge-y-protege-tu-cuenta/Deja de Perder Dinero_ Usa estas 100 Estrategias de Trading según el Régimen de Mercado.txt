@@ -1,0 +1,297 @@
+Titulo              : Deja de Perder Dinero: Usa estas 100 Estrategias de Trading según el Régimen de Mercado
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-06-25
+Duracion            : 15:31
+Vistas              : 1,668
+URL                 : https://www.youtube.com/watch?v=07ZWOcV1tAI
+----------------------------------------------------------------------
+
+En este vídeo te voy a entregar las 100 mejores 
+estrategias de trading, las únicas que son  
+matemáticamente rentables, filtrada de entre más 
+de 10,000 sistemas que he programado, auditado,  
+probado y operado en mis últimos 15 años como 
+analista y trader cuantitativo profesional.  
+y atento, porque esto no es el típico ranking 
+absurdo, refrito y repetitivo de redes sociales  
+que no te aporta nada que no supieses ya, porque 
+hoy realmente voy a entregarte las 100 únicas  
+estrategias de trading que necesitas si estás 
+comenzando en el trading y quieres tener opciones  
+reales de ser rentable. El principal motivo por 
+el que son rentables es porque detectan y operan  
+ineficiencia del mercado altamente efectiva. Esto 
+les proporciona una ventaja abrumadora sobre el  
+resto de las estrategias retail diseñadas sin 
+conocimiento profesional y por lo tanto sin  
+ventaja sobre el mercado. Hoy vas a dejar de 
+adivinar. Te voy a revelar el ADN exacto de  
+estas 100 estrategias ganadoras y te voy a dar las 
+reglas precisas de algunas de ellas para que hoy  
+mismo empieces a operar con la ventaja injusta de 
+un profesional. Dejaré para el final la mejor de  
+todas las estrategias porque realmente merece 
+una mención aparte. Es increíble. Por cierto,  
+para los que se queden hasta el final del vídeo, 
+os voy a decir cómo acceder totalmente gratis  
+a mi comunidad privada de school, donde 
+he diseñado una formación completamente  
+gratuita que os ayudará a dar el salto definitivo 
+de cero a trader cuantitativo. El gran problema  
+al que te enfrentas en el trading, la razón por 
+la que pierdes todo tu dinero, semanas o meses,  
+en la mayoría de los casos, suele ser porque 
+buscas la estrategia perfecta, que funcione  
+siempre de forma fácil y rápida. ¿Quieres tener 
+tu setup de trading favorito organizadito y que  
+lo ejecutes a ciegas todos los días sin tener 
+preocupaciones y a ganar dinero sin límites? Pero  
+tal cosa no existe en la realidad profesional del 
+trading. Más allá del trading en redes sociales,  
+por supuesto que ahí existe de todo lo que quiera 
+existir. Los qu trader rentables. No operamos así.  
+No digo que tengas que operar con voz de trading, 
+que van a requerir que pases 8 horas al día frente  
+a la pantalla, porque no es así. De hecho, esa 
+es una de las ventajas del trading algorítmico  
+cuantitativo, no tener que estar frente a la 
+pantalla todo el día. Pero sí es cierto que  
+como mínimo unas horas a la semana vas a tener 
+que dedicar a supervisar y reajustar sí o sí.  
+La gran revelación tras analizar literalmente 
+miles de estrategias de trading durante estos  
+15 años es que ninguna funciona todo el tiempo. 
+La clave de la rentabilidad consistente y masiva  
+a largo plazo no es el cruce de indicadores, 
+es el régimen del mercado. El mercado cambia  
+de estado como el agua. A veces es hielo estático, 
+a veces es un río fluyendo en tendencia y a veces  
+es vapor volátil. Si intentas usar una estrategia 
+de tendencia cuando el mercado está en rango,  
+te van a despedazar. El ejemplo más claro, para 
+que lo entiendas, tú con un vaso diseñado para  
+contener líquidos corriendo como loco por 
+todos lados queriendo atrapar el vapor.  
+Hoy vamos a hacer algo diferente para que dejes 
+de correr sin rumbo con tu trading de forma tonta.  
+He clasificado mi lista definitiva de estrategias 
+rentables en siete regímenes de mercado exactos  
+y te la voy a compartir en este vídeo. Vamos a 
+ver cuál es la ineficiencia matemática que se  
+explota en cada régimen. Te voy a dar un ejemplo 
+práctico y real de cada una de estas estrategias  
+ganadoras para que pueda aplicarlo. Pero antes 
+de entrar en los siete regímenes, necesita una  
+primera victoria matemática para dejar de perder 
+dinero hoy. La regla de oro que comparten estas  
+estrategias es la esperanza matemática positiva. 
+Ninguna busca un win rate del 90%. Asumen que van  
+a fallar por lo menos la mitad de las veces y 
+no hay ningún problema en ello. Tu nueva regla  
+inquebrantable si quieres ser rentable a 
+partir de ahora debería ser esta. Riesgo,  
+beneficio positivo. Ejemplo muy básico, uno a 
+dos. Si arriesgas $50 tu objetivo está en 100.  
+Si el gráfico no te lo permite, no operas. Solo 
+con esta matemática básica puedes equivocarte el  
+50% de las veces y tu cuenta seguirá creciendo 
+y subiendo. Bien, tienes la gestión de riesgo  
+cubierta con esta regla simple. De momento, para 
+comenzar, no necesitas complicarte más allá,  
+aunque efectivamente es demasiado simple y no 
+es un algo que puedas aplicar todo el tiempo.  
+Pero en este otro punto sí que tienes que 
+poner especial atención porque ahora viene  
+la trituradora de cuentas. ¿Cómo sabemos qué 
+estrategia debes utilizar hoy? Vamos a abrir  
+el catálogo de los siete regímenes de mercados y 
+a ver cómo el 1% de los traders rentables extrae  
+dinero en cada entorno. El primer régimen es la 
+tendencia alcista confirmada. Aquí el mercado  
+tiene una dirección clara y aún así todos los 
+novatos pierden dinero intentando adivinar dónde  
+está el techo para ponerse en cortos. grave error. 
+La ventaja estadística aquí es subirse a la ola  
+direccional del movimiento institucional y dejarse 
+llevar. Una de las estrategias estrella de mi top  
+100 para este régimen es la BT03 basada en ruptura 
+de dos chain con retest. ¿Cómo la aplica? Pues muy  
+sencillo. Añades un canal de Doncha Chain de 20 
+periodos. que es el típico y el estándar que suele  
+funcionar bastante bien. El mercado rompe la banda 
+superior marcando un máximo de 20 días. No compras  
+la ruptura directa porque ahí es donde barren los 
+stop loss. Esperas pacientemente el retestroceso  
+a ese nivel roto. Entras en largo y en lugar de 
+un objetivo fijo, utilizas un trailing stop basado  
+en volatilidad con el indicador ATR. Dejas que 
+el mercado suba todo lo que quiera y solo sales  
+cuando la tendencia muere de verdad. El segundo 
+régimen es el opuesto, la tendencia bajista.  
+Psicológicamente es un régimen más agresivo, 
+las caídas son más rápidas, evidentemente  
+llevadas y movidas por el pánico. Aquí una 
+estrategia tremendamente sólida es la BR02,  
+la estrategia de pullback a la EMA de 20 bajista 
+más RSI 4560. Es un modelo de seguimiento de  
+tendencia puro, es decir, buscamos un crucebajista 
+clásico de la EMA D20 cruzando bajo la D50, pero  
+la ineficiencia que explotamos es el suite spot 
+del R6. No vendemos en la primera caída porque  
+llegamos tarde. Esperamos a que el precio haga 
+un pullback, es decir, una corrección alcista,  
+una trampa alcista y hasta que el RSI no toque la 
+zona de 45 a 60, no hay nada que hacer. Ese es el  
+punto exacto donde la corrección se agota y los 
+profesionales hunden de nuevo el precio. Tercer  
+régimen, el rango, uno de mis favoritos. He ganado 
+más en este tipo de régimen que en ningún otro.  
+El mercado está aburrido, lateral, atrapando 
+al retail en falsas rupturas constantemente,  
+quebrando cuentas continuamente, pero el punto 
+clave es que aquí brilla la reversión a la media.  
+La estrategia RG02 de mi lista explota esto usando 
+las bandas de Bollinger y un filtro brutal. El  
+Chopines Index. Solo pera si el Chopinex indica 
+que estamos en un mercado lateral cerrado de  
+verdad. La regla de oro aquí es el precio toca o 
+supera la banda inferior, pero la vela cierra por  
+dentro, eso es agotamiento. Entras en largo 
+apostando a que el precio regresará como una  
+goma elástica, es decir, regresará a su media 
+central de 20 periodos. Cobras rápido y sales.  
+Son las estrategias de menor riesgo porque tienen 
+stop loss muy ajustados y bien definidos. Las  
+estrategias de rango bien definidas y gestionadas 
+son las mejores para crecer cuentas pequeñas  
+rápido. Si os interesa, decídmelo en comentarios 
+y haré un vídeo al respecto. Cuarto régimen,  
+las rupturas o breakout. Aquí el mercado pasa de 
+la compresión a la explosión. Es algo natural y de  
+hecho es lo correcto. Una de las estrategias 
+que más me gusta para este tipo de régimen  
+de mercado es la BO01 porque explota una de las 
+anomalías más rentables, el Bollinger Squeishy.  
+Aquí usas las bandas de Bollinger por dentro de 
+un canal de kelner. Cuando las bandas de Bollinger  
+se comprimen tanto que entran dentro del canal, 
+el mercado está acumulando energía masivamente.  
+No adivinas la dirección, solo calculas. esperas 
+a que el precio rompa la compresión con un aumento  
+de volumen institucional verificado y te subes 
+al tren justo antes de la expansión violenta.  
+Créeme que si entiendes y dominas esos cuatro 
+regímenes de mercado, ya eres mejor que el 90%  
+de los trader retails. Pero los tres regímenes 
+que faltan son donde los trader protegemos el  
+capital cuando el mercado se vuelve loco o donde 
+hacemos beneficio exponenciales como los que os  
+he enseñado alguna vez. Presta atención porque 
+si no conoces estos regímenes correctamente,  
+tus beneficios de los regímenes anteriores 
+se fumarán a la velocidad de la luz.  
+El quinto régimen es la alta volatilidad, noticias 
+macroeconómicas, crisis, movimiento errático,  
+noticias geopolítica, etcétera, etcétera. Aquí el 
+retail inexperto quiebra la cuenta más rápido que  
+en ningún otro régimen. Tener mucho cuidado con 
+él. Los profesionales cambiamos al modo defensivo,  
+¿sí o sí? La estrategia HV06 de mi top 
+que utilizaría si fuese novato se llama  
+News Dodger o esquivador de noticias. La ventaja 
+estadística aquí para no quebrar es no operar.  
+Configuramos filtro de sesión y volatilidad 
+que bloquean automáticamente cualquier entrada  
+algorítmica durante los picos macroeconómicos. 
+Y cuando sí operamos reducimos el lotaje al 25%  
+y ampliamos los stoploss basados en el ATR. para 
+no ser barridos por el simple ruido del mercado.  
+Sexto régimen, baja volatilidad. Es el 
+típico mercado de verano de algunos activos,  
+lento y aburrido. Aquí no buscamos grandes 
+recorridos porque difícilmente se suelen dar  
+en muchos mercados. La estrategia que usaría si 
+fuese nuevo sería la LV13. Es algo así como un  
+victory algorítmico. Hacemos scalping extremo 
+en gráficos de 5 o 15 minutos usando el R6.  
+Pero la clave es que operamos con stop loss 
+y take proficópico, buscando arañar pequeñas  
+ineficiencias matemáticas repetitivas, mientras 
+el resto del mundo espera movimientos grandes que  
+difícilmente suelen llegar en esta época. Y por 
+último, el séptimo régimen, momentum direccional  
+fuerte. Este régimen se da cuando el mercado 
+entra en un estado de euforia o pánico sin  
+retrocesos. Intentar reversiones a la media 
+aquí es un suicidio matemático. La estrategia  
+M08 utiliza el Squishy Momentum con el filtro 
+del ADX. Si el ADX se dispara por encima de 25,  
+sabemos que hay gasolina en el mercado. Compramos 
+la aceleración inteligente y salimos con un  
+trailing stop ajustadísimo, asegurando beneficio 
+en caso de que el momentum se frene en seco.  
+Antes de continuar con el vídeo, quiero recordarte 
+que en la primera línea de la descripción tienes  
+un enlace para unirte a mi comunidad privada 
+de school totalmente gratuita. Dentro he creado  
+una formación de 14 días totalmente gratis, 
+donde te enseño a crear tu primer bot y te  
+comparto alguna de las estrategias que me han 
+permitido ser rentable en la última década. Al  
+unirte vas a tener acceso totalmente gratuito a un 
+ecosistema de networking donde compartirás espacio  
+con personas como tú que quieren avanzar y crecer, 
+aparte de con ingenieros informáticos, matemáticos  
+y traders profesionales que avanzan en tu misma 
+dirección y que van a potenciar tu evolución  
+técnica. Haz clic en el enlace de la descripción 
+para unirte. Nos vemos dentro y ahora sí, seguimos  
+con el vídeo. La lucidez que debes alcanzar hoy 
+viendo este vídeo es esta. Un trader perdedor  
+tiene una estrategia y reza para que el mercado se 
+adapte a ella. Un trader cuantitativo, profesional  
+y rentable tiene un catálogo descorrelacionado de 
+estrategias y activa la correspondiente al régimen  
+cada día. Cuando tienes un sistema de reversión 
+para los rangos, un modelo de seguimiento  
+para las tendencias o expansiones y filtros de 
+volatilidad para proteger tu liquidez, simplemente  
+te vuelves intocable y con ello rentable. El miedo 
+desaparece porque sabes que no estás adivinando,  
+estás ejecutando matemáticas, matemáticas 
+probadas a lo largo de más de 10,000 simulaciones,  
+explotando los sesgos emocionales del resto de 
+participantes. Cuando el mercado hace lo que tiene  
+que hacer, tú simplemente recoges el beneficio 
+que tu probabilidad matemática te asegura a largo  
+plazo. No existe otro método para ser rentable 
+en el trading más que adaptarse al mercado.  
+El que crea lo contrario aún le queda mucho por 
+sufrir, pero si sigue y lo sufre se dará cuenta.  
+Obviamente no tenemos tiempo en un solo 
+vídeo para explicar las reglas de entrada,  
+los lotajes y el código de estas 100 estrategias 
+al milímetro. Estas son algunas de las más de  
+100 estrategias seleccionadas durante toda 
+mi trayectoria profesional que te comparto  
+desde mi app estratos para que puedas crear 
+tus propios bots de trading con un criterio  
+objetivo para detectar y operar en eficiencias 
+de mercado correctamente de forma profesional.  
+El trabajo duro de 15 años ya lo tienes hecho. 
+Tú solo tienes que descargarlo y ejecutarlo.  
+Te prometí que no tendrías que quedarte solo con 
+la teoría. Si de verdad quieres dejar el trading  
+de casino y quieres estructurar tu operativa 
+de una vez por todas de forma profesional,  
+en la descripción tienes el enlace para entrar de 
+forma gratuita a mi comunidad privada de school,  
+desde la que podrás acceder a mi formación 
+totalmente gratuita. Pero si quieres subir  
+al siguiente nivel lógico hoy mismo, haz clic 
+ahora en este vídeo que te aparece en pantalla,  
+porque dentro enseño a crear un bot de trading 
+que intercambia automáticamente las estrategias.  
+para aplicar la que mejor se adapte a cada 
+momento sin que tú tengas que hacer nada.
+[música]
