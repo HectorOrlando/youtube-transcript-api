@@ -21,7 +21,7 @@ Funciones y su responsabilidad:
 | `extract_video_id(url)` | Regex para watch?v=, youtu.be/, shorts/, embed/, /v/, ?v= y &v= |
 | `sanitize_name(nombre)` | `\ / : * ? " < > \|` → `_`; colapsa espacios; recorta a 200; quita puntos/espacios finales |
 | `get_video_title(video_id)` | GET `https://www.youtube.com/oembed` con requests, timeout 10s; devuelve None si falla (fallback: ID del video) |
-| `choose_output_dir()` | Menu interactivo: `[1]` transcripts/ por defecto, `[2]` crear subcarpeta, `[3]` listar subcarpetas existentes |
+| `choose_output_dir()` | Menu interactivo: `[1]` transcripts/ por defecto, `[2]` crear subcarpeta, `[3]` listar carpetas existentes (recursivo con `rglob`, rutas relativas tipo `Trading-con-Bots/00-sin-categoria`) |
 | `main()` | Orquesta todo + manejo especifico de errores |
 
 Errores importados desde
