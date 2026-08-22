@@ -1,0 +1,821 @@
+Titulo              : Los mejores indicadores de trading para ser rentable en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-06-30
+Duracion            : 44:24
+Vistas              : 2,028
+URL                 : https://www.youtube.com/watch?v=3vo9NI6yMjY
+----------------------------------------------------------------------
+
+En este vídeo te voy a enseñar algunos de los 
+mejores indicadores de trading que puedes utilizar  
+para ser rentable este 2026. Y no son los mejores 
+indicadores porque sean mágicos ni porque tengan  
+señales de predecir el futuro. Son los mejores 
+indicadores porque algunos de ellos por sí mismo  
+son capaces de identificar, analizar y cuantificar 
+ineficiencias del mercado mostrándotelos como  
+señales. Es decir, son capaces de generar 
+sistemas de trading por ellos mismos. Entonces,  
+vamos a verlo, vamos a analizarlo, pero no 
+solo eso, te voy a enseñar cómo fusionarlo,  
+cómo combinarlo y al final del vídeo 
+el que más te guste te lo regalaré.  
+Para poder enseñártelo, lo primero que hacemos es 
+entrar aquí en Estratos. Ya sabéis que Stratos es  
+la plataforma que te permite diseñar, automatizar 
+y programar estrategia de trading sin una sola  
+línea de código, es decir, crear bot de trading 
+nivel profesional implementando la inteligencia  
+artificial. Y no hablo de inteligencia 
+artificial tipo Cloud, tipo Yemini, CHGPT,  
+no hablo de inteligencia artificial real, modelos 
+matemáticos de inteligencia artificial realmente  
+diseñado y aplicado a la finanzas y al mundo 
+de las inversiones. Pero hoy lo que te traigo,  
+como te digo, es muy diferente. El Stratos 
+Studios Indicator es el apartado dentro de  
+Estratos que acaba de lanzarse para diseñar y que 
+podáis utilizar estos indicadores personalizados,  
+profesionales en un momento y vais a ver lo 
+increíble de todo esto porque lo vais a poder  
+hacer de una forma muy sencilla. Fijaros aquí 
+ahora yo estoy en Studio EAS, que es la parte  
+normal que todos conocéis, pues del canva con eh 
+todos los nodos para crear bot de trading, o sea,  
+la normalidad. ¿Qué pasa? Fijaros en este botón 
+de aquí o en este botón de aquí. Los dos tienen  
+el mismo icono. ¿Por qué? Porque los dos nos 
+llevan a el modo crear indicador. Si le doy aquí,  
+automáticamente me cambia la interfaz. Ya 
+veis que es muy parecida entre las dos.  
+Se ha hecho todo diseñado para que simplemente 
+van a cambiar los menús y los nodos para que nadie  
+se pierda, para lo que tengáis ya aprendido eh de 
+menú, funcionalidades, etcétera, siga siendo útil.  
+Y dicho esto, ahora estando aquí en el estudio de 
+indicadores, os voy a enseñar cómo funciona esto.  
+Os voy a enseñar los indicadores que vais a poder 
+crear. Y y sinceramente, si ya pensáis que Estrato  
+no podía ir a más, esto os va a volar la cabeza 
+porque es una auténtica locura. Yo mismo llevo eh  
+varias semanas probándolo. Eh, hoy acaba de salir 
+ya para para todos, o sea, ya todos lo tenéis  
+disponible. Yo llevo ya varias semanas probándolo 
+e en real y meses previos durante la fase de  
+diseño y desarrollo, ¿no? Pero es una locura. Y 
+os voy a enseñar un indicador que he fusionado  
+y os lo voy a llevar al Metatrader y vais a ver 
+las señales que da. Es una locura, pero os lo voy  
+a enseñar todo paso a paso para que veáis cómo 
+funciona y que vosotros mismos podáis aplicarlo.  
+En el panel eh vertical izquierdo, como siempre, 
+pues tenemos eh todos los que son todos los nodos.  
+Particularidades de el Estrato Studio. Eh, de 
+indicadores. Tenemos indicadores de inteligencia  
+artificial. Sí, has oído bien. Indicadores de 
+inteligencia artificial. Los primeros indicadores  
+de inteligencia artificial real en el trading 
+traídos por estratos. O sea, una locura. No voy  
+a entrar en ellos ahora, pero ya os lo digo. 
+Para todo el que quiera hacer trading manual  
+o automatizar cierto tipo de funcionalidades, vais 
+a poder incluso hacer trading manual y utilizar  
+indicadores de inteligencia artificial para la 
+generación de señales y análisis del mercado.  
+O sea, una locura. Pero no voy a entrar 
+aquí en ello. Si os interesa lo explicaré  
+en otro vídeo. Dicho esto, voy aquí a la categoría 
+de indicadores. Tenéis todos los indicadores.  
+¿Y cómo se ven estos indicadores? Pues bien, 
+siempre tenemos que tener el nodo de render,  
+que es el nodo de renderizado. Este siempre tiene 
+que estar en el cana, que digamos sería como  
+eh el andamiaje de toda la estructura algorítmica 
+del código del bot. Para vosotros se resume en que  
+simplemente tenéis que arrastrarlo. Siempre está 
+aquí arriba. es simplemente arrastrarlo y ponerlo  
+punto fin. No necesitáis saber nada más ni ni 
+hacer código, o sea, no os tenéis que complicar,  
+simplemente es lo arrastráis aquí y el nodo hace 
+automáticamente todo. Dicho esto, en indicadores  
+algorítmicos, esta categoría es la que os voy 
+a enseñar y os voy a enseñar alguno de ellos  
+y os va a a sorprender gratamente, creerme. Lo 
+vamos a llevar al Metatrader y vais a ver el  
+potencial de esto, que es brutal. indicadores 
+algorítmicos. ¿Qué son estos indicadores eh  
+algorítmicos? Pues bien, son indicadores que por 
+sí solos tienen la capacidad de [música] analizar,  
+detectar ineficiencias del mercado y mostrároslas 
+como señales. Es decir, tienen la capacidad de por  
+sí mismo de por sí mismo ser una gran parte de ese 
+flujo del algoritmo, ¿no? O sea, lo que hacen es  
+simplificar. Para el que haga trading manual, pues 
+muy sencillo. Básicamente con cualquier indicador  
+de estos de los que tenéis por aquí, ya podríais 
+hacer un sistema eh de trading. Ahora os lo voy a  
+enseñar y os voy a enseñar el eh multitime frame 
+dashboard porque este es uno de los que más años  
+llevo trabajando sobre él. Básicamente, para que 
+lo entendáis, lo que hace es alinear la, digamos,  
+eh la capacidad multifractal que tiene eh el 
+mercado. Es decir, alinea la fractalidad del  
+mercado en el time frame en el que estéis, que 
+como norma general pues podrá ser, por ejemplo,  
+eh, 15 minutos, M30, H1, time frame más bajo 
+también lo podéis utilizar, aunque ya sabéis que  
+no tiene mucho sentido bajar a time frame 
+más bajo porque somos trader cuantitativo,  
+analizamos información, en los time frame 
+bajo hay poca información, mucho ruido,  
+eh, no tiene sentido, ¿no? Pero básicamente lo 
+que hace es alinear la fractalidad del mercado,  
+condensarla y mostrarla en una señal. Y no 
+hablamos de eh de por ejemplo simplemente el que  
+como muchos dashbard de este tipo cruces de medias 
+móviles para saber si está por encima de tal  
+y o que hay tendencia alcista en uno en el otro y 
+luego decirme aquí no. Eso son basurillas totales,  
+eso no entramos aquí. O sea, una lógica real, 
+multifractal, que lo que hace es medir diferentes  
+eh componentes y propiedades que tiene el mercado 
+en diferentes time frame y cuando están alineadas  
+profesionalmente os da la señal. Fijaros cómo va 
+esto aquí. Simplemente cojo, conecto aquí el nodo,  
+automáticamente me sale ya el digamos el 
+transformador de condición a valor. No tengo  
+que hacer nada. Y fijaros aquí arriba hay un botón 
+aquí que es validar indicador. Simplemente le doy  
+y fijaros aquí en esto. [música] Aquí puedo 
+visualizar cómo se va a ver el indicador  
+en el Metatrader. O sea, pensar en esto, una 
+locura total. Podéis ver aquí ya cómo se va a ver  
+el indicador en el Metatrader. Aquí tenéis Forex, 
+un mercado de Forex aleatorio, uno de índice,  
+uno de commodity, uno de cripto y uno de acciones. 
+Esto no es para que aquí ya busquéis señales  
+y veáis si son buenos o malos, pese a que estos 
+mercados son reales, son de data real. Simplemente  
+es para que vosotros veáis con diferentes escalas 
+del mercado, diferentes dimensionalidades, pues a  
+a 1,x, eh a 50,000 y pico de una cripto, etcétera, 
+¿no? Con diferentes eh dimensionalidad, digamos,  
+diferentes eh números y diferentes decimales 
+que podamos tener como en el mercado Forex, que  
+podemos tener cuatro, cinco, etcétera, ¿no? Pues 
+para que vosotros veáis cómo se va a visualizar  
+vuestro indicador. Dicho esto, aquí este indicador 
+es un panel, un panel que lo vamos a ver ahora.  
+Os lo voy a enseñar en el Metatrader, las señales 
+que da. Es una locura. Este va a ser uno de los  
+que os voy a enseñar. El que os guste, ponérmelo 
+en los comentarios y el que más votos tenga en una  
+semana lo reviso y eso os lo cojo y os lo subo 
+gratis a la comunidad de school. Dicho esto,  
+bueno, tenéis todo el resto de indicadores, 
+Bin William, eh HFT, perfiles de mercado,  
+etcétera, etcétera, etcétera. Eh, tenéis 
+indicadores siempre, todos los indicadores.  
+Estos no son indicadores eh normales y corrientes 
+que pueden venir en cualquier plataforma. O sea,  
+siempre se les ha dado una vuelta a la fórmula, 
+pues para evitar repintados, eh, para hacerlos más  
+profesionales, para eliminar debilidades del 
+propio indicador, etcétera, etcétera. O sea,  
+son indicadores calidad, extrato, revisado 
+uno por uno y hechos como toca. Por ejemplo,  
+fijaros aquí. Si me voy en volumen y bajo hacia 
+abajo, tengo todos estos indicadores de volumen.  
+Mucho seguramente los vais ya a conocer. Todos 
+están hechos y revisados uno por uno, igual con  
+volatilidad, con tendencia, smart money también 
+aquí hay indicadores muy buenos para todos los que  
+a los que os guste en el sistema de Smart Money 
+Concept. Pues por ejemplo tenéis el order block,  
+que son con las cajas de de ICT, indicador para 
+Fire Value Gap, Liquidity Swift, que son los  
+barridos de liquidez, etcétera, etcétera. Fijaros 
+también, por ejemplo, un indicador muy potente, el  
+volumen profile. Lo saco por aquí. Fijaros, este 
+indicador, lo podéis enseñar eh como el típico  
+indicador de volumen profile del sector retail que 
+todos conoceréis, que es pues la típica barrita  
+con el histograma eh en horizontal, ¿no? Bueno, 
+aquí me sale un poquito de esta forma, pero para  
+que yo creo que se entiende el concepto, ¿no? Y 
+el precio pues va por aquí con su punto de de poc,  
+el punto de de control, etcétera, etcétera. Este 
+indicador en el sector profesional no se utiliza,  
+o sea, está desfasado, anticuado, tiene multitud 
+de problemas que no tienen sentido para mirar el  
+volumen real, pero entiendo que en el sector 
+retail es un indicador llamativo, da sensación  
+de profesional y para hacer cursos condensados 
+con él y vendérselo a la gente que empieza nueva,  
+pues es bastante atrayente, ¿no? Scalping con 
+el volumen profile, tal cual, no sé qué. Bueno,  
+entiendo que puede tener su aquel para enganchar 
+a gente bien. En el sector profesional no se usa  
+el [música] eh volumen profile clásico. No 
+obstante, el que quiera tiene la opción de poder  
+generarlo. Si a vosotros os gusta y os va bien por 
+el motivo que sea, aquí lo tenéis. No obstante,  
+está el volumen profile avanzado, el que se 
+utiliza en el sector profesional. directamente,  
+fijaros, lo cojo, le conecto la salida 
+aquí al render sin mayor problema  
+y le cojo y le doy a visualizar. Y aquí lo 
+tenemos. Es un volumen profile continuado y  
+adaptativo que se va moviendo eh con el mercado 
+con una fórmula personalizada. Como siempre,  
+todo lleva una vuelta porque lo que podáis 
+encontrar por internet, casi que todo viene del  
+sector retail. Lo que os damos a través de extato 
+viene ya con lógica, revisión, etcétera, etcétera,  
+profesional, con rigor y como tiene que ser este 
+indicador. Es muy bueno también para sistemas de  
+de señales y demás, pero bueno, os voy a 
+enseñar eh lo que os va a volar la cabeza.  
+Y esto, ya os lo digo, es una auténtica 
+locura. Eh, he trabajado mucho para para  
+todo el diseño y es la parte de unión. Bien, ¿qué 
+hay aquí en la parte de unión? Y aquí es donde  
+eh vais a entrar ahora corriendo aquí a 
+cacharrear para crear los indicadores, porque  
+yo la verdad que llevo aquí, de hecho, fijaros 
+que lo estoy grabando aquí desde desde casa.  
+No me he esperado ni a ir a la oficina porque 
+estoy aquí cacharreando y es que os lo tengo  
+que enseñar. Os lo tengo que enseñar porque es una 
+auténtica locura. ¿Qué tenemos aquí en la parte de  
+unión? Pues fijaros, tenemos el nodo de combinar. 
+¿Qué hace este nodo? Lo voy a poner por aquí.  
+Pues muy sencillo. Aquí en la entrada le podemos 
+poner los indicadores que queramos. Por ejemplo,  
+vamos a sacar eh un RSI y por ejemplo, pues yo 
+que sé, un MACD, ¿no? Vamos a ponerlo por aquí.  
+¿Qué va a hacer esto? Pues conecto el MACD, por 
+ejemplo, y conecto eh el R6. Y voy a quitar este  
+para que no nos moleste. Y cojo ahora simplemente 
+y la salida, que es la combinación de los dos  
+indicadores, la llevo al render tal cual. O sea, 
+no hay más misterio. Uno, los dos indicadores  
+al nodo de combinar y el nodo de combinar la 
+salida al render. Y fijaros qué hace esto.  
+Pues me va a sacar, a ver que lo coloque, que 
+me faltan estas salidas. Tenemos que colocarlas  
+todas. Bueno, todas las que queramos mostrar del 
+indicador, ¿no? Al final un poco lo que queramos.  
+Aquí lo veis. Fijaros qué me ha hecho el nodo de 
+combinar. Pues me ha combinado el MACD con el RSI.  
+Tengo el MACD y el RSI en la misma ventana. 
+Esto lo voy a tener en el Metatrader. Esto,  
+¿para qué es útil? Pues para cuando tengáis muchos 
+indicadores, que al final los utilizáis todos bajo  
+el mismo sistema, pues los podéis combinar en 
+la misma ventana. Pero esto no es eh lo más  
+loco de aquí. Esto es para combinar y no tener 
+eh la ventana llena de un montón de indicadores.  
+Pero aquí viene lo potente, el nodo de fusionar. O 
+sea, este nodo ya está plegado, desplegado es así.  
+O sea, este nodo es literalmente un panel, 
+no es un nodo como el resto, es un panel.  
+Un panel que ya veis que está ahora mostrando cero 
+información porque tiene cero. ¿Qué va a hacer  
+este nodo? [música] Pues este nodo lleva un modelo 
+de inteligencia artificial. Todos los indicadores  
+que están en estratos tienen una ficha interna 
+que he desarrollado yo personalmente, por ejemplo,  
+el RSI. ¿Qué es el RSI? ¿Qué es el potencial que 
+tiene? Las debilidades, las ventajas, o sea, una  
+ficha hecha con criterio real. Y esa información 
+cuando lo conectamos al nodo de fusionar,  
+la IA accede a ella, ya sabe que está conectado 
+un RSI, qué es lo que se tiene que valorar de ahí  
+y qué es lo que no se tiene que valorar. Y cuando 
+hablo valorar, no es [ __ ] un cloud o un chat GPT  
+y decirle, eh, Claude, dime las debilidades o 
+fortalezas de un R6, ¿no? Porque ya sabéis que  
+al final os va a dar un criterio retail, como 
+todo lo que hemos visto actualmente. O sea,  
+la ficha de cada indicador está desarrollada 
+profesionalmente por mí, por cómo se utiliza  
+ese indicador realmente en el sector profesional, 
+qué se tiene que mirar de ese indicador y qué no  
+se tiene que mirar, que cuáles son sus puntos 
+débiles, sus puntos eh fuertes, etcétera,  
+etcétera. Una vez que lo conecto al nodo, el la 
+IA empieza a funcionar y este nodo no tiene ningún  
+coste para vosotros, o sea, lo podéis utilizar 
+sin ningún tipo de problema porque lo ejecutamos  
+con una local que hemos implementado y diseñado 
+específicamente para esto, para que no haya coste  
+a la hora de utilizarlo. Fijaros, [música] yo 
+ahora cojo y voy a conectarle también el MCD.  
+Y mira lo que me está diciendo. Me dice, 
+"Puntuación 44 sobre 100, aceptable. estoy eh  
+fusionando un MACD con un RSI y me está diciendo 
+si quieres mejorarlo para reforzarlo, añade,  
+por ejemplo, una tendencia, eh, por ejemplo, un 
+Suprend. Pues venga, voy aquí y pongo un Suprend.  
+Vamos a poner un Supertren, que por cierto 
+está el multitime frame de Supertrend,  
+que es que es una locura también, pero bueno, 
+vamos a poner el supertrend, lo cogemos  
+y lo vamos a conectar por aquí. [música] Y 
+fijaros, ya me está dando una puntuación de buena.  
+Bien, ¿qué está haciendo este nodo ahora? Está 
+fusionando estos tres indicadores. Y cuidado  
+con esto porque aquí viene la parte loca total. 
+Yo ahora podría [ __ ] ya vemos que este nodo  
+de de fusión tiene diferentes salidas. la salida 
+de valor, que sería pues simplemente el indicador.  
+Si yo ahora cojo aquí y lo muestro, este es 
+el indicador fusionado que yo voy a ver en el  
+en el Metatrader. O sea, ya estoy viendo cómo se 
+va a ver. ¿Qué pasa? que yo lo podría dejar así,  
+pero aquí viene la parte más loca de esto, que 
+es aún conectando yo esto aquí, yo quiero que  
+esto no solo sea un indicador, sino que sea un 
+sistema de trading, algo que yo pueda operar,  
+que yo pueda entender e interpretar. Quiero que 
+sea mi indicador y quiero que tenga eh señales  
+que me avise de las cosas que están pasando. Pues 
+bien, aquí tenéis diferentes salidas. Estas dos de  
+aquí son aviso previo de compra y de venta. O sea, 
+cuando vaya a haber una posible compra o venta,  
+este, estas dos salidas darán una señal de decir, 
+aquí puede pasar algo. [música] Estas dos salidas  
+dan la señal de compra y de venta y estas 
+dos salidas de aquí dan la señal de reentrada  
+o continuación de compra o de venta. [música] 
+Como veis, están desconectadas. ¿Cómo las podría  
+yo conectar? Pues nada, muy sencillo. Fijaros 
+en esto. Vengo aquí a señal y saco el nodo de  
+dibujar señal. Este nodo tiene una entrada para la 
+condición alcista y una para la condición bajista,  
+así que solo cogería la señal de compra a la 
+señal alcista y la condición bajista a la señal  
+de venta. Punto fin. Esto ya está conectado, no 
+hay más misterio. ¿Qué va a pasar ahora? Cuando  
+la señal de compra o de venta se den, se van 
+a enviar al nodo de dibujar señal. ¿Y qué va  
+a hacer este nodo? Pues este nodo, como vemos por 
+aquí, ¿qué quiero que haga? Pues puedo ponerle que  
+dibuje un icono. ¿Qué icono? Flecha arriba, flecha 
+abajo, flecha gruesa, flecha izquierda, derecha,  
+punto, círculo, rombo, tic, aspa, pulgar arriba, 
+abajo, etiqueta de precio, lo que yo quiera.  
+Lo voy a dejar en flecha arriba y puedo elegir 
+el color. En todos los indicadores podéis elegir  
+siempre el color con el que queréis que se dibuje 
+y, obviamente, configurar los indicadores. O sea,  
+esto es para todo, personalización total. 
+¿Qué pasa? Yo puedo poner el color que quiera,  
+por ejemplo, fecha arriba. La señal de compra 
+fue en verde. Y luego, ¿qué quiero que eh haga  
+para la señal bajista? P flecha abajo en rojo. 
+De esta forma el indicador ya me va a pintar  
+las señales. Pero, ¿qué pasa? Os voy a enseñar 
+el que he hecho yo aquí, que es una locura.  
+Fijaros, me voy a mis indicadores porque como 
+siempre, igual que en el modo eh expert advisor,  
+vais a poder [música] tener vuestra propia 
+biblioteca de indicadores, o sea, vais a poder  
+guardar vuestros proyectos de indicadores para 
+que vosotros podáis eh seguir trabajando en ello,  
+mejorarlo, fusionarlo, o sea, crear lo que queráis 
+sin límite. [música] Entonces, yo me voy aquí a  
+mis indicadores, que aparte eh hay una biblioteca 
+de indicadores que ahora está vacía, pero vamos a  
+ir añadiendo indicadores para que podáis descargar 
+ya también indicadores creados que van a ser una  
+locura. Me voy a mis indicadores y aquí tengo 
+los indicadores que he creado. Ya le voy a dar  
+a cargar este. Y fijaros aquí este indicador lo 
+que he hecho. Estoy fusionando un ADX, un RSI,  
+un Supertaker. Estoy fusionando estos cuatro 
+indicadores. Fijaros la puntuación que me da es  
+excelente porque hay una confluencia [música] eh 
+digamos positiva. Al final esta puntuación lo que  
+está marcando es, digamos, eh la penalización o 
+eh el premiar, digamos, la diversidad y se basa  
+en varios criterios, o sea, esto es el criterio 
+del indicador, cómo de bueno o de malo van a ser  
+las señales de este indicador. Aquí me marca 85. 
+Excelente. Y lo vais a ver ahora y vais a ver que  
+realmente son muy buenas señales. O sea, aquí ya 
+tenéis cómo va a funcionar este indicador sobre el  
+mercado, cómo de bueno o de malo va a ser. Aquí en 
+esta barra tenéis la diversidad. Eh, cuanto mayor  
+sea la diversidad, mejor será el indicador. Cuanto 
+mayor sea la redundancia, peor será el indicador.  
+¿Qué me refiero con esto? ¿O qué marca aquí el 
+nodo? Bueno, con redundancia me nos referimos,  
+por ejemplo, a un RSI y un estocástico. 
+O sea, al final son dos osciladores que  
+tienen criterio muy parecido. Normalmente, cuando 
+uno está arriba, el otro está arriba, cuando está  
+abajo, el otro está abajo. Suelen girar a la vez, 
+o sea, son muy parecidos. miden diferentes cosas,  
+evidentemente, pero internamente los cálculos 
+son muy parecidos, por lo que si fusiono un RSI  
+y un estocástico, la redundancia va a ser alta, 
+por lo que la penalización sobre el indicador  
+va a ser alta. También va a ser un indicador muy 
+aplanado, que será más para un tipo swing trading,  
+pero no va a dar señales ni muy buenas ni muy 
+frecuentes porque estamos cayendo en redundancia,  
+estamos escribiendo lo mismo sobre lo mismo, por 
+lo que la fusión de ahí no puede terminar siendo  
+eh muy buena. Aquí hay una diversidad de el 
+69% y con los indicadores que he creado da  
+una señal de excelente. Y fijaros aquí ahora en 
+esta parte porque esta parte es la potente y vais  
+a ver ahora cómo funciona. Me voy a traer esto un 
+poco para acá. Y fijaros, tengo conectado el nodo  
+de las señales, o sea, este es el nodo de las 
+señales. Ya vemos que aquí está señal de compra,  
+señal de venta. Directamente voy a [ __ ] a este 
+nodo y le voy a cambiar el nombre. Le voy a poner  
+señal [música] o señales. Y este ahora es el nodo 
+de señales. Aquí ya se pone el nombre debajo y ya  
+lo tengo. Este nodo es el nodo que sale de aviso 
+previo. O sea, este nodo va a ser el que me va  
+a avisar. Pues voy a poner aviso [música] y le 
+doy okay. Y me lo traigo por aquí. Y este nodo  
+es el nodo que sale de las reentrad continuación 
+de de la operativa en el caso de que quisiera,  
+pues le voy a poner continuación, por [música] 
+ejemplo, y le doy okay. Y ahora ya tendría el nodo  
+por aquí arriba que me va a avisar de 
+que algo puede pasar. el nodo que me va a  
+dar la señal de que algo ya está pasando, 
+o sea, de la señal propia y el nodo que me  
+va a avisar de que eso puede continuar o no puede 
+continuar en caso de que la propiedad del mercado  
+se siga extendiendo en el tiempo cada vez que esta 
+se reconfirme, es decir, el indicador como siempre  
+va a continuar revisando y analizando el criterio 
+para el que ha sido programado. mientras que siga  
+confirmando o reconfirmando o detectando esta 
+propiedad del mercado que se sigue dando,  
+es decir, la ineficiencia que él está diseñado 
+para detectar, vuelve a mandar la señal.  
+Y la señal pues yo lo dejo como continuación. 
+Se puede poner como cada vez que llegue sea  
+una reentrada, se puede poner, pero depende el 
+mercado, a lo mejor no tiene mucho sentido. Yo  
+lo dejo como confirmación o continuación de que 
+lo que tengo abierto puede continuar. En el caso  
+contrario, pues cerraría. ¿Qué pasa? Fijaros, la 
+señal principal la voy a mostrar como una flecha  
+arriba verde lima, la señal bajista de venta como 
+una flecha abajo de color rojo. [carraspeo] Vale,  
+perfecto. Esto por un sitio. ¿Cómo quiero que sea 
+el aviso de la señal? Pues voy a poner un punto  
+pequeño azul para la de compra y un punto pequeño 
+naranja para la de venta. O sea, simplemente  
+algo puede pasar ahí. Pues bueno, ponemos sus 
+colores y ya está. Y para la señal de continuación  
+voy a poner un punto eh verde para la de compra 
+y un punto eh carmesí para la de venta. Ya está,  
+ya lo tengo aquí. Y ahora la siguiente parte, 
+porque aquí la señal de entrada principal, ya  
+veis que es la misma que va al nodo de la señal, 
+la cableo también a un nodo de gestión, un nodo  
+que tenéis aquí abajo de gestión take profit y 
+stop loss. ¿Por qué? Porque cuando se dé la señal  
+de la de la operativa, quiero también que en la 
+gráfica se me dibuje los niveles de take profit  
+y stop. Yo puedo poner si quiero que sea a 
+una distancia fija X. Profit, X. Stop loss  
+o ponerlo por ATR. Yo como norma general como 
+mínimo suelo utilizar siempre el ATR si no  
+utilizo otro criterio. Pero desde luego muy raro 
+que yo utilice el criterio fijo porque no tiene  
+mucho sentido por muchos motivos que ya hemos 
+explicado muchas veces. El ATR básicamente es el  
+rango verdadero del mercado. Lo que va a hacer es 
+permite respirar a la operativa y vais a ver esto  
+cómo se plasma dentro del mercado. Ahora 
+en el Metatrader, cuando el movimiento  
+eh el mercado tenga una volatilidad muy baja, 
+va a apretar los niveles de ti profy stop loss  
+y cuando el mercado se expanda, para que 
+no te salte el stopl rápido, tontamente,  
+lo va a expandir, pero también va a expandir el 
+take profit. Por lo que al final lo que estamos  
+haciendo es eh adaptándonos a la respiración del 
+mercado y no salir tontamente de la operativa.  
+Una vez que tengo esto aquí, aquí viene lo 
+bueno. Como siempre, si yo lo quiero visualizar,  
+lo visualizo aquí. Bueno, por aquí veis los 
+puntitos, a lo mejor no lo veis, son muy pequeños,  
+niveles de stock, pero bueno, lo vamos a llevar 
+al Metatrader. ¿Qué hago? Le doy a compilar.  
+Y fijaros, porque aquí viene ahora la auténtica 
+locura de todo esto. Lo tengo aquí, lo voy a  
+llevar al Metatrader, pero fijaros qué pasa si 
+yo me vengo aquí ahora al modo eh expert advisor,  
+el modo de crear bot de trading, porque yo 
+he diseñado un indicador personalizado con  
+el criterio que yo quería. Y si yo ahora quiero 
+automatizarlo porque no quiero operarlo manual,  
+pues me vengo aquí arriba, entro en indicadores 
+para utilizar en esperadvisor, le doy aquí  
+y aquí tengo los indicadores que 
+yo he diseñado. Si le doy aquí,  
+automáticamente este es el nodo de mi indicador, 
+del indicador que yo he diseñado en el estudio,  
+crear indicadores. Fijaros que si me vengo por 
+aquí y saco cualquiera de estos de por aquí,  
+es un indicador igual que el resto con su salida 
+y sus señales de compra y de venta. O sea,  
+ahora aquí yo podría diseñar el flujo completo 
+para comprar y vender cuando se den esas señales.  
+O sea, una locura total. Lo que diseñéis en 
+el estudio de indicadores lo podéis traer  
+al estudio de Speradvisor y generar vuestras 
+propias automatizaciones. Dicho esto, nos vamos  
+al Metatrader y os voy a enseñar aquí una locura 
+total. Aquí tengo ya el indicador cargado, o sea,  
+este es el indicador que que hemos diseñado. Lo 
+voy a poner en líneas porque se va a ver mejor.  
+Y vamos a ir haciendo un back testing aquí por 
+encima para que lo veáis. Aquí tenemos los puntos  
+que hemos puesto para la señal de algo puede 
+pasar. El azul para BY, el naranja para Cell,  
+el de continuación para BY el punto verde y el de 
+continuación para venta, el punto rojo. La flecha  
+de sell y por aquí atrás si le damos zoom seguro 
+que hay alguna parte también de flecha de compra.  
+Fijaros, aquí las tenemos también las vamos a ir 
+viendo, eh, ahora. O sea, este es el indicador que  
+hemos fusionado y está aquí. En la parte de abajo 
+está el histograma para que podamos eh utilizarlo  
+e interpretarlo, pero como todo lo que hace aquí 
+el indicador ya lo hemos pasado a la parte de  
+arriba, pues no hay mayor misterio. Entonces, voy 
+a [ __ ] esto, lo voy a poner por aquí un poco  
+y vamos a ir viendo las señales. Fijaros, aquí 
+tenemos la primera señal. Salta aquí un sell,  
+ahí sería una venta. El stop los pone aquí 
+arriba y el take profit aquí abajo. Revienta  
+el take profit, por lo que esta sería una eh 
+una compra, una venta, perdón, eh acertada.  
+Aquí, por ejemplo, fijaros, o sea, aquí 
+sin trampa ni cartón de ningún tipo,  
+o sea, yo no tengo intención ni la necesidad de 
+de engañar a nadie ni muchísimo menos. O sea,  
+fijaros, salta aquí un sell, se va muy a positivo, 
+pero finalmente se devuelve. En este caso no llega  
+al al digamos al tape profit, por lo 
+que se devuelve y aquí que tiene el stop  
+loss lo salta, por lo que lo saltaría 
+aproximadamente por aquí un stop loss,  
+no hay problema. O sea, eh también se pierde, 
+las cosas son así. Fijaros, aquí abre otro by,  
+no llega al take profit por un poquito, se va 
+positivo, no llega y finalmente cae hacia aquí  
+reventando el stop loss, pues no hay problema. 
+O sea, dos stop loss, o sea, esto es como es, no  
+hay más misterioso. La el 100% no existe. Vamos a 
+continuar. Y fijaros, aquí abrimos eh un by igual  
+este de aquí, fijaros, salta al stop loss, se 
+pierde. El cel de aquí igual salta al stop loss,  
+se pierde, pero fijaros que son stop loss muy 
+pequeñitos comparados con el take profit que sale.  
+Y aquí es donde viene la ventaja. Este indicador 
+está hecho para operar sobre todo en rangos,  
+por lo que en la automatización le pondría que 
+opere solo cuando los movimientos sean en rango.  
+Y aquí viene, fijaros, llevamos un take profit y 
+cuatro stop loss. Lo voy a ir poniendo por aquí.  
+Vamos a ir poniéndolo por aquí. Lo voy a poner de 
+color verde el take profit. Tenemos un take profit  
+versus cuatro stop loss, uno, dos, tres y cuatro. 
+Y dicho esto, pues continuamos mirando. Fijaros,  
+aquí tenemos nuevamente otra señal. Sale aquí, 
+no llega al stop loss y llega al take profit de  
+muchísimo, por lo que aquí tendríamos un take 
+profit. Aquí sale el cel, no llega a tocar y  
+toca el take profit, por lo que tendríamos otra 
+operativa en take profit. Voy a [ __ ] por aquí  
+y vamos a poner las líneas verdes para que 
+lo vayáis viendo. Vaya, lo he borrado. Al  
+darle aquí a borrar, bueno, tendríamos tres y 
+cuatro. Ya es la costumbre de darle al botón de  
+de borrar para limpiar, ¿no? Cuando voy explicando 
+muchas veces pues se me acumula de todo y la  
+costumbre de darle pues lo voy borrando a 
+ver si no se me va otra vez y no le doy.  
+Dicho esto, fijaros, aquí tenemos dos señales más, 
+dos señales. Por aquí vuelve a salir un eh cell,  
+no llega al take profit, salta el stop loss, un 
+stop loss más. Aquí tendríamos la señal del buy,  
+no llega en ningún caso al stop loss y salta en 
+el take profit, por lo que borramos esto por aquí  
+y volvemos a apuntar aquí en la parte 
+de arriba un take profit y un stop loss.  
+Con esto serían cuatro take profit y 
+tendríamos cinco stop loss. Continuamos  
+y vamos un poco más hacia atrás. Fijaros aquí en 
+esta parte. Lo pongo así para que se vea mejor.  
+Lo mismo. Cogemos y empezamos desde aquí. Un 
+sel que sale aquí y directamente va hacia abajo,  
+o sea, take profit. Eh, tendríamos por aquí. 
+Fijaros, este de aquí llega aquí arriba. Este  
+lo voy a poner en velas porque no sé si llega ahí 
+a tocar o no. Parece que sí. Sí, mirad, ahí rompe  
+por encima. O sea, este también lo hubiese sacado. 
+Dos take profit más. Aquí salta un sell y no llega  
+al team profit, por lo que hubiese saltado el stop 
+los aquí. Este sería un stop loss y aquí llega  
+un un buy que no llega a tocar el stop los y toca 
+take profit, por lo que tendríamos esto. Nos deja  
+otro stop loss y nos deja también con dos take 
+profit, ¿no? Tres take profit, uno, dos y tres.  
+Fijaros, ya vamos cogiendo la ventaja. Y esto 
+simplemente aquí ahora estoy en el eurodólar en  
+un minuto eh del mercado de ahora. O sea, ya veis 
+que no hay más mercado más para adelante. O sea,  
+no me voy a buscar ejemplos de la gráfica 
+de octubre del año pasado, de no aquí como  
+sale lo que sale, lo que sale y lo que salga 
+sin trampa ni cartón. de ahora para atrás,  
+como tienen que ser las cosas, ¿no? Aquí vamos 
+hacia atrás y fijaros un sell que no llega a  
+stopl y va a ti. Ahí en ese nivel aquí tenemos un 
+buy, no llega a take profit, salta blow, por lo  
+que tendríamos un y fijaros, aquí tenemos otro buy 
+que no llega a take profit, se va muy a positivo.  
+Ya veis que la mayoría se van siempre a 
+positivo bastante, por lo que ya estamos viendo  
+que independientemente de que yo apunte profi 
+est la si ponéis cierres parciales, trailing,  
+estos, etcétera, vaya a mejorar mucho este ratio. 
+Pero aquí lo vamos a hacer a lo bruto, ¿no? Take  
+profuera sin ningún tipo de gestión. Y este se 
+pierde, ¿no? Pues tendríamos por aquí se pierde  
+uno y se pierden dos. Se pierden dos, pues vamos 
+a poner dos stop loss, uno y dos y un tapy más.  
+Un tapy más. Lo ponemos por aquí y continuamos. 
+Creo que está puesto en 500 barras. Sí,  
+ya no hay más. Aquí termina. Fijaros qué nos da 
+esto de aquí. Pues muy sencillo, esto de aquí  
+básicamente nos acaba de dar un win rate, un win 
+rate igual al 50%. Es decir, hemos acertado ocho  
+y hemos fallado ocho. ¿Qué quiere decir? Que 
+tenemos un win rate del 50%. Pero cuando ganamos,  
+ganamos mucho más que cuando perdemos, porque 
+vamos, este indicador aquí ahora mismo está hecho  
+con un ratio prácticamente de 23. O sea, fijaros, 
+la señal de la vela sale aquí en esta parte.  
+Os lo voy a poner por aquí, mira. Le voy 
+a dar zoom y lo vamos a ver mejor todavía.  
+Aquí vamos a dejarlo así, de esta forma. Fijaros 
+cuando sale la señal, sale aquí en esta parte  
+porque esto es a vela cerrada, o sea, aquí no 
+hay repinte ni cosas raras de estas que se ven  
+por internet, ¿no? Tenemos dos distancias 
+de ATR hacia arriba y tres distancias de  
+ATR hacia abajo. ¿Qué quiere decir esto? Pues 
+básicamente quiere decir que cuando yo pierdo  
+pierdo -2 y cuando yo gano, gano + 3. Esto me 
+deja que si yo tengo un win rate del 50%, si yo  
+aquí eh digamos que cuando he perdido sería 
+ocho, pues fijaros, vamos a hacer aquí  
+como decía aquel cálculo de de la vieja. Fijaros 
+que tenemos ocho y ocho. Voy a borrar por aquí
+y vamos a traernos esto un poco por aquí, que 
+se nos vea el espacio negro limpio aquí arriba.  
+Esto básicamente quiere decir que yo aquí tendría 
+ocho operativas, ocho por la distancia que yo vaya  
+eh a buscar, que al final es la distancia que 
+vosotros queráis, pero vamos a poner 8 * 3 24  
+y vamos a poner por aquí debajo lo 
+mismo. Aquí cuadradito 8 * 2 = 16.  
+Aquí lo tenemos ya muy claro todo. ¿Qué quiere 
+decir esto? Pues quiere decir que lo que yo  
+voy a ganar o perder es la diferencia. Si 
+yo me vengo por aquí básicamente y pongo  
+24 - 16 me va a dar 8. Esto quiere decir que si yo 
+me lo llevase esto eh a moneda, a euro, a dólares,  
+a lo que cada uno quiera, pues estoy ganando ocho 
+unidades con este sistema del win rate del 50%.  
+Es decir, si yo eh esto fuese a 100 € $100 
+cada operativa, habría ganado $800 con este  
+indicador. ¿En cuánto tiempo, Ignacio? Pues lo 
+miramos por aquí porque llega hasta aquí atrás.  
+Y esto es día 25 por la noche. Ya pasamos a día 
+26. Básicamente esto es día 26. Ahora es día 27,  
+sábado está cerrado. O sea, esto es en un día 
+de señales. Es decir, el día 26 en el eurodólar.  
+Estos son las señales que se han dado. 
+Si hubiesen sido a 100 € eh cada nivel,  
+perdería 200 en el stop law aproximado y 
+ganaría 300 en el take profit aproximado,  
+¿no? Luego depende de cómo sea el ATR y cómo lo 
+configuréis. Esto es aquí un poco a groso modo  
+para que lo tengáis en cuenta. Pues serían 800 € 
+Si yo fuese a 10 serían 80 € si fuese a 20 pues  
+serían 160 € en un día de señales con el indicador 
+para que veáis cómo funciona esto. O sea,  
+una locura. Y ya digo, esto es el indicador aquí 
+en crudo, que ya sabéis que yo esto no lo hago  
+así para nada. Aquí ahora le pondría filtro de 
+regímenes, etcétera, etcétera, pues para aumentar  
+esto un poco más. Pero para que veáis aquí a lo 
+bruto, tal cual hecho el último día del eurodólar,  
+pero ahora viene lo mejor de todo esto, porque 
+si me vuelvo aquí a la web y borro esto por aquí,  
+tenéis también los indicadores directos. ¿Qué 
+son los indicadores directos? Son indicadores que  
+literalmente os costarían miles de euros, miles de 
+dólares por la complejidad que tienen. Como veis,  
+no tienen salida, simplemente es ponerlo aquí, 
+darle a compilar y el indicador ya se descarga  
+y se va automáticamente a vuestra carpeta de 
+descarga del PC. Ahí está compilado. ¿Cuál es  
+este indicador? Pues me voy aquí al Metatrader 
+y lo tengo por aquí puesto. Este indicador es  
+el pattern scalp. Es decir, el indicador que te 
+da la predicción futura y la probabilidad de que  
+estas velas se vayan a dar. Yo lo tengo aquí 
+plegado, lo podéis desplegar porque este panel  
+tiene indicadores y lo que está haciendo aquí es 
+ver el futuro del indicador del precio. ¿Qué pasa?  
+Imaginaros si aquí a este ahora le cogéis y 
+le ponéis el otro que hemos diseñado. Se lo  
+podríais poner, ponerlo encima y operar solo las 
+señales que vayan saliendo con el otro cuando este  
+esté marcando los niveles de take profit y 
+stop loss. Es decir, voy a venir por aquí,  
+voy a [ __ ] esta parte, vamos a darle a ver, 
+vamos a sacar el navegador y por aquí lo tengo.  
+Lo voy a [ __ ] y lo voy a echar aquí encima. 
+Le voy a dar que sí. Y fijaros lo que es esto.  
+Fijaros lo que es esto. Mira, aquí veis las 
+señales. Lo voy a [ __ ] y lo voy a poner en  
+línea para que lo veamos mejor. Fijaros la señal. 
+Igual take profit esto l nuestro circulito. Pues,  
+¿qué quiere decir esto? Que aquí ahora yo, 
+por ejemplo, podría si ahora aquí me saltase  
+una señal de buy aquí en este nivel, espérate, 
+lo voy a poner amarillo que si no no se me ve.  
+Yo tuviese una señal de buy aquí. Ya me va a salir 
+el nivel de stop loss y el nivel de take profit.  
+Si yo veo ya con probabilidades, ya tengo la señal 
+del indicador que he fusionado, que ya es una  
+señal muy potente, ya habéis visto que va a sacar 
+una esperanza matemática positiva, yo ya solo la  
+haría si además el pattercal con la simulación 
+de velas futuras que tiene marca que va a llegar  
+al take profit aquí arriba antes de devolverse. 
+Y fijaros qué locura es este indicador, que aquí  
+en esta parte hay un techo. sería la resistencia 
+de esta vela. Y fijaros que el indicador ya prevé  
+que pueda llegar el precio a tocarla y devolverse. 
+Fijaros en esta nueva vela marca que puede llegar  
+aquí arriba. Entonces, automáticamente si yo 
+veo que esto puede llegar ahí pues lo operaría.  
+Que no, pues no lo operaría. Al final esto es 
+vuestro estudio para crear vuestros indicadores,  
+vuestros sistemas. lo que queráis. Lo más loco 
+de todo, aquí lo podéis crear, pero siempre  
+con metodología, rigor y cálculo y algoritmos 
+profesionales para que sepáis que lo que creáis  
+va bien diseñado, va bien hecho, va revisado 
+correctamente y si queréis que lo podáis  
+llevar luego a automatizar con vuestro bot de 
+trading. O sea, una locura. acceso a indicadores  
+y funcionalidades de cientos o miles de dólares 
+por menos de lo que cuesta un café. Así que esto  
+es trato. Así que ponerme por los comentarios qué 
+indicador es el que más os gusta. Si no lo habéis  
+visto en el vídeo, da igual ponérmelo. Aquí están. 
+Están todos los que existen. Y si no existen,  
+lo creamos y lo metemos porque lo difícil lo 
+hacemos rápido. Para lo para lo imposible tardamos  
+un poquito más, pero también lo hacemos. Así que 
+si queréis un indicador de cualquier sistema,  
+pedídmelo en los comentarios del vídeo. En 
+unos días lo reviso. El que tenga más votos  
+será el que crearé y lo subiré a la comunidad 
+privada de school, donde os comparto todas las  
+cosas y herramientas que compartimos gratuitamente 
+para que podáis descargarla. Así que si no estás  
+ya dentro de la comunidad school, haz clic en el 
+primer enlace que te aparece en comentario y únete  
+porque te estás quedando fuera de una revolución 
+que ha venido para revolucionar completamente el  
+trading retail, el trading retail, cambiarlo por 
+completo. Y si además quieres saber cuáles son las  
+100 mejores estrategias de trading de entre más 
+de 10.000 clasificadas y ordenad y cribada para  
+que no tengas que volverte loco, haz clic en el 
+vídeo que te aparece en pantalla donde te enseño  
+algunas de esas estrategias, te las comparto 
+y te las regalo. Nos vemos dentro. [música]
+[música]

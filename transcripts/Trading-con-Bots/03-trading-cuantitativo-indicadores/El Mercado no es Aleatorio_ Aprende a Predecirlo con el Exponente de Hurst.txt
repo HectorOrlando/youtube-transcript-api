@@ -1,0 +1,622 @@
+Titulo              : El Mercado no es Aleatorio: Aprende a Predecirlo con el Exponente de Hurst
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-01-25
+Duracion            : 35:35
+Vistas              : 3,404
+URL                 : https://www.youtube.com/watch?v=dziH7vU0uGw
+----------------------------------------------------------------------
+
+El 90% de tus pérdidas no son culpa de tu 
+psicología, son culpa de tu geometría. Estás  
+intentando medir un terremoto con una regla de 
+plástico. Nos han mentido cada vez que te han  
+dicho que el mercado sigue una distribución normal 
+o un paseo aleatorio. Porque si eso fuera verdad,  
+eventos como el lunes negro del 87 o el Flash 
+Crash de 2010 deberían ocurrir solo una vez  
+cada 1000 millones de años. Pero ocurren cada 
+pocos. El mercado no es lineal, es fractal,  
+tiene memoria. Y si sigues operando con 
+herramientas lineales en un entorno caótico,  
+vas a quemar tu cuenta 100%. En matemáticas, 
+no suerte. Soy Ignacio. He diseñado,  
+auditado y desplegado literalmente miles de 
+algoritmos en los últimos 15 años y en los  
+próximos minutos vamos a desmontar la hipótesis 
+del mercado eficiente y te voy a dar el código  
+exacto para explotar la ineficiencia fractal. 
+Hoy no te voy a dar una opinión. Vamos a usar  
+la física y el código para que aprendas a medir 
+la rugosidad del mercado. Y lo más importante,  
+te voy a enseñar a construir un bot que cambia su 
+operativa según la dimensión fractal del mercado  
+y te lo voy a regalar. En este vídeo vamos a 
+hacer tres cosas concretas que van a cambiar  
+tu trading para siempre. Primero, entenderás 
+por qué el mercado miente. Te demostraré por  
+qué la liquidez se evapora y cómo funciona 
+la dimensión fractal. Segundo, la práctica.  
+Programaremos un bot que calcula la rugosidad 
+del mercado en tiempo real usando el exponente  
+de Host e implementaremos lógica algorítmica 
+para detectar si el mercado tiene memoria.  
+Y tercero, la pieza final, el secreto que nadie 
+en el sector Retaile te cuenta. Te enseñaré por  
+qué saber la dirección no es suficiente y cómo 
+aplicaremos un criterio de Kelly dinámico para que  
+tus boting operen con más convicción solo cuando 
+la matemática esté a su favor. Si pensabas que  
+esto sería otro vídeo típico de fractales donde te 
+comparto un mercado en diferentes temporalidades,  
+tiro tres líneas para que veas que son iguales 
+y decirte que eso es la fractalidad, bla bla bla  
+bla bla bla y que termine saliendo de aquí con un 
+conocimiento absurdo e inservible para tu trading,  
+estás en el lugar equivocado. Cierra la pestaña. 
+Esto es ingeniería financiera real aplicada.  
+Debes tener claro que si sigues operando con un 
+RSI o medias móviles o cualquier otro indicador  
+clásico asumiendo que el mercado tiene memoria 
+cero, vas a quemar tu cuenta. Porque la realidad  
+incómoda que debemos asumir si queremos avanzar 
+y ser rentables con nuestro trading es que si no  
+entiendes la estructura del mercado, estás 
+apostando. Pero si entiendes lo que te voy  
+a explicar hoy aquí, iniciarás por fin un camino 
+real que puede llevarte al éxito en tu trading.  
+Empezamos. La teoría clásica dice que el precio es 
+un paseo aleatorio, que el riesgo se distribuye en  
+una campana perfecta como esta que vemos aquí en 
+pantalla. Pero es totalmente falso. La realidad a  
+la que nos enfrentamos todos los traders es esta 
+otra, una distribución de colas grasas. ¿Por qué?  
+Porque según la teoría de la distribución 
+estándar, eventos como el lunes negro del  
+87 deberían pasar solo una vez cada 1000 millones 
+de años, pero pasan cada pocos años, como vemos  
+aquí en esta línea temporal. Seguro que conoces 
+alguno de ellos. Pero, ¿por qué pasa esto? Pues  
+pasa porque el mercado, al contrario de lo que 
+cree la mayoría, tiene memoria. Te lo demuestro.  
+Mira este gráfico de un minuto, memorízalo. Y 
+ahora mira este otro de un día. Si le quitas  
+las etiquetas de tiempo y las sobreponemos, no 
+puedes distinguirlos. No podrías decir con certeza  
+cuál es cada time frame. Son casi idénticos 
+y no me llevo más de un minuto encontrarlos.  
+Así funciona el mercado. Esto es lo que se conoce 
+como autosimilitud o invarianza de escala. Benoid  
+MaldeBrot lo descubrió en el año 1967 mirando 
+las costas de Gran Bretaña. Da igual si las mira  
+desde arriba, desde un satélite o con una lupa. 
+La rugosidad es la misma. Eso es autosimilitud,  
+eso es fractalidad. Mandelbrot descubrió que los 
+principios financieros se comportan igual que la  
+turbulencia de los fluidos. Si hace zoom, la 
+complejidad es la misma. El mercado es fractal  
+porque la psicología humana es fractal. El miedo 
+de un scalper dura minutos. El miedo de un fondo  
+de pensiones dura meses. Pero la emoción es la 
+misma. El mercado es estable solo porque hay  
+personas operando en diferentes temporalidades. 
+Tú compras lo que el fondo de pensiones vende,  
+pero cuando hay pánico, el fondo de pensiones se 
+vuelve un day trader. Todos quieren salir ya y la  
+liquidez desaparece y tú quedas atrapado dentro en 
+negativo. Aquí es donde tus indicadores técnicos,  
+tus bot de trading clásico y tus estrategias 
+manuales fallan porque asumen un mercado líquido  
+y normal que en ese momento no existe. Este es 
+el error fatal de la mayoría de las estrategias  
+de trading simplista que abundan en formaciones 
+desprofesionalizadas por internet y de los bots de  
+trading clásicos que quiebran cuentas completas. 
+El asumir que el riesgo se disipa con el tiempo,  
+pero es falso. El riesgo se agrupa. La volatilidad 
+llama a más volatilidad. Si usas un stop loss fijo  
+basado en una teoría de desviación estándar 
+simple, te van a barrer. No hay más. ¿Por qué?  
+Porque estás asumiendo un mercado suave cuando 
+en realidad estás en un mercado rugoso como la  
+superficie del mar. Pero espera, porque hasta 
+aquí la teoría es bonita y quizás podrías pensar,  
+"Vale, Ignacio, el mercado es fractal, pues 
+utilizaré una desviación estándar o el ATR para  
+medir la volatilidad y todo solucionado. Así me 
+adapto al mercado. Error. Y aquí es donde el 99%  
+de los traders fallan siempre porque utilizan 
+una desviación estándar o el ATR para medir la  
+volatilidad en un contexto erróneo. La desviación 
+estándar asume que el 99.7% de los datos caen en  
+más menos 3 sigma. Funciona perfecto para un paseo 
+aleatorio, pero en un mercado fractal la rugosidad  
+significa que los extremos ocurren 300 veces 
+más frecuentemente de lo que la campana de Gau  
+predice. Por eso tu stop loss se come pérdidas de 
+500 pips que teóricamente nunca deberían ocurrir.  
+Esto es como firmar tu sentencia. Por eso, cuando 
+haces esto, estás intentando medir un fenómeno  
+complejo con una regla simple y lo que haces 
+es firmar tu sentencia de quiebra. Acabas de  
+asegurar la pérdida total de tu dinero. Usar 
+la desviación estándar o el AT para medir la  
+volatilidad es aplicar un proceso lineal. Y si 
+aplicas herramientas lineales a datos no lineales,  
+lo único que obtienes es ruido. La solución te 
+la cuento ya mismo. Tenemos claro que las series  
+financieras no son estacionarias. La media y la 
+varianza cambian constantemente, por lo que si  
+aplicamos matemática lineal a datos no lineales, 
+obtenemos ruido, es decir, basura. Necesitamos  
+una métrica diferente, una que mida la rugosidad 
+del mercado. Esa métrica es el exponente de Horst.  
+El exponente de HUS cuantifica la memoria 
+estadística de la serie de precios y nos indica  
+si las variaciones actuales están correlacionadas 
+con las pasadas, si son independientes o si  
+tienden a revertirse, simplificando, mire hasta 
+qué punto el precio tiende a continuar con lo que  
+estaba haciendo o va a hacer justo lo contrario. 
+Por lo que el exponente de Host es algo así como  
+tu brújula para el mercado. Imagina que lanzas una 
+moneda. Si sale cara, la siguiente tirada es 5050,  
+es decir, ruido blanco. H = 0.5. Pero el mercado 
+no es una moneda. Si el precio sube por un evento  
+X, hay una probabilidad mayor al 50% de que siga 
+subiendo. Es decir, es más probable que siga  
+haciendo lo que ya estaba haciendo antes de que 
+deje de hacerlo y hacer totalmente lo opuesto. Eso  
+es H may a 0.5, persistencia. Y esta es la guía 
+que debe grabarte a fuego. Si H es igual a 0.5,  
+ruido blanco. Estamos en algo así como un casino. 
+Aleatoriedad pura. Aquí tu estrategia técnica  
+pierde dinero por las comisiones. Yo no opero en 
+estos régimenes de mercado, directamente apago el  
+bot. Si H es mayor a 0.5, existe persistencia. Si 
+el precio sube, es probable que siga subiendo y si  
+baja es probable que siga bajando. Aquí funcionan 
+bien las estrategias y los bots de tendencia.  
+Las estrategias más valiosas aquí son las 
+de breakout, medias móviles, parabolixar,  
+etcétera. Sobre la gestión, lo que mayor esperanza 
+matemática positiva tiene en este tipo de mercados  
+son los training stop amplios de dos a tres ATR 
+o take profit dinámicos. Y sobre indicadores,  
+los que mayor efectividad ofrece son el 
+ADX mayor a 25 + d alineado con tendencia,  
+etcétera. Sin embargo, si H es menor a 0.5 existe 
+antipersistencia. En este contexto, el mercado  
+quiere volver a la media. Aquí funcionan 
+las estrategias basadas en el concepto de  
+reversión toin o reversión a la media. son las más 
+expandidas y las más rentables como norma general,  
+no por nada en especial, sino porque es el estado 
+más habitual en el que se encuentran los mercados  
+mayormente. Las estrategias más válidas aquí son 
+las que implementan las bandas de Bollinger, RSI,  
+sobrevendido, sobrecomprado, optimizados 
+al mercado o estrategias que operen bajo  
+el criterio de Fire Valer Gaps. Sobre la gestión 
+en este tipo de mercado, lo que mayor esperanza  
+matemática positiva tiene en este tipo de mercado 
+son los stop loss y los take profit fijos con el  
+ratio matemáticamente correcto o incluso gestiones 
+algo más agresivas con grits pequeños o handing o  
+coberturas controladas. Y sobre los indicadores, 
+los que mayor efectividad tienen en este tipo de  
+mercado, evidentemente son los osciladores como 
+el RCI para divergencia, el estocástico, el CCI,  
+etcétera. Y esto nos lleva de lleno a la dimensión 
+fractal, porque cuanto más bajo es el HST,  
+más alta es la dimensión fractal, es decir, más 
+rugoso y errático es el gráfico. Aquí la clave  
+es la siguiente. D es la dimensión fractal del 
+mercado y se calcula como 2 - h. Por lo tanto,  
+un D cerca de 2 es igual a un mercado caótico, 
+oscilante. Sin embargo, D cerca de uno es igual  
+a un mercado suave y tendencial, por lo que 
+queda claro que cuanto más bajo es el host,  
+más alta es la dimensión fractal o lo que es lo 
+mismo. El gráfico se vuelve más rugoso, llena más  
+espacio y es más errático. Parece fácil, ¿verdad? 
+calculas H, pones un condicional en el código del  
+Bod del Trading y te haces rico. Mentira, porque 
+si usas un valor DH para todo el historial,  
+estás perdiendo el tiempo. Los mercados no son 
+monofractales, son multifractales. Por eso los  
+bots de trading clásicos se desactualizan del 
+mercado tarde o temprano, quebrando tu cuenta  
+por completo. Por ejemplo, el Bitcoin no tiene 
+el mismo ADN que el oro e incluso el Bitcoin  
+de 2020 no es el mismo que el de hoy en 2026. Un 
+algoritmo robusto no debe buscar un número mágico,  
+debe monitorear la evolución de este exponente 
+para detectar cambios de fase. Ahora, con todo  
+esto, entenderás por qué comprar un bot de trading 
+estático por 100, 200, 500 o $,000, aunque ahora  
+sea rentable, no tiene ningún sentido lógico, 
+porque sí o sí dejará de serlo tarde o temprano.  
+Y como has visto, esto está matemáticamente 
+demostrado. No es una opinión. Entonces,  
+¿cómo aplicamos esto? ¿Cuál es la solución? Pues 
+atento que te la muestro. La solución más directa  
+para este problema al que todos nos enfrentamos 
+inevitablemente al operar el mercado es un bot  
+que antes de abrir una operación se pregunte 
+en qué régimen estamos y actúe en consecuencia.  
+Pero el problema técnico aquí es el de siempre, el 
+retraso es nuestro pan de cada día como traders.  
+Si usas ventanas muy largas para estimar H, la 
+señal llega tarde y si usamos ventanas muy cortas,  
+te come ruido puro. Para no complicarte la 
+existencia en esta parte te daré el dato clave.  
+En M test, como norma general, una ventana 
+del orden de decenas de velas, por ejemplo,  
+entre 50 y 150 funciona relativamente bien. 
+Estos valores nos ayudan a no confundir tendencia  
+puntual con estructura fractal de fondo. 
+Con H calculado sobre las últimas 100 velas,  
+podemos sacar las siguientes conclusiones rápidas 
+para nuestra operativa. Si H está sobre 0.65, 65  
+activamos un bot trend following o de seguimiento 
+de tendencias. Si H está sobre 0.35, activamos un  
+bot modo min reversion o reversión a la media. 
+Si por el contrario H está sobre 50, apagamos el  
+bot porque el comportamiento es prácticamente 
+aleatorio. Solo con este filtro dinámico que  
+puedes aplicar desde ahora mismo en tu trading, ya 
+puedes eliminar una parte enorme de las entradas  
+basuras en fases laterales y en muchos back test. 
+Y esto va a reducir fácilmente alrededor de la  
+mitad de las operaciones falsas, que son las que 
+terminan reventando la curva de capital. Este es  
+uno de los motivos por los que ya no hago trading 
+manual con una estrategia estática desde hace años  
+y también es el motivo por el que no opero con 
+un único bot de trading en un mercado concreto,  
+sino que tengo un portfolio de bots completos 
+con diferentes H sobre más de 30 mercados y todos  
+gestionados por bot de inteligencia artificial. 
+Evidentemente nunca están todos operando a la vez.  
+Siempre hay aproximadamente la mitad más o menos 
+que están parados o pausados y solo activo los  
+que mayor rentabilidad ofrecen en cada régimen de 
+mercado según la temporalidad en la que estén. Si  
+os interesa el tema, puedo mirar de hacer un vídeo 
+enseñando cómo tengo yo diseñado y organizado mi  
+sistema de trading. De ahí el potencial de la 
+plataforma de Techain para el que sepa verlo,  
+porque por menos de lo que cuesta el café que 
+te tomaste hoy por la mañana, puedes crearte  
+un portfolio de bots profesionales. Pero por 
+desgracia opino que mayormente por desconocimiento  
+y la mala información generalizada en el sector 
+retail, algunos entrarán en la plataforma a  
+descargar bot y a echarlo sobre el mercado como 
+si no hubiese un mañana buscando el Santo Grial.  
+Pero os puedo asegurar desde ya que el trading 
+algorítmico es más que echar un bot cualquiera  
+en un mercado después de hacer una optimización y 
+cuatro back testing, ya sea metrading, estrategic  
+one, etcétera. A mí particularmente este es el 
+tipo de trading que más me gusta porque me permite  
+tener mucho más tiempo libre y eliminar totalmente 
+la montaña rusa de emociones que tiene el trading  
+manual, pero entiendo que cada uno tiene sus 
+gustos y preferencias como es normal. Seguimos.  
+Porque ahora llega el momento que todos 
+estabais esperando, la creación del bot que  
+os voy a regalar basado en todo lo que hemos visto 
+y aprendido hoy. Así que ya podéis olvidar todo lo  
+aprendido en este vídeo, porque el bot lo hace por 
+vosotros. Es broma. Es importante que conozcáis el  
+proceso, el por qué y el cómo siempre de todo, 
+especialmente si os jugáis vuestro dinero. Vamos  
+a poner esto a prueba ahora mismo. He programado 
+dos bots. El bot A, un cruce de medias móviles  
+clásico, el favorito de todos los que empiezan 
+nuevo en el trading. y el bot B. El mismo cruce,  
+pero solo se activa cuando nuestro algoritmo 
+fractal detecta un régimen de persistencia,  
+es decir, H may a 0.6. Vamos a enfrentarlo y ver 
+qué ocurre. Aquí tengo creado ya el primer bot, un  
+bot de medias móviles simple con un cruce alcista 
+que va a ejecutar una compra de mercado cuando se  
+dé dicho cruce. Este sería el bot A. Ahora vamos 
+a crear el bot B. En este caso vamos a añadir el  
+filtro del exponente HARST cuando sea mayor a 0,6. 
+Entonces vamos a ir a indicadores en volatilidad,  
+vamos a bajar hasta exponente de Har, lo vamos a 
+sacar aquí y vemos que tiene diferentes salidas.  
+Para este caso vamos a utilizar directamente 
+el valor de H. Queremos que sea mayor a 0.6,  
+por lo que nos vamos a lógica. comparación y aquí 
+sacamos un umbral. En el umbral vamos a poner 0,6.
+Ahora, cuando el valor de H sea mayor a 0,6, 
+saldrá la señal del resultado como verdadero.  
+¿Vale? Como queremos que se den las dos señales, 
+el cruce y que el exponente de sea mayor a 0,6,  
+pues vamos a sacar directamente una lógica 
+buleana, es decir, un operador lógico ant o i,  
+que vamos a decirle que cuando la señal de cruce 
+se dé como condición uno y que también se esté  
+dando que el valor de H sea mayor a 0.6, 6 no 
+genere la señal de salida del resultado que vamos  
+a conectar con el nodo de compra mercado. De esta 
+forma, cuando el cruce alcista se déa mayor a 0,6,  
+se ejecutará una compra. Así que voy a descargar 
+este bot. También le doy a construir, le doy a  
+descargar y ahí lo tengo listo. Bien, vamos a 
+la hora de la verdad. Voy a compilar el botá.  
+Compilo. Aquí lo tenemos 
+compilado. Cero errores. El bot B.
+Compilo y aquí lo tenemos compilado. Cero errores. 
+Ahora vamos aquí al Metatrader y voy a ejecutar el  
+B testing. Vamos a darle modo visual, en este caso 
+el bot a eurodólar una hora. O sea, no esperemos  
+ver grandes resultados con estos bots porque 
+son eh bots simples de cruces de medias móviles,  
+pero es para que eh veáis cómo funciona el aplicar 
+este filtro sobre un bot. Siempre me gusta probar  
+sobre bots sencillos como cruces de medias móviles 
+porque es más fácil ver y entender el efecto de  
+las variables que que exponemos aquí al mercado. 
+Entonces vamos con el botá. Le doy a iniciar. Modo  
+visual. Ampliamos pantalla, quitamos rejilla, 
+echamos hacia atrás, nos vamos a la gráfica y  
+lo dejamos aquí corriendo. Acelero para que para 
+vosotros sea solo un par de segundos. Pues bueno,  
+aquí ha terminado el back testing. Nos vamos 
+aquí a informe y aquí vemos cómo termina con  
+801 € de beneficio y un drynow del 20,66. Bueno, 
+así quedaría la gráfica. Saco capturas de todo  
+para luego para la comparativa y vamos con el 
+siguiente. Bueno, ahora vamos con el bot B. Bot B,  
+eurodólar, una hora, todo igual. Le quito 
+el modo visual para que tarde tarde menos  
+porque al calcular el hard tarda un poquito. 
+Entonces, bueno, lo dejo así, le doy a iniciar,  
+nos vamos aquí igual al gráfico y vamos a 
+ver cómo evoluciona. Bueno, aquí tenemos el B  
+testing terminado. Vamos a informe. Aquí vemos 
+1600 de beneficio, 361 operativas, 14 de dry.  
+Vamos a comparar ahora ambas gráficas para ver más 
+la diferencia. Bueno, aquí tendríamos el primer  
+back testing, el del bot A, 801 de beneficio, 45 
+operativa. Y bueno, aquí tenemos la gráfica. Os  
+la marco ya en rojo porque ahora las vamos 
+a comparar para que se vea la diferencia.  
+Aquí tenemos la del bot B, 1600 de beneficio, 
+361 operativa. Vemos que aproximadamente ha  
+hecho una 100 operativas menos. ¿Por qué? Porque 
+al utilizar el exponente de HAR para filtrar ha  
+eliminado muchas operativas que no iban a favor de 
+una tendencia. Entonces ha hecho menos operativa,  
+pero vemos ya rápidamente aquí también en el 
+back testing que el back testing es más suave  
+y más pronunciado al alza con menor rugosidad y 
+esa rugosidad es la que hemos evitado haciendo  
+el filtrado. Vamos a comparar las dos. Aquí 
+tenemos la comparativa. Os he puesto en rojo  
+el bot A y en verde el bot B. Creo que aquí ya se 
+aprecia un poco. Son muy parecidas. Evidentemente  
+están en el mismo mercado, misma estrategia. 
+Tienen que tener una similitud. Pero vemos que  
+una termina con 1600, mientras que la otra termina 
+en 800. No solo eso, sino que también hemos visto  
+como el dry down se reduce y la gráfica del 
+back testing es más suave, por lo que es una  
+estrategia que ha mejorado bastante en cuanto a 
+suavidad, calidad, beneficio y reducción del dry.  
+Si nos fijamos aquí en esta imagen, os he marcado 
+aquí en rojo las zonas de diferencia de caída que  
+sí que hace el bot A, que no hace el bot 
+B en el dry down. Son zonas importantes,  
+sobre todo para los que queráis reducir dry 
+down o estéis haciendo challenge de fondeo,  
+pues es importante el controlar el dry down, ¿no? 
+Para todos es importante, especialmente para este  
+tipo de de situaciones. Aquí os resalto las dos 
+los dos back testing, las dos estrategias. Fijaros  
+como la verde tiende a ser menos rugosa, más suave 
+y al final con este pequeño cambio que hemos hecho  
+sobre la misma estrategia, hemos multiplicado por 
+dos la rentabilidad, hemos reducido el dryown y  
+hemos hecho una estrategia más consistente y más 
+adaptativa sobre el mercado, sin hacer ningún tipo  
+de optimización, con una media móvil simple 
+que nos hemos inventado aquí sobre la marcha,  
+o sea, imaginaros con una estrategia que sea 
+decente o que sea sea buena. Aplicar este tipo  
+de criterio, pues puede ayudar muchísimo más a 
+estabilizarla conforme al mercado. Pero espera,  
+porque si intentas programar esto ahora mismo 
+con la fórmula básica, va a fallar sí o sí.  
+Pensábamos que calcular H era suficiente, pero 
+volvemos a chocar de frente con la realidad de  
+los mercados financieros que son no estacionarios. 
+La media cambia constantemente. El cálculo clásico  
+de rango reescalado o RS da señales falsas 
+cuando hay tendencias fuertes. Por eso los  
+profesionales no usamos un RS simple, usamos 
+DFA o análisis de fluctuaciones sin tendencia.  
+DCA es una forma matemática de eliminar la 
+tendencia local para ver la verdadera memoria  
+del mercado. Sin esto, tu bot fractal es tan ciego 
+como un R6. Y aquí entra otro factor en juego,  
+la personalidad del activo. Por ejemplo, el oro 
+suele tener fases de tendencia muy marcadas,  
+Hs muy altos. Bitcoin tiene fase de reversión 
+violenta y caos, es decir, H oscilante. Un umbral  
+fijo de 0.55 puede servir para el euroólar, pero 
+no para cripto. Un sistema robusto no busca un  
+número mágico, busca monitorear el mercado. ¿Cómo 
+solucionamos esto? Pues te lo cuento ya mismo.  
+En vez de quedarnos con el cálculo clásico, la 
+aproximación profesional que vas a aprender hoy es  
+usar DFA, una técnica que elimina las tendencias 
+locales, sean lineales o incluso polinómicas,  
+y te devuelve una estimación de H que refleja 
+la memoria fractal pura del precio, no el sesgo  
+de una tendencia puntual. En la práctica lo que 
+hace el bot es esto. Aplica DFA sobre una ventana  
+deslizante de velas y de esa regresión obtiene 
+directamente el valor H que luego usa como gatillo  
+de decisión. Simplifiquemos el concepto para que 
+nadie se pierda. Basta con que entiendas que el  
+DFA es básicamente una forma más inteligente de 
+medir el exponente de Harst. ¿Y cómo lo hace?  
+Pues primero toma la serie de precio y la 
+convierte en una serie acumulada de fluctuaciones,  
+como si fuera el camino que ha recorrido el 
+precio. Luego divide ese camino en trozos de  
+distintos tamaños, como si fuesen los tramos del 
+camino. En cada tramo ajusta una línea o una curva  
+simple que representa la tendencia local y la 
+resta, es decir, se queda solo con el residuo,  
+con lo que se desvía del camino medio. Después 
+mide cuánta fluctuación queda en esos residuos  
+para cada tramo de camino. Y al final mira cómo 
+crece esa fluctuación cuando aumenta la escala.  
+Si al doblar la escala las fluctuaciones crecen 
+de cierta forma, ese exponente de crecimiento  
+es precisamente H. Este es el paso que separa a 
+los aficionados de los profesionales, filtrar las  
+tendencias deterministas y solo después medir la 
+estructura fractal de fondo. Si todo esto te suena  
+a chino mandarín, no te preocupes porque lo vas 
+a entender perfectamente. Y alégrate porque como  
+decía Albert Einstein, la definición de locura 
+es hacer lo mismo una y otra vez esperando un  
+resultado diferente. Por lo que si todo esto 
+no lo habías puesto en práctica antes, por lo  
+menos sabes que estás alejándote de la locura del 
+trading generalista y estás emprendiendo un nuevo  
+camino, uno más profesional que te conduce a tus 
+objetivos económicos de forma directa. El botón,  
+sabe el régimen, pero va a seguir perdiendo 
+dinero en rachas malas. ¿Por qué? Porque estamos  
+cometiendo el error capital de las finanzas. Hasta 
+ahora hemos resuelto el problema de cuándo operar  
+mediante H, pero hemos ignorado el cuánto. 
+Si tienes un bot que opera con un lote cuando  
+H es igual a 035 con baja confianza y un lote 
+cuando H es igual a 0.8 con alta confianza, estás  
+cometiendo un error capital. En el segundo caso, 
+tienes una certeza 10 veces mayor. La lógica de la  
+estrategia básica dice que se debería operar con 
+un riesgo 10 veces mayor, no con el mismo. Aquí  
+es donde integramos la física con la gestión de 
+capital. Te presento el criterio de Kelly dinámico  
+ajustado por fractalidad. El criterio de Kelly es 
+la fórmula matemática que necesitas para maximizar  
+el crecimiento geométrico de tu dinero. Pero 
+es agresivo, así que hay que tener cuidado. Si  
+te equivocas en las probabilidades, te arruinas. 
+Así que comencemos con esto. Usamos el exponente  
+de Hurst como nuestro proxy de confianza, 
+como nuestro cortafuego ante el sobrelotaje.  
+De esta forma, cuando H es alto, es decir, 0.7 
+o 0.8, 8. La señal es clara, el ruido es bajo,  
+el mercado es predecible. Aquí aumentamos el 
+apalancamiento y nos acercamos al óptimo de  
+Kelly. A medida que el H cae hacia 0.5, aumenta 
+la entropía. La predicción se vuelve imposible.  
+En este punto de aquí, el tamaño de la posición 
+se reduce significativamente a cero. Aquí tenemos  
+el ejemplo más claro. La línea blanca sería el 
+índice de host. La línea roja horizontal sería  
+el punto de 0.50. Por lo que cuanto mayor es 
+el índice de Harst, más próximo al uno está,  
+mayor sería el lotaje que meteríamos. Sin embargo, 
+cuando el índice de HARS cae, las operaciones o el  
+lotaje disminuyen significativamente y cuando 
+se encuentra por debajo de 0.5, directamente  
+se detiene el bot y no hay ninguna operativa. 
+Ahora sí, ya tenemos todo lo que necesitamos.  
+Vamos a construir el bot A con un modelo clásico 
+de medias móviles y el bot B con el mismo criterio  
+clásico de cruce de medias móviles, pero con 
+un filtro por H y una gestión adaptativa. Vamos  
+al lío. Parto del mismo bot que ya teníamos 
+construido, el que era el cruce, acordaros,  
+el cruce de medias móviles con el filtro de Harst. 
+Ahora simplemente voy a sacar, voy a gestión de  
+riesgo, posición y saco Kelly fractal de host. Lo 
+cojo, lo saco aquí y aquí tengo ya la salida del  
+tamaño del nodo. Esto podría configurarlo como 
+quisiera, yo lo voy a dejar por defecto. Y el  
+tamaño del lote lo puedo conectar directamente al 
+nodo de compra de mercado. Ya sabéis que el nodo  
+de compra a mercado o de venta, aparte de tener 
+la condición, en este caso que active la compra,  
+también podemos poner un lotaje, un cálculo lotaje 
+dinámico o stop loss o take profit o dejarlo  
+directamente simplificado aquí ya fijo dentro 
+del nodo. En este caso conecto el nodo de Kelly  
+Fractal al cálculo del lotaje. Le doy a compilar 
+y aquí lo tengo y me voy para el Metatrader. Aquí  
+tengo el bot, en este caso el bot C. Doble click, 
+lo abro en el meta editor, compilo. Aquí lo tengo  
+compilado. Me voy aquí al back testing. Selecciono 
+el bot C. Igual euroólar, una hora, mismo periodo,  
+mismo todo y le doy a inicializar. Nos vamos 
+aquí a la gráfica y vamos a ver cómo reacciona.
+Bueno, vamos a la comparativa y aquí vemos 
+los tres bots, el A, el B y el último,  
+el C o el azul. He superpuesto aquí las gráficas 
+para que podamos diferenciarlos mejor. Y vemos  
+como aunque aparentemente parecen el mismo bot, ya 
+que utilizan la misma estrategia, los resultados  
+finales son muy muy diferentes, quedando el voz 
+C o azul con más 30,042, es decir, casi un por cu  
+del bot rojo, del bot a, es decir, un algoritmo 
+clásico como el que todos utilizamos. vemos cómo  
+ha cambiado, cómo se ha potenciado la estrategia, 
+por muy simple que fuese, y ha terminado con unos  
+resultados pues bastante mejorable. Esto es 
+muy sencillo, podéis aplicar estos criterios  
+a cualquier bot, a cualquier estrategia y ya 
+veis que os van a ayudar a mejorar la estrategia  
+sustanciablemente. Esto ya no es predecir precios, 
+esto es adaptación estructural. Hemos pasado de  
+preguntar, ¿subirá el precio? A preguntar en qué 
+estado físico está el sistema. Hemos sustituido  
+la superstición y la subjetividad por la física 
+aplicada a las finanzas. Y el resultado es una  
+curva de capital que sobrevive a las crisis porque 
+se adapta a ellas. El resultado que debemos buscar  
+no es solo más dinero, es un ratio de superior, es 
+decir, menos estrés y más eficiencia matemática.  
+Hemos dejado de preguntar, ¿subirá el precio? Y 
+hemos empezado a preguntar cuánto debo apostar  
+basado en la estructura del sistema. Cuando 
+entiendes esto que has aprendido hoy, cuando  
+entiendes cómo funciona el trading profesional de 
+verdad, dejas de perseguir vídeos, estrategias,  
+sistemas o bot milagrosos que te prometen 
+resultados maravillosos y rápidos, mientras  
+que lo único que haces es perder tiempo y dinero 
+y por fin comienzas a centrarte en un camino claro  
+y objetivo. Uno que realmente te lleva a poder 
+ser rentable. No te voy a engañar, no es el más  
+rápido, no es el más fácil, pero te garantizo que 
+es el único que te puede dar los resultados que  
+buscas si lo que buscas es rentable. Todo lo demás 
+será perder el tiempo y el dinero en una montaña  
+rusa sin final. Ahora tienes el conocimiento. D 
+= 2 - H. Análisis de fluctuación sin tendencia  
+y gestión de Kelly dinámica. Tienes el motor de 
+un Ferrari. Pero hay un problema. Calcular esto  
+en tiempo real para una cartera de 50 activos a 
+la vez requiere una infraestructura que un trader  
+retaile estándar no aguanta. La latencia 
+te matará si no optimizas la ejecución.  
+No sirve de nada tener el mejor modelo teórico 
+si tu ejecución es lenta. Por eso, el siguiente  
+paso lógico es construir la infraestructura de 
+ejecución de baja latencia para ese portfolio.  
+He preparado este vídeo donde explico al detalle 
+cómo llevar este modelo matemático a un entorno  
+de producción real sin que se te cuelgue tu 
+servidor. Haz clic aquí. Nos vemos en el código.
