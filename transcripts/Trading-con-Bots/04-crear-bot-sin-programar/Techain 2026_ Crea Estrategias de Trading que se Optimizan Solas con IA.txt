@@ -1,0 +1,2046 @@
+Titulo              : Techain 2026: Crea Estrategias de Trading que se Optimizan Solas con IA
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-04-27
+Duracion            : 1:41:32
+Vistas              : 2,295
+URL                 : https://www.youtube.com/watch?v=GM8B6YC6_-A
+----------------------------------------------------------------------
+
+En esta clase vamos a tener un primer contacto 
+con la plataforma de Techain. Vamos a verla un  
+poco por encima para que podáis entenderla 
+mejor, visualizarla mejor y que podáis ya  
+empezar a hacer vuestros primeros pinitos o 
+pruebas dentro de eh la plataforma. Entonces,  
+vamos a empezar por la parte inferior y vamos a 
+ir subiendo hacia arriba. Entonces, en la parte  
+inferior tenemos primeramente el menú de usuario. 
+Si vosotros hacéis clic eh sobre vuestro nombre,  
+sobre esta parte, se os abrirá el menú de usuario 
+desde donde podréis pues eh gestionar vuestros  
+métodos de pago, suscripciones, hacer upgrade, 
+downgrade, etcétera, vuestros datos personales,  
+etcétera. tenéis también el apartado de el menú, 
+un menú donde vais a poder pues si habéis tenido  
+algún problema en la plataforma enviar un reporte, 
+compartir eh la plataforma, tenéis un apartado de  
+preguntas frecuentes desde donde pues vais a 
+tener resueltas las preguntas más frecuentes  
+que un usuario puede tener. Importante siempre 
+echarle un vistazo porque muchas de las dudas  
+que se suelen originar inicialmente pues están ya 
+aquí respondidas. También tendréis la ayuda para  
+principiantes. Directamente le dais, tendréis una 
+ayuda para principiantes donde pues se indica un  
+poco paso a paso las principales funcionalidades 
+de la herramienta, de la appar. O sea,  
+si tenéis dudas sobre algo, pues entráis por 
+aquí y aquí pues tendréis una eh ayuda rápida.  
+También tenéis el tutorial, el tutorial que, 
+por ejemplo, si le damos a iniciar tutorial,  
+se me inicia el tutorial. El tutorial es un 
+tutorial de cinco pasos, simplemente está diseñado  
+pues para ayudaros a construir vuestro primer bot. 
+En el primer paso os dice añade un indicador y nos  
+lleva aquí, por ejemplo, ya el indicador RSI. 
+Lo cojo, lo añado a pantalla. Nos dice añade  
+la lógica. Nos lleva aquí ya a lógica, a umbral. 
+En este caso añado la lógica de umbral. Aquí nos  
+dice el paso tres, añade una acción. Tenemos 
+indicador, que es el que dispara. la señal,  
+la lógica para procesar esa señal. ¿Y qué queremos 
+que hacer con esto? Pues necesitamos una acción.  
+En este caso, por ejemplo, comprar. Queremos que 
+cuando el RSI eh llegue a un determinado umbral,  
+se realice la acción de compra. Y aquí ya nos 
+sale que conectemos los nodos. Ya vemos que el  
+azul indicador con el verde lógica con el grid 
+de acción. Entonces, directamente cojo valor,  
+conecto con valor, son del mismo color, valor con 
+valor y resultado con el de condición. De esta  
+forma ya tendría el bot hecho. Ahora simplemente 
+sería generarlo. Dicho esto, voy a [ __ ] este  
+bot, lo voy a contraer y lo dejo por aquí por la 
+plataforma para que sigamos eh viendo el resto.  
+Aquí veis una forma rápida de un tutorial de 
+cómo construir vuestro primer bot. Seguimos.  
+hacia arriba. Aquí tenemos el cambio de modo. Yo 
+normalmente lo suelo utilizar en modo oscuro. ¿Por  
+qué? Pues sencillamente porque al final si pasamos 
+muchas horas delante del ordenador todo lo que son  
+tonos blancos que emiten luz azul pues llegan a 
+ser eh dañinos para la visión, ¿no? Entonces, al  
+final importante utilizar siempre todo lo que se 
+pueda en modo oscuro. Yo lo tengo en modo oscuro.  
+También tenéis la opción de cambio de idioma de 
+inglés a español y aquí tenéis los contadores con  
+los créditos. créditos de ayuda IA que os queden 
+y créditos de construcción. Subimos hacia arriba  
+en el menú y básicamente lo que tenemos aquí 
+en esta parte es nuestra caja de herramientas.  
+Este menú vertical que tenemos aquí es la caja de 
+herramientas. Es como si estuviésemos en un taller  
+mecánico. Pues estos son nuestras herramientas. 
+El menú, por ejemplo, voy a desplegar. Fijaros que  
+tenemos este modo de menú donde todo está muy 
+explicado. Cada nodo, ¿qué es lo que hace? Al  
+principio es bueno trabajar de esta forma para que 
+tengáis ya una primera descripción de qué es ese  
+nodo, qué es lo que hace. Una vez que ya sabéis 
+que es cada nodo, ya tenéis una experiencia,  
+pues directamente podéis cambiar de modo aquí 
+en los tres puntitos y directamente se pone  
+modo reducido. O sea, ya tenemos una experiencia 
+en la plataforma, sabemos cómo funciona, pues ya  
+no es necesario que ver toda la información. De 
+esta forma pues nos caben más nodos y nos dan más  
+área de trabajo en el canva. Igualmente, si ya 
+tenemos el diseño hecho y estamos en otra fase  
+que no sea de construcción, podemos ocultar el 
+menú y trabajar con el cano completo. Igualmente,  
+para volver a desplegarlo, le daríamos aquí a la 
+pestaña mostrar menú de nodo. Bueno, dicho esto,  
+son los diferentes opciones de menú que tenemos 
+aquí. En esta parte tenemos el primer apartado,  
+sería el de búsqueda de nodo, es decir, un 
+buscador, un buscador que nos va a ayudar a  
+agilizar. Es decir, si yo ya sé qué es lo que 
+quiero, por ejemplo, estoy buscando un RSI,  
+pues coloco aquí RSI y me van a salir todas 
+las coincidencia que haya. Por ejemplo,  
+ya veo que aquí el primero es RSI. Aquí veis una 
+valoración de tres círculos con que os marca,  
+digamos, la referencia o el peso o coincidencia 
+sobre vuestra búsqueda. Nos está diciendo tres  
+círculos verdes lo máximo, por lo que nos está 
+diciendo ya el algoritmo que lo que nosotros  
+queremos posiblemente sea este eh nodo de aquí, 
+el de RSI. también nos dice multitime frame rci,  
+etcétera. Yo simplemente aquí ahora hago un clic 
+y el automáticamente ya la plataforma me lleva  
+al RSI y me lo marca. O sea, yo ya lo tendría 
+aquí y si este es el que quiero, pues lo cojo,  
+lo saco y ya lo tendría. Entonces, en esta primera 
+parte tenemos este menú. Por ejemplo, si yo pongo  
+aquíum, pues me va a llevar a los indicadores 
+de de momento o de momento. Si bajo hacia abajo,  
+tenemos las atomizaciones. ¿Qué son las 
+atomizaciones? Pues muy sencillo, son simplemente  
+eh fusiones de nodos que yo hago. Por ejemplo, 
+voy a sacar esta que tengo hecha aquí. Vemos  
+que es un único nodo, pero yo voy a [ __ ] voy a 
+eliminar esto y este nodo, una vez que yo tengo  
+seleccionado uno que ya esté eh fusionado o quiero 
+hacerlo, fijaros que aquí arriba este botón se me  
+pone en blanco. Si yo deselecciono se me quita, no 
+puedo pulsar. Cuando yo selecciono me sale activo,  
+fijaros, le doy a atomizar que es separar. Y 
+cuando atomizo, pues fijaros que me sale ya esta  
+estos nodos. Estos nodos son básicamente tengo un 
+cruce de medias móviles alcista y uno bajista. Si  
+os fijáis, hay dos salidas, la del cruce alcista 
+y la del cruce bajista. Pues si yo, por ejemplo,  
+eh tengo un proyecto muy grande y no quiero tener 
+tantos nodos o directamente este es un flujo que  
+utilizo mucho, pues puedo [ __ ] selecciono todos 
+los nodos, le doy aquí, selecciono en fusionar y  
+le pondría aquí un nombre, el que yo quisiera, 
+por ejemplo, test uno y aquí la descripción que  
+yo quisiera, por ejemplo, test 2. Le doy a guardar 
+y fijaros que automáticamente ya se me ha guardado  
+aquí en esta parte. Y ahora yo aquí tengo un 
+nodo que se llama test 1, que he creado yo  
+con la salida de las medias móviles iniciales, 
+del cruce alcista, de las otras medias móviles  
+y del cruce bajista. Entonces, ya tengo un nodo 
+que yo ahora puedo seguir utilizando en el flujo  
+y cada vez que yo lo coja y lo arrastre, vuelvo 
+a traer ese mismo nodo. Entonces, esta sería la  
+función de atomizar o fusionar, el poder crear 
+flujos de trabajo y guardarlos para posteriores  
+proyectos. Si bajamos hacia abajo, tenemos las 
+diferentes secciones. No voy a entrar en detalle,  
+pero por ejemplo aquí tenemos la sección 
+de inteligencia artificial. son agentes de  
+inteligencia artificial, filtro de inteligencia 
+artificial, orquestación de inteligencia  
+artificial, señales de IA y herramienta de IA. 
+Básicamente lo que tenemos aquí es una sección  
+que nos permite integrar inteligencia artificial 
+dentro de nuestros botch de trading, es decir,  
+convertir plataformas como Metatrader 4 y 5 en 
+plataforma inteligentes, trabajar con inteligencia  
+artificial y puntualización importante. No estamos 
+hablando de usar un chat GPT, un Cloud, un Gemini,  
+etcétera. Estamos hablando de inteligencia 
+artificial real aplicada a los mercados  
+financieros. Es decir, no hablamos de modelo 
+LLM de lenguaje, etcétera. Estamos hablando de  
+fórmulas matemáticas de inteligencia artificial, 
+deep learning, machine learning, redes neuronales,  
+árboles de tomas de decisiones, etcétera. Es 
+decir, inteligencia artificial real, matemática y  
+objetiva para los mercados financieros, no modelos 
+de lenguaje de inteligencia artificial. que desde  
+luego no están hechos ni son válidos pues para el 
+análisis de series temporales, análisis de datos,  
+etcétera, etcétera, etcétera, ¿no? Entonces, 
+bueno, aquí tendríamos esta parte básicamente  
+es llevar la inteligencia artificial real, 
+objetiva y profesional a nuestras inversiones,  
+a nuestro bot de trading. Y esto es algo 
+fundamental porque no es que sea el futuro,  
+es que es ya el presente desde hace mucho 
+tiempo. Es decir, la moda de la inteligencia  
+artificial es ahora. La moda es ahora desde 
+que empezó hace unos años el chat GPT, Cloud,  
+Yemin y tal, pero la inteligencia artificial en el 
+trading, en el trading algorítmico cuantitativo se  
+utiliza ya hace eh más de una década, o sea, 
+esto no es nuevo de ahora, pese a que ahora  
+pues herramientas más populares pues lo hayan 
+digamos expandido un poco más, ¿no? Entonces,  
+bueno, aquí tendríamos esta parte. Seguimos con la 
+categoría de indicadores. Aquí tenemos indicadores  
+algorítmicos, que son indicadores desarrollados 
+eh específicamente para techin, es decir, son  
+indicadores eh algorítmicos que no existen fuera 
+de aquí y que están hechos específicamente para  
+funciones de análisis de mercado necesarias para 
+el trading profesional. y con trading profesional  
+me refiero a cualquier persona que de su trading 
+quiera obtener una rentabilidad, bien sea un  
+ingreso extra o vivir de ello, me da igual. O sea, 
+una profesión es cuando tú realizas una actividad  
+y obtiene una retribución económica. Entonces, son 
+algoritmos que van a ayudar a ejecutar un trading  
+profesional, es decir, a poder llegar a resultados 
+consistentes eh en el tiempo irrentable.  
+Todos los indicadores que tenemos aquí no son 
+indicadores normales y corrientes. Todo aunque  
+haya un momentum, por ejemplo, si vamos a 
+momentum, pues tenemos también indicadores  
+como el momentum pro. Son indicadores que llevan 
+una lógica profesional, cálculos profesionales  
+y están revisados. Es decir, no son indicadores 
+típicos que vais a poder encontrar por Metatrader,  
+por Trading View, etcétera. Es decir, todo lo que 
+hay en la plataforma de Techin está desarrollado  
+con una lógica y un criterio realmente académico 
+y profesional, revisando cada fórmula de cada nodo  
+para que realmente funcione como debe funcionar 
+profesionalmente. Tenemos varias categorías,  
+indicadores algorítmicos, Bill William, 
+DHFT, de Market Profile, de Momentum,  
+Multitime Frame, osciladores para 
+acción del precio, eh de tendencia,  
+de volatilidad y de volumen. Es decir, tenemos 
+todas las categorías de indicadores necesarias  
+para poder hallar y explotar ineficiencias dentro 
+del mercado, porque la rentabilidad no viene de  
+un bot que opera un mercado, sino de hallar una 
+ineficiencia, calcularla y explotarla. Entonces,  
+importante que esta parte la tengamos en cuenta. 
+Esta es la diferencia, como digo siempre, entre  
+el trading algorítmico y el trading cuantitativo. 
+El trading algorítmico hace ya más de 20 años que  
+se ejecuta. En el sector profesional hace ya 
+muchos años, casi más de una década que no se  
+usa. En el sector retail sí se usa y de hecho 
+está bastante de moda y es como lo modernillo,  
+¿no? Queda como bien, ¿no? Ir a tomar una caña 
+con un colega. ¿Y tú qué haces? No, yo soy trader  
+algorítmico, queda como muy potente, ¿no? Pero 
+realmente en el sector profesional es algo muy  
+antiguo y obsoleto. El trading algorítmico es la 
+acción de automatizar una lógica. Por ejemplo,  
+un cruce de medias móviles. Cuando la media rápida 
+cruce por la lenta, compra. Automatizar que cuando  
+el RSI llegue a sobreventa, pues ejecute una 
+compra o una venta, lo que queráis. Es decir,  
+el trading algorítmico es simplemente la acción 
+de automatizar algo. Automatizar algo no es  
+ser rentable. Ser rentable en el trading es la 
+evolución natural. Es decir, el trading manual  
+nació hace muchísimos años y quedó obsoleto hace 
+muchísimos años. Luego vino la automatización para  
+ganar rapidez y objetividad, que fue el trading 
+algorítmico hace ya varias décadas. Y de ahí luego  
+nació la evolución natural que es el trading 
+cuantitativo, el perfil del quad trader, del  
+trader cuantitativo, que es no solo automatizar, 
+sino automatizar una ejecución, pero no sobre un  
+criterio, sino sobre una ineficiencia. Entonces, 
+el trader algorítmico simplemente automatiza cosas  
+rezando para que algunas funcionen. El trader 
+cuantitativo analiza el mercado con una base  
+matemática y estadística, haya ineficiencia, las 
+estudia, las calcula y las explota. Y esa es la  
+diferencia entre por qué el trader eh cuantitativo 
+puede ser rentable y el trader algorítmico no es  
+rentable. No existe ningún fondo ni gestora eh 
+a nivel h mundial que tenga perfiles de traders  
+algorítmicos. Todos los perfiles eh profesionales 
+son traders cuantitativos. El quad trader, ¿por  
+qué? Porque es el analista, no una persona que 
+simplemente ejecuta un trader algorítmico. Es una  
+persona que va a echar GPT o Cloud o Yemini y le 
+dice, "Créame un bot que cuando la media haga tal,  
+que el indicador tal y que esto haga lo otro y 
+automatiza". Eso raramente va a ser rentable.  
+El trader cuantitativo no se dedica a crear bots 
+como si fuese una granja de pollos, sino que coge,  
+analiza, identifica ineficiencia en el mercado, 
+las calcula y las explota. Y esa es la diferencia.  
+Entonces, no nos un trader cuantitativo necesita 
+herramientas como las que estáis viendo aquí en  
+Tchain, porque no vamos a automatizar una acción, 
+sino que vamos a analizar el mercado. Y una vez  
+que analicemos el mercado y encontremos un age, 
+una ventaja real, vamos a diseñar un sistema para  
+explotarla. Es decir, no creamos bot de trading, 
+diseñamos sistemas para explotar ineficiencia y  
+esa es la diferencia. Entonces, ahora cuando os 
+explique un poco más aquí cómo funciona Techain,  
+vais a entender rápidamente la diferencia entre 
+un trader algorítmico que aunque sea muy molón  
+para comentar con los colegas, pues raramente va 
+a ser eh o difícilmente va a poder ser rentable,  
+¿no? Aunque luego en el sector retail tiene 
+mucho gancho, ¿no? Trader algorítmico, cómo mola,  
+parece que es algo superfuturista, ¿no? Pues 
+realmente hace ya muchas décadas que salió y está  
+bastante en desuso. De hecho, a nivel profesional 
+no existe decir que eres trader eh algorítmico a  
+nivel profesional dentro del sector es como decir 
+que eres contable y que todavía lo vas haciendo  
+todo en una libreta. En una libreta o en un 
+papiro, ¿no? Pues sería algo parecido. Entonces,  
+es importante que entendamos esa diferenciación. 
+Una vez que tenemos esto claro, entenderéis por  
+qué todas estas secciones de indicadores, lógica, 
+acciones, gestiones de riesgo, escáneres de  
+mercado, alerta, etcétera, son necesarias. Como 
+por ejemplo, si nos vamos aquí a inteligencia  
+artificial, veréis veréis que hay herramientas 
+para orquestación, para cambios de estrategia,  
+para filtros de mercado, por regímenes de mercado, 
+etcétera, etcétera. ¿Por qué? Porque necesitamos  
+crear bots que no sean estáticos y eso básicamente 
+es un sistema. No construimos bots, sino que  
+construimos, diseñamos y construimos sistemas 
+de de trading. Esa es la diferencia. Entonces,  
+bueno, aquí tenéis un poco todas las herramientas 
+que vais a poder eh utilizar para esta función.  
+Muy importante, dicho esto, seguimos un poco hacia 
+delante y pasamos a la parte inferior. Aquí es muy  
+importante esta parte porque tenemos herramientas 
+que os van a ayudar mucho. Primero vamos a partir  
+de una herramienta analítica, que es la que 
+tenemos aquí, que es el analizador de regímenes  
+de mercado. Si os fijáis, esta es la primera 
+parte ya en la que empezamos a hacer contacto  
+con el trading cuantitativo. Es decir, no techain 
+no es solo una herramienta para construir bots,  
+que también, o sea, el que quiera entrar y 
+empezar a construir bot aquí como si estuviese  
+en una granja de pollo, lo va a poder hacer con 
+la esperanza pues de que alguno le funcione,  
+¿no? Difícilmente eso va a funcionar. Hay 
+que tener un criterio objetivo. O sea,  
+regla número uno del trading profesional y 
+rentable. No existe una estrategia que pueda  
+ser rentable y que pueda ser rentable en siempre y 
+en un mercado. Es decir, cuando alguien nos dice,  
+"Os voy a enseñar mi sistema, mi metodología, 
+eh, mi tal, mi cual, para ser rentable con el  
+que retiro 20,000 € todos los meses." Es falso. 
+Sencillamente. ¿Por qué? Porque los mercados son,  
+por definición no estacionarios, tienen diferentes 
+regímenes. ¿Qué quiere decir? que aún teniendo una  
+estrategia rentable, como vamos a ver aquí 
+ahora, aún teniendo una estrategia rentable,  
+viene un problema directo y el problema 
+es que los mercados son no estacionarios,  
+tienen diferentes regímenes. Es decir, yo 
+puedo diseñar una estrategia con un age real,  
+una ventaja real sobre el mercado, pero que esa 
+ventaja solo me funcione 30 días al año aleatorio.  
+¿Por qué? Porque el mercado cambia y mi estrategia 
+tiene un perfil. Ese perfil, ese régimen en el que  
+es rentable se da solo 30 días al año dentro del 
+mercado, por lo que los restantes 335 días voy a  
+perder. Conclusión, no voy a ser rentable. Por eso 
+yo os lo digo sinceramente sin sin ánimo de nada.  
+Es la realidad. No conozco a nadie en más de 15 
+años de profesión que sea rentable utilizando una  
+estrategia. Tal cosa no existe por algún misterio 
+de la vida en las redes sociales es lo que se  
+comenta, ¿no? Yo con esta estrategia gano tal, 
+con mi metodología completa que te la enseño. En  
+las redes sociales parece ser que eso es posible. 
+En la vida real y en el sector profesional eso no  
+es posible. Imaginaros, por ejemplo, una empresa 
+eh, un verse Haway, un JP Morgan. Si existiese  
+la posibilidad real de que con una metodología se 
+pudiese ser rentable, estas empresas con los miles  
+y miles de empleados, de analistas que tienen, ¿no 
+creéis que les sería mucho más sencillo utilizar  
+una única metodología, enseñársela a los nuevos 
+analistas y ser mucho más sencillo? Pues estas  
+empresas tienen cientos y miles de metodologías 
+y de sistemas porque con una solo es imposible  
+obtener rentabilidad. misteriosamente en las 
+redes sociales parece ser que eso es posible.  
+En la vida real y en el sector profesional yo no 
+lo he visto nunca. Entonces es importante. ¿Y cómo  
+funciona esto? Pues aquí tenéis el primer choque 
+de realidad del trading cuantitativo. Yo entro  
+aquí en el analizador de regímenes de mercado 
+y tengo Forex, criptomonedas, índice, metales,  
+materias primas, energía, acciones, etcétera. 
+Por ejemplo, me voy a quedar aquí en eh Forex.  
+Yo puedo aquí subir eh selecciono el eurodólar, 
+puedo subir mis datos de mi CSV. Pues bueno,  
+pues yo me he descargado eh un CSV de los últimos 
+5 años del eurodólar, pues lo subo aquí y lo  
+analizo. No obstante, desde Techain, pues ya vamos 
+alimentando toda esta base de datos y directamente  
+veis que sale consultar informes. ¿Por qué? Porque 
+vais a poder ya acceder a histórico, aunque no os  
+hayáis descargado nada. Y esta es la primera 
+parte diferenciadora entre un trader manual y  
+algorítmico y un trader cuantitativo. Es decir, 
+la diferencia entre el sector retail que se pega  
+y lucha por intentar conseguir una rentabilidad 
+y si la consigue, lucha con uñas y dientes para  
+intentar mantenerla, pero no va a poder. Y un 
+trader cuantitativo que una vez que la consigue  
+eh la puede mantener de forma consistente. Si yo 
+me voy aquí a evolución de mercado, aquí vais a  
+ver un montón de franjas verticales de colores. 
+¿Qué son estas franjas verticales de colores?  
+Pues bien, si miráis en la parte inferior, en la 
+leyenda, veréis que son los diferentes regímenes  
+del mercado. Tendencia alcista, bajista, rango o 
+reversión, ruptura o expansión, alta volatilidad,  
+baja volatilidad, momentum, etcétera. Incluso 
+hay momentos del mercado caótico, errático,  
+en los que ninguna estrategia funciona y son en 
+los que no tienen ningún tipo de eh de coloración  
+determinada que continúe. ¿Qué quiere decir? 
+Pues muy sencillo, esto es el eurodólar completo  
+eh los últimos casi dos años. Ya veis que se 
+dan diferentes eh regímenes de mercado, o sea,  
+lo estáis viendo visualmente por los colores, 
+pero igualmente mirando la gráfica, pues aquí  
+hay un movimiento alcista, aquí hay un rango, aquí 
+hay una corrección, aquí el precio sube, aquí otra  
+vez vuelve eh a entrar en rango reversión. Fijaros 
+que aquí hay un rango reversión y la leyenda pone  
+rango reversión. Aquí hay una tendencia alcista 
+y fijaros previamente aquí viene un momentum y  
+luego posteriormente si muevo un poquito hacia 
+la derecha, fijaros que viene tendencia alcista  
+porque siempre antes de una tendencia eh de una 
+direccionalidad potente se genera un momento de eh  
+de gran momento, de gran interés sobre el mercado. 
+Entonces, para que veáis que estos regímenes están  
+precisamente calculados de fórmula de forma 
+matemática y totalmente objetiva, tal como se  
+dicta académicamente, aportando la experiencia 
+y el experti profesional que eh yo como analista  
+profesional aporto aquí a la herramienta para que 
+vosotros sin tener mi experiencia y mi expertiz  
+pues podáis acceder a este análisis tal cual 
+como lo haría yo aquí rápidamente Estáis viendo  
+la realidad de los mercados financieros y por qué 
+posiblemente no seáis rentable o conozcáis gente  
+que no sea rentable. Porque si yo tengo un bot 
+para operar tendencias alcistas, ya vemos que,  
+por ejemplo, pues en algún momento va a funcionar 
+como aquí, pero hay muchos otros momentos de  
+diferentes color, de diferentes eh regímenes de 
+mercado en los que ese bot no va a funcionar.  
+Entonces, si yo pongo un bot, por ejemplo, eh, 
+fijaros por aquí, de baja volatilidad toda esta  
+zona, pues si yo pongo un bot por aquí de baja 
+volatilidad, me va a ir bien, pero en cuanto  
+que venga un giro, pues voy a tener un problema. 
+Entonces, al final, como veis, el mercado es por  
+definición no estacionario. Simplemente a simple 
+vista, ya mirando la gráfica se ve. No obstante,  
+aquí lo tenéis de forma analítica, diseccionando 
+los diferentes regímenes de mercado. ¿Qué quiere  
+decir? No existe ni existirá nunca una estrategia 
+de trading o un bot que pueda ser rentable  
+siempre. Por eso el sector retail ampliamente 
+desprofesionalizado, por desgracia para muchos,  
+pues tiene ese problema, ¿no? En él te enseño 
+mi metodología con este sistema que he diseñado  
+yo paso a paso. He retirado 20,000 € este mes. 
+Te enseño cómo hacerlo. Cualquier persona que  
+vea este vídeo, que se forme un poco, que mire 
+un poco y entienda cómo funciona el trading,  
+rápidamente va a entender que todo eso no es 
+real, que son estafas y engaños. ¿Por qué?  
+Porque el mercado, por definición, es no 
+estacionario, por lo tanto, nunca va a existir,  
+ni es posible ni existido, ni existe ni existirá 
+una estrategia o un bot que pueda ser rentable y  
+que permita retirar dinero todos los meses. Por 
+eso cuando alguien en el canal pues me pregunta,  
+¿qué rentabilidad mensual da este voz? Rápidamente 
+entiendo que esa persona es nueva, que lleva  
+poco tiempo en el trading, porque si no, de lo 
+contrario no preguntaría la rentabilidad mensual,  
+porque como vemos aquí por fecha, fijaros, 
+eh empezamos en agosto, alta volatilidad,  
+antes ya para mediado de agosto pasamos ya a rango 
+y al final volvemos a alta volatilidad de nuevo.  
+O sea, en el mismo mes hay diferentes regímenes 
+de mercado. Entonces, un bot, una estrategia no  
+te puede dar una rentabilidad mensual porque 
+dentro del mismo mes puede o no funcionar y  
+el mes siguiente puede o no funcionar. Entonces, 
+cuando alguien os diga que tiene una estrategia,  
+un bot que da una rentabilidad mensual, que lleva 
+20 años viviendo el trading, que tal que cual, no  
+os lo creáis, siempre analizar todo, eh, aprender 
+a pensar, a entender las reglas del mercado y aquí  
+rápidamente veis cómo funciona. Entonces, con esta 
+herramienta ya veis que nos alejamos del trading  
+manual y del trading algorítmico y entramos de 
+lleno en el trading cuantitativo. Mucha gente  
+pregunta, ¿cuál es la diferencia entre Techain 
+y la herramienta X o la herramienta Z? Pues  
+muy sencillo, herramienta X o Z seguramente son 
+para crear bot de trading, trading algorítmico,  
+eh crear mucho y que alguno funcione durante un 
+momento y luego otro momento dejará de funcionar  
+y si bueno, si deja de funcionar no sabemos 
+qué es lo que operaba ni qué es lo que hacía.  
+sigo generando y sigo sacando y que alguno pues 
+bueno, en continuamente intento mantener aquí  
+el barco a flote como puedo, achicando agua, 
+¿no? Pues eso no es lo correcto. Lo correcto  
+es hacer esto, analizar bien el mercado y 
+una vez que tenemos el mercado analizado,  
+podemos ver la composición del mismo. Y aquí 
+vemos los diferentes regímenes que tenemos y  
+vemos rápidamente cuáles son los que más se suelen 
+dar en este mercado y cuáles los que menos. Por  
+ejemplo, tenemos que el rango o reversión se 
+da un 23.8% de las veces aquí en el Bitcoin,  
+por lo que sé que uno de los bots que de trading 
+que tendré dentro del Bitcoin va a ser el de rango  
+reversión a la media. Por ejemplo, uno que no me 
+interesaría sería uno de momentum. ¿Qué pasa si yo  
+me pongo a a comprar voz de internet, a crear 
+voz con CHGPT, Cloud Gemini, a descargar bot,  
+etcétera? No sé qué perfiles tienen esos bots, 
+no sé realmente qué es lo que operan y cuando  
+me voy a un mercado y lo he hecho y quiero o 
+pretendo que sea rentable y no lo es, me frustro.  
+No lo entiendo. Digo que el bot no funciona, que 
+es una estafa y realmente lo que está pasando es  
+que a lo mejor el bot funciona, pero que estoy 
+echando un bot de tendencia alcista en un ciclo de  
+tendencia bajista o estoy echando un bot de rango 
+o reversión en un momento de alta volatilidad y no  
+va a funcionar. Entonces, importante, no se trata 
+de crear bots, sino se trata de crear sistemas,  
+un sistema para operar rango o reversión. No es un 
+bot para el eurodólar. Hay gente que me pregunta,  
+¿tienes algún botar el eurodólar en scalping? Tal 
+cosa no existe. Puedes generar un sistema para  
+operar reversión y que ese sistema se pueda 
+aplicar en el eurodólar en un minuto cuando  
+el eurodólar en un minuto esté en el régimen de 
+rango o reversión. Pero ese algoritmo opera rango  
+reversión y sirve para cualquier mercado que esté 
+en el estado o en el régimen de rango o reversión  
+y no va a servir ni para ningún otro mercado 
+ni para ningún otro tipo de régimen. Por eso  
+dentro de testha, dentro de los filtros, lógicas, 
+indicadores, hay nodo específico para parar los  
+bots cuando la estrategia se degrada o cuando se 
+detecta que el régimen cambia. Y yo puedo hacer  
+un bot, por ejemplo, con los siete regímenes 
+de mercado y que en función del régimen actual  
+esa sea la estrategia que se ejecute. Y cuando el 
+mercado cambia de régimen, esa estrategia se deja  
+de ejecutar y se empieza a ejecutar la otra. Y 
+de esa forma yo me salgo del trading algorítmico,  
+entro en el trading cuantitativo, o sea, ya no 
+automatizo lógica, sino que analizo el mercado y  
+sobre los resultados. eh detecto una ineficiencia 
+y esa es la que exploto y esa es la diferencia  
+entre el trading algorítmico y el trading 
+cuantitativo. Trading algorítmico, automatizo  
+cosas con chat GPT, con Cloud, con Gemini, con 
+voz que me dan, lo llevo al mercado que me parezca  
+y rezo para intentar que eso sea rentable o 
+cojo y analizo el mercado y diseño sistemas  
+específicos para ese mercado. Por eso tenéis 
+esta herramienta. Si seguimos hacia adelante,  
+fijaros, por ejemplo, que aquí ahora nos dice 
+que el régimen actual es de ruptura o expansión,  
+por lo que yo sé que aquí ahora en el euroólar el 
+bot, el sistema que debo ejecutar, que debo estar  
+ejecutando es de ruptura o expansión. Otro bot 
+puede ser que vaya bien o puede ser que vaya mal,  
+pero desde luego no es el óptimo. Hay bots que por 
+su estructura son bastante versátiles y en un en  
+su régimen van bien. Hay un par de régimen en el 
+que van regular y en el resto pierden todo. No  
+quiere decir que un bot en un régimen específico 
+luego no funcione para nada nunca en los otros,  
+sino que va a terminar perdiendo porque va a 
+terminar rompiendo, perdiendo su su ventaja,  
+su age real. Entonces, aquí nos está diciendo 
+que el régimen actual es de ruptura o expansión,  
+que con el histórico que le hemos pasado lleva 
+26 barras ejecutándose, que lleva un índice de  
+fatiga de 0.94 94 y que la probabilidad de cambio 
+es de 66.7. Es más, me está diciendo que se prevé  
+que en dos barras aproximadamente de 2 horas se 
+pueda dar ese cambio. ¿Por qué? Porque ya tenemos  
+todas las transiciones hechas aquí, sabemos cuánto 
+suelen durar y estadísticamente ya lo calculamos.  
+Entonces, podemos obtener ese pronóstico. Y 
+me está diciendo que el siguiente régimen más  
+probable va a ser tendencia alcista. seguido de 
+rango o reversión. Por lo que yo ya sé que el  
+siguiente bot que yo tengo que tener diseñado aquí 
+en el eurodólar parado, preparado para activarse  
+es tendencia alcista. Por lo que yo sé que 
+ahora tengo que tener un bot que opere ruptura o  
+expansiones. Por ejemplo, tenéis indicadores como 
+entropía de Shan, etcétera, para validar rupturas  
+de forma matemática y profesional. Y seguidamente, 
+cuando esta estrategia se degrade o directamente  
+el bot detecte que se ha cambiado de régimen y 
+ya estamos en tendencia alcista, detiene esta  
+estrategia y activa la estrategia de tendencia 
+alcista. Entonces, es importante eh, como veis,  
+no entrar a crear bots como si estuviésemos en una 
+granja de pollo, sino diseñar con criterio lo que  
+estamos haciendo aquí. Ahora, si yo me vengo aquí, 
+aquí me salen los diferentes regímenes y me dice  
+cuando se da uno, ¿con qué probabilidad es con 
+el que se da el siguiente. Por ejemplo, si yo me  
+vengo a rango o reversión, pues ya vemos que lo 
+siguiente que se puede dar con probabilidad que  
+se ha dado las siguientes veces, pues ya me sale 
+que qué probabilidad. Por ejemplo, de tendencia  
+alcista me dice que el más probable con un 37.9% 
+9% suele ser luego el de rango con un 36,4 el de  
+el de volatilidad, un tres el de ruptura, un tres 
+el de tendencia, un tres el de momentum. O sea,  
+aquí veo un poco un mapa de calor de en función 
+del régimen que que haya, cuál es el que con mayor  
+probabilidad se puede dar luego y veo cuáles no. 
+Entonces, pues yo ya me puedo eh gestionar en los  
+bots que vaya a soltar en el eurodólar. Por eso 
+es importante poder decir qué es lo que queremos  
+crear. Entonces, si yo ahora aquí tuviese 
+un bot puesto en el Canva y me viniese aquí,  
+me diría el bot que yo tengo aquí diseñado, 
+¿cómo de compatible es con el régimen actual?  
+Y de esa forma pues lo puedo ir gestionando, 
+cambiando indicadores, parámetros, etcétera,  
+para hacerlo más compatible con el régimen 
+actual o con el mercado o cómo de polivalente  
+es con este mercado en función de cómo eh 
+evoluciona, cómo ha evolucionado, ¿no? Entonces,  
+esto es superimportante. Por eso cuando la gente 
+dice, "¿Qué diferencia hay entre TCH Chachain y  
+la herramienta X?" Muy sencillo, Testin es una 
+herramienta profesional, no es una herramienta  
+retail. Una herramienta retail simplemente pues es 
+para cualquier persona que quiera construir bot y  
+echar un rato creando bot, poniendo los mercados, 
+probando, haciendo pruebas, le gusta el cacharreo,  
+a mí también me gusta y pues te entretienes ahí 
+un poco. Techain es una herramienta profesional,  
+una herramienta que va a analizar el mercado 
+y vas a construir tú lo que necesitas. vas a  
+venir a tu caja de herramientas, vas a [ __ ] 
+las herramientas y el material necesario para  
+construir en tu taller, en tu canva, lo que tú 
+necesitas para operar lo que tú quieres. Entonces,  
+no nos sirve generar bots como si esto fuese 
+una granja de pollo, sino que necesitamos ser  
+especialistas. Necesito una cosa en concreto. 
+Tú vas a comer a un restaurante y cuando te  
+sientas en la mesa te traen una carta y tú pides 
+lo que tú quieres con lo que a ti te gusta, con tu  
+presupuesto, etcétera. No te sientas y dices, 
+"Tráeme lo que quieras." No eres específico.  
+Pues esto es chain. Entonces, al final no se 
+trata de construir bots, sino que se trata de  
+ser profesional, saber qué necesitamos y actuar en 
+consecuencia. Dicho esto, ya veis la primera parte  
+de aquí abajo. Pasamos a la siguiente fase, que es 
+el BASTECH Runner o motor de back testing local.  
+Por ejemplo, yo ahora me podría venir aquí sacar 
+un bot de la biblioteca. Ya sabéis que tenéis la  
+biblioteca de bots con un montón de bots. Por 
+ejemplo, pues cargo este, le doy a importar,  
+me dice qué tal, lo acepto, lo cargo, lo voy 
+a organizar por aquí y ya tengo un bot aquí  
+cargado. ¿Por qué hay una biblioteca de bot? ¿Por 
+qué hay herramientas para generar bot? Pues os lo  
+voy a explicar ahora y vais a entender el proceso 
+rápido. Una vez que yo tengo ya un bot cargado,  
+ya se me activa el botón de motor de back testing 
+local. Aquí simplemente pues yo ahora cogería,  
+cargaría un CSV, el el que quiera y haría un back 
+testing. Por ejemplo, yo ahora cojo cargo el CSV  
+de Bitcoin que tengo por aquí, lo cojo, lo cargo y 
+se va a procesar, me lo va a convertir los datos y  
+yo podría ejecutar aquí un back testing, un back 
+testing pues donde voy a ver cómo va mi bot, cómo  
+no va, qué parámetros quiero utilizar. Importante, 
+este motor de back testing es 100% objetivo. ¿Qué  
+quiere decir esto? Pues muy sencillo, que vamos 
+a poder dentro del el CSV que hayamos puesto,  
+¿cuánto periodo queremos [ __ ] Vamos a poder 
+simular la cuenta, el apalancamiento, los costes  
+de trading. Importante, super importante para no 
+hacer un back testing con muy buenos resultados,  
+que cuando lleguemos a la realidad pues no nos dé 
+esos buenos resultados. Entonces, hay que simular  
+lo mejor posible la realidad que vamos a tener en 
+el broker, ¿no? Luego le daríamos a ejecutar y se  
+ejecutaría eh el back test. Yo le doy aquí ahora 
+simplemente a ejecutar y aquí empieza el basil.  
+va a tardar un ratito en función del bot, lo 
+grande, eh, o pequeño que sea, pues tarda un rato.  
+Aquí se va a ir ejecutando. Yo lo voy a cerrar y, 
+por ejemplo, os voy a construir un bot por aquí  
+mucho más rápido para que veáis cómo funciona. 
+Voy a [ __ ] fijaros el nodo fusionado que tenía.  
+Voy a [ __ ] compra a mercado, por ejemplo, compra 
+a mercado. Le doy compra y saco también el de  
+venta porque voy a hacer las compras y las ventas. 
+La señal de compra la conecto en la de compra,  
+la de venta la conecto en la señal de venta. 
+Organizo, contraigo los nodos y me voy de nuevo  
+aquí al backest. Fijaros, voy a hacerlo aquí con 
+un bon muy sencillo para que se haga aquí rápido,  
+porque si no esto se puede demorar. 5 minutos, 10, 
+15, en función de cómo de amplio sea el periodo  
+del CSV que queremos analizar y en función de cómo 
+de complejo sea el bot también. Entonces, voy a  
+hacer aquí uno sencillo de medias móviles para 
+que lo veáis. Le voy a dar a ejecutar back test  
+y fijaros que aquí va el back test. Yo puedo ir 
+viendo aquí abajo todas las operaciones que se van  
+haciendo con fecha, hora, lotaje y el resultado. 
+Vemos que un bot de medias móviles, pues un bot de  
+medias móviles normal y corriente estadísticamente 
+no tiene ventaja, por lo que va a terminar  
+perdiendo. Pero bueno, aquí veis un poco cómo 
+funciona el back test para que lo vayáis viendo  
+aquí en tiempo real. No lo voy a dejar terminar 
+porque va a tardar unos 3 4 minutos y bueno, es  
+simplemente para que veáis cómo funciona. Lo cojo, 
+lo cierro y continúo por aquí. Si yo ahora tuviese  
+dudas sobre si mi bot está bien, está mal, lo voy 
+a poder mejorar o no, qué puntos fuertes tiene,  
+qué puntos débiles le podría dar al analizador de 
+estrategias con IA. Aquí ya entra la inteligencia  
+artificial y nos dice que va a realizar una 
+revisión de estructura y conexiones, detección de  
+errores lógicos, identificación de oportunidades 
+de mejora y recomendaciones personalizadas.  
+Le doy a ejecutar y comienza el análisis del 
+proyecto. Como es un bot muy sencillito, pues  
+tarda relativamente poco. Una vez que termina, me 
+va a dar ese feedback necesario para yo saber cómo  
+puedo mejorar este bot. seguramente me va a dar 
+pues bastantes recomendaciones de oportunidades  
+de mejora, ¿no? Porque no tengo mucha gestión de 
+riesgo, no tengo filtros de ningún tipo. Entonces,  
+pues bueno, me va a dar seguramente bastantes 
+recomendaciones que en este caso no las vamos  
+a aplicar porque es un bot de media móvil simple 
+sobre el que no merece la pena dedicarle mucho  
+tiempo, pero es para que veáis cómo funciona 
+la herramienta. Esto es muy útil para cuando  
+vosotros estáis en un punto estancados, 
+¿qué hago con este bot? o hay un fallo,  
+no sé por qué no me abre operaciones, pues a lo 
+mejor sea tenga un criterio muy restrictivo y no  
+se dan todas las condiciones que le pedí o no sé 
+si la gestión es la correcta para esta estrategia  
+o para esta estrategia puede haber alguna mejor, 
+pues con esta herramienta vais a poder detectar  
+todo eso y mejorar el bot. Es decir, es como 
+vuestro tutor que revisa vuestro trabajo y os da  
+las soluciones pues para mejorarlo. Aquí vemos que 
+termina y nos da una puntuación de 38 sobre 100.  
+Evidentemente es un bot bastante eh mediocre. Aquí 
+tenemos el informe completo. Nos dice el perfil  
+del bot. Evidentemente nos dice que es un trend 
+following, es decir, eh un seguidor de tendencia.  
+Ahora lo vamos a ver también en el perfil del 
+bot. El régimen del mercado para que funcione  
+este bot es tendencia direccional. La temporalidad 
+sugerida pues no especificado en y suelen ser  
+funcionales entre M15 en 15 minutos a una hora. 
+Los instrumentos más adecuados pues ya nos dice  
+por ejemplo Forex, etcétera. ¿Vale? complejidad 
+baja. Evidentemente vemos que es muy sencillito.  
+Las métricas de riesgo. Eh, nos dice ya que 
+tenemos riesgo por operación porque no calculamos  
+pues ni el riesgo de lotaje ni nada, ¿no? Acciones 
+prioritarias nos da una serie de recomendaciones,  
+las fortalezas del bot y los problemas detectados. 
+pues vemos que los problemas son bastante amplios,  
+es un bot bastante eh sencillito. Y aquí 
+las recomendaciones pues para mejorarlo. Yo  
+aquí le puedo dar a descargar PDF y descargo el 
+informe, pues por si me lo quiero, por ejemplo,  
+pues guardar. Voy a abrirlo para que lo veáis 
+y aquí tendría el informe generado en el PDF,  
+que es el informe completo de de mi estrategia. 
+pues por si yo lo quiero guardar y tenerlo para  
+consultar o para ir trabajando sobre él, pues aquí 
+lo tengo. Yo ahora con esto ya podría [ __ ] ir  
+trabajando sobre el bot. Cierro el informe y 
+como tengo el PDF, pues sobre él ya puedo ir  
+trabajando y me pongo ahora a mejorar eh mi bot. O 
+sea, como veis, no se trata de construir eh bots,  
+sino de construir sistema eficiente. Si sigo hacia 
+delante, pues bueno, aquí tenemos simplemente la  
+herramienta de flujo. Esta herramienta básicamente 
+lo que hace es detectar todos los flujos que haya  
+en el bot y nos lo marca. Por ejemplo, aquí 
+tenemos el flujo del BU y el flujo del set,  
+que tendríamos por arriba en azul y por debajo 
+en rojo. Si tenemos un bot complejo con mucho  
+flujo y quiero modificar el flujo del buy y hay 
+muchos nodos y no me entero, pues le doy aquí y  
+directamente pues ya veo todo lo azul que llegue 
+al by, pues ya sé que si modifico algo en el flujo  
+azul voy a modificar el buy y si modifico algo en 
+el flujo rojo, pues voy a modificar el sell. Aquí  
+también tengo la herramienta de diseño, digamos, 
+eh, sencillo, ¿no?, para que vosotros pues podáis  
+trabajar. En este caso, el bot que tengo en nivel 
+cer y nivel un no tiene más niveles, por lo que es  
+un bot muy sencillito. Quito esto. Aquí tenemos 
+diferentes modos de organización. En este caso  
+está por jerárquico. Si yo le pusiese por flujo, 
+pues me lo haría por flujo. Arriba el del by,  
+abajo el del sell. Es un bot muy sencillito, 
+entonces no hay mayor problema. Si le doy por  
+grupo, pues me lo pone lo el canos que tenga en 
+el Canva local, los nodos de ejecución. Fijaros,  
+por ejemplo, que si yo aquí ahora le doy a 
+atomizar y le vuelvo a dar a reorganizar,  
+aquí me dice que tengo el flujo de análisis de 
+mercado. Los nodos que están aquí dentro son los  
+que analizan el mercado. Aquí tengo los nodos de 
+lógica de decisión, o sea, estos son los nodos que  
+están tomando las decisiones de la estrategia. 
+Y aquí tengo los nodos de ejecución. Entonces,  
+yo lo puedo organizar así, lo puedo organizar por 
+flujo arriba lo de el buy, abajo lo del sell o lo  
+puedo organizar simplemente por orden jerárquico. 
+Aquí en función del bot que estéis haciendo,  
+pues os irá mejor una forma u otra para entender 
+vuestro proyecto. Entonces, aquí un poco pues  
+como vosotros queráis. Dicho esto, seguimos hacia 
+adelante. Aquí tenemos el botón de eliminar. Si  
+yo le doy aquí, elimino el proyecto del Canva. 
+cojo, le doy, elimino. ¿Cómo trabajar con los  
+nodos? Pues por ejemplo, cuando sacáis un nodo, 
+veis aquí arriba que tiene un botón de duplicar.  
+Si yo le doy aquí, lo duplico. Igualmente voy 
+a contraerlo. Si yo selecciono el nodo y hago  
+control C, control V, puedo crear tantas copias 
+como quiera. Si yo no quiero todas estas copias,  
+las selecciono, le doy a suprimir y lo elimino. 
+Igualmente puedo eliminar nodo individualmente.  
+También puedo [ __ ] seleccionar y tener selección 
+múltiple dentro del canva. Con botón derecho,  
+yo puedo [ __ ] haciendo clic sin soltar y mover 
+el canva. No estoy moviendo los nodos, lo que  
+estoy moviendo es el cana. Los nodos los estaría 
+moviendo cuando selecciono los nodos. Entonces,  
+dicho esto, para que veáis la diferencia, voy 
+a seleccionar este nodo. Fijaros cómo solo se  
+mueve el nodo. Y si yo muevo aquí, muevo todo el 
+cana. Entonces, esta sería otra funcionalidad.  
+Aquí tendríamos la barra de abajo, la barra de 
+la esta es una barra muy importante y aquí viene  
+uno de los puntos fuertes de Tchain. Por ejemplo, 
+aquí tenemos el chat IA. ¿Qué hace este chat? Pues  
+bien, aquí tenemos la función de Power IA, que 
+la se explica al detalle en un vídeo de YouTube,  
+que básicamente tenemos un bot de inteligencia 
+artificial que podemos arrastrar sobre el mercado,  
+que es este de aquí, el de generación de 
+estrategia. Ya veis que es un nodo que no  
+tiene ninguna conexión. Yo ahora genero el bot, le 
+doy a construir, por ejemplo, para Metatrader 5,  
+construiría, descargaría y ya tendría este bot 
+hecho. Este bot yo lo llevo ahora Metatrader 5,  
+lo he hecho sobre el mercado, va a analizar el 
+mercado, va a ver cuál es el régimen actual,  
+va a diseñar una estrategia para ese régimen 
+actual y me va a generar un archivo. Yo ese  
+archivo ahora me vendría aquí en el chat, le doy 
+a modo powería, arrastro el archivo aquí encima y  
+le doy a construir y me va a construir aquí en el 
+cana la estrategia completa sin que yo tenga que  
+hacer nada. Es decir, ya habéis visto que podemos 
+ver los diferentes regímenes de mercado, pues esto  
+es una forma de generar un bot ahora mismo para 
+ese régimen sin que yo tenga que ponerme aquí  
+a pensar ni nada. deleg la IA, suelto el bot 
+encima del mercado, analiza el régimen actual,  
+me genera una estrategia ya con todos los nodos, 
+lógica, acciones, indicadores en un archivo,  
+lo traigo aquí, lo arrastro y le doy a construir 
+y me lo construye aquí en el Canva. Esa sería la  
+función de Power IA. También tengo la función 
+de ingeniero. Aquí simplemente pues es si yo  
+ya tengo una idea o algo que quiero construir 
+o hay una estrategia, un sistema que me guste,  
+pues aquí simplemente le contaría qué es lo 
+que quiero hacer. Pues mira, quiero que me  
+diseñes una estrategia que se base en esto, que 
+opere esto para este mercado con esta lógica,  
+estos indicadores, le doy a enviar y me la va 
+a diseñar completamente con todos los flujos,  
+todos los nodos, la configuración de los 
+indicadores y todo. Y luego si yo quiero  
+la cojo y la construyo en el canva. Siguiendo 
+las instrucciones, puedo descargar el PDF para  
+tenerlo a mano, porque a lo mejor pues no lo 
+quiero construir ahora, no tengo tiempo y lo  
+quiero construir más tarde. Le doy simplemente 
+a descargar PDF y ya lo construiré cuando tenga  
+tiempo. O también le puedo dar a constrúyelo, 
+se activaría este botón de aquí y directamente  
+nos lo construye sin ningún tipo de coste ya aquí 
+en el canal. También tengo el asistente. ¿Qué es  
+el asistente? Pues aquí simplemente un asistente 
+para preguntarle dudas que tengamos, por ejemplo,  
+¿qué es un RSI? Y le doy a enviar. ¿Tengo alguna 
+duda? No sé algún nodo, ¿cómo funciona? ¿Tengo  
+alguna duda con alguna configuración? Ando un poco 
+perdido con algo dentro de la plataforma, o sea,  
+consultas generales. Le pongo por aquí y pues 
+por aquí me contestaría. Este sería el chat IA,  
+es decir, un chat que nosotros recurrimos a él, 
+a la inteligencia artificial cuando necesitemos  
+ayuda o soporte. También tenemos una ayuda o 
+soporte proactivo, es decir, no espera a que  
+nosotros tengamos un fallo y vayamos a él, 
+sino que nos va monitorizando y nos ayuda.  
+Es como nuestro compañero de trading, que es el 
+copilot y ya lo tenemos aquí arriba. Simplemente  
+activamos copilot y ya vemos que el copilot se 
+activa. Una vez que tenemos el copilot activo,  
+nos sale aquí abajo un nuevo icono. Yo ahora 
+aquí me está diciendo ya que si necesito ayuda  
+con algo, que llevo un rato aquí sin avanzar, 
+pues evidentemente no estoy haciendo nada,  
+está viendo que no hago nada y me dice que sí 
+me puede ayudar. Le digo, pues estoy pensando.  
+Le doy estoy pensando y que me deje tranquilo. O 
+le digo, pues sí, mira, estoy perdido. Sugiéreme  
+algo. Me sale este chat. Este chat yo lo puedo 
+hacer aquí. en grande. Entonces le digo, "¿Qué me  
+sugiere eh hacer ahora aquí con mi bot? ¿Qué es 
+lo que puedo hacer aquí? Va a analizar el cana,  
+va a mirar todo lo que tenga yo en el cana 
+y me va me va a ayudar a construir un bot.  
+Si eh por ejemplo aquí me dice crea un bot 
+desde cero con el wizard con bot legendario,  
+exporto un bot desde la biblioteca o retomar el 
+proyecto anterior con el que estaba trabajando y  
+desde aquí ya puedo empezar con él o yo le puedo 
+decir pues mira lo que quiero hacer es este bot  
+o quiero conseguir esto y él me va a ir ayudando. 
+Es decir, es un asistente proactivo. Imaginaros,  
+por ejemplo, yo voy a sacar aquí un nodo de 
+medias móviles. Saco el nodo de medias móviles,  
+lo pongo aquí en pantalla y fijaros, yo ahora 
+cojo y me y ya me está hablando él por aquí. Si  
+yo desactivo copyo, esto se quita. Es decir, todos 
+estos mensajitos que veo por aquí son de Copilo.  
+Si yo ahora aquí, por ejemplo, me dice siguiente, 
+¿qué tengo que hacer aquí? Y me dice, añado una  
+condición para evaluar el indicador. Entonces, 
+aquí ya me está diciendo qué hacer. Le doy clic  
+y ya me añade una condición. Después de este 
+nodo me dice que tengo que añadir una una acción  
+de compra o venta. Le doy y ya me dice qué quiero 
+añadir una compra, una venta o ambos. Pues le doy,  
+por ejemplo, a compra. Y fijaros qué sencillo. 
+Ya tengo aquí el primer flujo eh creado creado.  
+También me dice que ahora puedo añadir el cálculo 
+de lotaje. Si yo quisiera, pues lo añadiría,  
+pero voy a borrar estos nodos. Me voy a venir aquí 
+y fijaros esta parte de aquí. Aquí arriba hay un  
+carterito que si yo le doy puedo [ __ ] y obtener 
+información. Por ejemplo, me está diciendo,  
+si yo le doy aquí me dice tres opciones, qué 
+sigue, conectar o explicar. Y la opción de top,  
+pero esta la veremos ahora al detalle. Explicar. 
+Pues por ejemplo, le doy explícame. ¿Y qué es  
+este nodo? Porque no sé qué es este nodo. Quiero 
+saberlo rápido aquí ahora. Pues aquí me dice de  
+qué va este nodo. Es un nodo de media móvil que 
+suaviza los periodos del precio y me explica un  
+poco de qué va el nodo. Si quisiera conectarlo, 
+pues le daría aquí y me saca las conexiones. En  
+estas conexiones yo tengo unos puntos, eh, un 
+plus, el símbolo de más. Si yo le doy aquí,  
+me salen las conexiones compatibles con esto y las 
+tengo aquí. Es decir, yo podría añadir desde aquí,  
+ya veis que no están todas. por ejemplo, de 
+inteligencia artificial, me sale solo una y  
+ya habéis visto que hay bastante más. Si yo vengo 
+aquí, ya veis que hay bastante más. O sea, me está  
+diciendo cuáles son las que aquí ahora se podrían 
+añadir. No todas las que hay, sino de las que yo  
+podría añadir aquí ahora que fuesen relevantes 
+para esto. No obstante, eh, le podría dar aquí a  
+qué sigue y la IA me va a decir, pues el siguiente 
+paso es conectar la salida del movie na del media  
+móvil a un nodo de, por ejemplo, comparación o 
+condición. Pues bueno, ya veo un poco qué va.  
+No obstante, yo puedo decir, bueno, pues ando un 
+poco perdido, ¿qué es lo que se suele conectar  
+aquí? Es decir, en los proyectos exitosos que han 
+hecho en la plataforma otros usuarios, ¿qué es lo  
+que se suele colocar aquí? Pues tengo la opción 
+de top. Le doy aquí y me sale que lo siguiente  
+que suelen colocar en un 37% es un cruce alcista. 
+El nodo de cruce bajista se eh se suele poner un  
+30% y el nodo de comparación un 28% de las veces. 
+Pues ya sé que estos tres nodos son los que más se  
+suelen utilizar para conectar a continuación. Es 
+una forma en la que vosotros podéis empezar y sin  
+tener mucho conocimiento en la plataforma, pues 
+ir avanzando. Igualmente tenéis siempre a Copilot  
+aquí activo para ir hablando con él. Le puedo 
+decir que analice mi bot. Le puedo decir, tenéis  
+muchas funciones por aquí arriba, que analice 
+el bot, que me diga qué es lo que le faltaría  
+a continuación, si tengo errores, que corrija los 
+errores. Es totalmente eh autosuficiente. O sea,  
+cualquier cosa que necesites, si tuviese errores 
+aquí en el proyecto, nodo sin conectar, que no  
+sé dónde conectarlo, no sé cómo seguir porque me 
+he estancado, el propio copilot me saca de todas  
+estas situaciones. Lo voy a desactivar mientras 
+que esté activo. pues estaría ayudándonos. Si  
+lo desactivo, ya se silencia y no me dice nada 
+más. Entonces, esta parte sería en la parte en  
+la que nosotros queremos crear bots, pero también 
+tenemos la parte en la que, por ejemplo, queremos  
+que la IA nos ayude a crear bots. Es decir, estoy 
+en una fase en la que quiero crear un portfolio,  
+necesito un número importante de bots, pues 
+para poder hacer prueba y descartar los que no  
+funcione y quedarme con los que sí funcione. Pues 
+bien, tengo dos opciones, básicamente. creador de  
+Wizard, que si le doy aquí con tres preguntas, por 
+ejemplo, ¿qué tipo de trading quiere? Scalping,  
+day trading o swing trading? Le voy a dar, 
+por ejemplo, a scalping, tipo de riesgo: bajo,  
+moderado o alto. Le voy a dar moderado. ¿Qué 
+familias de indicadores quiero utilizar? Pues,  
+por ejemplo, eh le voy a dar a osciladores y le 
+doy a diseñar bot. Automáticamente con lo que yo  
+le he dicho, me va a diseñar un bot. Cada vez que 
+yo lo utilice me puede generar un bot diferente  
+porque dentro de cada familia de indicadores hay 
+muchos indicadores, entonces me puede generar un  
+bot diferente. De esta forma yo rápidamente puedo 
+ir generando bots. En un día puedo generar 20, 30,  
+100, 200 bots, lo que cada uno quiera. De forma 
+que cuando empecemos el proceso, el pipeline de  
+trading cuantitativo, de empezar con un número 
+de bot importante, irlo descartando durante todas  
+las fases para llegar al final con los dos, 
+tres o cuatro que realmente sean rentables,  
+necesitamos ahora tener eh varios bots. Pero 
+fijaros que yo aquí ahora estoy diseñando un bot,  
+un bot que no sé para qué eh régimen de mercado va 
+a ser. O sea, yo no sé qué perfil tiene este bot  
+que me va a generar aquí ahora. Y aquí viene la 
+parte importante, otra de las partes importantes  
+de eh la plataforma. Vamos a esperar que nos 
+genere el bot. Aquí tendríamos el bot generado. Ya  
+como una orientación nos dice cuánto podría costar 
+este bot en marketplace como MQL5, etcétera,  
+o cuánto nos podría costar si no lo encargásemos 
+a un freelance. Esto va en función de las líneas  
+del código, la complejidad, etcétera. Aquí nos 
+dice que tiene 27 nodos, 31 conexiones. Yo puedo  
+crear otro o decirle, "Vale, este me va bien. 
+Llévalo al Canva." Lo llevo aquí al Canva. Lo  
+voy a organizar y aquí tendría mi bot creado. Yo 
+ahora una vez que tengo este bot, como no sé qué  
+perfil tiene ni para qué régimen es, aquí arriba, 
+en la parte de la huella dactilar tenéis eh la  
+huella digital del bot, el perfil del bot. Si yo 
+le doy click, automáticamente me analiza el bot  
+que tengo en el cana y me dice qué perfil de bot 
+es. me está diciendo que es un bot para reversión  
+a la media con un componente eh relativamente 
+alto de momentum. Me está diciendo que tiene un  
+exponente de hard de 0.36, por lo que es un bot de 
+reversión y me está diciendo que es compatible con  
+Mercado Forex, por lo que ya sé que este bot es de 
+reversión a la media para Mercado Forex. Pues como  
+tengo aquí el analizador de regímenes de mercado 
+y puedo ver todos los mercados ya con datos  
+precargados, pues ya puedo ver para qué mercados 
+ahora mismo este eh bot. Ya veis que podéis entrar  
+aquí en el analizador de regímenes de mercado, 
+ver todos los CSV que hay ya cargados o cargar los  
+vuestros y ver ahora en qué bot, en qué mercado 
+este bot encajaría. Aquí me está diciendo que es  
+un bot para scalping, tiene una eh frecuencia 
+de operativa relativamente alta. Si yo ahora,  
+por ejemplo, quisiera que no fuese para scalping 
+y fuese más para intradía, eh, cada nodo tiene  
+unos valores, como vemos aquí en en pantalla. 
+Por ejemplo, tenemos un periodo de cinco,  
+periodo porcentaje de tres, etcétera. Es decir, 
+todos los nodos tienen una configuración que hacen  
+que este bot tenga un perfil para scalping. 
+Si yo no quisiera que fuera para scalping,  
+pues le bajo desde aquí la barra de scalping, 
+por ejemplo, le subo aquí la barra de intradía y  
+fijaros que ahora tengo un bot con un perfil alto 
+para intradía, para day trading. automáticamente  
+los parámetros que hay dentro de los nodos, aunque 
+no lo veamos aquí, se han cambiado todos. Se han  
+cambiado todos. Ya han cambiado para adaptarse a 
+intradía. Entonces, de esta forma pues podemos ir  
+trabajando. Por ejemplo, si yo ahora quisiera 
+aumentar el ratio para intradía o por ejemplo,  
+imaginaros que yo quiero que sea más para Forex 
+que para otro tipo de eh mercado, pues aquí tenéis  
+unos iconos con el símbolo de plus del más. Si yo 
+le doy aquí, automáticamente me está sacando todos  
+los nodos sugeridos para aumentar o potenciar 
+que sea más paraforest. Si yo le doy aquí y saco,  
+por ejemplo, el de media móvil, fijaros que me va 
+a ir aumentando. Fijaros que ha variado el perfil  
+del bot. Entonces de esta forma yo me puedo ir 
+llevando el perfil del bot hacia el mercado y  
+régimen que yo quiera y lo puedo ir viendo aquí. 
+Entonces, como veis, no se trata de crear bots  
+o de automatizar cosas. Yo puedo automatizar las 
+luces de mi casa para que se enciendan a las 11 de  
+la mañana y que eso no tenga ninguna utilidad 
+porque el sol está al máximo. Entonces, no se  
+trata de hacer trading algorítmico, sino se trata 
+de hacer trading cuantitativo, saber qué hacemos y  
+por qué lo hacemos. Ahora, si yo me vengo aquí al 
+perfil de del analizador de regímenes de mercado,  
+pongo el eurodólar y consulto el informe y 
+me vengo aquí a perfil del bot, aquí ahora ya  
+veis que sí que me sale un dato y me dice encaje 
+con tu bot, el que está aquí atrás en el Canva,  
+un 63%. Pues ya veo el encaje que tiene. Podría 
+[ __ ] ir por todos los mercados a ver a ver en  
+cuál tiene mayor encaje. Entonces es importante, 
+¿no? Cogemos un bot y nos lo llevamos a un mercado  
+como se suele hacer en el sector retail. O sea, 
+cojo un bot, me lo llevo al mercado que a mí me  
+gusta y intento que sea rentable y si no es, pues 
+digo que es una basura. No se trata de que analizo  
+los mercados, el régimen en el que se encuentra, 
+diseño un age, un algoritmo con ventaja real para  
+ese régimen y luego me lo llevo al mercado. 
+O sea, no empiezo la casa por el tejado,  
+sino que empiezo por los cimientos. Esa es 
+la diferencia entre el trading algorítmico,  
+el trading cuantitativo, techin y el resto de 
+plataformas que empiezan la casa por el tejado,  
+rezando que no se derrumbe, pero normalmente la 
+casa por el tejado se suele derrumbar porque los  
+cimientos no las sostienen. Entonces, bueno, por 
+aquí veis esto. Como se trata de construir bots y  
+poder analizarlos para poder llevarlo al mercado 
+correcto, tenemos esta opción que hemos visto de  
+Wizard. Tenemos otra más avanzada que es la de bot 
+legendario. Si entramos aquí ya vemos que tenemos  
+más opciones. Aquí se utiliza la inteligencia 
+artificial de última generación de investigación  
+para analizar en fuentes oficiales, regímenes de 
+mercado, etcétera, cuáles son las estrategias más  
+rentables, reales que están funcionando ahora en 
+el mercado. Yo puedo decir hacia qué deriva, hacia  
+qué parte me quiero ir. por ejemplo, scalping, 
+day trading, swing trading o position trading. Yo,  
+por ejemplo, pongo day trading. Podría poner 
+aquí condición de mercado, pues tendencia, rango,  
+volatilidad o todas, que me saque la que sea, por 
+ejemplo, si no tengo una preferencia, pues que me  
+saque todas. Si no, ya podría definir tipos de 
+estrategia, seguimientos de tendencia, reversión  
+a la media, breakout, momentum o una híbrida por 
+si quiero un bot para transiciones de régimen,  
+que también los hay, para que no va a funcionar 
+bien de todo en uno ni bien de todo en otro,  
+pero es un bot que en un mercado muy cambiante o 
+muy inestable, como va a tener un perfil híbrido,  
+no va a dar el 100% del potencial, pero tampoco 
+pues no me va a llevar a la ruina inmediata.  
+Aquí podría seleccionar el time frame, el nivel 
+de riesgo que quiero asumir y lo mismo le daría  
+aquí a crear bot legendario, empezaría el proceso 
+igual que Wizard y cuando lo terminase me daría la  
+opción de exportarlo aquí al Canva. Entonces, 
+esto es el minado de estrategia de trading  
+con un criterio para construir algoritmos que 
+luego podamos analizar, como hemos visto aquí,  
+con el perfil del bot, analizar con los mercados 
+y llevar. O sea, no se trata de generar 1000  
+bots a la semana y que no valga ninguno o que si 
+alguno no sirve en dos semanas dejen de funcionar,  
+que no sepamos por qué y que perdamos lo que hemos 
+ganado y el doble perdido, ¿no? Entonces se trata  
+un poco de este criterio. Si tenemos un bot que ya 
+nos gusta, que nos funciona o una estrategia que  
+hemos visto que pensamos que pues luego la podemos 
+traer aquí, refinarla, analizarla, ver qué perfil  
+tiene, cómo mejorarlo y tal, nos podemos venir a 
+la función de Yunke. Aquí en la función de Junker  
+directamente arrastramos el archivo del bot, que 
+tiene que ser evidentemente un archivo abierto MQ4  
+o MQ5. Lo arrastramos aquí y lo que va a hacer 
+esta herramienta es destriparlo, analizarlo y  
+clonárnoslo aquí en el cana. O sea, nos traemos el 
+bot que sea, del sitio que sea, lo echamos aquí,  
+nos lo clona y ahora aquí ya en nuestro taller 
+con nuestras herramientas, en nuestro canva con  
+nuestros eh nodos, cogemos y trabajamos sobre él. 
+Le mejoramos el riesgo, le cambiamos la lógica,  
+miramos qué perfil tiene, le añadimos más hacia 
+Forex o hacia crypto o hacia índice. O sea,  
+lo vamos modelando. No se trata de construir por 
+construir, sino de construir lo que necesitamos.  
+También una vez que tenemos un bot que no 
+funciona, por ejemplo, voy a sacar aquí un  
+bot cualquiera de la biblioteca de bots. Aquí en 
+la biblioteca de bots el objetivo no es que os  
+pongáis aquí a buscar el Santo Grial, sino que 
+como veis también estos bots tienen una huella  
+aquí con un perfil rápido aquí resumido para que 
+podáis buscar los bots del perfil que necesitéis  
+para el régimen y mercado que necesitéis. 
+Entonces, por ejemplo, fijaros que yo quisiera  
+uno con un perfil eh perfil específico, pues me 
+podría venir aquí a filtro, expando la pestaña  
+filtro, aquí le doy la plataforma que quiero, 
+MQL4, MQL5 o ambas o todas las plataformas,  
+la frecuencia de la operativa que yo quiero en 
+función de lo que elija, pues eh me va a cambiar  
+los bots aquí abajo. Aquí tengo el régimen sobre 
+el que quiero que sea la estrategia, pues por  
+ejemplo le digo reversión a la media. Fijaros que 
+me cambian los bots aquí debajo. Me están saliendo  
+ya solo los que tienen perfil de reversión a la 
+media. Aquí tengo el Hurst, que tenéis vídeos en  
+el canal de YouTube explicando qué es el Hurst 
+y podéis adaptarlo pues como vosotros queráis.  
+Pues por ejemplo, si quisiese algo de reversión 
+a la media, pues me centraría más en esta parte,  
+en la parte roja y todo lo que tenga un HT mayor 
+a todo esto, pues no me interesaría. Quiero botch  
+efectivamente para reversión a la media. Aquí 
+elegiría el tipo de mercado y el tipo de riesgo.  
+Cuando tuviese el bot que quiero, directamente 
+le doy a importar y me lo llevo aquí al Canva.  
+Entonces, ya veis que una de las funcionalidades 
+de la biblioteca del bot es ayudaros a este minado  
+de algoritmo, pero no como una granja de pollo, 
+sino como algo selectivo donde entras como si  
+entrases en una tienda y ya vas a la estantería 
+que quieres a [ __ ] el producto que necesitas.  
+Entonces, esto sería la biblioteca de bot, por 
+eso la vamos aumentando continuamente para que  
+tengáis más estanterías con más productos para que 
+encontréis el que vosotros necesitáis. No es tan  
+sencillo como, ¿cuáles de aquí de la biblioteca 
+son rentables? Rentables son todos, siempre que  
+se enchen dentro del régimen de mercado para 
+el que están hecho para operar. O sea, una idea  
+muy mala dentro del sector RTL es este bot no es 
+rentable, este sí es rentable, ¿no? Un algoritmo  
+que está bien hecho siempre va a ser rentable 
+siempre que se eche en el mercado correcto, en  
+la temporalidad correcta y en el régimen para el 
+que está hecho. Por ejemplo, este de aquí, si yo  
+abro el perfil del bot, pues ya veis que tiene un 
+perfil concreto. Para este perfil es bueno, para  
+otro perfil no es bueno. Entonces, si yo lo he 
+hecho en el mercado que a mí me parezca sin haber  
+analizado el mercado en qué régimen está o qué es 
+lo bueno para ese mercado, pues es una lotería.  
+Irá bien el bot o no irá bien. Es dar palos de 
+ciego. Puedo perder semanas, meses o muchos,  
+como habréis perdido años, intentando encontrar 
+algo bueno sin sentido porque estáis buscando una  
+aguja en un pajar. Estáis cogiendo algo aleatorio, 
+echándolo en un mercado sin saber cómo está el  
+mercado, esperando que funcione. De esta forma es 
+la forma correcta de ir a tiro hecho. Por ejemplo,  
+es como tener un luchador de sumo y quererlo meter 
+a competir en atletismo, eh, en los 100 m lisos,  
+pues no va a ganar. Significa que ese luchador 
+de sumo no es un deportista. Sí es un deportista,  
+pero para sumo, no para una pista de atletismo. 
+Y viceversa. Si cogemos un corredor muy rápido  
+en atletismo y lo echamos a competir contra un 
+luchador de sumo, se lo va a poner de mochililla  
+atrás y se lo va a llevar a pasear por el por 
+el rin de sumo, ¿no? Entonces, por el tatami.  
+Entonces, pues para que lo tengáis un poco en 
+cuenta, no es que una cosa sea buena o sea mala,  
+es que necesitamos conocer el perfil de nuestro 
+algoritmo, analizar los mercados, ver los estados  
+y y arrojarlo sobre el mercado correcto. Y desde 
+aquí pues podemos trabajar, o sea, Techain no  
+es una fábrica de bot, sino es un laboratorio 
+especializado para generar lo que necesitamos,  
+cuándo lo necesitamos y cómo lo necesitamos. 
+Entonces, dicho esto, pues bueno, ya sabéis que  
+si le dais doble clic a un nodo se abre. También 
+lo que digo, cuando tenéis un bot ya hecho y os  
+gusta y os funciona, decís, "Bueno, este bot me 
+gusta, pero claro, quiero diversificar este bot me  
+va bien. Tengo varios mercados ahora que están en 
+este régimen o acaba o mi mercado favorito acaba  
+de entrar en régimen eh alcista y este bot es el 
+que mejor me da para operar el régimen alcista en  
+mi mercado, pero solo tengo este y no soy capaz de 
+generar otro. necesito variante para diversificar,  
+pues me vengo aquí a la herramienta de Genoma 
+Lab, le doy aquí y esta estrategia lo que hace  
+es analizar el ADN de nuestro bot, el que tengamos 
+aquí cargado en el canal. Ya nos vemos que nos  
+dice que tiene siete indicadores, nueve nodos 
+de lógica, dos de acciones y dos de riesgo.  
+Yo le doy aquí a siguiente y me está diciendo, 
+¿en qué mercado opera tu bot? Yo puedo elegir  
+aquí el mercado que yo quiera. Si mi mercado eh 
+no está aquí, pues se lo escribo. Por ejemplo,  
+voy a poner que yo lo opero en el eurodólar. 
+Eh me dice, "¿En qué time frame opera?" Pues,  
+por ejemplo, yo lo utilizo y me va bien en 15 
+minutos. Aquí, ¿cuál es tu objetivo de esta  
+evolución genética sobre tu bot? Pues yo puedo 
+ponerlo, lo quiero adaptar para otro mercado,  
+lo quiero adaptar para otro time frame, eh quiero 
+mejorar la gestión del riesgo porque va bien, pero  
+siento que podría ser mejor o quiero diversificar 
+estrategia. Estrategia alternativa. Aquí el perfil  
+del bot para los descendientes. Pues mira, este 
+bot es muy agresivo y quiero que los descendientes  
+de aquí sean más conservadores o este bote es 
+muy conservador y quiero uno que sea moderado.  
+Pues el ¿Cuál es el perfil que quiero para los 
+descendientes? Como mi objetivo es diversificar,  
+pues voy a poner por ejemplo moderado. Le daría 
+siguiente. Aquí si quiero podría arrastrar el  
+HTML de mi bot. Es decir, yo tengo mi bote en 
+Metatrader, ha hecho, lo llevo tres meses con  
+él operando, haciendo operativas y todo eso 
+está en el historial de operaciones. Pues yo  
+ese historial, ese reporte lo puedo guardar en 
+HTML, lo arrastro, lo hecho aquí y el algoritmo  
+va a analizar exactamente el comportamiento 
+de mi bot. Esto no es necesario, pero sí  
+que es opcional y ayuda a mejorar. va a analizar 
+cuándo ha comprado, cuánto ha vendido, cómo lo ha  
+gestionado, dónde podría haber mejorado, etcétera, 
+etcétera. O sea, queremos una evolución genética,  
+no solo una diversificación. Entonces, queremos 
+mejorar, ver si hay puntos de mejora en nuestra  
+estrategia, pues aquí sería donde arrastraríamos 
+el reporte para que la IA lo analice. Pasaríamos  
+al siguiente punto donde ya entra de lleno todo el 
+análisis y va a evolucionar la estrategia. Aquí se  
+analizan las estructuras, eh, se van a ver qué 
+mutaciones se pueden realizar, se van a generar  
+los descendientes evolutivos, etcétera, etcétera, 
+y me va a dar una variable. Una vez que termina,  
+nos da aquí el análisis del genoma completo de 
+nuestro bot. Nos está diciendo aquí que es un  
+bot cuya intención es seguimiento de tendencia 
+con múltiple confirmación. La estrategia madre,  
+que es la que tenemos en el Canva, pues nos dice 
+lo que combina. cruces de medias móviles, RSI,  
+estocástico, etcétera, etcétera. Nos da 
+los criterios que tiene de entrada y los  
+criterios que tiene de salida. Es decir, aquí nos 
+explica un poco cómo es la estrategia que tenemos  
+en el canva. Si bajo hacia abajo, aquí me da tres 
+opciones de descendiente evolutivo. Tengo el alfa,  
+el beta y el gamma. siempre. Normalmente el 
+alfa es mejor que el beta y que el gamma,  
+pero mirarlo porque depende de lo que cada uno 
+quiera. Puede ser mejor uno u otro. Y aquí me está  
+diciendo el alfa es una estrategia de reversión a 
+la media con osciladores y filtro multitimeframe.  
+Dice el descendiente de reversión a la media 
+que opera en dirección opuesta al original.  
+Cuando el original busca tendencias alcista, 
+el alfa busca condiciones de sobreextensión  
+para capturar rebote. Utiliza eh bandas de 
+Bollinger, William, CCI, etcétera, en lugar  
+de las medias móviles RCSI estocástico. Es decir, 
+usa indicadores que, digamos, son eh van a buscar  
+algo parecido a lo que tenemos, pero de forma 
+diferente. Esto es útil pues para diversificar  
+estrategias o por si estáis gestionando cuentas 
+de fondeo y queréis generar estrategias con la  
+misma lógica o similar, pero que no se detecten 
+como la misma estrategia. Por ejemplo, bueno,  
+aquí si le doy a ver mutaciones, pues me dice 
+las mutaciones que ha hecho, qué cuáles son los  
+cambios que ha hecho. Si yo quisiera este, pues 
+por ejemplo le daría cargar en el canal. Le doy  
+a cargar. Me dice que si lo quiero cargar que voy 
+a reemplazar el que tengo ahora. Le digo que sí.  
+Y aquí lo tengo. Cierro todos los nodos, lo 
+cojo, lo organizo y aquí lo tendría ya tendría  
+el descendiente evolutivo. Entonces es una forma 
+pues para generar esta diversificación sobre bot  
+que ya tengamos pues que nos guste. La última 
+funcionalidad que tenemos aquí es la de Propfir.  
+Aquí tenemos pues analizadas las principales 
+empresas de de fondeo. Y lo que hacemos aquí  
+es una forma rápida de ayuda para ayudaros a 
+generar bot de fondeo. ¿Por qué? Porque los  
+bots de fondeo, ya sea para pasar challenge o fase 
+uno, o fase dos, el que tenga fase dos, para luego  
+para gestión, pues hay unas reglas específicas 
+que no están en el trading normal, pero que sí  
+que las ponen aquí y hay que conocerlas. Entonces, 
+para muchos se os puede dificultar el saber cómo  
+gestionarlas de forma matemática o algorítmica 
+o qué filtros poner. Pues muy sencillo. Aquí ya  
+nos salen cómo de fácil o difícil es pasar este 
+tipo de de empresas de fondeo. Por ejemplo, FTMO.  
+Le doy aquí y me está diciendo aquí un poco el 
+análisis de FTMO, la tasa de fallo, días hasta  
+el fallo, días para pasar, el profit spread, pues 
+bueno, un poco todo. Esto es importante siempre  
+que vosotros lo reviséis porque las empresas 
+de fondeo cambian continuamente las normas y  
+puede ser que en algún momento pues esto no esté 
+actualizado al 100%. Eh, siempre lo mantenemos  
+actualizado, pero es importante que vosotros lo 
+reconfirméis. Yo le digo que vale, que sí, que  
+diseñar un EA para FTMO. Le doy a siguiente y aquí 
+me sale ahora los tipos de estrategias que pueden  
+funcionar bien en FTMO. Por ejemplo, tengo aquí 
+de scalper conservador, seguidor de tendencia,  
+breakout de sesión, etcétera. Me está diciendo que 
+el scalper conservador es un 90% compatible con la  
+regla de FTMO y que tiene normalmente, analizando 
+todas las estadísticas hasta un más o menos 72% de  
+eh pase. Es decir, la gente que pasa el challenge 
+de FTMO suele hasta un 72% suelen ser con este  
+esta estrategia de trading. Le damos aquí, la 
+seleccionamos y nos lleva a la siguiente fase,  
+configuración del riesgo. Pues, ¿para qué 
+es? Pues como Ftmo tiene diferentes fases,  
+pues puedo elegir si lo quiero para la fase uno 
+del challenge, para la fase dos verificación,  
+ya veis que los parámetros cambian, o para la 
+fase final, cuando ya tengo mi cuenta de fondeo,  
+yo podría elegir fase uno, bajar hacia abajo. Aquí 
+me salen los parámetros por defecto preparados  
+para FTMO. Le doy a generar bot eh para fase 
+un challenge y aquí me salen los escudos de  
+cumplimiento normativo para FTMO. Aquí salen dos 
+que son obligatorias, que son el protector de  
+máximo dryown y el guardián del dryown diario. 
+El resto pues podemos, por ejemplo, darle al  
+escudo antirracha. lo que hace es activar, si yo 
+lo activo, activa un periodo de enfriamiento tras  
+pérdidas consecutivas y limita el número máximo 
+de trade diario. Lo que previene es el revenge  
+trader eh trading o que FTMO te mande un mensaje 
+diciendo que estás operando mucho y que te cierra  
+la cuenta, ¿no? Mientras más filtro yo active, más 
+escudos active, evidentemente más restrictivo va a  
+ser mi operativa y menos operativas va a hacer. 
+Entonces, si alguien se emociona y clica todo,  
+pues posiblemente ese bot no le abraciones. 
+Entonces, realmente no es pongo todo porque  
+es mejor, sino qué es lo que realmente necesito 
+yo para FTMO. Una vez que lo tengo, le doy a  
+confirmar protección, pasaría al siguiente fase. 
+Me explica aquí un poco la estrategia, los nodos  
+que se van a utilizar. Si lo quiero, le digo que 
+sí la IA empieza a trabajar para construirme este  
+bot. me está diciendo que la tasa estimada de 
+éxito es del 72%, que tiene ahora un cumplimiento  
+de 45 sobre 100 porque no le he puesto ningún 
+escudo extra adicional y el riesgo. Ahora, fijaros  
+cómo sería esto aquí y una fase importante. 
+La gente ahora aquí normalmente coge este bot,  
+me lo llevo a FTMO, lo hecho sobre un mercado, no 
+funciona y digo que Techain es una estafa o que  
+esto no funciona. Pero la gente que ya entendéis 
+cómo funciona el trading, sabéis que no podéis  
+[ __ ] este bot ahora y llevároslo sin más a un 
+mercado. sabéis que necesitáis ver el perfil del  
+bot y viendo el perfil del botal tal cual está 
+aquí a ir al analizador, ver en qué mercados  
+puede encajar y cuando encuentre uno en el que 
+pueda encajar, si quiero luego me vengo aquí y  
+cojo y aumento o potencio el régimen del mercado 
+específico o la compatibilidad con ese mercado,  
+etcétera, ¿no? y luego ya me voy a FTMO, pongo 
+ese mercado en ese time frame y ya pues haría  
+una optimización y ejecutaría el bot, ¿no? Y con 
+alta probabilidad pues superaría el challenge de  
+fondeo. Entonces es importante entender el proceso 
+que no se trata de automatizar algo y echarlo  
+en un mercado, hay que analizar. Somos traders 
+cuantitativos, no trader algorítmico ni muchísimo  
+menos trader manuales, muchísimo más anticuado, 
+¿no? O sea, al final la tecnología evoluciona solo  
+en este último año. Más del 80% de las operaciones 
+ejecutadas en los mercados financieros a nivel  
+global se ejecutaron por algoritmo de trading 
+cuantitativo. Quiere decir que cuando un trader  
+retail, cuando tú ejecutas una operación en el 
+mercado, tu contraparte, tu rival, tu oponente  
+con más de un 80% de probabilidades va a ser un 
+algoritmo profesional optimizado para quedarse  
+con tu dinero. Entonces es importante entender 
+eso, ¿no? ¿Cómo funciona el mercado. Más de un  
+80% este último año de las operaciones ejecutadas 
+en los mercados financieros fueron ejecutados por  
+algoritmos de trading cuantitativo, profesionales 
+optimizados para operar una ineficiencia del  
+mercado. Por lo que cada vez que abras una 
+operación manual, sigues una estrategia de TikTok,  
+una estrategia de YouTube, del último influencer, 
+del curso de metodología paso paso uno a uno para  
+retirar 20,000 € al mes, etcétera, etcétera, ten 
+en cuenta que no solo no te va a funcionar porque  
+la estrategia en sí ya puede no funcionar en el 
+régimen actual, sino que cuando abres una orden,  
+aunque en tu pantalla simplemente ves el abrir 
+una orden y ya está, hay una contraparte y esa  
+contraparte, ese oponente, ese rival rival es 
+un algoritmo de trading cuantitativo profesional  
+optimizado para quedarse con tu dinero, porque el 
+mercado no imprime billetes. Cuando uno gana es  
+porque otro pierde. Si uno gana 20 € es porque hay 
+otra persona que ha perdido 20 € porque el mercado  
+no genera billetes, no imprime dinero, hace un 
+cambio, una rotación. Entonces es importante  
+entender cómo funciona para actuar en consecuencia 
+y no liarla, ¿no? Bueno, una vez que tenemos por  
+aquí esto, ya hemos visto todos los puntos de de 
+IA, vamos a la parte de arriba. Aquí simplemente  
+tenemos la lupa. ¿Por qué podemos hacer zoom? 
+Ampliar o alejar. Bueno, pues si tenemos un  
+proyecto muy potente, pues necesitaremos ampliar. 
+Si tenemos uno más pequeñito o necesitamos verlo  
+más de cerca, pues eh ampliamos, restablecemos 
+zoom, lo que queramos, conforme vosotros queráis.  
+Igualmente, esto también se puede hacer con la 
+ruleta del del propio mouse. Tenemos también la  
+opción de notas. ¿Por qué? Pues porque podemos 
+crear notas. Por ejemplo, yo quiero crear una  
+nota. Le doy a crear nota y yo, por ejemplo, aquí 
+ahora en esta nota, si quisiera, pues como digo,  
+podemos ampliar zoom, muevo todo el can y yo 
+pongo aquí pues eh cálculo cálculo de eh x de  
+lo que sea. Yo tengo esta nota, esta nota me 
+la puedo llevar, pues yo puedo ponerle aquí,  
+selecciono en el click y, por ejemplo, lo quiero 
+conectar aquí a este nodo. Le hago clic y ya queda  
+vinculado aquí a este nodo. Yo esta nota ahora la 
+puedo [ __ ] y la puedo minimizar por si la quiero  
+quedar aquí en pequeñita para que no me moleste o 
+la puedo eh ampliar. Si quiero cambiarle el color,  
+pues le puedo cambiar el color como yo quiera. Ya 
+en función de cada uno como quiera eh gestionarse  
+y organizarse esto visualmente, pues elige un 
+color o otro. Igualmente, si queréis podéis  
+elegir un icono, pues por ejemplo, si esto fuese 
+una idea que he tenido, pues mira, he tenido una  
+idea viendo un vídeo de Techain que para el 
+punto de equilibrio puedo hacer tal o cual,  
+pues le pongo el icono de idea y aquí pues escribo 
+la idea para hacerla más tarde. Minimizo y yo ya  
+veo el color y el icono, pues ya sé de qué 
+es esta nota. Si quiero ocultar las notas,  
+le doy a ocultar las notas y las dejaría ocultas. 
+Igualmente las puedo [ __ ] y si quiero pues le  
+doy clic y eh la elimino y fuera. No pasaría nada. 
+También tenéis la opción de exportar el flujo. Por  
+ejemplo, ya habéis visto que podemos ordenar por 
+grupo, por flujo y por jerarquía. Pues imaginaros  
+que, por ejemplo, yo quiero ahora eh organizar por 
+grupo este bot. Fijaros, lo tengo aquí organizado,  
+pero yo ahora, por ejemplo, digo, pues quiero 
+añadir una lógica independiente, que, por ejemplo,  
+voy a bajar esto hacia abajo y digo, pues, por 
+ejemplo, esta lógica es la lógica central de  
+la estrategia porque hace tal cosa. Pues yo 
+me vengo aquí y puedo crear una nueva caja,  
+pues por ejemplo, una caja amarilla y le doy a 
+crear caja. Yo me cojo esta caja ahora y me la  
+traigo hacia arriba. Fijaros que es pegajosa, lo 
+que quiere decir que los nodos que la toquen se  
+quedan ya vinculados a ella para que podáis 
+trabajar y mover todo por el canva. Pues yo  
+cojo esta nota, esta caja, perdón, me la traigo 
+aquí y ahora ya estos nodos quedan aquí metidos.  
+Yo aquí ahora pues le podría cambiar el nombre y 
+poner lógica principal, por ejemplo, y ya tendría  
+aquí esta caja y yo me puedo ir organizando aquí 
+mi flujo conforme pues yo vaya queriendo. Que no  
+quiero la caja, pues la cojo y la elimino. Y si 
+quiero volver a trabajar por orden jerárquico,  
+pues lo haría de esta forma. Igualmente 
+durante el proceso de diseño, durante el  
+proceso de ideación, etcétera, eh buscando ideas 
+por internet, por vídeos de Techain, etcétera,  
+pues podéis tener cosas que apuntar. Tenéis aquí 
+un blog de nota donde podéis apuntar estrategias,  
+desarrollar configuraciones, planificación general 
+con diferentes categorías donde vosotros podéis  
+añadir nota y escribir aquí igual que si 
+escribieseis en un Word, ¿no? Es decir,  
+aquí os podéis crear vuestras notas y crear 
+todo exactamente igual. lo tiene autoguardado,  
+por lo que ya quedaría guardado. Igualmente lo 
+podéis descargar y por si os lo queréis llevar a  
+a otro sitio, o tenerlo guardado en el ordenador. 
+Aquí pondríamos el título de la nota y quedaría  
+guardado. Esto ya es autoguardado, se guarda en 
+vuestro eh ordenador en local. Nadie de TCHIN  
+accede aquí a esto y ya tendréis aquí la nota 
+guardada. Podéis generar tantas notas como queráis  
+o directamente la cogemos y la eliminamos. Tenemos 
+también el exportador de blueprint. ¿Por qué? Pues  
+bueno, yo tengo este bot, por ejemplo, pues le 
+voy a dar aquí a descargar. Me descarga el HTML,  
+le voy a dar doble clic para abrirlo y 
+fijaros que es el mismo bot que tengo yo  
+aquí en el canva. Aquí, ¿qué tengo? Pues tengo 
+un HTML interactivo donde yo le puedo ir dando  
+y puedo ir viendo los nodos que lo componen, 
+cómo funciona. Pues bueno, pues si estoy luego  
+en el Metatrader o me quiero guardar este proyecto 
+para verlo más adelante o fue una idea que tuve,  
+pues de esta forma este archivo ya lo tengo yo 
+en mi ordenador, como siempre se puede cambiar  
+en modo claro, modo oscuro. Y bueno, pues ya lo 
+tendríais ya lo tendríais aquí. Podemos cambiar  
+entre vista Canva o modo o mapa mental. Fijaros 
+que aquí tenemos pues los nodos de indicadores,  
+los nodos de lógica con sus configuraciones, los 
+de gestión o los de acciones o si queremos pues  
+podemos cambiar entre mapa mental y modo canva. 
+Entonces esto importante pues para que lo tengáis  
+en cuenta. No obstante, como os digo, por ejemplo, 
+yo puedo [ __ ] un nodo, voy a darle aquí un poco  
+de zoom y con doble clic lo despliego. Aquí en 
+la parte superior izquierda tenéis eh funciones  
+para trabajar. Por ejemplo, conecta en mostrar 
+el panel de propiedades. Si yo hago clic aquí,  
+lo que lo que hace es que cuando yo ahora clique 
+en un nodo, el que sea, fijaros que se me abre  
+aquí el panel para que si yo quiero ir trabajando 
+sobre los nodos, pues que no tenga que irlos  
+desplegando para cambiar los valores. Directamente 
+con clicar en el nodo se me abren aquí las mismas  
+opciones. Y fijaros que si yo aquí voy cambiando a 
+151, 152, fijaros cómo va cambiando aquí también.  
+O sea, esto es automático. Si yo ahora cierro este 
+nodo y aquí le pongo en 159 y lo vuelvo a abrir,  
+fijaros que está en 159. Es decir, no necesito 
+abrir todos los nodos para ir trabajando. Los  
+puedo ir dando click desde aquí y los puedo 
+ir gestionando en esta parte. Si no lo quiero,  
+porque no quiero trabajar aquí, simplemente lo 
+oculto. Igualmente, los nodos, ya habéis visto que  
+todos los nodos para conectar tienen su salida, 
+las entradas y salidas. Yo puedo darle a esta  
+opción y lo que hace es que cuando yo haga clic 
+en un nodo, ahora se me activa esta funcionalidad  
+que es pues para seguir añadiendo nodos de forma 
+eh automática con los nodos que aquí encajan sin  
+tener que ir a buscarlos por aquí. Si no me gusta 
+que esto eh me salga aquí, pues porque no me gusta  
+o por lo que sea, pues lo cojo, lo desactivo y ya 
+está. Igualmente también tenéis las opciones de  
+organización. Aquí ahora está hecho en la ruta más 
+óptima, que son, por ejemplo, pues las líneas que  
+tenéis por aquí. Fijaros estas líneas de conexión. 
+Yo las puedo poner que vayan en circuito o las  
+puedo poner que vayan directamente. Yo normalmente 
+trabajo así porque visualmente me gusta más,  
+pero esto depende de vosotros. Tenemos 
+la opción de expandir todos los nodos,  
+contraer todos los nodos y si queremos ocultar el 
+menú de trabajo, pues lo ocultamos aquí arriba.  
+Una vez que tenemos esto, ya tenemos todo hecho, 
+nos falta solo la parte de la barra superior. Aquí  
+tenemos las plataformas Metatrader 4, Metatrader 
+5, directamente solo hay que seleccionar para qué  
+plataforma queremos crear el bot, para el cuatro 
+o para el cinco. Si yo quiero para el cinco,  
+pues selecciono cinco. Y ahora le doy a construir 
+bot y aquí automáticamente pues ya me genera todo  
+el código. Todo este código pues yo lo puedo 
+ver aquí. lo tendría en pantalla completa por  
+si alguien quiere hacer algo. Si no queréis hacer 
+nada, pues directamente no hay que hacer nada,  
+simplemente le damos a descargar y ya tengo el 
+bot en la carpeta de descargas de mi ordenador  
+listo para llevar a Metatrader. No tengo que hacer 
+nada más. Siempre me sale también un desglose con  
+el valor del bot, tal como está hecho por las 
+líneas de código que tiene, etcétera. O sea,  
+si yo bajo aquí abajo, fijaros que este bot 
+tiene 5,883 líneas de código. Pues en función  
+de bots similares que se venden en marketplace de 
+internet o lo que costaría un freelance para que  
+nos hiciese esta lógica, nos dice el precio. 
+Fijaros que aquí conchain me ha costado como  
+pero que en un marketplace serían $1,600 y con un 
+freelance pues sería seguramente un par de meses y  
+unos $,000. O sea, esto no es algo orientativo, 
+sino que está basado realmente en datos y en  
+presupuestos reales analizados en tiempo real 
+con lo que cuesta ahora las cosas. Ya vemos que  
+el valor base de L200, en lógica y nodo $1,000, 
+indicadores técnicos 175, gestión de capital 150  
+y lógica avanzada 100. ¿Es posible encontrar bots 
+o pagarle a alguien para que me haga un bot por  
+1,000 € y no por 4,000? Claro que sí, pero van 
+a ser bot normalmente con basados en indicadores  
+técnicos, una gestión del capital simple y cuatro 
+cositas de estas que entonces ya serían 1000 y no  
+4,000. Entonces, importante también pues para que 
+veáis el valor de lo que estáis creando por menos  
+de $ y en 5 minutos y sin haber diseñado ni la 
+estrategia porque en este caso nos lo ha hecho la  
+IA. Bien, aquí luego tenemos el siguiente punto. 
+Fijaros que cuando yo abro un nodo, por ejemplo,  
+en este caso el de venta, me salen todas las 
+opciones porque está en modo avanzado. Si yo  
+estoy empezando, no quiero complicarme, estoy 
+probando, haciendo mis dando mis primeros pasos,  
+creando mis primeros bots y no necesito todo, le 
+puedo dar a modo simple y se me reduce el nodo y  
+se queda con lo estrictamente necesario que yo 
+tengo que tocar para que este bot funcione. Si  
+quiero ir más allá, le doy a modo avanzado y me 
+salen todas las opciones. Entonces, importante  
+en función de vuestro perfil que inicialmente 
+trabajéis en modo simple y posteriormente pues  
+paséis a modo avanzado. Esto sería la parte del 
+menú superior. Aquí tenéis el menú de las tres  
+barras donde tenéis el diseñador de blueprint. 
+¿Qué funciona aquí? Pues bien, imaginaros, sois  
+nuevos, llegáis a Techen, queréis crear un bot, 
+pero no queréis gastar créditos de IA o queréis  
+probar una idea que tenéis, le daríais aquí. Y 
+aquí tenéis dos opciones. Opción uno, recomendada  
+para principiantes, que es un diseño guiado paso 
+a paso. Es decir, yo le voy a dar aquí y aquí me  
+va a salir, pues, ¿cuál es tu objetivo, capturar 
+tendencia, operar reversiones. Fijaros que siempre  
+hay un objetivo. El objetivo no es, ¿cuál es 
+tu objetivo? Crear un bot para ganar dinero y  
+comprarme un Lambo para operar desde la piscina. 
+No, el objetivo nunca es económico porque esto  
+es una profesión. Eh, el objetivo es hacer bien tu 
+trabajo y como resultado, el resultado sí que será  
+el económico, pero el objetivo no es el económico. 
+O sea, ¿por qué vas a trabajar cada mes para  
+cobrar un sueldo? no vas a trabajar para hacer 
+tu trabajo y haciendo tu trabajo correctamente,  
+tu empleador te dará un sueldo. Pero si no haces 
+tu trabajo, no vas a tener ni trabajo ni sueldo  
+porque acabarás despedido. Entonces, tu objetivo 
+no puede ser el sueldo. Tu objetivo tiene que ser  
+hacer tu trabajo y el sueldo es una consecuencia 
+porque si no haces tu trabajo, te despedirán y  
+no tendrás sueldo. Entonces, importante, fijaros 
+que con Tech Chain la lógica nunca es crear bots,  
+sino crear sistemas que funcionen. Desde este paso 
+ya nos dice cuál es el objetivo principal, pues ya  
+sabemos qué mercado queremos operar y cuál es el 
+régimen que debemos operar. Por ejemplo, operar  
+reversiones. Pues le doy a operar reversiones. 
+Luego define el contexto de la estrategia,  
+pues va a ser parafores, índice, cripto, energía, 
+metales, por ejemplo, pues parafores. Aquí me dice  
+los time frame ideales para mi mercado, que si 
+yo eligiese otro mercado, pues podría eh cambiar.  
+En este caso, como elijo Forex, me está diciendo 
+estos tres time frame de aquí. Yo, por ejemplo,  
+podría poner en semanal, pero fijaros que 
+me está diciendo con una estrellita que  
+los que mejor suelen ir en este tipo de 
+mercado son estos de aquí. Por ejemplo,  
+elijo 15 minutos. En 15 minutos me saca, ¿en qué 
+sesión quieres operar? Pues, asiática, europea,  
+americana o que opere 24 horas. Pues ya me está 
+diciendo que normalmente la las sesiones con mayor  
+liquidez que más funcionan son estas de aquí. Pues 
+por ejemplo, pongo la europea, bajo hacia abajo,  
+le doy a continuar. De aquí me llega el siguiente 
+paso, ¿cuándo quieres comprar? Pues aquí me salen  
+las opciones de compra, de lógicas de compra 
+para mi mercado, para mi time frame, en función  
+de mi objetivo. Pues yo seleccionaría la que la 
+que quisiera, puedo añadirlas todas, las que yo  
+quiera, o sea, no hay ningún problema, luego las 
+puedo quitar, modificar, etcétera. Y aquí me dice,  
+"¿Y para vender, ¿qué quieres hacer?" que puede 
+usar condición inversa que la de las compras o que  
+no venda, que solo compre. Paso al siguiente paso 
+y aquí me dice pues el stop loss. Ya me sale todo  
+predefinido, preconfigurado, take profit, stop 
+los y aquí me está diciendo el riesgo. Si yo aquí,  
+por ejemplo, pusiera eh 100, pues me está diciendo 
+que mi ratio riesgo es un 1, que es aceptable,  
+pero ya sabemos que voy a necesitar entonces tener 
+un win rate del 51% o más para ser rentable. me da  
+la opción de si quiero añadir un trailing stop y 
+yo le puedo dar pues que sí que lo quiero añadir  
+y cómo funcionaría. Ya me sale preconfigurado 
+por defecto. Le doy aquí al siguiente paso y  
+aquí me sale la gestión de capital. si quiero que 
+opere por lote fijo o por porcentaje de riesgo.  
+Lo normal suele ser lo profesional, lo efectivo, 
+por porcentaje de riesgo. No puedo operar siempre  
+con lo mismo. Y aquí me sale el nivel de riesgo, 
+pues conservador, normal, moderado, agresivo. Yo  
+pongo el perfil de riesgo que quiera. Si quiero 
+límites de protección de máximo pérdida diaria,  
+operaciones simultáneas, etcétera, le doy 
+a continuar y cuando llego a este paso,  
+pues ya me sale aquí el resumen del bot. 
+Simplemente le tendría que dar a generar bot.  
+Y ya tengo el bot aquí en el cana. Así 
+de sencillo. Respondiendo preguntas,  
+habéis creado vuestro primer bot. Este paso, como 
+digo, es ideal para principiantes. Vais a aprender  
+la lógica. Ya habéis visto que va estructurado. 
+Primero, ¿qué es lo que quieres operar? ¿Cuál es  
+el régimen del mercado? ¿En qué mercado? ¿En qué 
+time frame? O sea, te va guiando paso a paso en la  
+lógica, en el proceso de diseño, para que no se 
+te pase nada y vayas aprendiendo cómo funciona,  
+para que cuando vayas a diseñar tu bots en el 
+canva sepas el proceso que debes seguir. También  
+está el proceso avanzado para estrategias ya 
+más concretas, es decir, soy principiante,  
+todavía no me desenvuelvo muy bien yo en el Canva 
+para crear mis bot, pero quiero algo más concreto,  
+no tan genérico como el apartado de principiantes, 
+pues le daría aquí. Aquí directamente ya podemos  
+poner el bot eh que queramos. Por ejemplo, yo voy 
+a poner test uno, pero podía ser pues bot de cruce  
+de media. ¿Y qué es lo que quiero hacer aquí? Pues 
+un bot para operar el eurodólar o el Bitcoin o el  
+DAX. Aquí, ¿qué es lo que quiero que haga? Pues 
+reversión a la media, breakout, scalping, pues  
+por ejemplo, reversión a la media. Quiero que sea 
+bidireccional, compre y venda, que solo compre,  
+que solo venda. Le doy siguiente. Aquí me sale el 
+instrumento sobre el que lo quiero ejecutar. Pues,  
+por ejemplo, pongo índice y el el estándar ampur 
+500 o SP500. Si no estuviese, pues mi mercado  
+pues lo pondría lo podría poner aquí y darle a 
+añadir. Si yo pongo aquí el mercado que yo quiera,  
+me lo invento y le doy añadir, aquí me sale. Puedo 
+seleccionar varios, pues porque mi bot va a ser  
+para varios mercados. Cuando se genere el bot, se 
+va a generar un informe con todo lo que yo estoy  
+haciendo para que sepa qué es lo que he creado. 
+El time frame, pues lo mismo, elijo el time frame,  
+time frame eh, secundario por si quiero que este 
+bot sea multitime frame, porque puedo decir,  
+bueno, pues va a operar en 5 minutos, pero debe 
+confirmar la tendencia principal, por ejemplo, en  
+4 horas. Entonces tiene que ser un bon multitime 
+frame. Aquí pondría la sesión en la que quiero,  
+por ejemplo, en Europa, América o 24 horas. 
+Pues por ejemplo, puedo seleccionar una o todas,  
+que sería igual que 24 horas, o solo europea 
+y americana. el express máximo con el que no  
+quiero que opere, los días de la semana que 
+quiero o no que opere. Cuando analizáis un  
+back testing con la herramienta de analizador de 
+back testing, no la vamos a ver aquí para no eh  
+alargar mucho el vídeo, eh os va a salir qué días 
+son los mejores en los que más gana vuestro bot,  
+los días en los que más pierde, el horario en el 
+que mejor le va, etcétera, etcétera, etcétera.  
+Entonces vosotros vais a poder ya optimizar 
+el bot para que sea lo más rentable posible.  
+Si bajamos aquí tenéis condiciones especiales. 
+Pues por ejemplo, que no opere en los primeros 5  
+minutos de la apertura porque mucha volatilidad 
+el exprese se despara y y no me va bien para mi  
+estrategia, pues lo podría poner. En el siguiente 
+paso tenéis la capa de la señal de entrada.  
+Aquí las construís vosotros a diferencia del 
+blueprint para principiantes, que ya os lo da  
+construido con los indicadores, aquí lo construís 
+vosotros, pero de una forma guiada y tutorizada,  
+a diferencia que en el Canéis que hacer vosotros. 
+Por ejemplo, le doy añadir condición y aquí me  
+salen pues una serie de condiciones. Por ejemplo, 
+la condición uno puedo poner aquí qué es lo que  
+quiero. Aquí me salen todos los indicadores que yo 
+podría utilizar. Por defecto me sale media móvil,  
+pues por ejemplo la media móvil de 10 y que sea 
+una media móvil simple al cierre. ¿Qué quiero  
+que haga? Pues que cuando cruce por encima, por 
+debajo, mayor que menor que igual a mayor o igual  
+que o menor o igual que le voy a decir que cuando 
+cruce por encima, ¿de qué? Pues de otro indicador,  
+de un valor numérico del precio. Está puesto de 
+otro indicador y me sale aquí ya el indicador. Si  
+yo pusiese pues por ejemplo del precio, pues me 
+cambiaría. ¿Y qué qué precio quiero utilizar? de  
+cierre, de apertura, el alto o el bajo. Le voy a 
+poner cuando cierre por encima de otro indicador,  
+por ejemplo, de otra media móvil, una media móvil 
+lenta de 20 y yo ya tendría esta condición. Puedo  
+seguir añadiendo condiciones. Esta sería una. 
+Puedo seguir añadiendo más. Le doy a continuar.  
+Aquí tengo la capa de la señal de entrada 
+en corto. Si quiero que sea la inversa,  
+quiero personalizar las señales, que solo 
+haga short sin compra o que solo haga long  
+sin venta. Todavía estoy a tiempo de 
+tomar esta decisión. Yo en mi caso,  
+lo voy a dejar que sea la inversa. Aquí tengo la 
+capa de exclusión. Un punto muy importante. Cuando  
+pasamos a la especificación de la lógica de los 
+bots, nos olvidamos muchas veces de la exclusión.  
+Una exclusión puede ser, por ejemplo, pues 
+que si hecho una operativa no haga otra,  
+que si dentro de media hora va a haber un o dentro 
+de 5 minutos va a haber un noticia macroeconómica,  
+que el bot no opere. O sea, ese tipo de cosas que 
+decidimos manualmente sobre la marcha son capas  
+de exclusiones. Ya sabemos qué se tiene que hacer 
+para que se dé la señal corta o larga. Y ahora,  
+¿qué es lo que ahundándose las señales no van 
+a permitir que se operen añadimos esta capa  
+de exclusión? Entonces, esto lo añadiríamos 
+aquí. Y podríamos poner eh temporales, pues  
+fuera de un horario, días no autorizados, buffer 
+de cierres de sesión, call down entre operaciones,  
+podíamos poner pues mercados pues por puntos de 
+spre, volatilidad que suba mucho la volatilidad  
+y no quiero que baje o si es un un bot que opere 
+breakout, es decir, rotura y necesito volatilidad,  
+pues que cuando haya baja volatilidad no opere, 
+etcétera, etcétera. Puedo añadir también criterios  
+de indicadores. Pues mira que esto no se ejecute. 
+Si el RSI está por encima del 70. Yo lo puedo  
+hacer como quiera, lo puedo personalizar. Le puedo 
+dar añadir exclusión por indicador personalizada  
+y añadirlo aquí como yo quiera. Aquí le daría 
+a expandir y lo iría operando como yo quiera.  
+No obstante, también le puedo poner por tipo de 
+cuenta, gestión de riesgo, etcétera. Le doy a  
+continuar. Aquí tengo gestión de posición. No 
+me voy a entrar mucho más en detalle. Y bueno,  
+así seguiríamos hasta el final y generaríamos 
+el bot de forma guiada. tenemos el proceso más  
+sencillo y el proceso más avanzado. Y es una 
+forma de que vosotros aprendáis a utilizar el  
+Can de forma guiada y que en 5 o 10 minutos podéis 
+generar un bot profesional de miles de dólares,  
+analizar el perfil del bot, ver exactamente para 
+qué es, cómo funciona, analizar los mercados,  
+ver en qué mercado lo podéis llevar y llevarlo 
+directamente. Como veis, dentro del menú tenemos  
+también analizador de back testing para ver 
+cómo podemos mejorar nuestro bot para no cambiar  
+parámetro a lo loco, que es lo que se suele 
+hacer en el sector retail. Bueno, no va bien,  
+pues le cambio esto y y lo vuelvo a ejecutar. No 
+va bien, pues le cambio esto y vuelvo a ejecutar  
+para no perder ese tiempo dando palos de ciego, 
+el analizador de bas testing nos va a decir rápido  
+qué es lo que hay que cambiar para que eso mejore. 
+Tenemos también el analizador de optimizaciones.  
+Hacemos una optimización en Metatrader, nos 
+la traemos aquí. y hay eh 500 opciones, 500  
+escenarios, nos va a decir los tres mejores para 
+nuestro bot y qué parámetros tenemos que ponerlos  
+para que no tengamos que perder tiempo analizando 
+los 500 o filtrando por el criterio incorrecto de  
+la que más gane, la que menos trae down aún tenga, 
+o sea, utilizar un criterio realmente objetivo.  
+Tenemos también el asistente de optimización 
+que nos va a ayudar pues a descargar los setchs,  
+por ejemplo, para Metatrader 5 o Metatrader 4 
+para llevarlos al Metatrader y que se optimice  
+sin que nosotros tengamos que poner ningún 
+parámetro para automatizar la optimización.  
+Luego tenemos la biblioteca de bot, proyecto 
+colaborativo y vuestros proyectos personales.  
+¿Habéis creado un bot? ¿Queréis guardarlo, pues le 
+podéis dar a guardar proyecto y aquí, ¿qué quiero  
+hacer? sustituir uno que ya haya o guardarlo como 
+nuevo. Le doy a guardar como nuevo. Pongo test 2,  
+por ejemplo. Aquí añadiría la descripción qué 
+tipo de bot de trading es. Pues, por ejemplo, day  
+trading, la categoría que me haya dado y le doy a 
+guardar proyecto. Si yo ahora me vengo aquí a mis  
+proyectos, tengo aquí todos los proyectos que he 
+ido guardando. Por ejemplo, voy a [ __ ] este y  
+lo voy a borrar. Yo entro ahora en la plataforma 
+y quiero seguir trabajando sobre ese bot. pues  
+me vendría aquí y aquí lo tengo. Fijaros, 
+test dos. Le doy a cargar y aquí lo tengo.  
+Puedo seguir trabajando sobre él. No pierdo mis 
+proyectos, siempre importante guardarlo. Entonces,  
+pues bueno, hasta aquí terminaría el tutorial 
+de Techin para que veáis qué es, cómo funciona,  
+qué hace de diferente y sobre todo no que hace 
+de diferente, sino por qué es necesario hacerlo  
+de forma diferente a como se hace en el sector 
+retail. Así que si queréis avanzar, mejorar,  
+aprender a construir mejores bots de trading, pues 
+ya sabéis que tenéis otra serie de vídeos dentro  
+de del canal en la formación de Techain. Podéis 
+combinarlo para ver qué es un exponente de hard,  
+qué es la entropía de Sanon, etcétera, y cómo 
+utilizarlo de forma profesional, pues para  
+mejorar vuestro flujo. Entonces, os animo a que 
+probéis, cacharreéis, eh, construyáis vuestros  
+bot, no vais a romper nada. probar, probar y 
+probar, porque la práctica hace al maestro.

@@ -1,0 +1,323 @@
+Titulo              : Por qué gastan dinero en MQL5 cuando pueden hacer esto en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-05-13
+Duracion            : 17:11
+Vistas              : 925
+URL                 : https://www.youtube.com/watch?v=vpktu9AgRsM
+----------------------------------------------------------------------
+
+En este vídeo voy a enseñarte el proceso completo 
+para crear tu primer bot de trading 100% funcional  
+sin escribir ni una sola línea de código. Y no, 
+no vamos a usar una IA para pedirle que alucine un  
+código lleno de errores. Vamos a usar Techain, la 
+plataforma profesional donde tú diseñas la lógica  
+y el generador de Techain genera el código para 
+MQL5 perfecto por ti. En los dos vídeos anteriores  
+construiste el mapa conceptual y escribiste 
+las reglas. Hoy es el día en que eso deja de  
+ser papel y se convierte en un esperadisor o 
+bot de trading real operando en Metatrader.  
+Quiero ser directo. Hoy vamos a construir un bot 
+de trading 100% funcional desde cero y a ejecutar  
+un back testing real. Lo que no vamos a hacer es 
+optimizar parámetros ni buscar el santo grial de  
+la rentabilidad todavía. El objetivo de hoy es la 
+verificación mecánica. Queremos asegurar que el  
+bot hace exactamente lo que le hemos pedido 
+que haga. Esta distinción importa porque un  
+bot que funciona no siempre es un bot que gana 
+dinero. Primero vamos a lograr que funcione con  
+TCH Chain. Vamos a llevar esa idea de tu cabeza 
+a Metatrader de forma profesional. Lo haremos en  
+cuatro bloques. ¿Por qué te chain? Veremos. Quiero 
+diferencia de los generadores básicos y por qué es  
+nuestra herramienta de elección. Construcción 
+visual, el paso a paso en la interfaz usando  
+nuestra estrategia de ejemplo, implementación 
+en Metatrader, es decir, cómo llevar ese código  
+generado al terminal y configurar el probador de 
+estrategias correctamente. Lectura de métricas.  
+¿Cómo interpretar ese primer back test sin 
+engañarte a ti mismo? Metatrader usa un lenguaje  
+de programación propietario llamado MQL5 para la 
+creación de esper Advisor o bot de trading como  
+se les conoce comúnmente. Escribir MQL5 desde cero 
+tiene una curva de aprendizaje significativa, es  
+decir, varios meses, incluso si ya has programado 
+antes. Aunque es cierto que no es el lenguaje de  
+programación más complejo del mundo, sí que tiene 
+sus particularidades y cuando se trata de crear un  
+algoritmo que va a operar con dinero real, nuestro 
+dinero, hay que saber bien lo que tenemos entre  
+manos. Para los propósitos de esta saga, que es 
+llegar a operar en automático sin ser programador,  
+hay alternativas que generarán código Mcol5 a 
+partir de interfaces visuales. La más robusta  
+en este momento es la app de Techain, porque 
+literalmente cambia la regla y reinventa el  
+terreno de juego. En resumen, es un generador no 
+code diseñado por y para traders. A diferencia del  
+Wizard de Metatrader 5 u otras alternativas, 
+en Tchain puedes crear lógicas complejas,  
+filtros de tiempo avanzado, gestiones de riesgos 
+dinámicas que simplemente no son posibles en las  
+herramientas gratuitas o modelos de IA LLM como 
+chat GPT, cloud, etcétera. Queremos que el bot  
+haga exactamente lo que le pedimos que haga y la 
+app dechain produce un código limpio, optimizado  
+y listo para auditoría. Pero hay un error que 
+incluso los mejores generadores suelen pasar  
+por alto, pero que en Tchain se controla desde 
+la base el look ahead o sesgo de anticipación.  
+El problema del Lucas vías o sesgo de anticipación 
+ocurre cuando el sistema toma datos de cierre de  
+una vela que en tiempo real todavía no había 
+cerrado. En el back testing, Metatrader tiene  
+acceso a todos los datos históricos completos, 
+lo que puede causar que el Sperad Advisor lea  
+el cierre de la vela actual como si ya estuviera 
+disponible, cuando en realidad en el tiempo real  
+esa vela todavía seguía formándose. El resultado 
+es que el back muestra entrada a precio imposible.  
+El sistema parece saber el futuro porque está 
+leyendo datos que técnicamente no debería tener  
+disponible en el momento de la decisión. En 
+nuestro caso no tendremos que preocuparnos por  
+este y otro tipo de errores comunes en los bots 
+de trading porque ya se controlan todo de forma  
+automática en el código que nos genera Techain. 
+Para este tutorial usaremos un clásico robusto.  
+Señal de cruces de media exponenciales 21/ 55 
+filtro ADX superior a 25 para asegurar que haya  
+tendencia. un filtro horario, no operaremos 
+durante ejemplo de alto impacto. Gestión  
+stopl y take profit basado en volatilidad 
+de ATR. Esta estrategia no está diseñada  
+para ser necesariamente rentable en los datos 
+actuales. Está diseñada para ser completamente  
+especificable con las herramientas que vamos a 
+usar y para cubrir los tres tipos de condición  
+que normalmente aparecen en una estrategia real. 
+Señal de indicador, filtro de confirmación y  
+exclusión temporal. Si tienes tu propia estrategia 
+formalizada del vídeo anterior, puedes seguir el  
+proceso en paralelo con tus propias reglas. El 
+proceso es idéntico independientemente de la  
+estrategia concreta. Entramos en la interfaz 
+de techin code generator y nos ponemos manos  
+a la obra. Vamos a comenzar con la lógica 
+inicial, la de los parámetros de entrada.  
+Aquí es donde definimos nuestras variables. 
+Esto es clave porque nos permitirá cambiar el  
+periodo de las medias móviles o el umbral del ADX 
+directamente en Metatrader 5 sin tener que volver  
+a generar el bot. Primero necesitamos cargar el 
+nodo de ADX al Canva. Puedo navegar en el panel  
+de indicadores o mejor aún utilizo el buscador y 
+pongo directamente ADX. Hago clic y me lleva a la  
+ubicación exacta. Ahora solo lo arrastro al Caná. 
+Busco y añado también un nodo de umbral. Lo añado  
+también aquí al Canva. Lo configuro en 25 para que 
+detecte cuando el valor del ADX es mayor a 25 y le  
+conecto la salida del valor de ADX a la entrada 
+del valor del nodo de umbral. Y listo. Seguimos  
+con la lógica de entrada, en este caso para el buy 
+y para el Cell. Para ello, busco el nodo de media  
+móvil y lo arrastro también al cana. Como necesito 
+un cruce, lo duplico. Configuro uno con 21 y otro  
+con 55 para generar ambas medias móviles. Ahora 
+tenemos que configurar la señal de BYU y del  
+Cell. Básicamente buscamos que si la media rápida 
+cruza al alza, la media lenta y el ADX es mayor a  
+25 compre. Y si la media rápida cruza en corto la 
+lenta y ADX en mayor a 25, venda. Este criterio  
+lo podemos automatizar de forma muy fácil con 
+el nodo de cruce alcista y bajista. Lo busco,  
+lo selecciono y lo arrastro al canvá. Ahora solo 
+tengo que conectar las medias móviles a los nodos  
+de cruce. La media móvil rápida en el valor 
+uno y la media móvil lenta en el valor dos.  
+De esta forma le decimos al algoritmo que buscamos 
+un cruce de la uno sobre la dos. En el primer caso  
+al alza y en el segundo caso en corto. Ahora 
+vamos a configurar la gestión de tiempo. Para  
+ello añadimos el módulo de time filter o 
+filtro de tiempo. Lo busco aquí en el buscador,  
+lo selecciono, lo arrastro y me lo llevo al cana. 
+Aquí bloqueamos las horas de notici o sesiones  
+específicas. En el caso del wizard de Metatrader 
+5 sería imposible. Con techin solo son dos clics.  
+Yo, por ejemplo, le voy a poner simplemente 
+para simplificar un rango de horario de 8 a 16.  
+Le podríamos poner por noticias, por sesiones, 
+etcétera. Vamos con la gestión de riesgo. Aquí  
+vamos a configurar el tamaño de la posición, es 
+decir, el lotaje. No vamos a usar lote fijo, vamos  
+a usar porcentaje de riesgo sobre el balance. Es 
+la única forma profesional de hacer trading. Para  
+ello, en lugar de hacerlo yo, voy a activar a Copa 
+Lotía para que me ayude a terminar el bot y le voy  
+a pedir que quiero que el lotaje se calcule por 
+ATR, que me diga cómo hacerlo. Se lo escribo en  
+el chat y le doy a enviar. Listo. Aquí me dice 
+exactamente cómo hacerlo. Me propone los nodos  
+a emplear. En este caso, selecciono el de tamaño 
+de posición y hecho. Ya tengo la gestión de lotaje  
+automatizada. Ahora llegó el momento de incorporar 
+los nodos de acción de buy y sell. Busco un nodo  
+de compra y otro de venta, ambos a mercado, que 
+serán los que ejecutarán las órdenes en cuanto  
+reciban la señal del cruce. Los busco, selecciono, 
+by s, los arrastro al cana y ya los tengo listos.  
+Aquí un punto importante, como quiero que se dé 
+toda la lógica completa para cada señal y no solo  
+una parte, es decir, quiero que haya un cruce de 
+medias, que el ADX esté por encima de 25 y que  
+se dé la señal dentro del rango horario, lo que 
+tengo que hacer es unir estas tres condiciones  
+con un lógico, un ilógico. Así que simplemente lo 
+busco, selecciono y lo añado al cana. Básicamente  
+lo que hace este nodo es que solo enviará la 
+señal en la salida cuando se den a la vez todas  
+las condiciones que le tengamos conectadas. Creo 
+uno con las señales de buy y otro con las de sell.  
+Conecto ambos nodos, cada uno a su nodo de acción, 
+al buy, al sell y aquí ya tendríamos el bot de  
+trading listo y operativo. Ahora llega el paso más 
+importante, la generación de código. Simplemente  
+hacemos clic en construir bot, directamente nos 
+genera el código, lo descargamos y ahora sí nos  
+vamos a la carpeta de Metatrader. Una vez aquí 
+ya en el Metatrader, le damos doble clic, se  
+nos va a abrir en el metaeditor. Aquí simplemente 
+hay que darle a compilar y listo. Aquí lo vemos,  
+cero errores y cero warnings. Esa es la magia de 
+Tchain. Código perfecto. A la primera. Abrimos  
+el probador de estrategia desde el menú ver. 
+Seleccionamos el exper advisor que acabamos de  
+crear. El símbolo, pues por ejemplo, el euroólar, 
+que es el que tengo más datos y siempre utilizo,  
+por lo que lo tengo más actualizado, y el time 
+frame H1. La primera configuración crítica es el  
+modelo de simulación. Aquí tenemos varias 
+opciones. Las principales son every tick,  
+Everytic based on real ticks y open price 
+only. Para una estrategia basada en cruces de  
+media en H1, open price only, es decir, precios de 
+apertura solo, es válido y mucho más rápido porque  
+solo ejecuta la lógica en el cierre de cada vela. 
+Para esta estrategia es más que suficiente. Every  
+tic o cada tic sería necesario para estrategias 
+que usen stopl ajustados que podrían activarse  
+en cualquier momento, por ejemplo, en cualquier 
+momento dentro de una vela y no solo al cierre.  
+Dado que nuestra estrategia usa stop basado en ATR 
+con amplitud suficiente, open price only es más  
+que correcto aquí en este contexto. La segunda 
+configuración es el periodo de datos. Carga al  
+menos un año de datos históricos para el mercado 
+que quieras back testear, en mi caso, el eurodólar  
+en H1. Un periodo más corto puede no incluir 
+suficiente variedad de regímenes de mercado  
+para que el resultado sea realmente informativo. 
+Un año debería incluir periodo de tendencia,  
+periodos laterales y periodos de alta volatilidad, 
+que es el mínimo para una evaluación mínimamente  
+razonable. La tercera configuración es el 
+capital inicial y el modo de gestión de posición.  
+Típicamente se usa el capital inicial de 
+10,000 unidades monetarias y activamos el modo  
+de porcentaje de riesgo que hemos definido como 
+parámetro. Esto permite que el sistema dimensione  
+las posiciones en función del capital disponible 
+en cada momento del backtest, que es más realista  
+que un tamaño fijo de lote. Con estas tres 
+configuraciones correctas ejecutamos el back test.  
+Los resultados están en pantalla y aquí es 
+donde la mayoría de la gente lee las métricas  
+equivocadas y saca conclusiones que no soportan el 
+análisis. Ejecutamos el backte y esperamos que la  
+barra verde llegue al final. Como es un bot muy 
+simple, lo hace muy rápido. En Metatrader 5 se  
+nos abrirá una ventana emergente donde podremos 
+ver la ejecución de L. En Metatrader 4 se está  
+ejecutando y se realizará directamente en 
+el mismo Metatrader. En la parte inferior  
+del probador de estrategia verás varias pestañas. 
+Para este análisis inicial nos centraremos en tres  
+principales: gráfico, back test accesible desde 
+el propio Metatrader y operaciones accesibles  
+desde la ventana emergente. El orden que las lees 
+es vital para no engañarte. Empieza por aquí. No  
+mires los números todavía, mira la forma. Buscamos 
+tres cosas. Una tendencia general alcista.  
+caída de drynow uniformes. Si ves un desplome 
+enorme que domina todo el gráfico, la gestión  
+de riesgo ha fallado. Consistencia, que el bot 
+no haya ganado todo el dinero en una sola semana  
+de suerte y el resto del tiempo se esté plano 
+o esté perdiendo. Si el gráfico tiene sentido,  
+pasamos a los datos puros en la pestaña back test. 
+Aquí están las métricas que dictan sentencia.  
+Drown máximo. Si supera el 20% del capital 
+inicial es una señal de alarma roja total.  
+Significa que el sistema es demasiado agresivo 
+o inestable para la mayoría de las cuentas en  
+real. Factor de beneficio o profit factor. 
+Buscamos que sea superior a 1.2. Esto indica  
+que el sistema tiene una ventaja matemática 
+real. Si es menor el spread y las comisiones,  
+probablemente se comerán tu cuenta. Porcentaje 
+de victorias. o win rate no tiene por qué ser  
+del 90%, pero debe ser coherente con tu relación 
+riesgo beneficio. Finalmente, revisa la pestaña  
+operaciones. Aquí podrás ver el listado completo 
+de ejecuciones. Fíjate en el número total de  
+transacciones. Este es el dato que más se ignora. 
+Si en un año tu voz solo ha hecho 20 operaciones,  
+el resultado es basura estadística, no es 
+interpretable. Necesitamos al menos entre  
+50 o 100 operaciones para empezar a confiar 
+en los números. Si tienes poca, la solución  
+es clara. o amplías el periodo de datos históricos 
+o vuelves a Tchain para ajustar la sensibilidad de  
+tus indicadores y que detecten más oportunidades. 
+Has construido un SP advisor totalmente funcional  
+para Metatrader 5 sin escribir código. Has 
+configurado el probador de estrategia con los  
+parámetros correctos y has ejecutado tu primer 
+backtest con datos y resultados reales. Pero hay  
+algo que quiero dejar absolutamente claro antes 
+de que termines este vídeo. Lo que has visto hoy  
+es el primer back test de verificación mecánica, 
+no es el análisis de validación final. Que los  
+resultados sean positivos hoy no significa 
+que el sistema esté listo para operar en real  
+y que sean negativo no significa que sea una mala 
+estrategia. El back test de hoy tiene un objetivo,  
+confirmar que la mecánica funciona, que el sistema 
+entra cuando debe entrar, sale cuando debe salir  
+y aplica la gestión de riesgo como se definió. 
+Eso es lo que hemos verificado hoy. La validación  
+real, el análisis de si el sistema tiene una 
+ventaja estadística real sobre el mercado o no,  
+requiere de un proceso más riguroso que incluye, 
+por ejemplo, divisiones de datos de entrenamiento  
+y validación, análisis de robustez paramétrica 
+y pruebas de condiciones fuera de muestra. Ese  
+proceso es lo que separa un sistema que parece 
+funcionar de uno que realmente funciona y es  
+el tema del siguiente vídeo. Hemos resuelto la 
+construcción mecánica. Tienes un bot operativo  
+y un primer back test ejecutado. El siguiente 
+problema es el más importante antes de poner  
+el sistema en demo o en real y es cómo saber 
+si lo que tienes es un sistema con ventaja  
+real o un sistema que ha aprendido de memoria 
+al pasado sin ninguna capacidad predictiva.  
+Esta distinción requiere de un protocolo de 
+validación específico y hay un error en particular  
+que casi todo el mundo comete en esta fase. Lo 
+cubro en el siguiente vídeo. Nos vemos dentro.
+[música]

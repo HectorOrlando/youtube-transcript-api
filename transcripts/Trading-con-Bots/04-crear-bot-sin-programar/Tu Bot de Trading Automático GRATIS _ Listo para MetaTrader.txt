@@ -1,0 +1,764 @@
+Titulo              : Tu Bot de Trading Automático GRATIS | Listo para MetaTrader
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2025-12-17
+Duracion            : 31:51
+Vistas              : 3,135
+URL                 : https://www.youtube.com/watch?v=5qu51xLy_Cs
+----------------------------------------------------------------------
+
+El 90% de los que descargáis este bot
+gratis vais a quemar vuestra cuenta en
+menos de una semana. Lo sé porque yo
+también lo hice. Pero tras 270 horas de
+ingeniería inversa y utilizar
+inteligencia artificial descubrí que el
+problema no era el bot, eran los
+números, por lo que adopté una
+estrategia diferente. Utilicé el poder
+de la IA para evolucionar el bot con el
+fin de convertir un sistema mediocre en
+una máquina de rentabilidad. Y esto fue
+lo que pasó. Y sí, al final del vídeo te
+regalaré el bot y lo que vale más que el
+propio bot, el archivo con los
+parámetros ganadores.
+Sé lo que estás pensando. Dame el bot y
+los números ya, pero si te los doy sin
+que entiendas el proceso, vas a perder
+todo tu dinero en la próxima semana,
+cuando el mercado cambie, te lo aseguro.
+Necesitas entender la lógica que hay
+detrás. Y para que puedas entender todo
+perfectamente y exprimir el bot al
+máximo, he creado esta hoja de ruta en
+cuatro pasos. Primero, la construcción
+de la base. Vamos a replicar la
+estrategia típica de medias móviles.
+Usaremos este chain para hacerlo visual
+y rápido, porque programando a mano
+estaríamos como poco un par de días y
+tenemos solo un par de minutos. Segundo,
+la evolución. Una vez que tengamos la
+base del botal, vamos a evolucionar la
+estrategia de básica y perdedora a
+intermedia y rentable, pero no queremos
+que simplemente pase de negativo a
+positivo. Queremos el máximo positivo
+que esta estrategia pueda darnos, por lo
+que aplicaremos el poder de la IA para
+mejorarla al máximo. Tercero, el test de
+estrés. Vamos a lanzar 10,000
+combinaciones distintas contra el
+mercado. Veremos fallos, veremos cuentas
+quemadas y veremos cómo el algoritmo
+genético va descartando la basura hasta
+finalmente encontrar y seleccionar las
+3,000 mejores estrategias. Y cuarto, la
+revelación. Te mostraré la Gold Zone o
+zona de recitos de oro. es la
+combinación exacta de stop loss, take
+profit y periodos de medias móviles que
+han sobrevivido a años de data
+histórica. Empecemos por los cimientos.
+En el vídeo anterior definimos la
+lógica. Comprar si el precio está sobre
+la EMA de 200 y la EMA 13 cruza la de
+26. Suena fácil. Pero, ¿cómo le
+explicamos esto a tu ordenador? Tu
+ordenador no tiene intuición, no siente
+el mercado, solo entiende una cosa. Si A
+es verdadero y B es verdadero, entonces
+ejecuto C. Podríamos estar tr días
+escribiendo código para explicarle la
+estrategia completa a la máquina o
+podemos hacerlo en 30 segundos. Para eso
+usaremos No Code Generator. Para el que
+no lo conozca es como un Lego para
+traders. Simplemente cogemos,
+arrastramos los bloques y la estrategia
+se escribe sola. En este caso tengo ya
+el flujo aquí montado y quiero que te
+fijes en esto. Vamos a conectar el
+último parámetro que es el buy para que
+ejecute la compra. Y fíjate en esto
+porque es la diferencia entre un bot que
+gana y uno que quema cuentas. Primero el
+gatillo lo tenemos aquí en la parte
+superior. Aquí está el cruce de la 13
+con la 16. Esto es el acelerador, es
+decir, le dice al bot cuándo arrancar.
+En cada cruce se va a activar la señal
+de cruce. Segundo, el freno de
+emergencia. Esta es la condición de la
+media móvil de 200. Y atento aquí,
+porque lo que le estamos diciendo al
+algoritmo es una condición an, una
+lógica buleana, es decir, un i. Le
+estamos diciendo que se tiene que dar la
+condición del cruce alcista y a la vez
+que el precio actual esté por encima de
+la media móvil. Y en este caso se
+ejecutaría la señal de salida, el
+resultado que sería la condición que
+activaría el nodo de compra a mercado.
+Aquí nosotros configuraríamos el lotaje
+que queramos, los pit de entrada,
+incluso podríamos fijar stop loss, take
+profit y si quisiésemos otro tipo de
+cálculo para take profit o stop los oar
+algún tipo de indicador, conectaríamos
+aquí a las entradas los indicadores o
+los cálculos que nosotros eh queramos.
+Pero bueno, en este caso ya tendríamos
+aquí el bot hecho. Entonces,
+directamente lo voy a plegar todo, lo
+reestructuramos
+y aquí tendríamos nuestro bot de medias
+móviles. Ahora simplemente cogemos,
+elegimos la plataforma Metatrader 4,
+construir bot y aquí tenemos el código
+completo. Fijaros lo que es esto. Aquí
+tenemos todo el código completo de
+nuestro bot de medias móviles. Hemos
+tardado ni un minuto y hemos escrito
+literalmente cero línea de código. Ahora
+simplemente le daría a descargar y
+listo. Aquí tendría el bot descargado.
+Pero no queremos un bot, queremos el
+mejor bot posible. Entonces, una vez que
+tenemos nuestro primer diseño, ¿qué
+podríamos hacer aquí para mejorarlo?
+Pues bien, seguramente vosotros ya
+sepáis qué podéis hacer para mejorarlo o
+tenéis alguna idea, porque siempre que
+diseñemos alguna estrategia, bien será
+sobre una estrategia nuestra que estemos
+probando en la que queremos probar algo,
+o bien será sobre alguna estrategia que
+hayamos aprendido en alguna formación,
+algún vídeo de YouTube, etcétera, que la
+queremos llevar a la práctica. Entonces,
+sabremos un poco ya por dónde va la
+estrategia y podremos mejorarla, pero
+vamos a suponer que no la sabemos o que
+estamos atascados y no sabemos cómo
+mejorarla. ¿Qué hacemos en ese caso?
+Pues muy sencillo, nos vamos aquí a este
+botón que tiene el icono de un
+salvavida, lo ejecutamos y nos abre
+automáticamente el analizador de
+estrategia con inteligencia artificial.
+Le voy a dar a ejecutar. Le doy a
+ejecutar y os explico rápido qué es lo
+que hace, porque es muy rápido. Va a
+analizar el proyecto, va a revisar la
+estructura, va a verificar todas las
+conexiones y va a validar la lógica.
+¿Para qué? Para comprobar que todo está
+en su sitio, que todo está como tiene
+que estar, que no se nos ha olvidado
+conectar nada, que todas las conexiones
+son correctas y lo que va a hacer luego
+es validar la lógica, es decir, va a ver
+qué puntos fuertes tiene nuestra
+estrategia. o nuestro bot, qué puntos
+débiles tiene nuestro bot igualmente y
+nos va a dar recomendaciones o puntos
+clave de mejora que nosotros ya los
+hemos podido o no tener en cuenta, pero
+nos lo va a decir aquí para que veamos
+si queremos hacerlo o no. Fijaros, ya
+está aquí superrápido el informe. ¿Y qué
+tenemos por aquí? Y pues nos dice,
+puntuación general 72 sobre 100, estado.
+Bueno, y aquí nos dice, en resumen, nos
+dice de qué de qué va. Pensar que este
+bot lo hemos construido nosotros y
+sabemos perfectamente cómo va, pero que
+este bot lo podíamos haber sacado de la
+biblioteca donde tenéis literalmente
+cientos de bots y queréis saber qué es
+lo que hacen, cómo se pueden mejorar,
+cómo funciona, entenderlo. Aquí nos lo
+va a explicar. Entonces nos dice,
+resumen, estrategia basada en cruces de
+medias móviles, la de 13 sobre la de 16
+con filtro de tendencia en media móvil
+de 200. La lógica es coherente y solo
+opera compras cuando el precio está
+sobre la media móvil de largo plazo. Sin
+embargo, carece de señales de venta,
+gestión dinámica de riesgos y filtros
+adicionales para evitar operaciones en
+condiciones desfavorables. Bueno, nos ha
+dicho de qué va la estrategia, nos dice
+qué tiene de bueno, qué tiene de malo,
+si es coherente o no y acertado en todo,
+evidentemente porque lo acaba de
+analizar. Vemos que tenemos cuatro
+puntos de fortaleza. Lo voy a decir muy
+rápido. Aquí nos dice que la lógica de
+trading es coherente y está probada.
+Perfecto. La estructura de los nodos
+está correctamente conectada. Bien, no
+hemos hecho ningún fallo. La gestión
+básica de riesgo está implementada, por
+lo que ya tenemos una gestión básica que
+quiere decir que va a haber una gestión
+y nada se va a quedar sin gestionar, por
+lo que es totalmente 100% automática. Y
+tenemos el filtro de ruido que es el
+cruce de la media móvil de 200.
+Entonces, vale, perfecto. Pero también
+nos dice que se han detectado problemas.
+Problemas en este caso, seis problemas
+detectados. Uno, estrategia
+unidireccional,
+solo realiza compras. Y nos dice, "La
+estrategia únicamente abre posiciones de
+compra, no tiene lógica para ventas,
+para sel, lo que significa que ignorará
+completamente las tendencias bajistas."
+en mercados descendentes, la estrategia
+simplemente no operará o peor, intentará
+comprar en contratendencia y nos da la
+solución, aquí la tenemos, añadir un
+nodo sell market con condiciones
+inversas. Simplemente, ¿qué haríamos?
+Pues lo voy a enseñar ahora porque es
+muy rápido y muy fácil, pero fijaros,
+aquí ya tenemos el primer fallo
+detectado. Evidentemente ya lo sabíamos
+porque lo hemos hecho y lo que quiero
+enseñaros es cómo podéis mejorar y
+evolucionar cualquier estrategia de
+trading con la inteligencia artificial,
+aunque no tengáis ni idea de qué va la
+estrategia y aunque no tengáis ni idea
+de trading. Y ese es el poder que ofrece
+este tipo de análisis. Nos dice también
+falta de filtro de spread o volatilidad.
+y nos dice, aunque el nodo de BU tiene
+configurado un sprint máximo de 30 pips,
+este valor es extremadamente alto y
+podría permitir operaciones durante
+momentos de alta volatilidad con costos
+de transacción excesivo, que es donde no
+queremos operar. Entonces, nos dice
+solución, reducir el spread de 10 a 15,
+pues ya lo podríamos reducir. Nos dice
+también, ausencia de gestión dinámica de
+riesgo. El tamaño del lote está fijo en
+0.1. 1. Entonces nos dice que lo
+consideremos ir a un porcentaje de 1 o
+dos de la cuenta. ¿Y cómo lo hacemos?
+Pues muy sencillo. Nos dice la solución
+aquí, implementar un nodo de cálculo de
+lote basado en el 1 2% de la cuenta. Os
+lo voy a enseñar ahora también cómo se
+hace. Muy importante, la gestión es
+siempre el 80% de los beneficios de la
+cuenta. No lo olvidéis nunca. nos dice
+también sin gestión de trailing stop o
+break even y nos dice que una vez que la
+posición está abierta va a permanecer el
+stop los fijo en 50 pips, por lo que
+sería interesante pues acompañarla con
+un trailing stop y nos dice añadir nodo
+de trailing stop. Lo vamos a hacer ahora
+también porque recordar todo lo que se
+puede mejorar aquí lo voy a implementar,
+lo voy a mejorar aquí ahora porque este
+bot os lo voy a regalar y quiero que
+vaya con todo lo mejor que pueda ir ya
+el bot para que vosotros cacharreéis con
+él, hagáis vuestro B testing y lo
+exprimáis al máximo. Luego también nos
+dice parámetros de crossover que podrían
+optimizarse. Evidentemente nosotros
+hemos puesto la de 13 y 26, pero aquí
+hay que hacer el back testing que vamos
+a ver dónde vamos a elegir el mejor
+escenario y luego que falta filtro de
+trading horario. Evidentemente no
+queremos que el voto opere seguramente
+por la noche en los mercados porque no
+hay mucha volatilidad, no hay liquidez y
+tendríamos pues un problema, ¿no? Al
+final puede ser que incluso ganemos,
+pero que con el spread, etcétera,
+etcétera, comisiones que no nos va a
+salir a cuenta, ¿no? Entonces, las
+recomendaciones nos las dice aquí, son
+claras. Añadir señales de venta,
+implementar gestión dinámica, reducir el
+spread, añadir filtro, etcétera,
+etcétera. Así que vamos a por ello. Y
+bien, estamos aquí. Lo primero nos dice
+un nodo de venta a mercado. Pues bien,
+lo vamos a sacar por aquí el nodo de
+venta. Y ahora lo vamos a conectar y os
+voy a enseñar cómo se conecta por si
+vosotros luego queréis modificarlo o
+queréis eliminarlo del flujo, que sepáis
+cómo se hace. nos dice también que
+aumentemos la parte de la gestión de
+riesgo. Pues vamos a gestión de riesgo,
+por ejemplo, en protección vamos a
+añadir un nodo de trailing stop. Lo
+tenemos por aquí, trailing stop, si
+queremos distancia fija basada en el
+ATR, en porcentaje o en el bajo, en el
+alto. Yo lo voy a dejar en porcentaje en
+distancia fija, vosotros ya luego lo
+modificáis. Es decir, una vez que este
+nodo está aquí, esto ya se aplica. Yo lo
+cojo, lo cierro. Este no se conecta
+nada. Esos parámetros ya van a ir dentro
+del bot. O sea, así ya acabamos de
+añadir un trailing stop y luego vosotros
+en el back testing podéis modificarle
+los parámetros que queráis. Voy a añadir
+también el de cierre parcial. Y lo
+mismo, ¿qué va a hacer aquí? Pues dos
+niveles de cierre. El primero a 30 pips
+cerrará la mitad de la posición. Le
+decimo aquí primer cierre en 30 pips, el
+segundo cierre en 60 eh pips y cerraría
+el 30%. y el resto lo dejaría. ¿Qué va a
+pasar aquí? Pues fijaros que como
+nosotros en nuestro buy tenemos puesto
+que el take profit sea en 100, pues va a
+ir perfecto. Al 30 pips cerrará un 50%,
+a 60 pips cerrará un 30% y el restante
+20% que queda lo va a cerrar con el take
+profit original que tiene el buy. Así
+que perfecto. Esto ya os digo que es una
+de las claves de gestión que da que hace
+que una estrategia que pierda pueda
+pasar a no perder o incluso ganar
+bastante. Ya lo veréis. Probarlo
+vosotros como lo voy a regalar.
+Probarlo. Lo mismo. Este nodo no se
+conecta nada. Simplemente tiene que
+estar aquí y esto ya entra dentro del
+código. Ahora, punto importante que no
+se nos olvide, tanto en el nodo de
+compra a mercado como en el de venta a
+mercado, lo que hemos dicho es bajar el
+spread. Pues por ejemplo, le voy a poner
+un spread de 15 y aquí también un spread
+de 15 para que no opere si el spread es
+mayor a 15. No habrá ni compra ni ventas
+si el spread es mayor de 15. Y ahora
+simplemente vamos a conectar el nodo de
+venta. ¿Cómo lo vamos a hacer? Pues muy
+sencillo, os lo enseño aquí rápidamente.
+Tenemos la media móvil del cruce, ¿vale?
+Perfecto. La de 13, la de 16 y aquí
+tenemos el cruce alcista. ¿Qué haremos
+aquí? Bueno, pues vamos a llevarnos esto
+para otro lado. Lo vamos a poner, por
+ejemplo, por aquí. ¿Y qué hacemos? Pues
+nos van a servir las dos medias móviles
+exactamente igual. Solo necesitamos un
+cruce bajista. Pues directamente nos
+vamos a lógica, nos vamos a cruces y
+cojo el cruce bajista. Aquí lo tengo. Y
+conecto exactamente igual un cruce
+bajista de la de 13 en valor 1 sobre la
+de 26 en valor 2. Listo, ya tengo el
+cruce. bajista conectado aquí. ¿Qué
+tengo que hacer ahora? Pues lo
+conectaría directamente a venta, pero
+como quiero que se ejecute también el
+cruce del filtro de la media móvil de
+200, pues simplemente, ¿qué hago?
+replicar el flujo con un ant, es decir,
+como habíamos dicho un ant arriba, pues
+aquí lo mismo. Y le digo que se tiene
+que cumplir la condición del cruce
+bajista y la condición del precio. En
+este caso, fijaros que aquí en este nodo
+tengo puesto Gritterd mayor que estoy
+diciendo que el precio tiene que ser
+mayor que la media móvil, por lo que
+estoy diciendo que el precio esté por
+encima de la media móvil. Esto es un
+cruce bajista, quiero que el precio esté
+por debajo de la media móvil. Entonces,
+vuelvo a sacar un comparador, le pongo
+less done o menor que y lo mismo conecto
+el precio en el valor uno, la media
+móvil de 200 en el valor dos. Y aquí le
+estoy diciendo el precio tiene que estar
+por debajo de la media móvil. Y ahora
+esta salida la conecto al ANT. Ya tengo
+aquí el flujo listo. Y esto ahora sí que
+sí lo conecto al cell y ya está. ¿Qué
+tenemos aquí? Pues lo voy a plegar y lo
+resumimos. Vamos a plegarlo,
+organizamos,
+vamos a ponerlo de esta forma, que a mí
+sí me gusta más y creo que se va a
+entender mejor. Y sacamos los flujos,
+los colores de flujo para que lo veáis.
+Y fijaros con esto. Aquí tenemos el
+flujo del cel. Quiere decir que este
+conector y este conector, que es el de
+que el precio esté por debajo de la
+media móvil de 200 y que el cruce sea
+bajista, va en el flujo rojo y cuando se
+dan las dos condiciones ejecuta el cel.
+¿Qué tenemos en el cruce en el periodo
+contrario? Es decir, el de comprar pues
+lo mismo, el cruce alcista, que el
+precio esté por encima de la media móvil
+de 200, que se den las dos condiciones a
+la vez y que entonces compren. Y aquí
+tendríamos nuestro bot. Y en este
+apartado de aquí pues la gestión. Lo
+mismo, reorganizamos,
+eliminamos flujo, elegimos plataforma,
+por ejemplo, Metatrader 4, que sé que es
+la que más utilizáis. Le damos a
+construir bot. Pum, código creado. Aquí
+tenéis todo el código, pantalla
+completa. Aquí lo veis. Aquí está ya
+toda la lógica del bot sin escribir ni
+una sola línea de código. Este proyecto
+lo voy a guardar en la biblioteca. ¿Qué
+quiere decir eso? Pues que podréis
+entrar aquí en la biblioteca donde están
+todos los bots. Lo podréis buscar.
+Tendréis el bot. Este será el 13600136.
+Podréis entrar, importarlo al Canva.
+modificarlo y una vez que lo tengáis
+pues hacer todo lo que queráis con él.
+Igualmente para el que no tenga acceso a
+la plataforma que no se preocupe porque
+este bot tal cual lo voy a aquí
+ahora mismo. Le doy a construir, le doy
+a descargar. Aquí lo tengo ya
+descargado. Va a ir ahora al canal de
+Telegram el archivo tal cual para que os
+lo podáis llevar a vuestro Metatrader,
+aunque no tengáis acceso a la
+plataforma. Ahora, lo lógico sería poner
+esto en el gráfico y esperar a hacerse
+rico, ¿verdad? Pues no, porque acabamos
+de construir una trampa mortal. He
+lanzado un back test con esta
+configuración de libro y mira la
+pantalla. Empieza ganando. Parece que va
+bien y boom, cuenta a cero. Ruina total.
+¿Por qué? Porque 13 y 26 funcionaban
+bien en los años 80. Hoy los algoritmos
+de alta frecuencia cazan estos
+parámetros obvios. Si usas lo que usa
+todo el mundo, obtienes los resultados
+de todo el mundo. La ruina. Necesitas
+encontrar los parámetros que el mercado
+está respetando. Hoy entramos en la fase
+de fuerza bruta. Vamos a optimizar. ¿Qué
+significa optimizar? Básicamente vamos a
+pedirle al ordenador que juegue miles de
+partidas de ajedrez simultáneas contra
+el mercado, cambiando ligeramente los
+parámetros del bot en cada una. O lo que
+es lo mismo, el bot va a ejecutarse en
+el mercado real miles y miles de veces
+variando la configuración. En la partida
+uno usará las medias de 10 y de 20. En
+la partida dos usará las de 11 y las de
+21. En la partida 3 cambiará el filtro
+de la media de 200 a 150, etcétera, y
+así hasta probar todas las combinaciones
+matemáticas razonables.
+Esto tarda literalmente varios días,
+pero yo lo he hecho por ti. Ahí lo
+llevas. Ya veis lo que es esto. Una
+barbaridad. miles de combinaciones de
+las que hemos extraído las mejores, que
+son todas estas que ves aquí en
+pantalla. Aún así, siguen siendo muchas.
+Mira este gráfico de dispersión. Cada
+punto es un resultado. Hay un mar de
+puntos y si eliges al azar pierdes.
+Podemos ver que el eje de las X muestra
+el número de operaciones, por lo que
+mientras más a la derecha, más
+operaciones hizo el bot. Y el eje de la
+Y muestra el balance de la cuenta, por
+lo que cuanto más arriba, mayor
+rentabilidad dio el escenario. Viendo
+esto, la respuesta de cuál elegir parece
+lógica. El mejor escenario será el que
+esté más a la derecha y más arriba, es
+decir, el que esté en la esquina
+superior derecha, porque esto significa
+que hizo muchas operaciones,
+diversificando el balance y generando
+mayor rentabilidad. Esta diversificación
+es importante porque si hubiese generado
+1,000 € con una sola operativa en todo
+un año, la probabilidad de que esto
+fuese replicable o estable sería nula.
+Pero si ganó esos 1,000 € con 1000
+operaciones, significa que el resultado
+está diversificado y por lo tanto es
+relativamente estable en el tiempo. Y de
+hecho, fijaros que hay varios en esa
+zona superior derecha. tenemos donde
+elegir. Lógico y simple, ¿verdad? Pues
+no. Si eligiésemos así, estaríamos
+poniendo nuestra cuenta en grave riesgo,
+porque no estamos teniendo en cuenta
+factores claves como serían el drown del
+escenario u otros datos claves que
+necesitamos conocer para elegir de forma
+profesional y no tener que arrepentirnos
+luego. Para salir de esta situación de
+desinformación, necesitamos analizar los
+resultados de la optimización fuera del
+Metatrader para confirmar qué escenario
+es el mejor para nosotros. Para ello,
+simplemente hacemos clic derecho en la
+pantalla de optimización, guardamos
+informe y nos lo llevamos. Pues vamos
+aquí que te voy a enseñar ahora cómo
+analizar el informe de la optimización.
+Nos vamos aquí a la parte superior, al
+botón de analizador de optimizaciones.
+Ya veis que la gráfica, el icono, es
+bastante parecido a como se ve el
+propio, la propia gráfica de
+optimizaciones. Le damos click y
+directamente aquí no hay mayor misterio.
+Cogemos el informe que hemos generado
+ahora mismo, lo arrastramos y aquí lo
+tenemos. ¿Y qué vemos aquí en esta
+pantalla? Vemos todos los escenarios que
+se han generado, un total de 100
+escenarios que han pasado el filtro, de
+los más de miles y miles que se han
+analizado. En la parte de la gráfica lo
+que tenemos son todos los escenarios. En
+el eje vertical tenemos el beneficio
+total de cero al mayor beneficio
+alcanzado. En el eje horizontal tenemos
+el dry down de cero hasta el máximo dry
+down alcanzado. En este caso un 4%
+aunque no llega al final se quedan 371
+el escenario que mayor dryedown ha
+tenido. Y luego vemos que los puntos van
+de azul a verde. Esto es la escala del
+profit factor. Cero es cero de profit
+factor. Y cuanto más verde sea,
+significa que mayor es el profit factor.
+Si queremos una decisión rápida viendo
+la gráfica, queda claro que el escenario
+ideal estaría colocado aquí en la
+esquina superior izquierda. Es decir,
+cuanto más arriba y a la izquierda esté
+el escenario, significa que mayor
+rentabilidad y menor dryown ha tenido,
+por lo que también tendrá mayor profit
+factor. Rápidamente, aquí ya nos dan
+tres escenarios, el más equilibrado, el
+de máxima actividad y el más seguro.
+Fijaros que ya le pone eh el circulito
+alrededor. Igualmente, nosotros podemos
+ir navegando por todos los puntos. Ya
+veis que nos va a salir el pass, el
+número de pase, que es la ID del
+escenario. Nosotros iríamos a nuestra
+gráfica de optimización, buscaríamos
+este número y este sería el escenario
+que que deberíamos poner si quisiésemos
+este. Podemos ir pasando, sobre todo, no
+obstante, aquí en la parte inferior
+tenemos los escenarios recomendados en
+función de el más equilibrado, el de
+máxima actividad y el más seguro. Y
+esto, ¿cómo va? Pues muy sencillo, aquí
+nos dice el perfil de cada escenario. El
+mayor equilibrado pues sería para máximo
+beneficio con actividad muy alta. O sea,
+al que le guste un bot que genere mucha
+operativa, pues este bot va a generar
+mucha operativa versus también tener el
+máximo beneficio. Tenemos también el de
+máxima actividad, es decir, este tiene
+un volumen de operaciones extremo con un
+buen beneficio. Que si este fuese
+nuestro interés, pues sería este bot.
+¿Cuándo se podría este escenario?
+Pues por ejemplo, un perfil en el que se
+podría este escenario es si vamos
+a operar en una franja horaria limitada
+y necesitamos que sí o sí el bot ejecute
+operaciones. Entonces sería este porque
+tenemos mayor probabilidad de que opere
+sí o sí en esa franja horaria que
+nosotros queremos, en una noticia, un
+acontecimiento, etcétera. Y luego
+tenemos el más seguro, que es el más
+conservador, el que tiene el riesgo
+mínimo más bajo, es decir, un ded por
+debajo del 1%, manteniendo una buena
+actividad y una buena rentabilidad. Aquí
+nos explica la recomendación pues más
+detallada. Yo, en mi caso, para mí, voy
+a elegir el perfil 678,
+porque para mi perfil creo que es el que
+el que mejor me va. Este 678
+es el ID Pass, es decir, el ID del
+escenario.
+Ahora solo tengo que ir al informe y en
+la columna repaso buscar el ID de mi
+escenario. Hago doble clic en él y
+directamente se aplica ya la
+configuración a mi bot. Fin. Así de
+sencillo. Hemos elegido el mejor
+escenario para nosotros y lo hemos
+aplicado. Ha sido fácil, ¿verdad? Alto
+ahí. No corras a poner el escenario que
+hayas elegido en tu cuenta real. Te
+estoy tendiendo una trampa y has caído.
+Lo que acabamos de hacer es peligroso.
+Se llama overfighting o sobreajuste.
+Básicamente hemos torturado los datos
+hasta que han confesado lo que nosotros
+queremos. Hemos encontrado una
+configuración que funcionó perfectamente
+en el pasado porque se aprendió el
+gráfico de memoria. Es como predecir los
+números de la lotería de ayer. Es fácil
+acertar el pasado, pero no sirve para
+nada en el presente ni el futuro. Si
+usamos esta configuración
+superespecífica, lo más probable es que
+falle mañana, porque el futuro nunca es
+idéntico al pasado. Por lo tanto,
+necesitamos robustez, no perfección. ¿Y
+cómo solucionamos esto? Pues en lugar de
+buscar el punto más alto de beneficio en
+el pico de la montaña, vamos a buscar la
+meseta, un punto de optimización neutro
+que se comporte bien fuera del periodo
+de optimización. Tenemos que buscar una
+zona donde si cambiamos un poco los
+parámetros, el resultado siga siendo
+bueno. Si 185 es bueno, 180 y 190
+también debería serlo. Si 185 gana
+millones, pero 184 quiebra, eso no es
+suerte, no es un sistema. Es muy
+importante que entiendas esto porque el
+futuro de tu cuenta de trading depende
+de ello. Y no solo quiero que lo sepáis,
+quiero que lo entendáis, que sepáis cómo
+se hace y por qué debe hacerse. Por eso,
+te voy a explicar ahora mismo el método
+exacto para que tú también aprendas a
+hacerlo y puedas llevar tus estrategias
+de trading al siguiente nivel de forma
+profesional. Porque llegados a este
+punto, tenemos que hacernos la siguiente
+pregunta lógica. ¿Cómo sabemos si el
+escenario 678
+es un genio o simplemente tuvo suerte?
+La respuesta está en el Wall Forward
+Analysis. Es la única prueba de fuego
+que necesitas aprender para valorar
+correctamente tus optimizaciones. Si el
+bot sobrevive a esto, sobrevive a casi
+todo. Si no sabes qué es o cómo
+ejecutarlo, no te angusties porque te lo
+explico ya mismo. Funciona así. En lugar
+de optimizar todo el pasado de golpe
+hasta el día de hoy, cayendo en la
+trampa del sobrejuste, hacemos lo
+siguiente. Cortamos el historial en
+trozos. Hacemos la optimización usando
+datos de 2018, por ejemplo, a 2020 y
+dejamos que el ordenador encuentre la
+mejor configuración. Y aquí viene el
+truco. Esta configuración la probamos
+luego de 2020 a 2021. un año que el bot
+nunca ha visto es terreno desconocido.
+Si el bot gana dinero en 2020 con lo que
+aprendió del 18 al 20, tenemos un
+sistema robusto. Si pierde era
+overfighting o lo que es lo mismo,
+basura memorizada. Repetimos el proceso,
+optimizamos
+2019 y 2020 y probamos en 2021. Y
+hacemos esto año tras año hasta llegar
+al año realo.
+Y aquí es donde encaja la pieza final,
+lo que yo llamo la zona de recitos de
+oro. Fíjate en este gráfico 3D de la
+optimización. La mayoría busca este pico
+alto afilado de aquí. El recuadro rojo,
+el que más rentabilidad dio en la
+optimización. Eso es un error. Si el
+mercado se mueve 1 mm y te aseguro que
+se moverá, te caes por el precipicio y
+pierdes tu cuenta de trading por
+completo. Nosotros no buscamos el pico,
+buscamos la meseta, buscamos esta zona
+de aquí. Fíjate que no es el punto más
+alto. Ganamos un poco, menos que en el
+pico, pero si el mercado cambia seguimos
+ganando. Si vienen noticias o eventos
+puntuales que mueven todo, se sigue
+ganando. Esto es estabilidad. Esto es lo
+que aguanta una guerra, una pandemia,
+una subida de tipos de interés,
+etcétera. ¿Y qué hacemos ahora? Pues
+ahora sí, con todas las optimizaciones
+realizadas en los diferentes periodos y
+puestas a prueba en el mercado real,
+solo tenemos que mediar todos los
+parámetros. Si por ejemplo tenemos que
+para la media móvil inicial de 13, los
+parámetros obtenidos en las
+optimizaciones eran 10, 20 y 30, pues
+cogemos la media, que en este caso sería
+el valor 20 y ese sería el valor de
+nuestra media. Así con todos los datos
+de nuestra estrategia. Ahora con todo
+calculado, cargamos estos nuevos
+parámetros robustos y lanzamos el test
+final desde 2020 hasta hoy, incluyendo
+comisiones y deslizamiento real. Míralo,
+no es una línea recta perfecta hacia el
+cielo, eso sería una estafa que las hay
+y mucho. Sin embargo, este back test
+tiene sus meses malos, tiene sus dry
+down, pero siempre se recupera y marca
+nuevos máximos. Esto, señores, ya no es
+un bot de juguete, es una herramienta de
+inversión profesional. Lo prometido es
+deuda. El bot y más importante aún este
+archivo. Con la configuración de la zona
+de ricitos de oro que acabamos de
+descubrir están listos para ti. Ahora
+tienes el Ferrari, el bot y tienes el
+combustible, los parámetros. Ya puede
+salir a la pista, pero ten mucho cuidado
+porque hay un punto ciego en este back
+test que no hemos mirado hoy. Un error
+estadístico oculto en los informes de
+Metatrader que puede hacerte creer que
+ganas cuando en realidad estás perdiendo
+dinero por el enlipaje y las comisiones
+ocultas del broker. Tu escenario parece
+perfecto, pero si no le pasas esta
+auditoría de IA que explico en este
+vídeo, podrías estar operando una
+ilusión matemática. Haz clic para
+auditar tu bot antes de poner un solo
+euro en real. Es obligatorio si quieres
+que el bot sobreviva.

@@ -1,0 +1,573 @@
+Titulo              : ¿Bots estáticos? Cómo construir una IA que aprende sola para no quemar tu cuenta
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-03-04
+Duracion            : 31:56
+Vistas              : 2,121
+URL                 : https://www.youtube.com/watch?v=dwooYvl7OdA
+----------------------------------------------------------------------
+
+¿Por qué el 90% de los traders queman sus cuentas 
+en el primer mes? La respuesta es cruel porque  
+siguen usando bot de trading e indicadores del 
+siglo pasado que son completamente ciegos. Lo  
+que ves aquí no es suerte y no es trading 
+automático, es trading autónomo con IA. Es  
+un ecosistema de jerarquía cognitiva de trading 
+inteligente, detectando un colapso en tiempo real  
+y salvando tu capital. Después de analizar 
+más de 1000 bots de trading, descubrí que el  
+problema no es tu estrategia de entrada. Sé que 
+estás frustrado porque tus configuraciones ganan  
+un día y lo pierden todo al día siguiente. Hoy no 
+vamos a programar, vamos a construir nodo por nodo  
+un agente estratégico de inteligencia artificial 
+autónoma. Si ignoras este vídeo y lo que te voy  
+a compartir en él, seguirás apostando a ciegas y 
+perdiendo todo tu dinero. Quédate porque al final  
+te revelaré la pieza de memoria cool learning 
+que diferencia a los trader novatos de los trader  
+rentables y te regalaré un bot de trading IA que 
+te hará reemplantearte todo lo que creías saber  
+sobre el trading. Porque el futuro del trading no 
+es la automatización con la IA, es la autonomía.  
+total, consistente y rentable. Es poder crear un 
+bot totalmente autónomo y adaptativo al régimen  
+del mercado para que tú puedas dedicarte a otra 
+cosa. Sé que suena demasiado bueno y lo es,  
+pero para que esto funcione necesitamos 
+estructura. En los próximos 20 minutos vamos  
+a ver exactamente cinco cosas indispensables 
+para un bota. Primero, los ojos para ver el  
+mercado. Segundo, la intuición matemática. 
+Tercero, el juicio con filtro de calidad.  
+Cuarto, la orquestación mediante el selector 
+y el secreto final, el escudo que te ayudará a  
+proteger tu cuenta de trading. Pero no empezamos 
+con una estrategia en blanco porque con el nodo  
+de generación automática extraemos un archivo 
+optimizado con la mejor estrategia para nuestro  
+mercado favorito en segundos. Así que quédate 
+porque si quieres ser rentable en el 2026 con  
+tu trading, esto te interesa porque esto es 
+ingeniería financiera real aplicada. Esto es  
+techin. La mayoría de los bots operan igual 
+sin importar el contexto, pero el mercado  
+cambia constantemente de tendencia a rango. Por lo 
+tanto, tuvimos que crear el tier 1, los analistas.  
+Aquí arrastramos nuestro primer nodo, el detector 
+de régimen. En lugar de dar señales de compra,  
+este nodo actúa como un meteorólogo. Nos dice 
+si el mercado está soleado, en tendencia o con  
+tormenta en caos. Saber el régimen del mercado 
+está bien, pero necesitamos visión panorámica.  
+Para ello vamos a añadir el nodo de inteligencia 
+de tendencia, porque para que nuestro trading sea  
+realmente efectivo, necesitamos una visión 360 del 
+mercado. Necesitamos saber qué está ocurriendo en  
+todos los timeframes. Y para evitar la ruina 
+absoluta, añadimos el guardián de anomalías.  
+Este nodo calcula el Z score en tiempo real, 
+automático, para que tú no tengas que hacer nada.  
+Si hay un pico extremo de volatilidad mayor 
+a tres, bloquea toda la operativa salvando tu  
+cuenta de trading. Con estos tres nodos, solo tres 
+clics, acabas de construir tu primera victoria. Tu  
+bot ya no opera en medio de huracanes financieros 
+y te acabas de acercar más que nunca al verdadero  
+trading profesional, consistente y rentable. Hasta 
+aquí todo parece lógico, ¿verdad? Configuramos  
+los tres nodos y listo, a imprimir dinero. Pero 
+aquí es donde la mayoría de los traders pierden  
+su cuenta en la primera semana. Saber que no hay 
+tormenta no te dice en qué dirección debes correr.  
+Si no activas la inteligencia que te voy a enseñar 
+ahora, todo este sistema no te servirá de nada.  
+Vamos a verlo. Entramos al tier 2. La intuición. 
+Olvida el cruce de medias. Vamos a usar machine  
+learning avanzado. Arrastramos un random forest, 
+un comité de 50 árboles votando democráticamente  
+para filtrar ruido. O si usa Metatrader 5, podrías 
+conectar una red LSTM que recuerda el movimiento  
+del precio. Llegados a este punto, especialmente 
+si venimos de bot estáticos tradicionales,  
+nos puede parecer que con machine learning y redes 
+neuronales será suficiente. Pero si pensamos esto,  
+estaremos muy muy equivocados. Cuando 
+analizamos los datos de forma profesional,  
+descubrimos algo aterrador. La IA sin supervisión 
+constante sufre de exceso de confianza y dispara  
+cientos de señales falsas al mercado. Por lo 
+tanto, tuvimos que crear un juez implacable, el  
+tier 3. Aquí es donde añadimos el nodo de filtro 
+de señales IA. Este nodo utiliza un perceptrón  
+para analizar sprint y liquidez. Si la puerta 
+de confianza es menor al 70%, la operación se  
+bloquea. Preferimos no operar que perder. Da igual 
+todas las señales que quieran generar los modelos  
+de inteligencia artificial. Solo las mejores 
+pasarán el filtro, el resto serán descartadas.  
+Se acabó el tenerte que estar preguntando si un 
+trade es bueno o no, si será ganador o perdedor.  
+Tu voz de trading Fulia autónomo hará todo 
+este trabajo por ti y de forma más eficiente,  
+ágil, precisa y efectiva. Ahora, ¿qué pasa si 
+tienes tres estrategias corriendo a la vez?  
+Porque sinceramente, si quieres ser un trader 
+algorítmico rentable, la diversificación es la  
+llave del éxito. Usamos el tier 4, orquestación 
+y para ello solo tenemos que arrastrar el nodo  
+de selector adaptativo de estrategia. El algoritmo 
+incorporado asigna tu capital automáticamente a la  
+estrategia que está en racha sin que tú tengas 
+que hacer nada. En este nivel del flujo de tu  
+botía, el sistema toma el control total de la 
+orquestación. Tienes tres mecanismos poderosos que  
+puedes poner a trabajar en conjunto. Primero, el 
+semáforo, que actúa como un enrutador inteligente,  
+detecta el régimen del mercado en tiempo real y 
+decide automáticamente qué estrategia activar.  
+Segundo, la democracia, un votante de conjunto 
+que combina las señales de múltiples estrategias  
+usando pesos adaptativos para llegar a una única 
+decisión ponderada y mucho más robusta. Y tercero,  
+el cazatalentos, el selector de estrategias, que 
+es el que hemos incorporado en este ejemplo, y  
+evalúa el rendimiento dinámico de cada estrategia 
+y usando algoritmos de muestreo asigna tu capital  
+automáticamente a la que esté en racha sin que 
+tú tengas que mover un solo dedo. Con estos tres  
+bloques que puedes combinar o utilizar por 
+separado, puedes construir desde cero un bot  
+básico pero robusto hasta un ensamble científico 
+con validación cruzada completa. La arquitectura  
+escala contigo, tú pones la visión, el sistema 
+pone la inteligencia. Sé que esto parece mucha  
+configuración técnica, pero esto es trading 
+cuantitativo, profesional, rentable y consistente.  
+Todo lo demás, bueno, ya lo conoces. Quiero ser 
+sincero contigo, cuando te inicia en el trading,  
+cuando quieres mejorar tu estilo de vida, mejorar 
+tus finanzas, obtener un dinero extra, etcétera,  
+básicamente tienes dos opciones. La primera 
+es recurrir a sistemas simplistas. estrategias  
+absurdas o bots básicos que terminan quebrando 
+siempre tu cuenta y tu esperanza. Pero esto  
+seguramente ya lo sepas si lleva más de 2 tr meses 
+en el trading, por lo que esta primera opción  
+fácil y bonita, no sirve para nada más que para 
+hacerte perder tiempo y dinero. Yo te traigo la  
+segunda opción, la profesional, la que necesitas 
+para ser rentable, la que realmente funciona y  
+que funciona hoy a diario, funciona ahora mismo 
+en alguno de los mayores fondos de inversión del  
+mundo. Funciona conmigo a diario y funcionará 
+contigo. No es la más atractiva inicialmente,  
+eso es cierto. te va a requerir disciplina y 
+dedicación como cualquier profesión en esta vida,  
+pero créeme que la recompensa es enorme y no creo 
+que haya otros negocios en el mundo que te puedan  
+hacer avanzar tanto y tan rápido hacia tus metas 
+económicas como lo que te comparto en este vídeo.  
+Pero evidentemente la decisión no es mía, depende 
+de ti. Y si tú no luchas por tus objetivos,  
+no esperes que nadie lo haga por ti. Como dijo 
+Albert Einstein, la definición de locura es hacer  
+lo mismo una y otra vez esperando un resultado 
+diferente. Y para probarte que esto realmente  
+funciona y no es solo teoría bonita, no lo vamos 
+a probar en un mes. Vamos a simular todo el 2025  
+en los próximos 60 segundos. Vamos a ello. Bueno, 
+aquí os tengo ya los nodos plegados para que entre  
+todo mejor y para explicaros cómo funciona. 
+Aquí tenemos los dos nodos que van a generar  
+las señales, es decir, el de inteligencia de la 
+tendencia y el random forest. Estos son los dos  
+nodos que van a generar las señales, es decir, son 
+las dos estrategias que vamos a utilizar. Estos  
+dos nodos van conectados al selector de estrategia 
+adaptativo, que es quien va a decidir si utiliza  
+la estrategia uno o la estrategia eh dos. La 
+conexión es muy sencilla. Ya veis que simplemente  
+compra eh y venta estrategia uno, compra y venta 
+estrategia dos. O sea, no hay ningún misterio,  
+simplemente la compra la conectamos en compra y 
+la venta en venta. De esta forma ya tendríamos  
+aquí el nodo o el módulo completo de nuestras dos 
+estrategias con el selector que las va a utilizar.  
+Siguiente paso, estas estrategias, una vez que 
+pasen el selector decida si va a utilizar la uno  
+o la dos, el flujo normal será llevarlo hacia 
+el filtro de señales. En el filtro de señales,  
+nosotros podemos decir el umbral de paso que 
+queramos. Yo lo voy a dejar en 051. Cuanto  
+mayor sea este umbral, mayor será la exigencia o 
+la calidad de la señal que vamos a solicitar para  
+que pase. Una vez que se selecciona una estrategia 
+y supera el filtro de señales, pues ya están  
+listas para llegar a la siguiente fase, ¿no? La 
+fase previa al guardián de anomalía, pero claro,  
+hasta aquí llegan las señales de las estrategias 
+brutas. ¿Y qué queremos? pues queremos detectar el  
+régimen del mercado, es decir, el mercado está en 
+tendencia, en rango, en cao volátil, en dirección  
+alcista, en bajista, porque evidentemente vamos 
+a tener señales de compra y de venta y queremos  
+mayormente en este caso, ya que vamos a ponerlo, 
+por ejemplo, en el oro, pues que se ejecuten haya  
+tendencia y que las de compra se ejecuten haya 
+tendencia alcista y direccionalidad alcista y las  
+señales de venta viceversa. Entonces, bueno, vamos 
+a ver por aquí rápido el detector de régimen.  
+Vemos que tiene una salida que es tendencia, o 
+sea, esta es la salida que tenemos que utilizar.  
+Luego tiene otra para rango y otra para mercado 
+volátil. Como queremos operar en tendencia, pues  
+cogeremos la señal de tendencia y la llevaremos 
+a los nodos de ANT para que junto con la compra y  
+la venta también se tenga que cumplir la condición 
+del que el mercado esté en tendencia. Luego vemos  
+que tenemos la dirección de la tendencia más un 
+para alcista, 0 para neutro y -1 para bajista.  
+Entonces, directamente cogemos la señal de 
+la salida de dirección y la llevamos a un  
+nodo de umbral. Aquí os enseño un ejemplo. Cojo 
+la señal de dirección, que puede ser 1, 0 o -1,  
+la llevo al nodo de umbral, le pongo cer y le digo 
+que cuando esté por encima, es decir, solo podrá  
+ser uno, me dé un true, que será el resultado de 
+que el mercado es alcista, con dirección alcista.  
+Y viceversa cuando le pongo un cero y le digo que 
+esté por debajo, me dará true cuando la señal sea  
+-1 o el mercado sea bajista. De esta forma, 
+esto me está generando la dirección alcista  
+del mercado. Este otro nodo me está generando la 
+dirección bajista del mercado, que junto con la  
+direccionalidad o o la confirmación de que hay 
+tendencia, pues tendría ya aquí el nodo de los  
+byes con, repasemos rápido la condición uno, que 
+es que hay una compra en una de nuestra estrategia  
+y ha pasado el filtro. la condición dos, que es 
+que el mercado está en tendencia, y la condición  
+tres, que la direccionalidad es alcista. Lo mismo 
+a la inversa para el nodo de las ventas, que sería  
+este que tenemos aquí, que básicamente es que 
+haya una señal de venta, que eh la tendencia  
+esté activada y que la dirección sea bajista. Una 
+vez que tenemos ya estos dos nodos controlando las  
+señales de compra y venta agrupada, las llevamos 
+al guardián de anomalía, que en última instancia  
+va a analizar el mercado y vamos a verlo ahora 
+en directo en el B testing. Y si no hay nada raro  
+en el mercado, no hay sprit anómalo, movimiento 
+fuera de lo normal, no hay nada que pueda poner  
+en grave riesgo nuestra estrategia, dejará 
+pasar la señal de compra, la señal de venta,  
+que aquí en esta última parte se van a conectar, 
+como vemos, a la condición de compra o de venta  
+del nodo de agente estratégico de inteligencia 
+artificial. Este nodo en nuestro cerebro, es el  
+que va a decidir si opera o no, cómo lo opera, 
+cómo lo gestiona y etcétera. Entonces, bueno,  
+aquí rápido lo tenéis un prototipo de botilla 
+que ya vais a ver que incluso poniéndolo ahora  
+desde cero, eh, con cero aprendizaje y cero todo, 
+pues ya puede dar buenos resultados. Si lo dejáis  
+con el tiempo aprender y tal, pues vais mejor. 
+Pero bueno, dicho esto, elegimos Metatrader 5,  
+le damos a construir, descargamos y nos vamos 
+para el Metatrader. Pues bueno, ya está aquí el  
+bote en el Metatrader, en el oro en 30 minutos. 
+Le damos a comenzar. Vamos a ampliar pantalla.
+Vamos a bajar todos los indicadores. No son 
+necesarios, simplemente se calculan, pues,  
+para toda la gestión que tiene que hacer eh toda 
+la gestión y extracción de datos que tienen que  
+hacer. eh los nodos de inteligencia artificial. 
+Bueno, vamos a quitar también la gráfica. Fijaros,  
+ahí va la primera operativa. La cuenta empieza en 
+este caso con 10,000. Aquí va la primera. Parece  
+que al final no cierra. Ahí cerró y abrió un 
+otro B. Entonces, bueno, vamos a dejarlo por  
+aquí corriendo. Vamos a irlo viendo y os explico 
+aquí rápido qué es lo que tenemos aquí, qué es  
+lo que nos interesa de aquí y qué es lo que no. 
+Bueno, veis que hay paneles o tableros de todos  
+los nodos de IA. Estos los podéis decir dónde 
+dónde queréis colocarlo. Eh, no son relevantes,  
+eh, a no ser que queráis controlar algo en el 
+momento. El que sí que es importante el que  
+tenemos aquí a la izquierda, el nodo de agente 
+estratégico de inteligencia artificial. Este  
+nodo es importante que lo controlemos con 
+el panel. Fijaros, ha hecho una operativa  
+que tenemos una cerrada. Aquí la está marcando en 
+performance. Total de trade uno win rate de 100%.  
+Evidentemente no tiene un win rate del 100%, 
+pero como ha hecho una y la ha acertado,  
+pues eh lo ha hecho. Fijaros, ahora acaba de hacer 
+otra y otra más que acaba de cerrar. Lleva tres,  
+ha acertado dos, una la ha fallado. Pues win rate 
+del 66.7%, 7% 124 de beneficio en la cuenta. Lo  
+bueno de aquí es que vamos a poder ir viendo en 
+tiempo real el win rate de la estrategia, o sea,  
+en tiempo real aquí en directo. Por eso este panel 
+sí que sí que es importante. Vemos que el estado  
+pone aprendiendo activamente. Lo primero que va 
+a tener que hacer aquí el bot de IA en este caso  
+es rellenar toda la barra de aprendizaje, que es 
+la barra que tenemos aquí ahora, que de momento  
+está en rojo. Tiene que rellenar esta barra 
+completo, está al 10%, la tiene que rellenar  
+al 100%. Fijaros, ya ha subido un poco más, al 
+13%. Una vez que rellene esta barra de aprendizaje  
+del entrenamiento, se desbloqueará la barra de 
+especialización que ahora veis que está bloqueada.  
+Es decir, en esta primera fase, la inteligencia 
+artificial lo que va a hacer es explorar el  
+mercado, aprender sobre él, entenderlo, ver 
+qué funciona, qué no funciona, cómo se mueve,  
+qué tipo de régimen tiene, etcétera, etcétera. Una 
+vez que ya haya aprendido todo sobre el mercado,  
+ya empezará a bajar el nivel de exploración, es 
+decir, el nivel de épsilon. bajará el nivel de  
+exploración y se comenzará a centrar ya en lo que 
+ha funcionado en este mercado. Por eso importante,  
+no hace falta que nos vayamos al 2010, al 2015, 
+al 2020 para hacer bad testing. Aquí hay un punto  
+clave que debéis tener en cuenta. No es lo mismo 
+un bot normal corriente estático que cuanto más  
+back testing pues puede funcionar mejor porque 
+necesita una optimización plana para adaptarse  
+a todo un poco. Sabemos que al final no se va 
+a adaptar a nada de nada y que vamos a degradar  
+muchísimo el alfa porque estamos creando un bot 
+plano para el mercado y al final en cuanto que  
+venga un poco de variación y sabéis que vendrá ese 
+bot eh quebrará la cuenta con un botía. Ese no es  
+el caso en el sentido de que no necesitamos 5, 
+10, 15, 20 años de back testing de datos. No por  
+más eh datos en el back testing el bot va a ser 
+mejor. Simplemente necesitamos rellenar la tabla  
+de aprendizaje y esta tabla, la propia IA va a 
+decidir cuándo la tiene eh rellena, en función  
+de cómo sea el mercado, el tipo de operativa, 
+etcétera. Es decir, no hay un número fijo de  
+operativas para rellenarlo, sino que hay una 
+variedad de operativas, de régimen, de movimiento,  
+etcétera. Y cuando esa parte se rellena, ahí es 
+cuando se dará por completado el entrenamiento.  
+Es decir, puede ser con 40 operativas o puede 
+ser con 100. Esto va a ser un poco variable,  
+¿no? Entonces, para que lo tengáis en cuenta, para 
+que nadie tenga la duda de cuántas operativas son  
+necesarias, pues no hay un número de operativas, 
+sino que va porque todas las casuísticas se  
+rellenen o se cumplan en un porcentaje amplio, 
+¿no? Eh, que ya haya visto todo lo que necesitaba  
+ver en ese en ese mercado. Entonces, dicho esto, 
+cuanto más adelante en el back testing pongamos el  
+bot de IA, mejor. Es decir, no lo es mejor ponerlo 
+en el 2025 hasta el 2026 ahora que en el 2020.  
+¿Por qué? Porque no nos interesa que aprenda cosas 
+de el 2020 hasta ahora porque va a aprender cosas  
+que puede ser que ya en el mercado no existan o 
+que no se estén dando. Entonces, ¿quiere decir que  
+va a ser peor? No necesariamente. Lo que quiere 
+decir es que cuando lo pongamos en el mercado va  
+a empezar a operar con un entendimiento y una eh y 
+un aprendizaje con algo que ya no funciona porque  
+pasó en el 2020. Entonces el bot continuamente 
+está aprendiendo y va a adaptarse al mercado  
+actualmente y va a volver a generar ganancias, 
+pero en una primera instancia va a degradar mucho  
+el rendimiento porque va a empezar a operar con lo 
+que aprendió en el 2020, no le va a funcionar bien  
+ahora en el 2026 va a tener que pasar el periodo 
+de aprendizaje eh nuevamente porque hay un choque  
+muy grande de tiempo, le hacemos un salto muy 
+grande y Las métricas pues no van a ser buenas,  
+¿no? Y es uno de los fallos que comete mucha 
+gente, [ __ ] un botilla, le pone 10, 15, 20  
+años de bas testing porque ha visto que eso es lo 
+mejor, lo echa en el mercado real y se va a pique  
+la cuenta. Eso suele pasar. Entonces, simplemente 
+necesitamos rellenar la barra. Cuanto más actual  
+sea eso, mejor. ¿Por qué? Porque si lo entrenamos 
+desde el 2025 al 2026 y rellena y es suficiente  
+para rellenar todos los parámetros y las barras de 
+aprendizaje y especialización, en el momento en el  
+que lo pongamos el mercado, el bot está totalmente 
+actualizado. ¿Qué quiere decir? que un mercado no  
+cambia radicalmente, tiene un cambio progresivo 
+y cuando se produzca ese cambio progresivo, la  
+IA va a ir adaptándose, por lo que la degradación 
+va a ser mínima o nunca va a llegar y siempre lo  
+vamos a mantener con una rentabilidad constante. 
+Entonces, es importante que no optimicemos un  
+botía como se optimiza un bot estático, porque 
+no tiene sentido, porque no funcionan igual.  
+Es como una persona, ¿no? Imaginaros que os 
+enseñan clase de conducción de un coche, de  
+un automóvil y luego os llevo a a tiro con arco, 
+pues no va a servir de nada una cosa con la otra,  
+¿no? Pues entonces un poco lo mismo. Un bote 
+estático se se intenta siempre un poco de todo,  
+¿no? Que opere de todo, que haga de todo y por 
+luego por eso luego al final no es bueno en nada.  
+Entonces, para que lo tengáis un poco en cuenta, 
+mira, fijaros aquí en este caso, como el mercado  
+ha hecho una reversión de la tendencia y hay vela 
+con mucha mecha, es decir, hay mucha volatilidad.  
+Fijaros como el guardián de anomalía se 
+había puesto en modo rojo, en modo pause,  
+y no deja pasar operaciones en este tramo. Por eso 
+este último tramo de aquí no han pasado señales y  
+no ha hecho operativas. Pero bueno, aquí tenéis de 
+momento, para no extenderme mucho, lleva un total  
+de 14 trades, un 64.3% de win rate, 405 de de 
+rentabilidad. Y bueno, si esto ahora lo dejásemos  
+todo, pues ya vemos que va la tabla por el 22%, 
+la terminará rellenando. Una vez que la rellene,  
+desbloqueará la especialización, continuará y ahí 
+ya en la especialización es cuando empieza a haber  
+una consistencia en el modelo. Ahora, durante 
+la primera fase puede no haber una consistencia  
+porque eh está explorando, explorando activamente 
+qué funciona, qué no funciona. Aunque haya visto  
+cosas que funcionen, va a probar cosas nuevas 
+para ver si hay algo que pueda funcionar mejor.  
+Entonces, eso al final en esta primera frase puede 
+eh degradar las métricas. Cuando ya llega la fase  
+de especialización, ya sabe lo que funciona, 
+lo que no y se centra ya en especializarse  
+sobre lo que funciona. Y ahí es donde suele 
+haber un aumento del winrate considerable y  
+del rendimiento de la la estrategia que tengamos 
+puesta. Punto clave, que nadie se lleve a engaño  
+en el sentido de si la estrategia que habéis 
+hecho no es buena, no funciona, ni la IA ni  
+nadie va a poder hacer que funcione, ¿no? O sea, 
+es decir, hay que hacer algo medianamente decente  
+que tenga una probabilidad de sobrevivir 
+en el mercado y luego la IA lo mejorará.  
+Pero si el criterio no es rentable de ninguna 
+de las maneras, ni la IA, ni yo, ni vosotros,  
+ni nadie lo va a poder llevar a ser rentable, 
+¿no? Por eso aquí en este caso, en este vídeo,  
+os he hecho un ejemplo con un bot full IA, donde 
+la lógica, la estrategia la generan la los propios  
+nodos de la IA para que veáis como si vosotros 
+no tenéis ni idea de qué estrategia automatizar,  
+de qué indicadores utilizar, no sabéis de trading, 
+etcétera, podéis delegar también la parte de la  
+generación de las señales, de la generación de 
+la estrategia en la IA y ella eh lo utiliza.  
+Entonces, bueno, seguimos con el vídeo. Pero para 
+un momento porque para lograr esto en real quebrar  
+entra el tier 5, el escudo. Usamos el criterio de 
+Kelly. Si entramos en dry down, el recovery mode  
+reduce automáticamente el tamaño de los lotes a 
+la mitad. Deja de cabar cuando estás ya metido en  
+un hoyo. Si no sabes qué es el criterio de 
+Kelly, he creado un vídeo para ti completo  
+donde te lo explico paso a paso y cómo puede 
+aplicarlo. Créeme, si quieres realizar una gestión  
+profesional y ganar lo máximo con tus operativas, 
+necesitas ver este vídeo. Aquí llegamos a un punto  
+en el que ya tenemos un profesional capaz de 
+generar una rentabilidad de forma consistente,  
+pero en el mundo de las inversiones nada está 
+exento de riesgo, que no te vendan lo contrario.  
+Y de repente el mercado cuando creíamos que todo 
+iba bien, lateralizó fuertemente y entramos en una  
+racha de 10 pérdidas seguidas. En este punto nos 
+dan ganas de apagarlo todo. El sistema predecía  
+bien, pero cometía el mismo error todos los días a 
+la misma hora. Sufría amnesia. ¿Cómo evitas que tu  
+botó ayer para no cometer el mismo error hoy? La 
+solución no está en el código, está en la memoria.  
+Y esta es la pieza final del rompecabezas que te 
+prometí al inicio. Esta es la pieza que sostiene  
+todo el ecosistema, el Strategy Agent con Cool 
+Earning. Para sostener todo, el propio bot de  
+forma automática, sin que tú tengas que hacer 
+nada, implementa una tabla de memoria física,  
+el archivo Qtable. Si el bot pierde dinero en 
+un rango con volatilidad alta, entonces recibe  
+un castigo matemático y guarda ese recuerdo. Con 
+cada trade, el bot se reescribe y aprende sobre  
+sí mismo. Esta memoria crece y mejora con cada 
+operativa de forma automática. es compartida  
+entre todos tus terminales de Metatrader y la 
+puedes utilizar en todas las cuentas de trading.  
+Incluso puedes llevar este archivo de tu VPS a 
+tu portátil y heredar el conocimiento. Y para  
+los que quieran el nivel Dios, la arquitectura 
+soporta agentes deep learning, DQN evalúan el  
+riesgo píxel a píxel. Hasta ahora, cuanto más 
+aprendías en el trading, menos creías saber.  
+más confuso estabas, más teorías mezclabas, más 
+complejo se volvía todo, haciéndote parecer que  
+la rentabilidad era algo imposible. Pero con 
+esta arquitectura totalmente automática no  
+necesitas aprender nada más. Deja de ser el 
+trabajador para convertirte en el supervisor.  
+Sé que puede parecer mucha teoría, pero en la 
+práctica todo se ejecuta de forma automática,  
+por lo que solo tienes que conocerla para entender 
+qué estás construyendo, pero no necesitas hacer  
+nada para que se ejecute todo de forma eficiente. 
+Es un sistema totalmente automático y autónomo. En  
+este punto iba a mostraros un back testing con el 
+nodo de agente estratégico IA conectado al flujo,  
+operando y aprendiendo del mercado con cada 
+operativa, pero sinceramente el resultado era  
+tal que no he querido ni mostrarlo. En el canal de 
+Telegram tenéis varios bots para descargar gratis,  
+entre ellos os pasaré el de este vídeo para que 
+lo comprobéis por vosotros mismos. Igualmente,  
+en la biblioteca de bots de la app tenemos ya 
+casi 300 bots construidos. listos para descargar  
+y correr en vuestro Metratader. Pero escucha bien, 
+porque esto es importante. La IA no es magia,  
+gestiona probabilidades, no certeza y eso 
+significa que no te va a garantizar ganancia  
+desde el primer día. El error más común y más 
+caro que comete la gente es desactivar el bot  
+después de un par de semanas de malos resultados. 
+Cuando haces eso, no estás siendo prudente. Estás  
+matando el proceso de convergencia justo cuando 
+empezaba a aprender. Hay cuatro trampas en las  
+que casi todo el mundo cae. La primera, creer que 
+la IA es magia todopoderosa y esperan resultado  
+inmediato. La segunda, y esta es la más crítica, 
+es la impaciencia. El bot necesita entre uno y 2  
+meses para aprender tu mercado, no lo toques. La 
+tercera es el overfitting. Si entrenas con menos  
+de 200 barras, el bot memoriza el pasado en lugar 
+de aprender patrones reales. Y la cuarta, ignorar  
+el monitoreo. Un botia no es un sistema de piloto 
+automático total. Revísalo, sigue su evolución.  
+Así que aquí tienes tu checklist del éxito. 
+Empieza con un bot simple. No te compliques  
+queriendo crear el bot definitivo en la primera 
+semana. Sencillamente porque no vas a lograrlo  
+y solo vas a frustrarte. No te centres en 
+ganar dinero rápido, céntrate en aprender y  
+el dinero llegará de forma consistente por sí 
+solo. Respeta siempre el trading mode. Nunca  
+apagues el escudo de Drydown y documenta cada 
+paso. La disciplina es la diferencia entre un  
+trader que abandona quebrado y uno que construye 
+un sistema que trabaja para él y consigue lograr  
+resultado económico. El futuro no es la máquina 
+reemplazándote, es la máquina haciendo el cálculo  
+pesado mientras tú aporta la visión. Y así es 
+como consigues tu primer ecosistema de trading  
+con autónomo. Pero tener el mejor cerebro digital 
+del mundo no sirve de nada si no sabes las reglas  
+básicas de gestión. Ese es un error letal y te 
+explico paso a paso cómo evitarlo en este vídeo de  
+aquí. Haz clic ahora mismo y descubre cómo validar 
+tu día para que gane mañana. Nos vemos dentro.
+he

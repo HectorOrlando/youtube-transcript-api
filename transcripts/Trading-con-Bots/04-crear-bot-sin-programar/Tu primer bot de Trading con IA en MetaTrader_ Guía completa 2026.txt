@@ -1,0 +1,315 @@
+Titulo              : Tu primer bot de Trading con IA en MetaTrader: Guía completa 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-04-05
+Duracion            : 17:21
+Vistas              : 3,605
+URL                 : https://www.youtube.com/watch?v=YXwgsPhW7mU
+----------------------------------------------------------------------
+
+La mayoría de traders que comienzan hoy van a 
+cometer un error fatal que les costará años de  
+vida y miles de dólares desperdiciados en el 
+trading sin darse cuenta. Y todo porque van  
+a depositar su tiempo y su capital en operativas 
+cuya esperanza matemática desconocen por completo.  
+Operar sin saber qué hubiera pasado con una 
+estrategia concreta en los diferentes ciclos de  
+mercado no es trading, es una apuesta basada en 
+la fe. En este vídeo voy a enseñarte a invertir  
+las tornas con una arquitectura algorítmica en 
+techain. Vas a aprender a analizar el mercado,  
+convertir el análisis en un bot visual y validarlo 
+con back testing antes de arriesgar capital.  
+Vamos a montar un flujo completo donde aprenderás 
+a diseñar y crear una estrategia de trading desde  
+cero, automatizarla, convertirla en un bot 
+y mejorarla hacia la rentabilidad máxima.  
+Olvida la frustración de las pantallas porque 
+hoy pasamos a la validación estadística pura.  
+He analizado miles de bot durante toda mi carrera 
+profesional en los últimos 15 años y hoy te daré  
+el road map simplificado y exacto para que tu 
+terminal de Metatrader evolucione con techin y  
+trabaje por ti mientras tú dejas de ser el típico 
+trader y te conviertes en gestor de un portfolio  
+de estrategias automatizadas. Antes de comenzar, 
+quiero ser honesto contigo. Ser rentable en el  
+trading no es una cuestión de suerte o de que 
+algún gurú te comparta o te venda su secreto  
+mágico que solo él conoce o que descubrió. 
+La rentabilidad en el trading es un flujo  
+correcto de trabajo de ingeniería financiera, bien 
+diseñado, planificado y ejecutado. Antes de entrar  
+a la práctica, quiero que visualices la hoja de 
+ruta técnica que vamos a seguir en este vídeo para  
+que te ponga en situación. Vamos a dividirlo en un 
+proceso simplificado de tres bloques críticos que  
+ayudan a preservar y maximizar la supervivencia 
+de tu capital. y son los siguientes. El paso  
+número uno, la configuración del flujo. Crearemos 
+nuestro bot de inteligencia artificial con el nodo  
+de generación de estrategias IA que te regalaré 
+al final del vídeo para desplegarlo directamente  
+sobre el mercado elegido en Metatrader para 
+obtener la estrategia ganadora en segundos. Paso  
+número dos, la factoría de creación. Construiremos 
+el bot y lo someteremos a un primer back testing  
+para analizar el win rate y el profit factor. Paso 
+número tres, ajuste de parámetros. Optimizaremos  
+el flujo y la lógica de la estrategia para mejorar 
+el rendimiento de forma exponencial. Paso número  
+cuatro y último, el filtro de robustez. La prueba 
+de fuego final llega con el analizador de back  
+testing de Techin y la ejecución de la estrategia 
+sobre el mercado para validar la estrategia en  
+el largo plazo. Aprenderás un proceso claro, 
+metódico y objetivo, porque esto es ingeniería  
+financiera real aplicada. Esto es Techain. 
+Comenzamos. Empezamos con el paso número uno,  
+configuración del flujo. Vamos a crear nuestro bot 
+de inteligencia artificial utilizando el nodo de  
+generación de estrategia IA. Esto no es un robot 
+que te va a operar la cuenta, es un analizador. Lo  
+que hace es tomar la historia reciente del mercado 
+en el que estás ahora y testear en paralelo ocho  
+estrategias, es decir, ocho formas distintas de 
+leer ese mercado. Por ejemplo, determinará si el  
+mercado encaja más con tendencia, con rango, 
+con rupturas de volatilidad, con momentum,  
+etcétera. En la práctica es como poner ocho lentes 
+sobre los mismos datos y ver cuál se comporta  
+mejor según las métricas claras, como por ejemplo 
+la rentabilidad, el dry down, la consistencia,  
+la expectativa y otras, en lugar de quedarte con 
+la intuición o aplicar la última estrategia que  
+aprendiste por internet sin criterio alguno o sin 
+conocerla realmente. se basa en la comparación  
+objetiva sobre el histórico, no en adivinar la 
+próxima vela. El resultado lo ves en un panel que  
+genera con el ranking con todas las estrategias. 
+Lo vas a ver ahora mismo. Construyo el código del  
+bot, lo descargo y me lo llevo para Metatrader. 
+Una vez aquí en Metatrader, lo meto en la carpeta  
+de Expert Advisors y hago doble clic sobre él. 
+Se abrirá el metadeditor automáticamente y aquí  
+simplemente le doy a compilar y listo. No tengo 
+que hacer nada más. Como veis aquí en la carpeta  
+ya se acaba de generar el EA totalmente operativo. 
+Ahora lo desplegamos directamente sobre el mercado  
+elegido en Metatrader. En este caso, por ejemplo, 
+sobre el eurodólar, que es el que más datos tengo.  
+Observar la velocidad. La IA evalúa los arquetipos 
+de mercado y nos entrega una estrategia ganadora.  
+en segundos. No estamos diseñando a ciegas, 
+estamos extrayendo la lógica que el mercado ya  
+está validando. Solo queda esperar a que termine 
+el análisis. Suele durar algo menos de un minuto.  
+Y listo, aquí lo tenemos. Proceso terminado. 
+En menos de un par de minutos hemos creado el  
+analizador. Hemos analizado el mercado y hemos 
+medido los ocho estados posibles, seleccionando  
+el más rentable y diseñando la estrategia 
+perfecta. todo sin tener que pasar horas o  
+días navegando por internet, buscando sistemas o 
+estrategias que podamos aplicar y que luego rara  
+vez nos llegan a funcionar. Ahora, una vez el 
+bot de análisis nos ha seleccionado y creado la  
+estrategia más rentable para el mercado, pasamos 
+al paso número dos, la factoría de creación.  
+Primero nos vamos a la carpeta files de Metatrader 
+para buscar el archivo que contiene la estrategia  
+de trading que necesitamos. Es este de aquí con 
+la extensión puntch. Cogeremos este archivo con  
+la estrategia de trading más rentable para este 
+mercado y vamos a proceder a automatizarla creando  
+el bot con esta misma lógica específica y lo 
+traeremos luego inmediatamente aquí al probador de  
+estrategias de Metatrader para ver cómo funciona. 
+Vamos a por ello. Ahora tenemos un archivo  
+que contiene la estrategia de trading, pero 
+necesitamos transformar esa estrategia teórica  
+en una estrategia ejecutable. Es más, necesitamos 
+automatizarla en un bot de trading que la ejecute  
+por nosotros de forma objetiva 247. ¿Cómo lo vamos 
+a hacer? Porque diseñar, planificar y programar un  
+bot de trading medio decente son días o semanas 
+de programación o directamente es imposible si  
+no sabes programar. La solución es sencilla y 
+gracias a esta IA lo vamos a hacer en menos de un  
+par de minutos y sin escribir ni una sola línea de 
+código. Dentro de la plataforma de Tchain, aquí en  
+la esquina inferior derecha tenemos un desplegable 
+donde se encuentran las herramientas de IA que nos  
+ayudan a potenciar nuestras estrategias y bot de 
+trading de forma fácil y rápida. Para el caso de  
+hoy vamos a ir al chat IA y vamos a activar la 
+opción power. Automáticamente el asistente de  
+inteligencia artificial del chat cambia y asume 
+un nuevo rol, que en este caso es el de ayudarnos  
+a diseñar, planificar y crear nuestro bot de 
+trading desde el archivo que habíamos generado.  
+Así de sencillo. Simplemente le arrastramos el 
+archivo y ejecutamos la inteligencia artificial.  
+Ya comienza el proceso completo y nos diseñará 
+la estrategia. Aquí la tenemos ya creada,  
+por supuesto, nos va a decir en qué se basa, qué 
+opera, cómo lo opera, etcétera. Nos va a arrojar  
+el manual de la estrategia para que la entendamos 
+correctamente. Esta estrategia ya es nuestra,  
+nos la podemos descargar para tenerla ya guardada 
+y consultarla cuando sea necesario, pues para  
+entender mejor el funcionamiento del bot, porque 
+ahora le vamos a pedir que construya el bot. Para  
+ello, solo le damos a constrúyelo. Mientras que 
+lo construye, os enseño el PDF descargado para que  
+lo veáis. Ya veis que tiene todo al detalle. Es 
+nuestra estrategia para nuestro mercado favorito  
+y lo hemos diseñado en unos minutos. Es genial. 
+Listo, aquí acaba de crear el bot. Revisamos que  
+esté todo bien, ya que aunque no suele haber 
+errores, todo lo que hace la inteligencia  
+artificial siempre hay que supervisarlo. Y en caso 
+de que hubiese algo mal conectado o configurado,  
+como tenemos el manual de la estrategia, con 
+lo que tiene que hacer solo sería reajustarlo  
+y listo. En este caso parece que no hay errores. 
+de a verlos, nos los marcaría el propio Canva aquí  
+en la parte del menú superior, ya que escanea 
+continuamente nuestros proyectos para avisarnos  
+cuando algo va mal. Como está todo directamente 
+selecciono la plataforma para la que quiero crear  
+mi bot, por ejemplo, en este caso, pues Metatrader 
+4. Le doy a construir, descargo el bot y nos vamos  
+ya al Metatrader. Aquí es donde los números hablan 
+por sí solos. Vamos a ejecutar el botal cual está.  
+sin modificar nada y vamos a ver cómo rinde sobre 
+el mercado. Aquí vemos el rendimiento del bot.  
+Me voy aquí a balance y vemos como dentro de que 
+no es nada explosivo, sí que tiene un crecimiento  
+ascendente con una rentabilidad pues moderadamente 
+positiva. Es decir, nos ofrece una ganancia  
+marginal que no está nada mal para una estrategia 
+que acabamos de crear aquí en el momento en  
+directo y que ahora vamos a ir a mejorar. 
+Este análisis inicial es el que nos dice si  
+el bot tiene el potencial necesario para pasar al 
+siguiente nivel de diseño. Con los resultados del  
+back test inicial vemos que tiene potencial y esto 
+nos lleva al siguiente paso donde vamos a exprimir  
+el potencial completo de la estrategia. Hasta aquí 
+el proceso parece infalible, ¿verdad? Tenemos una  
+estrategia que gana en minutos y buenos números 
+en el primer back test, pero aquí es donde muchos  
+trader fallan. Si te saltas el paso que viene 
+a continuación y no ajustas los parámetros que  
+te voy a compartir, tu bot se convertirá en una 
+bomba de relojería en cuanto cambie el mercado,  
+por ejemplo, simplemente la volatilidad. Vamos 
+a ver cómo blindar este sistema. Para ello,  
+volvemos al canat dechain para modificar nuestra 
+estrategia. Aquí es donde dejamos de ser simples  
+usuarios de bot de internet para convertirnos en 
+arquitectos financieros. Porque el secreto de la  
+rentabilidad en el trading es que no hay secretos 
+y la velocidad máxima para llegar a ser rentable  
+es hacer las cosas bien. En el can de Tchain 
+y con nuestro proyecto cargado, nuestro bot,  
+vamos a realizar los ajustes en el flujo de 
+nuestra estrategia para mejorarla exponencialmente  
+y parametrizaremos los campos correspondientes. No 
+se trata solo de mover números, vamos a realmente  
+a ajustar la lógica de la estrategia para que 
+sea mucho más quirúrgica. Necesitamos implementar  
+cambios con modificaciones que tengan un efecto 
+real, pero de forma quirúrgica y controlada. No  
+queremos romper la lógica de la estrategia o 
+incluso empeorarla. Para saber exactamente a  
+qué se deben los resultados de la estrategia y qué 
+debemos modificar, en qué punto para mejorarla,  
+nos vamos a ayudar del analizador de backtesting. 
+Abrimos la herramienta desde el menú superior  
+y simplemente cargamos el back testing que 
+habíamos realizado. En cuestión de segundos,  
+la herramienta lo analiza y nos devuelve un 
+análisis completo de la estrategia donde vamos  
+a poder ver qué ha funcionado y qué no, qué se le 
+da mejor. y que se le da peor. Para no extendernos  
+mucho en esta parte, vosotros lo podréis hacer 
+con más detenimiento. Yo me voy a centrar en los  
+cambios con mayor impacto, los días y las horas 
+en los que la estrategia tiene peor rendimiento  
+y los voy a amputar. Claramente vemos que son 
+estos. En ocasiones puede ser incluso también  
+interesante eliminar los buy o directamente los 
+sals. Está claro que podríamos mejorarla más,  
+pero con esto para el ejemplo será suficiente. 
+Volvemos al canvas. Ahora que sabemos qué tenemos  
+que modificar, solo es añadir un filtro de día 
+y otro de rango horario. Lo saco desde aquí del  
+panel y los incorporo al flujo. Siempre se deben 
+incorporar con un ant. Como ya tengo aquí varios  
+nodos de ANT con el flujo de los BU y los sell, 
+pues directamente los conecto aquí los filtros  
+para que sean pues simplemente una condición más 
+que debe cumplirse y listo. Estrategia modificada.  
+Construyo el bot, lo descargo y nos volvemos al 
+Metatrader. Lo que acabas de ver es la diferencia  
+entre una amateur que coge un bot de internet que 
+desconoce cómo funciona o qué opera realmente y  
+lo tira en el mercado real con la esperanza de que 
+gane. Y un profesional que analiza su estrategia,  
+calcula sus probabilidades de éxito, diseña el 
+flujo matemático positivo y ejecuta su ventaja  
+real. Muchos creen que ajustar parámetros es 
+toquetear los indicadores o la distancia de los  
+stops hasta que el bot gane más. Error. Aquí 
+estamos buscando estabilidad. Ahora debemos  
+volver al Metatrader para verificar que los 
+ajustes del paso tres se traducen realmente  
+en más beneficios reales y que no hemos roto nada. 
+Pero para un momento porque estamos a las puertas  
+del último paso. Todo indica que tenemos un bot 
+ganador tras el último ajuste, pero nos falta la  
+prueba de fuego definitiva. Si no pasamos el back 
+test con éxito y posteriormente el analizador de  
+Tchain para una revisión de robustez final, 
+estamos operando a ciegas. Llegamos al paso  
+número cuatro y último, el filtro de robustez. 
+Para esto volvemos a nuestro Metatrader y usando  
+nuevamente el probador de estrategia ejecutamos 
+de nuevo el back test sobre el mismo mercado y  
+time frame. Aquí lo tenemos. A simple vista ya 
+vemos que ha mejorado sustancialmente. Vamos a  
+guardar el back test para analizarlo en detalle 
+y ver el efecto real de las modificaciones en  
+el analizador de back testing de Tchain, donde 
+analizaremos nuevamente los resultados finales  
+de la estrategia. Fijaos. en los nuevos datos. 
+El resultado es una joya estadística validada,  
+un ratio retorno dedown superior, mayor 
+rentabilidad, menor riesgo, menor exposición  
+al mercado y una expectativa positiva constante. 
+Acabamos de diseñar, crear y validar de forma  
+objetiva nuestra propia lógica actual y vemos 
+que es matemáticamente superior a la inicial.  
+El vacío de información se ha llenado, ya no opera 
+por subjetividad, operas por evidencia exportada  
+directamente a un experadisor profesional. 
+Sabemos qué hacemos, por qué lo hacemos y  
+qué efecto tendrá en nuestra cuenta de trading. 
+Como te prometí al principio, en la descripción  
+del vídeo te dejaré el enlace del canal de 
+Telegram para que puedas descargar gratis el  
+bot de generación de estrategias IA y algunos más 
+que tengo en el canal gratis para que te puedas  
+descargar y compartir con toda la comunidad. 
+Y con ello podrás empezar hoy mismo tu propio  
+paso número uno. Pero recuerda, tener el nodo es 
+solo el principio. La verdadera maestría está en  
+dominar este flujo de cuatro pasos para llegar a 
+la robustez total. Si quieres aprender a gestionar  
+una flota de estos bots y dominar el analizador 
+de optimización, he preparado un vídeo donde te  
+explico cómo crear un portfolio de bot que puedes 
+ver ahora mismo haciendo clic aquí en pantalla.
+[música]

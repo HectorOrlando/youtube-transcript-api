@@ -1,0 +1,636 @@
+Titulo              : Generador de Bots IA | Drag-and-Drop a MetaTrader en Menos de 300 Segundos
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2025-12-17
+Duracion            : 25:22
+Vistas              : 1,201
+URL                 : https://www.youtube.com/watch?v=FpyACO7utcg
+----------------------------------------------------------------------
+
+Hace 15 años tardaba meses en crear un
+bot de trading. Hoy vas a aprender a
+crear un SP advisor sin código ni
+necesidad de conocimientos previos en
+menos de 5 minutos y solo en cinco
+sencillos pasos. Llevo más de 15 años
+desarrollando y automatizando todo tipo
+de estrategias de trading y hoy te voy a
+compartir mi mayor secreto. Olvida el
+muro de la programación y los altos
+costes que tiene un EA, porque después
+de ver este vídeo podrás automatizar tu
+estrategia de trading de forma sencilla
+y rápida. Y al final te voy a regalar
+los tres bots que vamos a crear aquí en
+directo. Vamos al lío. ¿Y qué vamos a
+hacer? Pues te lo resumo rápido. Vamos a
+automatizar tres estrategias de trading
+reales, tres expervisor profesionales y
+lo vamos a hacer desde cero, desde la
+nada absoluta para que tú también puedas
+replicarlos hasta llevarlos a tu
+Metatrader ya listos para operar. Y lo
+vamos a hacer en cinco pasos. Paso
+número uno, el lienzo. Primero vamos a
+decir adiós al código. Fuera
+complicaciones y retrasos porque vamos a
+utilizar el lienzo visual, arrastrar y
+soltar, nada más. Paso número dos, la
+lógica. Vamos a diseñar la lógica de
+nuestro bot. Y no, no vamos a necesitar
+planos de arquitectura ni una
+calculadora científica. Simplemente
+tenemos que responder a la pregunta de
+qué queremos hacer, es decir, ¿qué
+quiero automatizar? Paso número tres, el
+escudo. Sin este paso, tu voz de trading
+es una bomba de relojería. Este es un
+paso crucial, es sencillo, pero es muy
+importante porque es en el paso en el
+que vamos a definir y delimitar el
+riesgo para protegernos. Cuatro, tu idea
+hecha realidad. En este paso vamos a
+generar el bot literalmente. Vamos a
+crear todo el código sin programar, solo
+utilizando nuestra idea. Y paso número
+cinco, exportación y despliegue. Este es
+el paso más emocionante porque es el
+paso en el que vamos a llevar nuestros
+bots al Metatrader sobre el mercado real
+y los vamos a ejecutar. Porque seamos
+honestos, pongámonos en situación e
+imagina esto. Tienes una idea, una
+estrategia de trading que sabes que
+funciona o que quieres probar sobre el
+mercado de forma rápida en minutos y no
+perder meses en backtesting. Tus
+opciones son estas. Opción uno, aprender
+a programar MQL4 o MQL5 desde cero.
+Suponiendo que ya seas programador o
+tengas nociones de programar, esto te
+llevaría meses. Y al final en
+programación un punto o una coma mal
+puestos es igual a errores de
+compilación en el mejor de los casos y
+en el peor es directamente perder todo
+el dinero de tu cuenta de trading. Si
+alguien ha utilizado IAS genéricas como
+chat GPT, etcétera, para intentar crear
+código, seguramente ya sepa de lo que
+estoy hablando. Opción dos, pagar a un
+programador. Esto de media, en función
+de cómo de compleja sea tu idea o
+estrategia de trading, son de unos 900 a
+100 € luego, esperar un mes a que te lo
+hagan y después cada cambio que quieras
+hacer toca volver a pasar por caja.
+Opción número tres, seguir operando en
+manual pegado a la pantalla. Emociones,
+pérdidas, fallo, estrés, lentitud, no
+sé, pero esto ya es como del siglo
+pasado, sobre todo con el nivel de la
+tecnología que tenemos hoy en día. Pero
+existe una cuarta opción que es la que
+realmente necesitas y es la que te voy a
+compartir hoy aquí. es la opción no
+code, sin código. Básicamente consiste
+en que vas a poder automatizar cualquier
+estrategia de trading y crear un bot de
+trading profesional en menos de 5
+minutos. Y eso es lo que vamos a hacer
+ahora mismo. Pero espera, antes de
+empezar, quiero que veas algo rápido.
+Esto que ves aquí es un bot de trading
+profesional. ¿Cuántas líneas de código
+tiene? Cero. Nada. ¿Cuánto tiempo tardé
+en crearlo? Menos de 3 minutos. Y ahora
+lo vamos a hacer en directo juntos de la
+nada a un bot listo para Metatrader y
+este es uno de los tres que te voy a
+regalar hoy. Para este primer bot vamos
+a hacer algo sencillo. Para el que
+quiera avanzar y profesionalizarse y
+volverse un experto en crear bots, aquí
+en esta pestaña que tiene un libro le
+podéis dar y accedéis a la formación
+completa gratuita dentro de la
+plataforma coste cero. Aquí tenéis
+todos, todos los nodos, indicadores,
+lógicas, acciones, gestiones de riesgo,
+qué son, cómo funcionan, ejemplos de
+dónde utilizarlo, etcétera, etcétera.
+Yo, para este caso, voy a suponer que es
+el primer bot que vamos a crear dentro
+de la plataforma, por lo que voy a
+hacerlo sencillo. Voy a crear un bot
+simple de cruce de media y voy a
+utilizar la guía de niveles visuales.
+Pulso el botón aquí debajo y aquí me
+salen los niveles. Nivel cero que es la
+fuente de dato. Aquí introduciríamos
+indicadores, filtro, nivel uno, que
+sería para la lógica primaria como
+comparadores, cruces. El nivel dos sería
+donde vamos a poner los combinadores en
+caso de que queramos combinar diferentes
+señales o disparadores. El nivel tres
+serían los conectores o conectores de
+tipo. El nivel cuatro, gestión de
+riesgo. Aquí pondríamos los niveles de
+posición, gestiones de riesgo avanzadas,
+etcétera. Y el nivel cinco, directamente
+la acción, es decir, ¿qué queremos
+hacer? que compre, que venda, que
+cierre. Entonces, como digo, vamos a
+hacer algo sencillo para este primer
+ejemplo. Vamos a ir a indicadores, vamos
+a bajar hasta, por ejemplo, tendencia y
+aquí tenemos indicadores de tendencia,
+medias móviles, Ichimoku, ADX, DEMA, que
+son medias móviles dobles exponenciales,
+TEMA, que son triples medias móviles,
+son indicadores personalizados que
+tenemos dentro de la plataforma,
+Supertrenden, Zigzag, etcétera. Por
+ejemplo, voy a sacar un indicador de
+medias móviles. Vemos ya que aparece ya
+el nivel del indicador. Me está
+mostrando nivel cero, por lo que sé que
+este nodo debo colocarlo aquí en el
+nivel cero. Como busco un cruce de
+media, saco otro de medias móviles y lo
+coloco también aquí en el nivel cero.
+Una vez que tengo esto, pondría qué es
+lo que quiero hacer con estas medias
+móviles. Por ejemplo, dejo una de
+periodo de 14 periodos, dejo otra de 20
+periodos. Aquí podría elegir el tipo de
+media móvil simple, exponencial,
+suavizada, lineal, ponderada, si
+queremos que se aplique al cierre,
+apertura, máximo, mínimo, mediana,
+típico, ponderado, etcétera, etcétera.
+Yo voy a poner una media móvil simple y
+lo voy a dejar que se aplique al cierre.
+Y lo que voy a buscar, por ejemplo, en
+este caso, es un cruce de media alcista,
+es decir, comprar cuando se crucen.
+Entonces, como ya tengo las medias
+móviles y sé que lo que quiero es
+comprar al cruce, voy a definir ese
+cruce. En este caso, aquí lo tenemos,
+nivel uno, comparadores y cruces. Me voy
+a lógica, en el nivel de lógica, y aquí
+busco cruce. Abro cruce y como quiero
+comprar ya tengo aquí cruce alcista y
+veo que es de nivel uno, por lo que
+simplemente lo cojo, lo arrastro y lo
+tendría aquí en el nivel uno. Y ahora,
+¿qué quiero que pase? Pues que cuando
+estas dos medias móviles se crucen, se
+detecte ese cruce alcista y se ejecute
+una acción, que en este caso sería una
+compra. Pues me voy a acciones, a
+órdenes, cojo compra a mercado y lo
+pongo en el nivel cinco. Ya vemos que me
+sale nivel C. Nada, así de sencillo ya
+tendría este primer bot creado. Ahora,
+simplemente, una vez que tengo esto,
+tendría que conectar los conectores en
+órdenes de izquierda a derecha.
+directamente conecto todo y ya tendría
+este primer bot creado. Aquí pues podría
+poner qué lotaje quiero que se aplique,
+si quiero que haya stop loss o no, a qué
+distancia el stop loss, si quiero que se
+use se use take profit o no, la
+distancia del del take profit, el es en
+el lipaje mágico, número mágico para
+identificar este bot, comentario y
+máximas órdenes que quiero tener abierta
+a la vez. Una vez que tengo esto,
+directamente cojo y puedo cerrar los
+nodos. Si no quiero ir haciendo uno por
+uno porque tengo mucho, lo cierro aquí
+arriba y le doy al organizador. Y aquí
+tendríamos nuestro primer bot de trading
+totalmente creado. Una vez que ya está
+creado y veo que no hay ningún error, es
+decir, que no me falta configurar
+ninguna opción, simplemente elegiría la
+plataforma Metatrader 5 o Metatrader 4.
+Yo lo voy a sacar para Metatrader 4, que
+sé que es el que usáis la mayoría y como
+lo voy a regalar, quiero que lo podáis
+utilizar. por lo que simplemente
+selecciono plataforma y pulso construir
+bot. Automáticamente veo que se genera
+el código. Lo voy a ampliar solo para
+que lo veáis. Ampliamos y aquí tenemos
+el código. Podríamos editar, cambiar lo
+que queramos. Este bot es nuestro.
+Fijaros la barbaridad de código que se
+ha creado aquí. Controles de seguridad,
+controles para saber qué tipo de brock
+es, si es compatible con ECN o no. el
+lipaje, controlar nuestro margen, eh
+nuestro margen operativo, el
+apalancamiento, etcétera, etcétera. Es
+decir, no es solo un bot de cruces de
+media, sino que lleva unos parámetros de
+seguridad para que funcione
+correctamente dentro del broker, proteja
+nuestra cuenta y no tengamos ningún tipo
+de problema. Fijaros, 2457
+líneas de código aquí generadas en un
+minuto. Bueno, ya minimizo y
+directamente ahora solo tengo que darle
+a descargar y automáticamente aquí lo
+veis. Techainbot mql4.mq4
+descargado. Se descarga abierto. Este
+código es vuestro, es vuestro bot y
+podéis hacer con él lo que queráis.
+Hecho. Primer bot, creado, exportado y
+listo para Metatrader. Fácil. ¿Verdad?
+¿Crees que tú también podrías hacerlo?
+Estoy seguro de que sí. Pero aquí es
+donde se pone interesante la cosa,
+porque antes de ir al Metatrader a
+ejecutar este bot, vamos a ir un paso
+más allá. Vamos a subir el nivel y vamos
+a crear dos bots más que también te voy
+a regalar al final del vídeo. Uno de
+nivel intermedio y otro de nivel
+avanzado. Porque sí, con la plataforma
+No Generator MQL podemos hacer muchísimo
+más que bots de medias móviles.
+Literalmente podemos crear y automatizar
+cualquier estrategia de nivel
+profesional con gestiones y criterios de
+entrada mucho más avanzados, pero sin
+complicarnos nada más por ello. Vamos
+con los siguientes ejemplo. Podemos
+eliminar los nodos desde aquí o
+directamente si tenemos mucho, le damos
+a papelera y lo eliminamos. Para este
+caso vamos a subir un poquito el listón.
+Vamos a suponer que queremos ya utilizar
+la inteligencia artificial directamente.
+Aquí abajo en la derecha tenemos las
+funcionalidades de inteligencia
+artificial dedicada a la construcción de
+bots. Hay otro tipo de inteligencias
+artificiales, no vamos a entrar ahora en
+ellos en detalle. Vamos a centrarnos en
+esta, en construir los tres bots que te
+voy a regalar. Paso número uno, le damos
+al constructor de wizard. Ejecutamos y
+aquí, ¿qué vamos a hacer? Pues muy
+sencillo, ya te pone crear bot de
+trading en tres preguntas. Literalmente
+vamos a responder tres preguntas, va a
+detectar qué es lo que queremos hacer,
+cuál es nuestro perfil, el riesgo que
+queremos asumir y nos va a investigar
+para ver con lo que queremos nosotros,
+cuál es la mejor estrategia para
+nosotros y nos va a crear el bot.
+Entonces, pregunta número uno, ¿qué tipo
+de trading prefieres? Selecciona el
+estilo de trading que más se ajuste a
+tus objetivos. Scalping, day trading, su
+trading. Por ejemplo, como yo sé que a
+muchos les gusta el scalping, otro day
+trading, otro swing trading, pues voy a
+poner, por ejemplo, day trading, como es
+para regalároslo para que lo pueda
+utilizar la mayoría. Si algún momento
+queréis algo específico, ponérmelo por
+los comentarios y en los siguientes
+vídeos e en los ejemplos, os iré creando
+los boss que queráis para regalároslo.
+Le doy a day trading y vamos a la
+segunda pregunta. ¿Cuánto riesgo
+aceptas? Aquí define tu perfil de riesgo
+para ajustar el tamaño de la posición.
+Pues muy sencillo, bajo riesgo, riesgo
+moderado o alto riesgo. Voy a poner
+riesgo moderado. Y vamos a la pregunta
+número tres. ¿Qué familia de indicadores
+prefiere? Y aquí podemos seleccionar
+hasta dos familias de indicadores para
+que se cree o se utilicen en la
+estrategia. Osciladores, tendencia,
+volatilidad, volumen y Bill William. Por
+ejemplo, pues voy a poner eh tendencia y
+osciladores para que cree un bot que que
+podáis entender todo fácilmente sin
+entrar en volúmenes, volatilidades y
+tal, aunque no tenéis que hacer nada,
+pero como lo voy a regalar quiero que lo
+podáis utilizar. Y directamente ya le
+doy a diseñar bot. Aquí ya vemos que se
+inicia el proceso investigando y
+diseñando tu bot personalizado. Aquí
+está creando la mejor estrategia para
+nosotros, para nuestro bot, basada en
+nuestras respuestas.
+Aquí lo tenemos, tu botegia
+de day trading basada en cruces de
+medias móviles con confirmación de
+momentum mediante RSI y MACD. Diseñada
+para capturar movimientos intradía con
+gestión del riesgo moderada. Y aquí nos
+está diciendo que ha utilizado 20 nodos.
+Ya habéis visto que el ejemplo del
+botaba cuatro. Este utiliza 20 25
+conexiones y aquí nos dice los
+componentes del bot. Así que simplemente
+ahora le damos a crear bot y aquí lo
+tenemos. Bot creado. Fijaros qué
+barbaridad es esto. Es decir, voy a
+mover los nodos para que veáis la que
+nos ha creado aquí. y nos ha creado un
+bot que, como veis, pues ya tiene una
+lógica mucho más avanzada y profesional
+que el bot que teníamos anteriormente.
+Si aquí ahora queremos saber qué es lo
+que hay, qué es lo que hace, simplemente
+desplegamos cada nodo y podemos ver qué
+es lo que hace. Sé que puede parecer un
+poco intimidante cuando vemos tantas
+líneas y no sabemos a lo mejor qué línea
+va a qué cosa, no hay problema. Aquí
+abajo tenéis la opción de flujo. Le
+damos a detectar flujos de nodo y
+automáticamente nos pinta y nos dice que
+esta se han detectado dos flujos, el
+azul que es para comprar y el siete que
+es para gestión, para cierre. Es decir,
+este sería la opción la acción final y
+esta la otra acción final. Aquí la de
+comprar, aquí la de vender, por la que
+todos los flujos azules van ahí y todos
+estos flujos rojos van a afectar a la
+parte de el cierre. Es decir, si yo
+quisiera modificar la parte de compra,
+pues sé que tengo que tocar los nodos
+que tengan el flujo o el reborde azul. Y
+si quiero modificar la parte de ventas
+de cierre, en este caso sería el cierre
+de la compra con una venta, pues tendría
+que modificar el flujo rojo. Sencillo,
+fácil. Ahora vamos a simplificarlo más
+todavía. ¿Cómo vamos a crear esto? Pues
+muy fácil, le doy al botón de construir
+bot. Como siempre, elijo la plataforma,
+lo voy a dejar para Metatrader 4 y le
+doy a construir bot. Se ejecuta. Pum,
+aquí lo tenéis creado, o sea, tiempo
+real. Aquí no hay ni corte ni nada. Ya
+veis lo rápido que lo crea. Lo pongo en
+pantalla completa y bueno, pues aquí
+veis la barbaridad de código que ha
+creado, pues que este pues es bastante
+bastante más potente que que el que
+habíamos hecho de las medias móviles. Es
+un bot ya pues bastante más avanzado,
+pero ya veis qué fácil, qué sencillo lo
+tenemos hecho. Entonces aquí minimizo y
+le doy a descargar. Y aquí lo tenemos ya
+el segundo bot descargado. Techainbot
+MQL3.mq4.
+Lo bueno de aquí que si yo ahora
+quisiera entender algo de aquí, saber
+qué hace, cómo lo hace, etcétera,
+etcétera, simplemente me podría ir aquí
+al chat, al chat ahí y preguntarle cómo
+cambio este nodo, qué hace esto, cómo
+hace aquello y personalizarlo como yo
+quisiera, incluso aunque no sepa nada. Y
+ahora vamos con el siguiente bot. Aquí
+vamos a hacer algo diferente. Hay más
+opciones para hacerlo, pero ya la iremos
+viendo en otros vídeos. Aquí vamos a
+crear uno de forma diferente. Vamos a
+abrir el chat aquí en el botoncito, en
+el icono azul y vamos a imaginar que
+nosotros hemos hecho una formación, eh
+tenemos ya un sistema de trading o en la
+formación hemos descubierto un sistema
+de trading o investigando hemos
+descubierto alguna estrategia que nos
+gusta o que queremos probar y y queremos
+automatizarla. Pues bien, muy sencillo.
+Como queremos algo muy específico, eh,
+que tiene que ser tal cual nosotros lo
+queramos, directamente lo vamos a poder
+hacer aquí con el asistente de código
+del chat. Entonces, le voy a escribir
+aquí el pronto,
+pues ya le he enviado el mensaje y os lo
+leo. Diseña un bot que opere en
+tendencias alcistas, que solo haga
+compras, pero que filtre y solo ejecute
+órdenes en zona fuerte de sobreventa. Le
+doy a enviar y directamente empieza a
+diseñar, planificar todo nuestro bot de
+trading o en este caso automatizar
+nuestra estrategia de trading. Y aquí lo
+tenemos. Fijaros esto. No voy a entrar a
+leéroslo todo, lo vamos a mirar por
+encima. ¿Qué nos acaba de dar aquí? Pues
+muy sencillo, nos acaba de dar el bot de
+tendencia alcista con filtro de
+sobreventa y nos explica cómo crearlo.
+Aquí nos dice la estrategia, el
+objetivo, compra solo en tendencia
+alcista fuerte. cuando el precio está
+temporalmente sobrevendido. Y aquí nos
+dice los nodos necesarios, o sea, las
+instrucciones. Nodo uno, detección de
+tendencia alcista. Y nos dice los nodos
+que lo componen. Nos da ya hasta la
+configuración que tenemos que ponerle, o
+sea, directamente buscaríamos este nodo
+en el panel, lo arrastraríamos, le
+pondríamos la configuración y tendríamos
+hecho. Aquí lo vemos que nos da todos
+los nodos que necesitamos y la
+configuración. O sea, nosotros sabemos
+qué estamos creando, sabemos por qué lo
+estamos creando y, de hecho, lo estamos
+creando nosotros. Aquí abajo nos da las
+conexiones de los nodos, es decir, el
+flujo del bot para que veamos las
+conexiones cómo tenemos que hacerlas,
+cómo tienen que quedar en nuestro panel
+de canvas. Así es como tendrían que
+quedar los nodos y las conexiones. La
+configuración detallada de cada nodo con
+las salidas que se esperan para que
+nosotros tengamos claro qué es lo que
+estamos haciendo y qué es lo que va a
+hacer este bot. Todos los nodos, en este
+caso los nodos que vamos a utilizar para
+nuestro proyecto. Aquí nos explica la
+estrategia, eh, por qué funciona esta
+estrategia. Filtro de tendencia utiliza
+que el precio esté por encima de la
+media móvil de 50. Solo opera cuando
+esté por encima. tiene un filtro de
+sobreventa, combinación de AND para
+ejecutarse solo cuando ambas condiciones
+se cumplan simultáneamente y luego
+incorpora eh una gestión del riesgo.
+Aquí nos dice importante, eh no puedes
+comparar directamente la media móvil con
+el precio. La media móvil es un nodo que
+solo genera un valor y no conoce el
+precio tal cual. Por lo que tengamos
+cuidado porque a veces alguno caje en
+fallo y compara un indicador de precio
+con un indicador ya calculado de un
+valor. Entonces aquí nos pondría el
+flujo, nos da esta puntualización para
+que no nos equivoquemos y no hagamos más
+la conexión. Perfecto. Aquí nos dice los
+escenarios de trading donde la señal
+sería válida. O sea, yo quiero crear
+este bot. ¿Dónde es válida? Pues aquí
+nos dice dónde sería válida y dónde
+sería rechazada. Es decir, ¿dónde en qué
+mercado no tenemos que poner este bot?
+Que eso es lo bueno cuando creamos un
+bot. Eh, luego podemos ir al Metatrader
+y probar en qué mercados y time frame
+pues tiene mejores resultados. No
+obstante, ya nos da una orientación para
+que fijemos un poco más el tiro sobre
+qué mercado y qué condiciones ejecutar
+este bot y va a ir bien o en qué mercado
+y qué circunstancias este bot no va a ir
+bien, que al final cada bot es único,
+tiene un criterio, va bien para un
+mercado y puede ir no ir bien para otro.
+El flujo nos explica todo, pero bien.
+Ahora aquí nos dice, "¿Quieres que
+construya este bot automáticamente en el
+Canva? Dime, constrúyelo y lo crearé."
+Le ponemos aquí, "Constrúyelo y lo
+crea." Pero también, fijaros, aquí
+arriba se ha activado un botón que pone
+constrúyelo. Así que le voy a decir
+constrúyelo tú. Vemos que ya está
+generando el código
+y aquí lo tenemos. Código generado, bot
+de tendencia alcista con filtro de
+sobreventa, compra cuando precio esté
+por encima de media móvil de 50 y Rci
+debajo de 30. Bos construido mediante el
+Canva. Vale, cerramos el panel, venimos
+aquí, cero errores y tenemos los siete
+nodos tal cual nos lo había dicho. Pues
+ya tenemos aquí nuestro bot creado. De
+aquí ahora podríamos abrir, modificar lo
+que queramos. Esto es para el precio
+actual. Aquí tenemos la media móvil de
+50 y aquí el RSI. O sea, fijaros qué
+pasada. Ya te lo da hasta configurado.
+No solo te abre el nodo, te lo configura
+media móvil de 50 en exponencial, que es
+lo que mejor ha creído para la
+estrategia el RSI. Aquí compara el
+precio con que la esté por encima de la
+media móvil. aquí el umbral del RCI
+porque ponemos el RSI y ejecuta ya que
+sea solo por eh en este caso podemos
+poner por encima, por debajo o cuando lo
+cruce alcista o cuando lo cruce bajista
+para calcular el umbral del indicador.
+Aquí lo combina todo con un lógica un,
+es decir, cuando todo esto se dé y esto
+también, cuando las condiciones esta y
+esta se den, directamente compra a
+mercado.
+Pues listo, otros dos bots de trading
+creado. Resultado, tres bot de trading
+creado sin programar en minutos.
+Literalmente, para crear tu propio bot
+de trading no necesitas más que querer
+crearlo. Fin. Y ahora sí que sí vamos a
+llevar estos tres EAS al Metatrader y
+vamos a ver si funcionan o no. Será un
+chat GPT. Y ahora al darle a compilar
+nos saltarán errores por todos lados.
+Acompáñame y lo vemos. Ahora en el
+metaeditor vamos a ver que todo funciona
+como tiene que funcionar. Ya tengo los
+3A aquí en la carpeta. Directamente
+actualizamos. Aquí me aparecen ya los
+tres y vamos a ver si compilan o no
+compilan, es decir, si están bien hechos
+y funcionan o no funcionan. Abrimos el
+primero y le damos a compilar. Aquí lo
+vemos, cero errores.
+Vamos con el siguiente. Lo abrimos y le
+damos a compilar.
+Ahí lo vemos, cero errores. Vamos con el
+tercero y le damos a compilar. Y ahí lo
+tenemos. Cero errores, tres bots creados
+en menos de 10 minutos con cero errores
+listos para ir al Metatrader. Nada de
+pelearse con un chat GPT solucionando
+código y que al final de tanto modificar
+no sabemos ya ni qué hace el bot o no
+tengamos confianza de qué es lo que hace
+porque cada vez que reescribe modifica
+todo, ni esperar meses, ni pagar a un
+programador un dinera, ni tener que
+perder tiempo por internet buscando qué
+voz podemos encontrar gratis para poner.
+Tenemos tres bots, sabemos lo que hacen,
+los hemos hecho como hemos querido. Y
+ahora nos vamos al Metatrader. Y ahora
+la hora de la verdad. Aquí tenemos ya
+los tres bots compilados y sin fallos
+listos para ejecutar en el Metatrader.
+Aquí tengo los tres. Pues por ejemplo,
+podríamos elegir cualquiera de ellos.
+Voy a dejar, por ejemplo, este de medias
+móviles. El mercado y el time frame me
+da igual. Aquí no estoy para para ver si
+generan rentabilidad o no, sobre qué
+mercado, sobre tal otro, simplemente
+para que veáis que funciona y ver
+comprobar si todo funciona
+correctamente. Así que lo dejo sobre el
+eurodólar mismo, 5 minutos, eh, mercado
+y periodo muy operado por todos para que
+veáis cómo va. Le doy a iniciar, voy a
+alejarlo para que se vea qué es lo que
+hace y vamos a ver qué es lo que hace.
+Ahí lo tenemos abriendo y cerrando
+órdenes.
+Vamos a gráfico y aquí lo vemos cómo ha
+ido abriendo y cerrando órdenes. En este
+medio segundo que lo hemos tenido
+puesto, ha hecho 144 € Aquí tenemos el
+registro y aquí tendríamos todos los
+resultados para que veas que funciona. Y
+si nos vamos aquí a registro total vemos
+que hay
+errores, no hay ningún error. ha
+ejecutado, ha arrancado y abre órdenes
+perfectamente.
+Estos bots ya son tuyos. Te dejo el
+enlace de descarga en la descripción
+para que puedas descargarlos totalmente
+gratis. Pero si no quieres un simple
+bot, que lo que quieres es una
+estrategia automatizada y avanzada que
+pueda darte mejores resultados, he
+creado un vídeo específico para ti donde
+la diseñamos y la construimos juntos.
+Nos vemos dentro.
+[música]
+[música]
