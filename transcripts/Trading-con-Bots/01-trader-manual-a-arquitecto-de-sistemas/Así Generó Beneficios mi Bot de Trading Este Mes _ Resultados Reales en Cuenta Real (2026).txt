@@ -1,0 +1,312 @@
+Titulo              : Así Generó Beneficios mi Bot de Trading Este Mes | Resultados Reales en Cuenta Real (2026)
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-05-18
+Duracion            : 15:34
+Vistas              : 1,273
+URL                 : https://www.youtube.com/watch?v=7gwEui42vKg
+----------------------------------------------------------------------
+
+El 99% de los vídeos que ve en YouTube enseñando 
+resultados de trading y retiros de miles de  
+dólares son una estafa absoluta. Y lo peor de 
+todo no es que te mientan a la cara, lo peor es  
+lo insultantemente fácil que es falsificar un 
+retiro de $20,000 hoy en día para venderte un  
+curso. Hoy vamos a hacer algo que casi nadie hace 
+en esta industria. Te voy a mostrar mi operativa  
+en real, mi cuenta de trading y lo retiro de 
+capital directamente a mi cuenta bancaria.  
+Nada de pantallazos dudosos o falsificaciones con 
+el broker para captar usuario. De hecho, no te voy  
+a proporcionar ni un solo link de afiliación a 
+ningún broker. Pero antes de ir a la pantalla  
+y enseñarte los números exactos que generan mis 
+sistemas cuantitativos, como los que te enseño  
+a diseñar y construir en mi canal con la apptin, 
+necesitas entender cómo funciona el lado oscuro de  
+esta industria para que no te vuelvan a engañar 
+nunca más. Por cierto, para los que se queden  
+hasta el final del vídeo, os voy a decir cómo 
+acceder a una formación completamente gratuita  
+que he diseñado para que podáis dar el salto 
+definitivo al trading cuantitativo y alcanzar esta  
+rentabilidad de la que vamos a hablar ahora mismo. 
+Pero primero tenemos que entender por qué lo que  
+estás a punto de ver es la única prueba de fuego 
+válida. Si llevas un tiempo en esto del trading,  
+habrás visto a cientos de grues mostrando 
+ganancia astronómica en plataformas de CFD  
+o pasando pruebas de empresas de fondeo sin 
+límite. Lo que el Trader Retail Stándard como  
+tú no sabe es que detrás de esas pantallas 
+hay un administrador de cuentas del broker,  
+un gestor de programa de IB o de introductor 
+broker o afiliación. Si yo fuera un ben de humo,  
+cosa que no soy, y quisiera engañarte, me bastaría 
+con mandar un correo a mi contacto en uno de estos  
+brokers Webbook, evidentemente no regulado o con 
+regulaciones dudosas o empresas de fondeo. Y les  
+diría lo siguiente. Oye, mira, ponme 51,237 
+de saldo virtual en esta cuenta, métela en un  
+servidor real para que no aparezca la palabra demo 
+en ningún sitio. Ábreme 12 operaciones ganadoras  
+en el oro, mete un par de perdedoras para que sea 
+todo un poco más real y poder hacerme la víctima  
+y luego simula un retiro de $10,000 a mi nombre. 
+Y ello lo hacen en 5 minutos porque quieren que  
+siga refiriendo cliente a través de vender. Yo que 
+sé que formación o qué sistema milagroso, sencillo  
+y fácil, que no sirve para nada más que para 
+quedarse con tu dinero, mientras tú te quedas con  
+cara de tonto sin saber qué está pasando. Luego se 
+graban un vídeo enseñándote un éxito económico que  
+no existe, simplemente para que te registres con 
+su link de afiliación, les compren, yo que sé, qué  
+rollo, que venden y que pierdas todo tu dinero. 
+Y así de crudo y real es el sistema del trading  
+retail. Por eso, para este vídeo he descartado 
+por completo mostrarte cualquier operativa en  
+esos entornos, especialmente en broker CFD, que 
+son casi todos los que utilizan Metatrader. Y no  
+porque no tenga cuentas con resultados reales en 
+Metatrader, que las tengo, sino porque no quiero  
+mostrar algo cuestionable con malas prácticas 
+habituales dentro del sector. Lo que vas a ver  
+está alojado exclusivamente en Interactive 
+Broker, donde ejecuto mi bot de trading, que  
+son exactamente los mismos algoritmos que tengo 
+también en mis Metatrader generados con techin, es  
+decir, son las mismas estrategias. ¿Por qué IBKR? 
+Porque como analista y profesional con más de 15  
+años de experiencia operativa, sé que es el muro 
+donde se estrellan las mentiras del sector retil.  
+Es un broker institucional estrictamente 
+regulado y cotizado en bolsa. Aquí no hay  
+chanchullos con un programa de afiliación. No 
+tienes el teléfono de Pepito ni el email porque  
+es tu gestor de cuenta y no le puedes llamar para 
+decirle que te modifique algo en tu historial. Eso  
+aquí no existe. Tampoco hay cuentas de fondeo con 
+dinero ficticio o simulado. No hay administradores  
+modificando balances por detrás. Si es una cuenta 
+demo, la plataforma te lo marca en rojo gigante,  
+cuenta simulada. En toda la pantalla te 
+va a aparecer limitando, evidentemente,  
+los datos y bloqueando cualquier simulación de 
+retiro. O sea, aquí eso no es posible. Por eso  
+lo que vas a ver hoy aquí no son números en 
+un servidor de pruebas, es capital propio,  
+dinero real, constante y sonante, de ese que se 
+mete en una bolsa y suena. dinero propio expuesto  
+al riesgo del mercado, gestionado bajo presión, 
+con sistemas matemáticos y retirado a una cuenta  
+corriente. Porque yo, como tú, sí sé lo que es 
+ser trader, sufrir a diario la exposición de tu  
+capital propio en el mercado y también disfrutar 
+de las ganancias cuando estas llegan. Quiero que  
+veas esto no para presumir, sino para demostrarte 
+que la rentabilidad consistente existe cuando las  
+cosas se hacen bien y de forma profesional. 
+para darte la certeza de que con un enfoque  
+cuantitativo y profesional, ganar dinero en los 
+mercados es una meta alcanzable y medible. Hoy vas  
+a ver el resultado de trabajo bien hecho. Y no te 
+voy a enseñar un mes o dos, te voy a enseñar años.  
+Vamos a las pantallas y te enseño exactamente 
+qué hay dentro. Pues nada, aquí estoy en IBKR.  
+Como ya sabéis, pues bueno, yo trabajo con muchas 
+plataformas, todas las que se puedan conectar, eh,  
+ya sea vía eh, bot de trading directamente, que 
+es la forma más fácil, como Metatrader 4 y 5, ya  
+sea por API, eh, por Python, etcétera. Entonces, 
+bueno, os voy a enseñar aquí una cuenta de IBKR,  
+por ejemplo. Vamos a darle aquí historial, todo 
+el historial de todas las transacciones. Vamos a  
+venir aquí y vamos a mirar, por ejemplo, estamos 
+ahora ya en mayo, pues vamos a irnos, por ejemplo,  
+mira, al mayo, un año hacia atrás. Mira, nos vamos 
+a ir dos años hacia atrás. Venga, hacia mayo,  
+aquí junio del 2024. Solo me deja eh de 90 días en 
+90 días, ya lo veis. Así que bueno, pongo 90 días.  
+Y fijaros, el 8 del 26, retirada 2400. El ocho del 
+6000 de retirada. El el 1 del 8,000 de retirada.  
+2400 de retirada. 7185 de de retirada. Ya veis 
+que no estoy filtrando por tipo de transacción ni  
+nada, o sea, aquí sale todo, solo son retiradas. 
+Vamos a pasar de la del el 30 del 8, pues vamos  
+para adelante el 30 del 8 y le ponemos otro par 
+de meses más, por ejemplo, hasta aquí, hasta el 30  
+de octubre. Fijaros, otra vez, otro mes retirada 
+a los días retirada 2400 2,400 4,000 de retirada  
+6,000 de retirada en 2 meses. Uno, 10,000, 
+15,000, bueno, 14,800 de retirada en 2 meses y  
+ningún depósito. Ya veis que todos son retiradas. 
+Entonces, voy a mirar más para adelante. Vamos  
+a poner el 10 del 30, por ejemplo, aquí. Y nos 
+vamos otros dos meses hacia delante, por ejemplo,  
+a diciembre, al 31 de diciembre. No sé si me pasa 
+un día, ¿no? Vale, queda bien. Pues fijaros otra  
+vez estos dos meses. 2400, 2400, 2300 de retirada, 
+2000 de retirada. O sea, básicamente aquí hay dos  
+opciones. Una, no hay ningún depósito, solo hay 
+retirada. Entonces, o tengo acceso a un caldero  
+mágico de dinero infinito, que puedo retirar todo 
+el que quiera, o si estoy retirando y no se acaba,  
+es porque está generando beneficio en la cuenta. 
+Eh, consistentemente. Vamos más hacia delante.  
+Vamos a poner pues venga, del 31 de diciembre 
+y vamos a darle hacia delante, enero, febrero,  
+pues estos dos meses y lo revisamos. Fijaros, en 
+enero, retirada 2400, en febrero retirada 2400.  
+Vamos a darle dos meses más hacia delante. Esta 
+no es la única cuenta que tengo. Ya sabéis que  
+tengo más cuenta que uno de los principios es 
+la diversificación. O sea, que esto que hay aquí  
+no es lo que a mí me da de comer ni mucho menos, 
+pero bueno, otros dos meses. En dos meses, pues lo  
+mismo, 1500 retirada, 100 de retirada, eh 4,000 de 
+retirada, 2,000 de retirada. Seguimos dando hacia  
+delante, por ejemplo, el 4 del 30, pues le damos 
+aquí 4 de 30 y le ponemos otros dos un par de  
+meses hacia delante. 2,000 de retirada, 2,500 de 
+retirada. Le vamos a dar otro par de meses hacia  
+delante en junio y le damos otro par de meses aquí 
+hacia delante en agosto, por ejemplo. Y lo mismo,  
+2,000 de retirada en estos dos meses. 2,000 de 
+retirada, 100 de retirada, 4,000 de retirada,  
+2500 de retirada, 2500 de retirada. Vamos a darle 
+otro par de meses. Ya estamos llegando a aquí al  
+2026. Vamos a darle otro par de meses, octubre, 
+por ejemplo. Y vemos otra vez 3,000 de retirada,  
+2,000 de retirada, 100 de retirada, 2,000 
+de retirada. O sea, en 2 meses otros 5,000,  
+6,000, 7,000, 8000, 8,500 de retirada en 
+dos meses. Le doy hacia delante, octubre,  
+lo pongo aquí y le doy hasta diciembre. En estos 
+2 meses, 2,500 de retirada, 2,500 de retirada,  
+2,400 de retirada, es decir, eh 7400 € 
+en otros dos meses. Le doy hacia delante,  
+pongo 31 de diciembre, entramos ya en 2016, eh 26, 
+perdón, le doy hacia delante, enero. Y fijaros,  
+en estos dos últimos meses de aquí, 2000 de 
+retirada, 2,500 de retirada, 3,500 retirada,  
+2,500 retirada, 2,000 de retirada. Y como digo, 
+ya veis que no estoy filtrando por ningún tipo de  
+eh transacción, o sea, sale lo que ha pasado en 
+esos meses, no hay depósito, solo hay retirada.  
+2,000. Aquí tendríamos 6,000 7,000 8,000 
+9,000 10,000 12,500 de retirada 12,500 en  
+esos dos meses. Nos vamos ya a febrero, me vengo 
+para acá y le pongo aquí un par de meses más y  
+vuelvo aquí estos dos últimos meses. 2500 
+retiradas, 2500 retiradas, 2500 retiradas.  
+Vamos a los siguientes meses. Ya nos metemos 
+ahora ya directamente en lo que estamos ahora,  
+porque son estos dos últimos meses ya ahora en 
+tiempo real. Ya no me deja ir más hacia delante,  
+solo me deja ver este final. Mira, aquí todavía 
+no he hecho ninguna retirada este mes, pues estaré  
+pronto hacerla ya mismo. Entonces, simplemente 
+para que veáis que no hay ningún depósito,  
+solo hay retirada y o tengo acceso a un caldero 
+mágico de dinero infinito o realmente esta cuenta  
+está generando dinero consistentemente y hemos 
+visto solo los dos últimos años de de historial,  
+dos últimos años completos aquí en directo 
+eh en Interactive Broker. Si me vengo aquí,  
+por ejemplo, investigación, filtro de mercado, 
+pues bueno, ya veis que esto es la web real.  
+Aquí no hay ningún misterio, todo funciona. Le 
+puedo dar aquí a las cosas, me entra. O sea,  
+no hay ningún misterio. Esto es es lo que hay. 
+Simplemente pues para que veáis un poco aquellos  
+que estáis preocupados por mis finanzas, si mis 
+resultados son reales o no, si sé operar o no.  
+Pues bueno, como os digo siempre, yo vivo de mi 
+trading, no obstante, también soy profesional,  
+colaboro con empresas y tengo diversas fuentes 
+de ingreso y proyecto. No lo dedico todo a mi  
+trading, no voy a mentir. Eh, tengo más fuentes 
+de ingreso, evidentemente me gusta el trading,  
+soy un profesional del sector y ejerzo eh en 
+varias ramas y diversas fuentes de ingresos,  
+¿no? Entonces, el que esté preocupado pues por 
+mis finanzas y mis resultados son reales o no,  
+pues bueno, aquí eh tenéis una muestra de ello, 
+¿no? Y esto es la realidad. Si al final no tengo  
+que decir nada que no sea cierto. Bien, ya has 
+visto los números, ya has visto cómo se ven  
+retiradas reales en un entorno institucional donde 
+no hay margen para la falsificación. Sinceramente,  
+me fastidia en cierto modo tener que mostrar 
+resultados porque mi profesionalidad después  
+de más de 15 años se ponga en tela de juicio 
+en redes sociales por hater que ni me conocen,  
+pero que tienen las neuronas justas para pasar el 
+día. Por eso quiero dejar claro que este vídeo no  
+lo hago por ello, no lo hago para cerrar bocas 
+de envidia y toxicidad que nunca van a poder ser  
+cerradas. Lo hago para todos aquellos que 
+realmente queréis dar el paso al trading  
+algorítmico y cuantitativo, pero tenéis duda 
+de si es realmente posible ser rentable o no,  
+si es posible vivir de ello o no. Aquí tenéis la 
+prueba empírica simplemente con esta única cuenta.  
+Pero quiero dejar algo muy claro antes de terminar 
+y es fundamental que me escuches. No te enseño  
+esto desde la prepotencia. Soy un profesional, 
+vivo de mi trading y de mis inversiones, sí,  
+pero no es mi única fuente de ingreso, ni quiero 
+que lo sea. Aparte de gestionar mi propio capital  
+real, ejerzo también profesionalmente dentro 
+del sector, tanto como analista como de director  
+de varios proyectos colaborativos en terceras 
+empresas. Y no lo hago por la necesidad económica,  
+lo hago porque amo profundamente mi trabajo. 
+Disfruto con mi profesión cada día que me  
+levanto. Disfruto cada hora que paso frente a los 
+monitores, diseñando, desplegando y supervisando  
+mis algoritmos. Y sobre todo, disfruto cada 
+momento que puedo pasar conversando con otros  
+traders que como yo y como tú compartimos 
+esta pasión con los mismos objetivos.  
+Y te aseguro que no hay mayor satisfacción que 
+ver cómo esos sistemas cuantitativos funcionan  
+de manera consistente a lo largo del tiempo, 
+de los meses y de los años. Para mí, el trading  
+nunca ha tratado de acumular cero en una cuenta 
+para demostrar nada a nadie. Trata de mantener  
+el estilo de vida que yo he elegido. Ya sea un 
+estilo de vida modesto o con lujos puntuales.  
+Eso es lo de menos. Lo importante al final del día 
+no es el dinero, es el tiempo. Es poder ser libre  
+para vivir bajo tus propias reglas y dedicarte 
+a lo que realmente te apasiona, sea lo que sea.  
+Esa es la verdadera ventaja estadística que te 
+quiero compartir. Pero como siempre os digo,  
+en este canal, la teoría y ver los resultados 
+de otro no sirven de nada sin ejecución. Ver  
+cómo mis algoritmos generan rentabilidad diaria 
+día tras día, semana tras semana y año tras año,  
+no va a cambiar tu cuenta bancaria mañana en 
+absoluto. Si estás cansado de dar palos de ciego,  
+de quemar cuentas con corazonada y quieres empezar 
+a estructurar tu operativa con herramientas  
+profesionales, he preparado algo para ti. En la 
+descripción de este vídeo tienes el enlace directo  
+a mi canal privado de Telegram. Ahí dentro no solo 
+te he dejado acceso a la formación completamente  
+gratuita de la que hablé al principio, diseñada 
+para que adoptes un perfil 100% cuantitativo  
+y alcances la rentabilidad real que buscas como 
+objetivo, sino que además estoy compartiendo los  
+bots e indicadores institucionales que usamos 
+aquí en el canal. Todo listo para descargar,  
+instalar en tu gráfico y sin coste alguno. Tienes 
+el link justo aquí debajo en la descripción.  
+Haz clic, descárgate las herramientas y 
+empieza a operar como lo hace el porcentaje  
+que realmente gana dinero en este sector, 
+el sector profesional. Te dejo aquí también  
+el vídeo de la formación para que puedas entrar y 
+seguir aprendiendo y mejorando. Nos vemos dentro.

@@ -1,0 +1,1340 @@
+Titulo              : Adiós a las cuentas quemadas: Scalping de alta precisión con momentum (Guía definitiva 2026)
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-06-15
+Duracion            : 55:28
+Vistas              : 2,102
+URL                 : https://www.youtube.com/watch?v=SNzz9u51MAU
+----------------------------------------------------------------------
+
+Muy buenas a todos. Muchos me habéis
+pedido el indicador de Momentum, que es
+el que tengo aquí en pantalla. Eh, me
+habéis dicho que es un indicador que os
+gusta mucho, entonces voy a y voy
+a volver a subirlo a la comunidad de
+School para que podáis descargarlo.
+Aprovechando que hoy me he quedado por
+aquí por casa y no he ido a la oficina
+porque tengo un montón de jaleo aquí de
+cosas pendientes de revisar. es lo que
+tiene una app como estratos, pues que te
+absorbe mucho en muchos aspectos y hoy
+pues me toca otro tipo de aspecto pues
+más administrativo. Entonces, he
+decidido quedarme hoy por casa para
+darle caña a todo. Entonces, dicho esto,
+os voy a enseñar aquí el indicador de
+Momentum para que lo podáis entender.
+Como digo, os lo voy a regalar al final
+del vídeo. Os dejaré, os diré el enlace
+para que podáis entrar a descargarlo y
+vamos a hacer aquí alguna operativa en
+directo para que veáis cómo funciona. Os
+lo voy a explicar y os voy a enseñar eh
+lo que acabamos de desarrollar dentro de
+estratos para que eh podáis operar en
+manual. atento a esto para que operáis
+podáis operar en manual, pero que
+tengáis el soporte de gestión de un bot
+de trading. Es decir, para que podáis
+realizar una operativa en manual, o sea,
+vosotros decidís cuándo operar, cómo
+operar, como por ejemplo con el
+indicador de momentum aquí con vuestro
+sistema, pero la gestión de esa
+operativa en el momento en que vosotros
+la abrís va a ser totalmente automática.
+Es decir, se delega a un bot de trading.
+Vosotros decidís qué sistema aplicáis en
+manual, le iniciáis la operativa y la
+gestión queda para el bot de trading.
+Entonces, voy a desarrollar ese bot de
+trading y os lo voy a regalar también y
+os voy a decir desde dónde lo podéis
+descargar. Entonces, vamos con la con la
+operativa. Vamos a ver cómo funciona
+este indicador. De momento. Vamos a
+crear ese bot que os va a ayudar a
+gestionar de forma automática vuestra
+operativa y os lo voy a a regalar.
+Entonces, vamos a empezar con la
+operativa de Momentum. Bueno, yo hoy
+aquí me ha pillado un poco el toro.
+Fijaros por aquí salió la señal del
+indicador de momentum. Aquí pues fijaros
+sobre las 9:55 pues 8:55
+minutos antes de la apertura europea en
+este caso. Eh, ¿cómo funciona este
+indicador? Pues muy sencillo, lo voy a
+poner por aquí y lo vais a entender muy
+rápido. Estas velas, esta vela verde o
+estas velas rojas, por ejemplo, son la
+señal de compra y la señal de eh de
+venta de cortos. Cuando sale esta señal,
+ejemplo, aquí arriba, lo trazo hacia
+arriba en esta vela, ahí era el momento
+de comprar y va a seguir estando activa
+hasta que el volumen del momentum se
+gire hacia abajo. Este no es un
+indicador de momentum convencional, es
+un indicador de momentum profesional,
+sobre el cual pues yo llevo ya muchísimo
+tiempo trabajando, casi una década y la
+fórmula está bastante ya adaptada eh y
+pulida, o sea, es un indicador bastante
+potente. De todas formas, como os lo voy
+a regalar, ya os lo regalé la vez
+anterior con una licencia de 6 meses, os
+lo voy a volver a regalar ahora y lo
+vais a poder ver vosotros. Aquí no hay
+ni trampa ni cartón. Sé que las señales
+que salen eh parecen muy buenas, pero es
+que realmente son eh son así de buenas.
+O sea, aquí no hay ni trampa ni cartón.
+No repinta, no repinta. O sea,
+importante. Ningún indicador de los que
+yo os regale ni ningún bot de lo que
+podáis crear en estratos van a repintar
+nunca. ¿Por qué? Pues porque repintar es
+subjetividad y en estrato vamos con
+objetividad 100%. O sea, estos son
+sistemas de trading siempre
+profesionales bajo un desarrollo y
+criterio profesional, por lo que no
+repintan. Muy importante, ¿no? Porque
+otro indicador, a lo mejor, por ejemplo,
+da una señal, eh, imaginaros de venta
+aquí en esta parte, en esta vela, da una
+señal de venta, sale la vela roja aquí.
+¿Qué pasa? el precio vuelva a subir, en
+el momento en el que rompe el alto, la
+flecha esta se elimina y aparece la
+señal de venta aquí y aparecería aquí la
+la vela roja. En el momento en el que el
+precio sube y rompe, se elimina y
+aparece aquí. ¿Qué pasa si luego llega
+hasta aquí arriba y aquí se queda y el
+precio ya de aquí cae? Esta será la
+señal que vosotros veréis. No veréis
+estas señales porque ha ido repintando a
+medida que el precio avanzaba. ¿Qué
+quiere decir esto? Pues básicamente
+quiere decir que cuando vemos este tipo
+de indicadores parecen maravillosos,
+señales ultra perfectas, eh, vendemos en
+los máximo, compramos en los mínimos y
+todo parece super maravilloso. ¿Por qué?
+Porque son indicadores que repintan y
+quedan la última señal. La última señal
+que no sirve de nada, ¿no? Entonces,
+importante que lo tengáis eh en cuenta.
+¿Cómo funcionan los indicadores?
+Normalmente todos los indicadores del
+sector RIL repintan porque no van a ver
+la cerrada, luego recalculan con nuevos
+máximos y mínimos, etcétera, etcétera.
+Este indicador que os voy a regalar y
+todo lo que os regale yo como norma
+general no pinta, a no ser que el
+repintado sea un recálculo para algo
+específico, pero cuando son señales y
+demás no repinta nada. Objetividad 100%
+sin trampa ni cartón de ningún tipo.
+Entonces, bueno, dicho esto, eh eso
+sería el aspecto de las señales. Esas
+son las velas de señales. Podemos darle
+también al indicador que nos pinte la
+flecha arriba en la gráfica también por
+si queremos tener la señal también
+arriba en la vela y saberlo. Pero bueno,
+básicamente
+cuando tenemos la señal directamente
+pues ya tenemos la la vela aparente,
+¿no? Voy a por ejemplo, voy a
+sacar
+una línea vertical y la voy a poner
+aquí. O sea, ahí te sería la vela de la
+señal de comprar. Pues fijaros cómo va
+esta operativa. Yo, como digo, he
+llegado tarde, he podido hacer una aquí
+chiquitita. Nada, han sido unos 100 € o
+algo así aproximadamente habrá sido. Sí,
+aquí está unos A ver que lo tengo por
+aquí.
+Aquí lo tengo, unos 100 € unos 98 € Lo
+voy a poner. Eh, yo siempre lo tengo en
+porcentaje para que porque normalmente
+lo hago todo por porcentaje. Yo sé que a
+a vosotros como norma general pues os
+gusta tenerlo también en en euro.
+Entonces, bueno, al final básicamente un
+2% un 2% de la cuenta pues son uno eh en
+esta cuenta, en este caso 122,000. Yo,
+como digo, lo hago todo un porcentaje
+porque ya tengo el cálculo mental hecho
+en porcentaje y no me sirve el euro como
+tal o el dólar o lo que tenga, ¿no? En
+este caso, una cuenta en dólares. No me
+sirve. ¿Por qué no lo calculo en la
+divisa? Pues porque $90, ¿cuánto es?
+¿Mucho o poco? No lo sé. Con respecto a
+mi cuenta, como tengo varias cuentas,
+por ejemplo, esta tiene $22,000, vamos a
+ver si la llevamos ahora a los 23, eh,
+¿qué pasa? que como voy cambiando
+siempre entre cuentas, tengo varias
+cuentas, tengo portfolios de más de 30
+bots, etcétera, etcétera, eh con un
+porcentaje me queda claro eh cuál es el
+total de la cuenta, con el capital en
+divisa no me queda claro y como voy
+mirando los bots muchas veces desde VPS,
+etcétera, etcétera, y miro lo que van
+generando con porcentaje, ya lo tengo
+claro, no me tengo que ir al balance,
+revisarlo y tal, pero bueno, yo sé que
+en el sector retail como norma general
+se va todo siempre al a la divisa, ¿no?
+al dinero porque es la gestión que hay.
+Así acostumbraros a hacerlo bien
+profesionalmente es con porcentaje
+siempre. Bueno, dicho esto, fijaros que
+por aquí qué va haciendo el indicador de
+momentum. Ya no hay señales, o sea, la
+señal ya ha salido aquí. Yo voy a hacer
+alguna hora, pues, para que vosotros
+veáis cómo funciona, ¿no? Pero no habría
+que hacer ya ninguna señal más. La señal
+está aquí. No obstante, vamos a hacer
+alguna operativa para que veáis cómo aún
+así eh va a seguir saliendo eh
+posiciones que van a dar rentabilidad.
+Fijaros el momentum en este último tramo
+ya ha caído, por lo que aquí ya en este
+último tramo es divergente. Yo voy a
+ y voy a poner una orden de compra.
+Yo normalmente en esta cuenta de 22,000
+pues lo dejaría en un lotaje
+aproximadamente de uno. ¿Y qué voy a
+hacer aquí en esta cuenta? Pues fijaros,
+de momento no hay nada de volumen de
+volumen bajista.
+El el el motivo de esta operativa es
+para que vosotros lo entendáis, ¿no?
+Fijaros que no hay nada de volumen
+bajista. Voy a esperar un par de velas a
+ver qué pasa. Mira, fijaros aquí está
+saliendo una vela naranja. ¿Qué
+significa la vela naranja? Pues la vela
+naranja, como estas que tenemos aquí,
+fijaros, ha salido naranja y la
+siguiente también es naranja. Cuando hay
+una vela naranja indica que hay
+probabilidades de cambio de eh de
+volumen, ¿no? O sea, eh el ejemplo más
+rápido, fijaros, aquí salió la vela en
+roja aproximadamente, si me lo llevo
+hacia arriba, sería por aquí, por estos
+niveles. Salió la venta y fijaros cuando
+empezó a salir la vela naranja, la señal
+de algo está pasando, básicamente quiere
+decir el momentum está cambiando. salió
+aquí en estos niveles. Fijaros, todo
+este nivel ha sido el nivel que luego el
+precio pues desde el que ha roto y se ha
+ido al alza. Aquí tendríamos una
+acumulación de manual, ¿no? Aquí
+tendríamos la acumulación de manual.
+Aquí ya pega, sube, baja hacia abajo, ya
+no tiene fuerza de llegar. O sea, esto
+es una manipulación institucional eh
+clásica de análisis técnico, o sea, el
+volumen eh ya no tiene fuerza para pegar
+en la parte inferior. Genera un rechazo,
+sube al alza. Aquí hay una señal de
+compra clarísima. ¿Qué pasa? Vosotros no
+tenéis que aprender nada de todo esto
+del análisis técnico porque ya lo
+automatizamos con herramientas, como por
+ejemplo este indicador de de momentum.
+Entonces, fijaros lo que está haciendo
+aquí. Esta última vela de del volumen de
+momentum ya es mucho más bajita. Fijaros
+qué pasaría aquí ahora. Pues ahora aquí
+tenemos dos opciones con este indicador.
+Opción número uno, que salga una vela
+roja, en cuyo caso aumentarán las
+probabilidades de que dé una señal eh en
+corto en venta y la podríamos tomar y
+vais a ver cómo va a llegar a positivo
+con alta probabilidad, porque este
+indicador, ya os lo digo que es s super
+potente, o sea, lo vais a probar
+vosotros, es superpotente. Lo bueno que
+lo tenéis dentro de la plataforma de
+estratos para que lo podáis automatizar
+con un bot. De hecho, yo tengo
+estrategia automatizada con este bot y
+os lo digo con conocimiento de causa.
+Opción uno, que tenemos, lo voy a poner
+por aquí de color, que salga una vela
+roja, en cuyo caso pues iríamos a buscar
+una venta o opción número dos que
+tenemos por aquí. La opción número dos
+sería básicamente que saliese de nuevo
+una vela eh verde. La vela verde,
+¿cuándo saldría por aquí? Y pues bien,
+si os fijáis, este indicador tiene una
+línea de el momentum bajista medio y
+otra por arriba de la media del momentum
+alcista.
+Cuando el momentum no llega a la a la
+línea punteada que tenemos, por ejemplo,
+en todos estos casos no llega, se queda
+de color naranja. ¿Por qué? Porque está
+por debajo de la media de el momentum
+alcista. En el caso contrario sería lo
+mismo con el rojo. Cuando no llegan
+todas estas no llegan, quiere decir que
+está por debajo de la media del momentum
+bajista. Cuando un indicador está por
+debajo de su media, como este caso de
+aquí, nos está indicando básicamente que
+está perdiendo tracción en esa
+direccionalidad, está por debajo de la
+media. Entonces, el segundo caso que
+esperaríamos aquí para volver a entrar
+un buy y continuar en compra sería que
+saliese una vela aquí verde y verde
+quiere decir que está otra vez dentro o
+por encima de la media. O sea, sería una
+vela otra vez de una tracción
+considerable que estaría dando un empuje
+traccionable otra vez al al mercado y
+realizaría ese movimiento alcista. Como
+vemos aquí estamos viendo un cambio de
+fase. Yo espero que salga una señal
+bajista porque así os lo vamos a poder
+ver aquí en directo cómo hace esa
+transición de la señal de compra hacia
+la señal de venta para que lo veamos.
+¿Qué va a pasar si se gira hacia abajo?
+Pues que empezará una vela de color gris
+como la que estamos viendo aquí. Le voy
+a dar un poco de zoom para que lo veáis
+mejor. Tendríamos una vela de color gris
+como la que estamos viendo aquí en esta
+parte. Si eh continúa eh ese cambio de
+tracción del momentum alcista hacia el
+momentum bajista, ¿qué va a pasar? Va a
+llegar un momento que el momentum
+bajista va a empezar a dominar en el
+mercado. En ese momento empezarán a
+salir velas hacia abajo de color
+naranja. Es decir, ya el momentum eh
+está en el terreno bajista, están
+controlando el terreno los vendedores,
+pero todavía no es lo suficientemente
+fuerte como para superar la media del
+volumen bajista. Por eso sería una barra
+naranja hacia abajo, pero no sería roja.
+En el momento en el que saliese la barra
+roja hacia abajo, es decir, una eh un
+momentum bajista potente que rompa la
+media, ahí vamos a tener la señal. O
+sea, básicamente se pueden dar estos dos
+escenarios. El que el que buscaríamos
+para la entrada en corto sería pues una
+barra bajista de color rojo intenso,
+como la que vimos aquí detrás.
+Voy a quitarle el deslizamiento
+automático como esta que tenemos por
+aquí o esto para entrar en venta o una
+verde alcista para entrar en eh en
+compras de nuevo, ¿no? Para la reentrada
+en compra. Entonces, si la siguiente
+vela, fijaros cómo va llegando. Vamos a
+ver aquí la señal y la vamos a hacer. Si
+sale la venta, la vamos a hacer y vais a
+ver como luego haga lo que haga esto no
+va a repintar. O sea, aquí no hay
+repinte de ningún tipo. Por eso, eh, a
+ver si sale la señal y si sale lo vais a
+ver en directo vosotros, aunque como
+digo, os lo voy a a regalar y lo vais a
+poder comprobar, pero sí que sería
+interesante que saliese porque así vais
+a ver pues cómo eh se gestionaría esta
+señal y cómo se se haría. Y luego vamos
+a ir al al a extrato y lo vamos a
+automatizar para que esta gestión quede
+eh automatizada totalmente, ¿no? Fijaros
+que la vela es muy pequeñita. Si la
+vemos aquí en el gráfico, pues no parece
+nada, pero si la miramos en el momentum,
+fijaros que el momentum está
+intensificando. Por eso es la
+importancia de utilizar eh indicadores
+profesionales para medir correctamente
+el mercado, ¿no? De hecho, fijaros que
+la vela es incluso alcista y el momentum
+sigue siendo bajista. O sea, el
+indicador está detectando ya que aquí
+hay una presión bajista considerable y
+que debemos tener cuidado. Vamos a ver
+cómo termina. Mira, fijaros, ha
+terminado al alza y sin embargo el
+indicador nos marca en corto. Fijaros
+con esta vela, si el momentum continúa,
+va a terminar rompiendo la media. Y si
+cierra rompiendo la media, tendremos una
+señal seguramente de venta. Vamos a ver
+cómo va. Fijaros que la vela no se pone
+ya roja, no empieza ya a dar la señal, o
+sea, los típicos indicadores retail ya
+estarían aquí pin dando la señal y si
+luego la vela se devuelve, la repinta y
+nos deja aquí vendidos en el mercado que
+se gira, ¿no? Entonces el indicador
+hasta que no tiene el 100% de la
+información no hace nada. Yo ya pongo el
+ratón por encima del cel porque puede
+ser que salga ya y como estamos aquí en
+scalping interesa cogerlo lo más rápido
+posible e para que podamos ver la
+operativa. Fijaros, son velas de un
+minuto, o sea, esto va a cerrar ya
+mismo. Vamos a ver si nos quiere dar la
+señal o no nos la quiere dar. No la ha
+dado. Fijaros. No la ha dado. Se queda
+en gris. Pues cogemos y esperamos. O
+sea, necesitamos que haya esa
+intensificación del momentum bajista
+para que la operativa de la señal. O
+sea, el indicador tiene que tener todos
+los datos que necesite para confirmar la
+señal. Como son indicadores
+profesionales hechos con lógica
+profesional, no son indicadores que
+simplemente cuando cruza la línea tal o
+cuando hace el cruce de tal o llega el
+indicador X, no, el indicador va mirando
+por detrás muchísimas métricas del
+precio y todas tienen que estar
+correctas para que dé la señal. Si no,
+no la va a dar. Mira, fijaros aquí la
+acaba de dar. Vamos a hacer la venta.
+Aquí la está dando. Fijaros que aquí la
+está dando.
+Aquí la está dando. Para tener la
+confirmación debemos esperar a que
+cierre con la señal.
+Aquí ya nos está avisando de que la
+quiere dar. Vamos a esperar a que
+cierre. Fijaros ahí el primer tirón que
+ha dado y ahí está la señal. Ahí meto la
+operativa. Fijaros, la señal ya se
+queda. El siguiente momentum ya es
+bajista. ¿Cómo gestionaría yo este eh
+cel aquí ahora? Pues bueno, aquí lo voy
+a poner simplemente por encima del alto
+anterior por este nivel, que serían
+aproximadamente,
+para que lo veamos aquí a ojo, unos 738.
+Lo dejo por aquí. Entonces, ahora me lo
+traigo hacia abajo y mínimo, mínimo,
+mínimo tendría que ir a buscar lo
+mínimo. Mira, fijaros lo como como por
+esta zona de aquí está en 600. Vamos a
+dejarlo por aquí, que es una zona de
+rechazo. Por aquí sobre 550.
+Y esta parte de aquí igual la vamos a
+dejar por 550.
+Vamos a
+vamos a bajarlo por aquí sobre 550
+para que más o menos quede igual. Y ahí
+lo tendríamos. Ahí tendríamos una
+distancia más o menos equidistante. Aquí
+no me voy a complicar mucho, simplemente
+es para que vosotros veáis cómo funciona
+el indicador. Fijaros que el precio está
+subiendo y aún así yo he cogido y le he
+bajado el stop. O sea, en el sector
+retail normalmente la gente tenéis la
+costumbre de hacer todo lo contrario. El
+precio sube y uf, uy, que me va a tocar,
+que uf uf y y es que por este cachito y
+si me toca no le voy a dar un poco más
+de margen y al final terminamos
+reventando la cuenta. Nada, esto se
+queda en 550. La señal está en ese
+nivel. Si no tiene que salir, que no
+salga. 550. Fijaros, se lo ajusto ahí al
+precio. Que el precio haga lo que quiera
+hacer. No hay ningún problema. Si tiene
+que saltar el stopl que lo salte. Yo
+confío en la señal, en el indicador. El
+volumen de momento sigue estando en la
+parte baja, o sea, no hay ningún
+problema. No se ha girado ni hacia
+arriba, ni hay velas naranjas, por lo
+que sigue estando la señal eh bajista.
+¿Qué pasa aquí? Pues aquí es donde viene
+el miedo de muchos de vosotros, ¿no? U,
+que se me va a girar, que se me va a
+girar, que me va a tocar, que me va a
+saltar. Y empezamos con los problemas.
+Mejor un poquito por encima del alto
+para que tenga aquí una resistencia y me
+pueda proteger. O sea, aquí no hay altos
+ni bajos que te puedan proteger. Si la
+señal no es buena, si no utilizamos un
+criterio bueno, da igual que lo pongas
+en la resistencia por debajo, por detrás
+o por encima de 400 resistencias. Te va
+a terminar saltando el estorlo. O sea,
+lo que le da la fuerza a la señal es la
+propia señal. Aquí es un criterio muy
+simple porque lo estoy utilizando solo
+con un indicador. Esto no debería ser
+así. Ya sabéis cómo se trabaja, cómo
+trabajamos dentro de de extractos con la
+app, o sea, filtros de regímenes, eh,
+gestiones, etc., etc., etc., No, o sea,
+esto aquí es muy simplificado,
+simplemente por eso hago con poco poca
+chicha y controlado con un estl muy
+cercano para que lo podamos hacer porque
+es una operativa que yo así no opero
+nunca, simplemente es para que veamos el
+indicador y para que veáis la potencia
+de la señal. Fijaros, por ejemplo, la
+importancia de de entender las cosas que
+hacemos, ¿no? Fijaros cuando dio aquí la
+señal de BY, como luego retrocedió hasta
+aquí abajo y luego finalmente subió, que
+es algo muy parecido que lo que ha hecho
+aquí, ¿no? Que retrocedió aquí hacia
+arriba y ahora vamos a esperar a que a
+que baje a la bajada. O sea, al final eh
+las cosas bien hechas, bien aparecen y
+vamos a dejar nuestro estl. Si lo tiene
+que saltar, que lo salte y si no, pues
+que no lo salte. O sea, eh,
+evidentemente prefiero ganar y no
+perder, pero me da exactamente igual el
+resultado de esta operativa.
+Literalmente me da exactamente igual.
+¿Por qué? Porque aunque prefiero ganar
+que perder, evidentemente, como todo, me
+da exactamente igual porque sé cómo
+funciona el indicador, eh, entiendo de
+probabilidades y sé que no todas las
+veces se pueden ganar. A veces se gana,
+a veces se pierde y me da exactamente
+igual, mientras que el cómputo total de
+mis operaciones pues termine en
+positivo. O sea, si yo voy a mi
+histórico, a mi historial, tengo muchas
+operaciones perdidas y tengo muchas
+operaciones ganadas. Por ejemplo, os voy
+a enseñar esta cuenta. Esta cuenta no la
+suelo operar mucho, tiene poco capital,
+pero aún así os lo voy a enseñar.
+Fijaros, por ejemplo, aquí alguna,
+algunos bots que he estado eh probando
+por aquí. Fijaros, yo tengo operaciones
+perdidas. Claro que sí que tengo
+operaciones perdidas. ¿Cómo no voy a
+tener operaciones perdidas? Para no
+tener operaciones perdidas tendría que
+tener una bola de cristal y por suerte o
+por desgracia pues no tengo una bola de
+de cristal. Sin embar sin embargo,
+fijaros que esta cuenta lleva 4418
+eh dólares de rentabilidad, o sea, no
+hay ningún problema. Bola de cristal, yo
+no tengo. Eh, no sé si vosotros la
+tenéis, los grub de internet la tienen,
+yo no la tengo. Si a veces fallo, no hay
+ningún problema. Lo que me importa es
+que al final pues termine ganando más
+tiempo de eh del que pierdo o o me da
+igual o que o que pierdan más veces que
+las que gane, pero que las que gane
+tengan una gestión correcta para poderme
+llevar a a positivo, ¿no? Fijaros, mira,
+aquí casi me acaba de saltar el stopl,
+no hay ningún problema. O sea, yo lo
+asumo. Eh, ya veis mi cuenta que tiene
+operaciones eh que se pierden, o sea, no
+no hay ningún problema en tener
+operaciones que que se pierdan, o sea,
+no hay ningún problema. Eh, perder
+perdemos todo, pero es importante tener
+esa mentalidad eh correcta. ¿Cómo
+funciona el trading? ¿Qué hacemos con el
+trading? ¿Qué es lo que queremos hacer?
+O sea, al final, como siempre digo,
+predecir es el trabajo de los
+astrólogos. Yo sinceramente no sé cuando
+llegue hoy a casa ni qué voy a comer
+hoy. No sé, mi mujer habrá preparado
+algo, ¿no? No sé qué es lo que me habrá
+preparado. O sea, si no sé ni qué es lo
+que voy a comer hoy al mediodía, no sé
+cómo cómo voy a predecir el mercado. Si
+si no tengo ya el poder de predicción ni
+sobre lo que voy a comer hoy al
+mediodía, ¿no? Y pues lo mismo pasaría
+aquí, ¿no? Entonces, al final el cambio
+de mentalidad que tenéis que hacer.
+Predecir es el trabajo de los
+astrólogos. Un trader cuantitativo como
+yo y como queréis ser vosotros si estáis
+suscrito a este canal. Si no estáis
+suscritos, suscribiros. Un trader
+cuantitativo calcula probabilidades y
+ejecuta su operativa cuando las
+probabilidades demuestran un age, claro,
+es decir, una ventaja sobre el mercado,
+porque al final lo que hacemos es
+explotar ineficiencia del mercado y eso
+es lo importante, explotar ineficiencia
+del mercado. Y para detectar esa
+ineficiencia primero hay que
+calcularlas. Eso es fundamental. Por eso
+medimos el mercado, lo calculamos y
+explotamos la ineficiencia una vez que
+las detectamos. Y la y ¿qué es una
+ineficiencia del mercado? Pues una
+ineficiencia del mercado es básicamente
+una propiedad que se da en el mercado de
+forma prolongada en un estado concreto.
+¿Qué es lo que quiere decir? Pues
+básicamente cuando hay un régimen de
+mercado concreto, hay una propiedad que
+tiende a repetirse y por eso al mediante
+esa repetición de esa propiedad eh en
+particular se produce un régimen de
+mercado. Entonces, cuando operamos un
+régimen de mercado, cuando diseñamos un
+bot para operar un régimen de mercado
+concreto, lo que estamos haciendo es
+operar esa ineficiencia. Por eso cuando
+hacéis un bot de trading, descargáis un
+bot de trading, lo diseñáis con sobre
+optimizaciones CFitting como Strategy
+Quan, lo diseñáis con Cloud, con CH GPT,
+con lo que sea, lo que estáis haciendo
+es automatizar vuestra quiebra
+garantizada por la certeza de las
+matemáticas, porque estáis creando una
+automatización que opera algo, un
+criterio, el que sea, dentro de un
+mercado, el que sea, y va a generar un
+problema porque no sabéis ni qué
+ineficiencia estáis operando,
+simplemente estáis buscando una entrada
+con un criterio de entrada de la última
+estrategia de moda que habéis visto o el
+último indicador que os ha gustado o
+directamente eh algo que os ha parecido
+que va a estar bien, pero vais a buscar
+la entrada, la entrada, automatizar la
+entrada y pulir la entrada y
+sobreoptimizar la entrada, la entrada,
+entrada, entrada, entrada, entrada. ¿Qué
+pasa? Nos enfocamos tanto en operar una
+circunstancia del mercado, pero no
+dedicáis ni un segundo en detectar si
+esa circunstancia de mercado que queréis
+operar realmente es una propiedad del
+mercado operable, una ineficiencia que
+pueda operarse. Y en caso incluso de que
+sea una ineficiencia que pueda operarse,
+debemos saber detectar en qué tipo de
+régimen se produce y el bot debería
+operar en ese tipo de régimen y en
+ningún otro. En ningún otro. ¿Qué pasa
+cuando creamos un bot con el criterio de
+buscar entrada operativa y operarla?
+¿Qué pasa? Lo ejecutamos al mercado. Ese
+bot va a operar siempre cuando tiene
+ventaja, cuando no tiene ventaja, cuando
+el mercado está tranquilo, cuando está
+nervioso, cuando está ordenado, cuando
+está caótico, cuando está en tendencia
+alcista, cuando está en tendencia
+bajista, cuando está en rango, cuando
+está en breakout, va a operar siempre,
+no va a diferenciar nada. ¿Por qué?
+Porque es un bot retail que está hecho
+enfocado para quiero ganar dinero,
+quiero ganar dinero, quiero ganar dinero
+y para ganar dinero necesito operar.
+Para ganar dinero necesito ir a
+trabajar. No es lo que se suele hacer en
+el sector retail. Para ganar dinero me
+han enseñado que tengo que ir a
+trabajar. Si no trabajo, no gano dinero.
+Pues para que mi bot gane dinero tiene
+que operar. Si no opera, no gana dinero.
+Y se diseña ya el los bots con el
+criterio de que tienen que operar. mal,
+falso. El bot no se diseña con un
+criterio que tenga que operar, a no ser
+que tengáis la capacidad de generar un
+bot que pueda predecir el futuro. Como
+yo no puedo y creo que nadie puede, al
+final, ¿qué hacemos? calcular el
+mercado, medirlo, escucharlo y dejar
+operar el bot solo cuando la propiedad
+de mercado que va a operar, la
+ineficiencia que detecta y opera, sobre
+la que tiene ventaja, sobre la que su
+gestión, detección y y gestión de cierre
+y de riesgo es efectiva, ahí le dejaré
+operar, pero en ningún otro momento,
+¿no? Es como al final eh una
+tortuga, tirarla por un acantilado y
+esperar que despliegue la sala y eche a
+volar. Pues bueno, pobre tortuga, ¿no?
+No sé cómo de alto será el acantilado y
+si abajo habrá agua o no, pero como sea
+suelo macizo, pues va a tener un
+problema esa tortuga, ¿no? Pues lo mismo
+pasa cuando cogemos un bot. Es como esa
+tortuga, cogemos un bot retail hecho
+pues con sobreoptimizaciones,
+eh herramientas de cualquier tipo,
+etcétera, etcétera, cloud, Gemini,
+etcétera. Lo cogemos y lo echamos al
+mercado. Es como ir hacia el borde del
+acantilado con nuestra tortuga. Eh, la
+hemos cuidado un montón, la queremos un
+montón. Llegamos al borde del acantilado
+y la soltamos esperando que despliegue
+las alas y y eche a volar. No, eso no va
+a pasar. Esa tortuga eh va a ser su
+último vuelo. De hecho, no va a haber
+ningún vuelo, pero si lo hubiese ese
+sería el último. Ese es el simil más
+claro que os puedo decir cuando creáis
+un bot de trading sin un criterio
+profesional. De todas formas, como os
+digo, si queréis aprender a crear bot de
+trading realmente eh rentables, que
+tengan oportunidad de ser rentables, eh
+simplemente os dejaré el link por aquí
+en el primer comentario fijado de la
+comunidad de school para que podáis
+entrar y aprender. Os tengo preparado
+una formación gratuita ahí que os va a
+ayudar a entender los fundamentos del
+trading cuantitativo, ¿no? Mira,
+fijaros, fijaros lo que está pasando
+aquí. Fijaros que el precio ha revertido
+hacia arriba.
+En dos ocasiones casi salta el stor, no
+hay ningún problema. O sea, ya veis que
+estoy totalmente tranquilo y es como
+tenéis que aprender estar en el trading.
+Por eso, si os juntáis con gente dentro
+del sector del trading, juntaros con
+gente que os pueda sumar, juntaros con
+gente que os pueda ayudar a controlar, a
+ejercitar eh el la mente y si no podéis
+directamente dejar el trading manual y
+hacer trading automático 100%. Porque si
+no vais a tener un problema eh
+importante, os lo digo que vais a tener
+un problema importante, sobre todo si
+hacéis trading manual. Fijaros como el
+indicador ha venido por la parte de
+abajo, ha hecho aquí el volumen y aquí
+cambia hacia la parte de arriba. ¿Qué
+puede pasar aquí? Pues bueno, aquí
+podría pasar pues que saliese, mira lo
+que está pasando, que saliese una señal
+de eh by. ¿Qué pasa si sale la señal de
+B? Pues compraremos. Como os digo, el
+indicador no es una bola de cristal. A
+veces eh acierta y a veces falla. O sea,
+el 100% no lo tiene. Fijaros, aquí sale
+una señal de B. Vamos a esperar al
+cierre de la vela a ver si la da.
+Vamos a esperar a ver si la da. Y si la
+da, pues compraremos.
+Y mira, fijaros que cuando empieza a
+salir veis no lo detecta. Mira, fijaros.
+Ahí compramos la siguiente. El sellado
+el stop loss, no hay ningún problema.
+Pues cogemos y volvemos a hacer la misma
+operativa. Fijaros, el stop loss lo
+pongo aquí en en -550 aproximadamente. Y
+ahora a este buy le voy a y le voy
+a poner un take profit de 1000.
+En este caso le vamos a poner 100.
+A ver si lo dejo por aquí medio cuadrado
+ahí en 1100. ¿Por qué 1100? Pues porque
+si sale a 1100 voy a ganar 550 y voy a
+recuperar los 550 de el del stop loss
+del del cel. Sí, no hay ningún problema.
+Vamos a ver cómo se desarrolla.
+Como os digo, fijaros aquí en esto que
+que es importante. Por eso es la
+importancia. Mira, lo voy a dejar así
+que se ve mejor. Vamos a quitar esta
+línea, que esta línea ya no la
+necesitamos, que es la importancia de
+automatizar las cosas bien. Fijaros lo
+que me está pasando a mí por hacerlo en
+manual. hecho esta señal de sell, pues
+porque me la ha dado el indicador y la
+he hecho. Si esto estuviese en un bot de
+trading, en un bot de trading, eh, que
+yo hubiese automatizado, por ejemplo,
+para operar estrategias de momentum,
+había hecho, habría incluido un filtrado
+de momentum y solo habría operado si eh
+se hubiesen dado la circunstancia de un
+régimen de momentum. Es decir, el
+indicador de momentum me da la señal de
+eh de que el momentum está cambiando.
+Pero vuelvo a lo que os he explicado
+antes. Esto es buscar entradas. Si yo no
+quiero buscar entrada y quiero buscar
+rentabilidad, ¿qué necesito hacer? Crear
+un bot que solo deje operar a este
+indicador cuando el régimen del mercado
+sea momentum. ¿Por qué? Porque este bot
+lo que hace es detectar la propiedad de
+eh de momentum, es decir, cuando hay un
+momentum y se da una señal, opera. Pero
+claro, ¿qué pasa? Ahí estoy haciendo un
+bot retail. Dispara a todas las señales
+que se muevan y yo tengo que filtrar y
+dejarle operar solo cuando la
+ineficiencia que él detecta, en este
+caso una detección de momentum eh
+alcista o bajista en una direccionalidad
+concreta cuando esa señal se da. Por eso
+es la importancia de que yo no solo
+automatizo esto con un bot y ahí está la
+importancia de plataformas como Stratos,
+que teniendo este indicador que es muy
+bueno y aún haciéndolo en manual es
+rentable eh, porque tiene un winrate muy
+alto. Aún haciéndolo así, yo lo cojo y
+lo automatizo y solo le permito operar
+cuando eh me dé la estrategia de
+momentum. Entonces, bueno, voy a dejar
+que esto se vaya desarrollando aquí y
+vamos a construir el bot mientras tanto,
+porque si no es que no lo vamos a
+construir y se va a hacer el vídeo, eh,
+muy largo. Mira, fijaros, esta ya lleva
+400, o sea, fijaros, un poquito más por
+aquí y ya tendríamos recuperado el
+Storlot. De todas formas, mira, 470 500.
+Lo voy a dejar y vamos a ir a, espérate,
+no, no lo voy a dejar porque quiero que
+lo vayamos viendo a ver cómo lo podemos
+hacer. Lo voy a poner si no por aquí.
+Y me voy a venir aquí a estrato y voy a
+encoger esto un poquito así.
+Y bueno, por aquí pues lo vamos a ir
+viendo. Vamos a ir viendo por aquí la
+operativa. Le voy a dar un poquito más y
+así vamos viendo la operativa
+paralelamente mientras que vamos
+construyendo porque si no este vídeo
+como está hecho aquí e en directo total
+tal cual pues puede ser que se nos vaya
+esta operativa ahora 15 minutos ahí en
+rango y que no hagamos nada. Entonces,
+os lo voy a enseñar por aquí. ¿Cómo
+sería automatizar esto. Pues bien,
+dentro de estrato, si os vais a acciones
+lógicas, eh, acciones aquí, perdón,
+tenéis un apartado que pone manual.
+Dentro de este apartado tenéis dos
+nodos.
+Lo saco por aquí para que los veáis. Son
+dos nodos de gestión manual de ventas y
+gestión manual de compras. ¿Qué hacen
+estos dos nodos? Pues bueno, estos dos
+nodos son el equivalente, por ejemplo,
+de si tuviésemos aquí en órdenes, pues
+la compra al mercado. ¿Qué pasa con este
+nodo de compra al mercado? ¿Y qué pasa
+con este nodo de venta al mercado? A ver
+que os saco por aquí el de venta a
+mercado. ¿Qué pasa? ¿Qué diferencia hay
+del de compra eh manual? Lo voy a poner
+con el de compra, el de ventas. Con el
+de venta. ¿Qué diferencia hay de este a
+este? ¿Y qué diferencia hay de este de
+venta mercado con este de gestión de
+venta? Pues muy sencillo, os lo explico
+muy rápido. Este nodo es un nodo de
+finalización de acción. ¿Qué quiere
+decir eso? Pues muy sencillo. Quiere
+decir que es nosotros diseñamos un flujo
+y termina finalmente en este eh nodo que
+ejecuta la compra al mercado. Lo mismo
+con el de venta, sería un nodo de
+finalización. Por eso tiene las
+conexiones en la parte izquierda. Es un
+nodo que recibe el flujo de la
+estrategia y ejecuta una venta o una
+compra, como en el caso eh del BU. ¿Cuál
+es la diferencia con este nodo? Pues que
+este nodo va a ejecutarse sobre las
+operativas que nosotros hagamos en
+manual. Por ejemplo, esta operativa que
+acabo yo de hacer aquí, este nodo no va
+a abrir by y este no va a abrir sals.
+Van a gestionar los byes y los salses
+que yo haya abierto en manual. Entonces,
+fijaros en esto. Me extraigo estos nodos
+y me los pongo hacia aquí atrás. Y ahora
+yo, ¿qué podría hacer? Pues me podría
+venir, por ejemplo, y e incorporar aquí
+una lógica. Por ejemplo, si yo quiero
+que cuando abra una orden se ejecute,
+por ejemplo, un trailing stop, pues
+pongo por aquí trailing stop y lo cojo y
+lo saco. Este nodo no tiene por qué
+conectarse a nada. Su conexión es de
+color morado. Eso quiere decir que no
+hace falta que la conectemos. La podemos
+conectar si queremos que algo lo active
+y si no lo conectamos, pues va a estar
+activado por defecto y se va a ejecutar
+eh cuando llegue a los puntos que
+nosotros le tengamos puesto. Por
+ejemplo, aquí le tenemos puesto que el
+valor del trading se active en 300
+puntos con una distancia fija. Yo no soy
+muy amigo de las distancias fijas, os lo
+digo ya por aquí de tips, y soy más
+amigo de eh distancias dinámicas, por
+ejemplo, basado en ATR. Entonces, pues
+le pondría basado en ATR y le pondría un
+ATR de dos. Cuando el precio esté a dos
+ATR del de con respecto al al ATR típico
+del mercado, pues ahí activará el
+trailing y esa es la distancia con la
+que lo vais siguiendo. Si yo ahora este
+bot así tal como está
+sin conectar nada lo generase, eh el
+criterio sería que me va a gestionar los
+byte y los sals para que eh yo pueda eh
+ir gestionando las operativas en el
+mercado. ¿Qué pasa? Yo por aquí podría
+irme a flujos, gestión de riesgo y aquí
+tengo eh los diferentes flujos. Como
+estoy operando una estrategia de
+momentum, me voy aquí a momentum y aquí
+tengo los flujos ya eh prediseñados,
+predefinidos para poder incorporar en
+estrategias de momentum, que lo podría
+pues para automatizar el indicador de
+momentum o para en este caso que me
+ayude a mi operativa manual. Por
+ejemplo, tengo un ATP eh ATR momentum
+con take profit generoso. Bueno, pues yo
+le doy click y me sale qué es lo que
+hace. Lo cojo este flujo y me lo traigo
+aquí. Y fijaros qué hace este flujo.
+Pues este flujo aquí me está dando la
+distancia del stop loss y aquí la
+distancia del take profit. Pues yo en el
+nodo de mercado de compra manual tengo
+la distancia del stop loss, la conecto
+con el stop loss y la distancia del take
+profit la conecto con la distancia del
+take profit. Lo mismo haría aquí con el
+nodo de 20. Distancia de stop loss, la
+conecto con el stop loss y distancia
+take profit la conecto con el take
+profit. De esta forma ahora yo ya
+tendría el el lotaje como lo voy a hacer
+yo manual. este lo quito. De esta forma
+yo ahora ya tendría directamente
+automatizado aquí el flujo de mi
+operativa. Cuando yo abra un byte o yo
+abra un sell, automáticamente se le va a
+colocar el take el stop loss y el take
+profit con eh una base de ATR por 2. Es
+decir, el stop loss va a estar a 2 ATR y
+el take profit va a estar a cinco. ¿Qué
+quiere decir esto? Bueno, pues
+imaginaros si esto sería una distancia
+de de un ATR, pues imaginaros que esto
+sería dos ATR, eso sería la distancia
+desde mi, por ejemplo, un cell aquí
+arriba estaría mi stop loss y cinco ATR
+hacia abajo. Pues, por ejemplo, uno,
+vamos a hacerlo más o menos a ojo, dos,
+tres,
+cuatro. A ver si lo hago medio en
+condiciones y cinco. Y aquí en este
+nivel tendríamos nuestro take profit y
+esta sería la estructura que acabamos de
+ejecutar aquí. Yo ahora aquí ahora esto
+lo podría ya compilar, llevármelo a al
+mercado y cuando yo he abierto esta
+orden de aquí, pues por ejemplo este
+take profit y este stop loss que he
+puesto yo, me lo haría automático. Yo ya
+empiezo aquí a operar, abrir y cerrar
+órdenes y esta gestión sería automática.
+que yo no quiero dos ATRs, pues le
+cambio aquí el valor que pone dos, le
+pongo, pues por ejemplo uno si quisiera,
+que yo aquí no quiero cinco, pues se lo
+cambio y se lo pongo. Esto sería solo un
+ejemplo de gestión. También tenemos un
+trailing stop de ATR, pues directamente
+lo cojo, lo saco. Lo mismo, los nodos de
+eh de, por ejemplo, de eh
+dimensionamiento de posición aquí, pues
+no sería muy útil porque eh abrimos
+nosotros manual, entonces lo quitaría.
+el del ATR sí que lo lo quedo. Y aquí
+tendríamos la distancia de el del ATR,
+que directamente pues lo mismo. ¿Qué
+quiero hacer con esto? Pues el calcular
+el stop loss, pues directamente lo
+conecto al stop loss y automáticamente
+se va a ir moviendo a la distancia que
+yo le tenga puesto por aquí. O sea, al
+final un poco si yo quiero, por ejemplo,
+asegurar a break even, pues aquí tengo
+un nodo de break even. lo mismo, eh, el
+de dimensionamiento de posición no haría
+falta. Lo quito. Fijaros, la operativa
+lleva ya 900. Ha llegado aquí a 900.
+Fijaros, ahí va a estar a punto de
+cerrar que el trail paso por paso este
+lo podría dejar, por ejemplo, y el de
+break even también. Este lo conectaría a
+la distancia de ATR, pues por ejemplo,
+para eh el take profit si lo quisiera eh
+por por ATR, ¿no? Y de esta forma el
+nodo de break even lo borro por aquí.
+¿Qué va a hacer el nodo de break even?
+Este nodo igual no se conecta. Mira,
+fijaros, ahí está a punto de llegar.
+Vamos a ver si lo vemos aquí en directo.
+Fijaros, ha faltado nada. No pasa nada.
+O sea, esto no es Uy, uy, uy, que me
+toca, que Y sí se me devuelve. Voy a
+cerrarlo aquí ya. Buah, total por un
+poquito más, un poquito menos lo cierro
+ya aquí y mejor pájaro en mano que
+volando. Bueno, no sé, mi abuela me
+enseñó que si hay cientos de pájaros
+volando, eh, mejor intentar de los
+que están volando que no quedarte solo
+con uno, ¿no? Si hay cientos volando,
+¿porque no vamos a quedar solo con uno?
+Entonces, vamos a dejarlo. Vamos a ver
+si cierra.
+Vamos a esto. Lo vamos a echar
+hacia aquí. Mira, fijaros esta vela.
+Puede ser que eh lo cierre porque está
+ya muy al tanto. Lo vamos a dejar así.
+Si no cierra, fijaros, ya lleva 1000,
+1011, 1014. Está ya a puntito de cerrar.
+Mira, fijaros. Vamos a dejarlo aquí y
+ahora terminamos con estrato porque está
+ya a punto de eh cerrar. Y aquí tenéis
+lo que os digo, el 100% no existe, pero
+existe la gestión, existe la disciplina
+y la forma de ser rentable. Yo hoy me he
+quedado aquí en casa para trabajar.
+tengo un montón de temas de papeleo, de
+gestiones y de y de apaños varios que
+que conlleva un una plataforma como
+Straton y eh no quería hacer este vídeo,
+pero como estaba eh desarrollando con el
+equipo lo los nodos de acción manual y
+tal, digo, pues mira, voy a aprovechar
+hacer un vídeo aquí un poco random para
+que la gente pues vea cómo funciona el
+indicador de momentum, cómo se gestiona
+y de paso cómo automatizarlo en el caso
+de que lo queráis hacer manual. Pues lo
+dicho, este nodo de break even, ¿qué es
+lo que hace? Pues muy sencillo. Le
+ponemos punto de ganancia, por ejemplo,
+150. Esto quiere decir, o lo explico
+aquí sobre el mercado más sencillo.
+Nosotros hemos abierto el buy aquí.
+Quiere decir que cuando el precio sube y
+llega a una distancia de 150 puntos, y
+perdonarmme por la escritura, pero estoy
+aquí con el ratón y un poco
+complicadete. Cuando llega a 150 puntos,
+¿qué hace? Coge el stop block y lo sube
+aquí. Abre aquí, ¿ven? O sea, ya está.
+Esta automatización de asegurar a break
+even sería simplemente arrastrar este
+nodo y tenerlo aquí puesto. Entonces, al
+final, ¿qué estamos haciendo? Pues lo
+que estamos haciendo básicamente es
+automatizar
+la gestión de la operativa. Igualmente,
+como os digo, me voy hacia atrás, el
+nodo de momentum
+lo voy a sacar. Recordar también que si
+le damos eh comando K, en mi caso que
+estoy en Mac, o sea, este Windows no es
+un Windows H como tal, ¿eh? O sea, no es
+un Windows, evidentemente, pero es un
+Windows que lo estoy corriendo en
+Paralel, que es pues digamos una máquina
+virtual con Windows, porque yo estoy en
+Mac. Entonces, control K para vosotros.
+Crlk. Se nos abre el panel, el panel de
+búsqueda, que yo, por ejemplo, pues
+pongo aquíum, pongo solo Mo y ya me sale
+momentum pro institucional. Le doy aquí
+y directamente me sale el nodo. Este
+nodo es el nodo del indicador que
+estamos viendo aquí en pantalla. O sea,
+este nodo es el indicador que tenemos
+aquí abajo. Total, aquí tenemos los
+valores, la salida. Fijaros, primera
+barra alcista.
+Eh, primera barra bajista, la
+continuación alcista o bajista y eh las
+señales. O sea, aquí tenemos todo
+directamente para automatizar la
+operativa, para que podamos
+automatizarla totalmente. Como hemos
+visto, esto no puede ir directamente a
+comprar y vender, tendría que ir a los
+flujos, como hemos visto aquí, pues de
+filtro, de momentum, etcétera, etcétera,
+y diseñar un bot un poco en condiciones,
+¿no? Pero para que lo tengáis claro, que
+el indicador de momentum que tenéis aquí
+está dentro de estrato. De hecho, este
+es un modelo un poco más avanzado porque
+el indicador que desarrollé, como esto
+todo lo tengo que hacer a mano, tiene ya
+un tiempo y no lo he seguido
+actualizando.
+el nodo que está aquí dentro de de
+estrato, este sí que está actualizado
+a a la última fórmula matemática del del
+indicador del de momentum, por lo que es
+un poco más eficiente y y más
+productivo, ¿no? Tiene un win rate un
+poco más alto. No os voy a decir con el
+nodo este vais a ser multimillonarios,
+¿no? A lo mejor tiene eh eh un un win
+rate a lo mejor de un 5 o 6% más alto
+que el indicador de aquí. Y sé que no
+parece mucho, pero la diferencia entre
+ganar muchas veces y perder es un 5, un
+6%. Entonces, pues que lo tengáis
+en cuenta, ¿no? Dicho esto, voy a cerrar
+por aquí. Nos vamos a quedar ya aquí con
+el Metatrader, que esto ya parece que
+está ahí ya. Fijaros. Ahí va. 1037,
+1040.
+Vamos a ver si llega. Le hemos puesto a
+1100.
+Vamos a ver que ahí lo tenemos.
+Está a puntito, fijaros. Bueno, 106 está
+puesto. Si cierra ahí, pues bueno,
+cogeremos el stoplot del anterior y el
+el tame profit de este, que como es el
+doble, pues ganaré unos 550
+unos $50.
+Vamos a ver cómo llega. Fijaros que está
+pegando arriba. Aquí pues mucho
+empezaríamos, bu, es que está tocando
+zona de rechazo, es que esto no funciona
+así. O sea, no voy a aplicar criterios
+de análisis técnico, pese a que he
+estado muchos años haciendo análisis
+técnico. En 2026, el que hace análisis
+técnico y opera manual va a perder
+dinero como un vellaco. O sea, os lo
+puedo asegurar porque eh hay cientos
+miles de algoritmos institucionales
+preparados para quitaros el dinero y
+haceros trampas de este tipo
+psicológica, eh de niveles, etcétera, y
+os van a engañar y os van a quitar el
+dinero 100%. O sea, solo es cuestión de
+tiempo. Da igual si es una semana, un
+mes, cinco seis. Si hacéis trading
+manual o operáis con bote estático, eh,
+me lo podréis confirmar vosotros cuánto
+tiempo, si habéis conseguido ser
+rentable o no. Y si habéis conseguido
+ser rentable, cuánto tiempo habéis
+conseguido ser rentable en el tiempo.
+Entonces, bueno, os lo voy a dejar por
+aquí grabando. Me voy a darle pausa, eh,
+pausa, perdón. Le voy a dar aceleración
+hacia delante para que veamos cómo
+termina la operativa.
+Bueno, fijaros, aquí vuelve, aquí
+vuelve. Ahí está el milímetro tocando.
+Fijaros, otra vez al milímetro. No pasa
+nada, se deja, no hay ningún problema.
+Fijaros la en la parte inferior que está
+volviendo a querer salir una vela de
+color verde, es decir, el volumen. Ya
+sabéis que la línea punteada significa
+la media del volumen alcista. Por lo que
+quiera salir una vela verde, significa
+que el volumen está volviendo a estar
+por encima de su media. Entonces,
+perfecto. Mira, ahí acaba de cerrar.
+Operativa cerrada. Nos vamos aquí al
+histórico y aquí tenemos la operativa de
+cel cerrada en un 0.13. La otra 0.26.
+Bueno, aquí lo tenéis. -560 y pico y +
+100 y pico. Con esto se queda la cuenta.
+Mira, quería dejarla por encima de los
+23, pues ya está en 23 487.
+Así que pues nada, eh importante, ¿por
+qué eh yo le he puesto la gestión de T
+Profity 12? Pues bueno, yo este
+indicador tiene un win rate eh positivo,
+es decir, mayor a 50. Aciertan más veces
+de las que falla y eh cuando acierta eh
+yo normalmente en la en la estrategia
+que tengo, tip que os lleváis ya en el
+bot que tengo hecho, le tengo puesto a
+un dos, eh, dos de take profit, uno de
+stop loss. Entonces, el primer stop loss
+yo lo estaba haciendo con la parte eh
+uno a uno y el segundo con la parte uno
+a dos. ¿Por qué? porque hago una especie
+de eh martingala de stopl. O sea, no es
+una martingala porque el lotaje es
+siempre el mismo, pero para que me
+entendáis, ¿no? Cuando yo lo operaba en
+manual hace muchos años, para que
+tengáis vosotros el tip, lo que yo hacía
+era lo siguiente. Imaginaros que esto es
+mi entrada. Lo que yo hacía sabiendo,
+entendiendo de estadísticas y
+probabilidades y conociendo el
+indicador, lo que hacía al principio era
+poner eh take profit 1 st loss 1. Como
+sé que acertaba más veces de las que
+fallaba, esto me bastaba para ser
+rentable. y cómo aumentaba yo la la
+ganancia para crecer más rápido la
+cuenta y poder sacar cuentas pequeñas
+mucho más rápido adelante. De hecho, en
+los próximos días vais a tener un vídeo
+donde os voy a enseñar una cuenta
+auditada ante notario que eh de 1000 €
+llegó a a sobrepasar el millón de euros.
+En la auditoría creo que está en
+867,000,
+por lo que no llegaba todavía al millón,
+pero bueno, para que lo veáis, con una
+cuenta de 1,000 € evidentemente que
+nadie se lleva engaño. Esto no lo
+conseguí en una semana, fueron años de
+de trabajo, ¿no? Pero bueno, empecé con
+una cuenta de 1000 y se llevó a 867,000.
+¿Cómo lo conseguí? Pues una de las
+estrategias, una de las estrategias que
+utilizaba era esta. Hacía take profit
+law 11. Como sabía que tenía un win rate
+mayor a 50%, la mayoría de las veces
+acertaba y la cuenta ya iba creciendo.
+Cuando quería crecer las más rápidas,
+¿qué hacía? Eliminar la pérdida. Porque
+como analizando el mercado vi que cuando
+acertaba el movimiento de media, pues
+hacía un recorrido de aproximadamente de
+en función del mercado 1,000 puntos
+aproximadamente. Eh, ¿qué hacía? Pues la
+primera operativa la hacía 500 a 500 con
+el mismo lotaje y la siguiente ya la
+hacía 1000 a 500 tal cual como acabamos
+de hacer aquí ahora. Entonces, además de
+que el indicador ya tiene un win rate
+positivo, es decir, acierta más de lo
+que falla, con esta metodología de no ir
+a exprimir el máximo desde el principio,
+sino quedarme con el mínimo. Es decir,
+imaginaros que yo tengo aquí que 1000
+puntos se va hacia arriba, hacia take
+profit y 500 se va eh hacia abajo.
+Cuando el mercado hace de media este
+movimiento, los 1000 puntos, un K, ¿qué
+pasa? Yo no voy a buscar lo máximo que
+puedo hacer con el indicador y esto es
+un un fallo muy grave que se comete
+mucho en el sector retil. Intentar ir a
+exprimir lo máximo, ya entrar en lo en
+lo más bajo y salir en lo más alto.
+Entrar en lo más alto y salir en lo más
+bajo. Y eso es un fallo brutal de de
+estadísticas y probabilidades porque
+revientas tu ventaja. Yo entendía que el
+indicador de media hacía siempre unos
+1000 puntos. ¿Qué pasa? En ningún
+momento iba a buscar los 1000 puntos. Me
+quedaba con la mitad. me quedaba con
+unos 500 aproximadamente. ¿Por qué no
+iba por todo? Porque metía un lote.
+Entonces, cuando esta operativa me
+fallaba, luego a la siguiente dejaba el
+stop loss igual en 500 y ya el take
+profit le daba los 1000 puntos y aquí ya
+iba a por los 1000 de T profit. Y esta
+era la operativa que de media solía
+hacer, por lo que si tenía un win rate
+positivo y esta se había perdido, había
+muchas probabilidades de que esta se
+ganase y como la media de los
+movimientos eran de 1000 puntos, el que
+me llegase aquí al T profy aumentaba
+muchísimo las probabilidades, por lo que
+esta segunda operativa, esta segunda
+operativa que hacía igual con un lote,
+tenía muchísimas más probabilidades que
+la anterior de salir a positivo y además
+de llegar
+al take profit. Entonces, esto es lo que
+os enseño en la formación de de Techain.
+Podéis acceder a la academia de school
+privada que tenéis el link aquí en la
+descripción donde os enseño este tipo de
+de estrategias para sacar las
+probabilidades reales de vuestro sistema
+y llegar a ser rentable de forma
+consistente y sobre todo y lo más
+importante, sin morir en el intento,
+porque ya veis que en el trading la
+velocidad máxima para ser rentable es
+hacer las cosas bien. Así que si queréis
+aprender 100% a hacer trading
+algorítmico y cuantitativo, como esto
+que habéis visto aquí, hacer clic ahora
+en el vídeo que os aparece en pantalla
+porque tendréis acceso a mi formación
+gratuita estructurada de 0 a 100 del
+paso a paso que tenéis que hacer para
+entender y dominar esto que acabamos de
+hacer aquí.
+[música]
+he

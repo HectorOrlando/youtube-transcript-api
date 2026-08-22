@@ -47,12 +47,25 @@ Pega la URL del video de YouTube: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Donde guardar la transcripcion?
   [1] Carpeta por defecto (transcripts)
   [2] Crear una subcarpeta dentro de transcripts
-  [3] Usar una subcarpeta existente de transcripts
+  [3] Usar una carpeta existente (incluye subniveles)
 Opcion: 1
 ```
 
    - La opcion `[2]` pide un nombre y crea `transcripts/<nombre>/`
-   - La opcion `[3]` lista las subcarpetas existentes para elegir por numero
+   - La opcion `[3]` lista TODAS las carpetas existentes, en todos los
+     niveles, para elegir por numero. Ejemplo:
+
+```
+  [1] Trading-con-Bots
+  [2] Trading-con-Bots/00-sin-categoria
+  [3] Trading-con-Bots/01-trader-manual-a-arquitecto-de-sistemas
+  [4] Trading-con-Bots/02-supera-tu-challenge-y-protege-tu-cuenta
+  ...
+```
+
+     Si creas una categoria nueva a mano dentro de `transcripts/`, aparecera
+     sola en esta lista la proxima vez que corras el script: no hay que
+     tocar el codigo nunca.
 
 5. El script detecta automaticamente el **titulo del video** (via el endpoint
    publico oEmbed de YouTube, sin API key) y te propone ese nombre. Presiona
@@ -259,5 +272,20 @@ git log HEAD..upstream/master --oneline
   el archivo se reemplaza.
 - Las transcripciones viven dentro de `transcripts/` (o la subcarpeta que
   elijas); la raiz del repositorio queda limpia.
+- Puedes organizar la salida en categorias creando subcarpetas dentro de tu
+  carpeta elegida: el menu `[3]` del script las lista y te deja elegir entre
+  ellas. Ejemplo real de este repositorio:
+
+```
+transcripts/Trading-con-Bots/
+├── 01-trader-manual-a-arquitecto-de-sistemas/
+├── 02-supera-tu-challenge-y-protege-tu-cuenta/
+├── 03-trading-cuantitativo-indicadores/
+├── 04-crear-bot-sin-programar/
+└── 05-bots-que-queman-cuentas/
+```
+
+  Consejo: usa nombres sin emojis ni tildes (la consola de Windows puede
+  mostrarlos mal) y numera las carpetas para conservar el orden.
 - Este script depende de endpoints no documentados de YouTube: puede dejar de
   funcionar si YouTube cambia su API.

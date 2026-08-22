@@ -1,0 +1,948 @@
+Titulo              : ICT Silver Bullet sin Código | Deja de Perder 8 Horas Frente a la Pantalla
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2025-12-27
+Duracion            : 39:55
+Vistas              : 2,938
+URL                 : https://www.youtube.com/watch?v=-HHQ9iMZ21E
+----------------------------------------------------------------------
+
+Olvida pasarte 8 horas frente a la
+pantalla sufriendo. Esto es Silver
+Ballet, una hora, una entrada y te vas
+con el profit. El 90% de tu tiempo en el
+gráfico es basura emocional. Estás
+superando ruido, no precio. He analizado
+200 horas de data institucional para
+desglosar esta estrategia sin
+indicadores mágicos, solo reglas
+mecánicas. Hoy no solo vas a entender el
+Smart Money, vas a copiarlo. Te llevaré
+de cero a Pro en cuatro pasos exactos.
+Si puede seguir reglas lógicas, puede
+ser rentable con este vídeo. Advierto,
+la mayoría enseña esta estrategia mal,
+mostrando capturas de ganancia sin
+contexto. Aquí vamos a los fundamentos
+reales. Entenderás por qué el algoritmo
+mueve el precio. Este es el plan.
+Primero, la teoría fundamental. Segundo,
+la lógica institucional. Tercero, la
+matemática de la rentabilidad. Y quédate
+hasta el final porque el cuarto paso es
+la clave. Te enseñaré a automatizar esto
+sin saber programar para que opere por
+ti mientras duerme y te regalaré la guía
+de configuración completa. Vamos al
+grano. Vas a aprender solo lo que
+realmente necesitas saber para aplicarla
+con éxito. No voy a mostrarte screenshot
+de ganancia sin contexto sobre el
+pasado. Llevo 15 años operando a diario
+y he visto miles de estrategias morir.
+Pero cuando analicé Silver Bullet
+encontré una anomalía. Es 90% lógica. es
+casi completamente lógica. Esto
+significa que es un candidato ideal para
+que sea rentable y automatizable, porque
+si puedes definir las reglas con
+precisión, puedes automatizar casi
+cualquier cosa. Espera un segundo, detén
+todo. Antes de entrar en materia,
+necesito que entiendas algo. Esto no es
+una estrategia para hacerse rico rápido.
+Si buscas un cajero automático mágico,
+cierra el vídeo ahora. Esto es
+Ingeniería financiera real aplicada.
+¿Sigues ahí? Bien, pues vamos a por ello
+juntos. Silver Ballet es simple, 60
+minutos al día, de 10 a 11 a horario
+Nueva York, ni antes ni después. Y
+buscamos tres cosas en orden. Primero,
+el barrido de liquidez. Dos, el cambio
+de estructura y tres, el retorno al Fire
+Value Gap. Suena fácil, ¿verdad? Pues
+aquí tienes la guía en PDF gratis en la
+descripción para que puedas seguirme,
+pero entender la definición no te dará
+dinero. Entender al banco sí. El Smart
+Money y el Trader Retail no juegan al
+mismo juego. Mientras el Trader Retail
+compra y vende de forma mayormente
+emocional, dejando sus stops siempre a
+la vista, el Smart Money busca
+precisamente cazar esa liquidez, provoca
+barridos de stop, ejecuta órdenes
+grandes en esos niveles y solo entonces
+mueve el precio en la dirección que
+realmente le interesa. Te lo simplifico.
+Tú eres un pez pequeño, el banco es una
+ballena de 100 m000ones. Si ellos
+compran de golpe, el precio se dispara y
+terminan comprando caro. Por lo tanto,
+necesitan que tú vendas para ellos poder
+comprar barato. Crean pánico, barren tus
+stops y ahí es donde entra Silver
+Ballet. No intentamos adivinar el
+movimiento, esperamos a que la ballena
+haya comido y nos subimos a la ola. Aquí
+la teoría de Silver Ballet dice que
+intenta colocarnos al lado de ese flujo
+institucional, entrando después de que
+el Smart Money haya limpiado esa
+liquidez y promete intentar capturar
+exactamente eso, el movimiento después
+de la liquidez. ¿Por qué de 10 a 11?
+Pues no es un capricho. Mira este
+gráfico. El volumen explota aquí. Es
+donde las instituciones inyectan el
+dinero real. Operar fuera de esta hora
+es como intentar surfear en un lago
+donde no hay olas. Necesitamos la marea
+institucional para llegar al take
+profit. Importante, ya lo he dicho, pero
+quiero que quede claro. Estoy hablando
+de horario de Nueva York, por lo que si
+no estás en Nueva York, deberías ajustar
+la hora a tu zona horaria. El precio no
+se mueve por magia ni por indicadores,
+se mueve porque hay órdenes esperando en
+el libro de órdenes u orderbook.
+Primero, el smart money limpia liquidez
+barriendo stops donde sabe que el retail
+se protege. Después de ese movimiento
+agresivo suele quedar un hueco, el Fire
+Valuega Gas o FVG y el mercado tiende a
+retroceder para rellenarlo. Silver Bale
+se apoya justo en esa secuencia.
+Liquidez, impulso, FVG y retroceso
+tradeable. Por este mismo motivo,
+debemos entender que el order flow
+aleatorio. Cuando ves las velas
+moviéndose arriba y abajo, eso es el
+order flow. Y el orderflow nos dice que
+tras ese barrido agresivo manipulativo
+queda un vacío. El FGV, el precio debe
+volver ahí simplemente por pura
+eficiencia de mercado. Y ahí es donde
+pondremos nuestra operativa. Hasta aquí
+todo suena muy lógico, ¿verdad? Esperas
+a las 10, ves el hueco y disparas. Pero
+aquí es donde el 90% de los que intentan
+la estrategia Silver Ballet queman su
+cuenta en la primera semana, porque no
+todos los Fire Value Gap son iguales. El
+mercado está lleno de trampas
+institucionales diseñadas para que creas
+que ves una entrada cuando en realidad
+eres liquidez. De nuevo, saber la teoría
+es fácil, saber cuál FG operar y cuál
+ignorar es lo que separa a los
+profesionales de los que apuestan. Así
+que vamos a ver cómo se ve exactamente
+una entrada válida real en el gráfico y
+cómo filtrar las falsas. Para no ser la
+liquidez de otro y perder tu dinero,
+necesita disciplina robótica. La
+estrategia Silver Ballet no es arte, es
+un Chell Lee de cuatro puntos. Si falta
+uno, no hay operación. Uno, el barrido o
+swip, el precio debe romper un máximo o
+un mínimo anterior. Si no sacan a los
+impacientes primero, no entramos. Dos,
+el cambio de estructura o mss.
+Necesitamos violencia. El precio debe
+girar y romper la estructura contraria
+con fuerza. Esto confirma que el smart
+money ha entrado en el juego. Tres, el
+Fire Value Gap o FVG. Ese movimiento
+violento deja un hueco. Ese es nuestro
+imán y ahí es donde pondremos la trampa.
+Y cuarto, el retroceso. Paciencia.
+Esperamos a que el precio vuelva a
+nuestra zona, el FG, para ejecutar. Y
+esto nos llevaría a terminar el flujo
+para llegar a nuestra entrada.
+Simplifica, piénsalo así. Son cuatro
+semáforos en una vía de tren, no basta
+con tener uno en verde, necesitas los
+cuatro. Si te saltas uno, descarrilas.
+Pero, ¿realmente funciona esto
+matemáticamente o es solo teoría bonita?
+En un minuto vamos a someter a la prueba
+de fuego de los números, pero antes
+vamos a configurarlo. Mira esto, la vela
+roja, tendencia bajista. Vela verde,
+baja 5 pips más, rompe el mínimo
+anterior, activa stops y bum, cierra
+hacia arriba. ¿Qué acaba de pasar? Robo
+legal. El smart money acaba de quedarse
+con la liquidez de tu stop loss, con tu
+dinero. Esto es el liquidity Swip. Es el
+primer check que necesitamos para seguir
+adelante buscando la operativa. No te
+compliques buscándole los tres pies al
+gato. Esto es sencillo. Si el precio no
+barre liquidez, no hay operación. Si
+barre pero no cierra dentro, es una
+trampa o fake. Solo si barre y cierra de
+vuelta dentro del rango es cuando
+pasamos al paso dos. ¿Por qué funciona?
+Porque esos stops activados generan
+ventas de pánico, justo lo que el Smart
+Money necesita para comprar barato.
+Regla de oro, mínimo un pip de
+penetración, máximo 30 para evitar
+noticia loca y cierro obligatorio dentro
+del rango. Pero ojo, operar solo con
+esto según la estrategia te da como
+máximo entre un 50 y un 60% de acierto,
+según los datos que he podido sacar de
+comunidades de trading donde lo están
+poniendo en práctica desde hace meses.
+Esto es poco más que operar con una
+moneda lanzada al aire, ligeramente
+trucada. Para llegar al final a la
+precisión de un francotirador y
+conseguir la rentabilidad real,
+necesitamos validar que esto no fue
+casualidad. Necesitamos geometría.
+El barrido es la señal de alerta, pero
+el market structure shift o mss es la
+confirmación de guerra. literalmente
+pasamos de máximos y mínimos de
+crecientes a crecientes. Esto ya no es
+opinión, es geometría básica del
+mercado. Cuando el cuerpo de una vela
+rompe con fuerza el último máximo
+contrario, el mercado no grita que la
+tendencia ha cambiado. Esto al final es
+como la arquitectura de un edificio. Si
+de repente dejas de bajar escaleras y
+empiezas a subirlas, literalmente has
+cambiado de dirección. No hay más
+misterio. Silver Ballet. exige este
+cambio geométrico para confirmar que el
+barrido anterior fue una inyección real
+de dinero inteligente y no solo ruido.
+Básicamente lo que Silver Ballet busca
+es cambio, ese cambio geométrico
+explícito para validar que el Swift fue
+real.
+Cuando el cuerpo de la vela rompe con
+claridad el último, mínimo o máximo
+contrario, es cuando podemos validar que
+el Swift fue legítimo y que el nuevo
+impulso tiene muchas más probabilidades
+de continuar. Por eso, Silver Bale solo
+se activa cuando existe este cambio de
+estructura. Hasta aquí la mayoría te
+diría listo. Y entrarían al mercado. Y
+por eso la mayoría pierde. Pensábamos
+que con el barrido y el cambio de
+estructura estaba todo, pero después de
+analizar más de 1000 operaciones de
+Silver Bet descubrí un patrón aterrador.
+El precio muchas veces hace el Swift,
+hace el MSS y luego cae y destroza el
+stop. ¿Por qué? Porque falta el imán. El
+precio no se mueve solo por estructura,
+se mueve por eficiencia. Sin este tercer
+elemento que te voy a mostrar ahora, tu
+gráfico está incompleto. Esto es lo que
+realmente atrae al precio como la
+gravedad. Llegamos al tercer pilar y
+este es el corazón de la estrategia, el
+Fire Value Gap o FVG. Imagínatelo como
+un imán de precio. Técnicamente un FVG
+aparece cuando en una secuencia de tres
+velas consecutivas se genera un tramo de
+rango donde no hubo negociación cruzada,
+es decir, hay un hueco físico en el
+precio. Vamos a diseccionarlo con este
+ejemplo real que he creado para ti.
+Quiero que te fijes en los números. Mira
+la vela uno, la vela roja abre en
+1.1048,
+hace un máximo en 1.150
+y cierra abajo en 1.1042.
+Es una vela de venta estándar. Ahora
+mira la vela dos. La vela verde abre en
+1.1036.
+Su cuerpo sube con fuerza y cierra en
+1.1045.
+Pero fíjate en este detalle crítico, su
+mínimo está en 1.1035.
+Esto significa que todo el cuerpo de la
+vela dos queda por debajo de la apertura
+de la vela 1, pero elimina el mínimo.
+Esto quiere decir que el impulso es tan
+fuerte que deja atrás la zona anterior
+del precio. Y finalmente, la vela 3,
+también alcista. Abre en 1.1052,
+marca un mínimo en 1.1051
+y se dispara hasta cerrar en 1.1057.
+Y aquí está la magia. Fíjate en el hueco
+que queda entre el cierre de la vela 2
+en 1.1045
+y el mínimo de la vela 3 en 1.1051.
+El máximo de la vela 1 en 1.1050 se
+quedó atrás. contenido dentro del rango
+de la vela dos. no llegó a tocar ese
+espacio superior. El resultado es un
+tramo virgen de 6 pips de 1.1045
+a 1.1051,
+donde no hubo cuerpo tradeable, solo un
+salto de precio. Eso es un desequilibrio
+claro de órdenes, es un vacío de
+negociación y para el algoritmo eso es
+una anomalía que debe corregirse. y te
+preguntará, "Pero, Ignacio, ¿por qué me
+cuentas estos números al detalle? Porque
+los algoritmos de market making making
+están programados para detectar estos
+desbalances matemáticos.
+Estadísticamente, entre un 60 y un 70%
+de los FVG se rellenan en los siguientes
+periodos, especialmente si vienen
+después de un Swift y un cambio de
+estructura. En Silver Ballet marcamos
+esa franja exacta de 1.1045
+a 1.1051
+como nuestra zona objetivo. No entramos
+a ciegas. Esperamos que el imán haga su
+trabajo, traiga el precio de vuelta a
+rellenar esos seis pip y usamos ese
+retorno para entrar con la ventaja
+estadística de nuestro favor. Con el
+imán identificado, ahora toca la
+ejecución. Y escucha bien, la zona de
+entrada de Silver Ballet no es un punto,
+es una franja. Va desde el tope hasta el
+fondo del FVG que acabamos de marcar
+anteriormente. Es una zona neutra de
+validación, pero mejor no te lo cuento,
+te lo muestro aquí en este flujo de
+cinco velas. Vela número uno, vela
+bajista, el barrido bajista inicial, es
+decir, el caos. La vela número dos, la
+formación del inicio del FVG. Aquí viene
+el impulso. La vela 3 y CU dan la
+confirmación de continuidad con
+estructura creciente, es decir, son el
+momentum. Y la vela CCO es el retroceso
+para realizar nuestra entrada, el
+retroceso que necesitamos para validar
+la operativa. Aquí llega el momento de
+la verdad. Cuando la vela vuelva a
+entrar en nuestra zona de 6 pips, la
+estrategia define cuatro modos de
+actuar. Tienes que conocerlos todo y
+decidir con cuál te quedas. El touch,
+que básicamente es que el precio toca la
+zona y se va. El wick, que es
+básicamente el precio, entra con mecha,
+perfora, pero cierra por encima. El body
+es una vela con cuerpo completo que
+entra en la zona y cierra dentro. Y el
+full es una confirmación total de
+reversión envolvente para Silver Ballet.
+Lo más efectivo típicamente y lo más
+utilizado es el touch. El touch más
+confirmación. Es decir, buscamos que
+toque y cierre dentro del FG en una o
+dos velas máximo. Esto nos garantiza que
+el desequilibrio es tan fuerte que el
+precio está obligado a rellenarlo, pero
+tiene la fuerza suficiente como para
+rebotar de inmediato. Y ahí es donde la
+estrategia define que iría la orden.
+Pero, ¿por qué es importante esperar
+este cuarto paso o validación? Imagina
+que ves un accidente de coche, te
+lanzarías corriendo al centro del caos
+mientras vuelan los cristales. No,
+esperas a que todo se calme para
+entender qué ha pasado. La pauta de
+entrada hace exactamente eso. Dejamos
+que el precio descargue toda la
+violencia del Swift en las primeras
+velas y solo validamos la entrada cuando
+el precio vuelve al FVG de forma
+tranquila y controlada. Parece
+contrainttuitivo esperar cuando el
+precio sube, pero estadísticamente
+esperar el retroceso es la forma más
+segura de no morir en el intento. Todo
+va perfecto aquí en la simulación,
+¿verdad? Pero tengo que ser honesto
+contigo. Hay un escenario donde todo
+esto falla. Hubo una semana en el back
+testing, justamente al principio del
+todo, donde se perdieron cinco
+operaciones seguidas siguiendo esta
+regla al pie de la letra. Esto me hizo
+replantearme la estrategia y estuve a
+punto de tirarla a la basura. El
+problema no era el mercado, el problema
+era un pequeño detalle oculto en la
+gestión de riesgo que nadie te cuenta.
+Si no ajustas esto que te voy a enseñar
+ahora, una sola mala racha te puede
+borrar un mes de ganancias. Pero, ¿qué
+dicen las matemáticas? Aquí el mensaje
+clave que mantiene la teoría es que
+Silver Ballet no se sostiene solo en
+patrones bonitos, sino en matemática
+sólida. Los sentimientos mienten, la
+matemática no. El secreto de Silver
+Ballet no son los patrones bonitos, es
+esta ecuación simple que estás viendo
+aquí de riesgo 1 2. Esto significa que
+por cada dólar que arriesgas buscas
+ganar dos. ¿Por qué esto es vital?
+Porque con un ratio de 1 o 2 solo
+necesitarás acertar el 33% de las veces
+para no perder dinero. O lo que es lo
+mismo, puedes equivocarte seis de cada
+10 veces y seguir vivo, pero Silver
+Ballet no tiene un 33% de acierto. Los
+datos públicos del creador y de las
+comunidades que he podido investigar,
+comunidades reales, sitúan la
+efectividad real entre un 55 y un 67%.
+Si combinas esto con un acierto
+simplemente del 55% y un ratio del 1 2,
+te conviertes en un casino. La casa
+siempre gana a largo plazo. No necesitas
+ser adivino, solo necesitas ser
+disciplinado. Solo vamos a necesitar
+definir previamente cuánto estamos
+dispuestos a perder, es decir, el riesgo
+y cuánto queremos ganar, es decir,
+nuestra recompensa. Si por ejemplo
+arriesgamos 5 pips para intentar ganar
+10, estamos trabajando con un ratio uno
+a dos. Es decir, que por cada unidad que
+arriesgamos buscamos el doble de
+beneficio. Con este tipo de estructura,
+matemáticamente no necesitamos acertar
+siempre. El ratio 1 2 no es un número
+mágico, es matemática pura. Si ganas el
+65% de las veces y cada ganancia es el
+doble de tus pérdidas, ganarás dinero de
+forma consistente. Punto. No necesita un
+90% de win rate, solo disciplina para
+respetar el ratio. Ahora bajemos todo
+esta tierra con una simulación sencilla
+de 10 operaciones basándonos en los
+datos teóricos de la estrategia. Imagina
+que aplicamos siempre el mismo patrón
+Silver Ballet con un riesgo fijo de 5
+pips por operación y un objetivo de take
+profit de 10 pips. En esta serie siete
+operaciones terminan en take profit y
+tres saltan el stop loss. Cada ganador
+suma 10 pips, cada perdedor resta cinco.
+De modo que el resultado total de los 10
+trades es más 70 pips, es decir, + 14R
+acumulado o lo que es lo mismo, una
+media de 1.4R
+ganados por operación. No hay ninguna
+racha larga negativa. El peor tramo son
+pérdidas aisladas de una sola operación
+y la mejor secuencia son tres ganancias
+consecutivas. Si traducimos esos RS a
+dinero y suponemos que arriesgamos $100
+por cada trade, cada R valdría
+exactamente $100. En 10 operaciones,
+esos 14 R se convierten en $,400 de
+ganancia bruta, frente a $300 de pérdida
+y el resultado neto son $1,100 a favor.
+Manteniendo ese ritmo, estaríamos
+hablando del orden de $1,200 al mes o
+unos $5,000
+al año trabajando con una cuenta de unos
+$5,000, siempre que se respete el mismo
+tamaño de posición y la misma
+disciplina. La comparación con otros
+escenarios ayuda a ver el porqué del
+ratio 12 es tan potente. Un sistema
+mediocre con un 50% de acierto y un
+ratio 11 apenas rompe el break even.
+Después de 100 operaciones sigues en los
+mismos $5,000. restando comisiones del
+broker, seguramente estarías por debajo.
+Mejorar un poco a 51% de acierto con 11
+apenas supondría unos $550 de beneficio.
+Silver Ballet con un 65% de win rate y
+objetivo a 1.2 se mueve en torno a un
+0.95
+dr de beneficio por operación, lo que en
+100 se traduce en unos $750
+sobre esos mismos 5000 de partida. Y si
+en algún momento consigues rozar un 70%
+de acierto con ese ratio, la curva crece
+más todavía crece más rápido y superaría
+los $7,500.
+Pero como digo, esto es según la teoría
+y los datos que he podido investigar de
+la estrategia. En un back testing es
+donde realmente podremos comprobar el
+acierto real y calcular una ganancia o
+una pérdida más realista. Las
+matemáticas son perfectas, pero tú no lo
+eres. Te acabo de enseñar cómo esta
+estrategia afirma imprimir dinero en el
+papel. Pero tengo una mala noticia, el
+90% de vosotros vais a fallar intentando
+esto. ¿Por qué? No porque la estrategia
+falle, sino porque somos humanos. Te vas
+a distraer, vas a dudar del FG, vas a
+mover el stop loss por miedo, vas a
+llegar tarde a la pantalla. El factor
+humano es lo que destruye la ventaja
+estadística de Silver Ballet y de la
+mayoría de las estrategias con
+potencial. Así que me hice una pregunta,
+¿y si me despido a mí mismo? ¿Y si el
+factor humano de la ecuación y dejo que
+un código ejecute esas reglas mecánicas
+sin miedo, sin duda, sin dormir? Pues
+eso hice. He creado un bot que opera
+Silver Ballet por mí y lo mejor no
+escribí ni una sola línea de código para
+hacerlo y lo hice en menos de 5 minutos.
+Te voy a enseñar cómo cloné esta
+estrategia en un robot automático usando
+inteligencia artificial y cómo tú puedes
+hacerlo esta misma tarde también si
+quieres. Aquí es donde todo lo que te he
+contado hasta ahora corre el riesgo de
+derrumbarse. Te he enseñado el patrón,
+la lógica institucional, la matemática
+del 1 el evitar el overtrading sobre el
+papel. La estrategia Silver Ballet
+parece perfecta, pero tengo que ser
+brutalmente honesto contigo. En el mundo
+real, intentar operar esto manualmente
+es una trampa. Yo lo intenté y la
+mayoría de las operativas se me
+escapaban. Terminé poniendo las órdenes
+pendientes para adelantarme y se me
+activaban muchas en las trampas porque
+no se daba la confirmación. Fue una
+locura. ¿Por qué te digo esto? Porque si
+eres como yo, eres humano, te vas a
+cansar, vas a dudar cuando el precio
+llegue al Fire Value Gap, vas a querer
+mover el stop loss por miedo a perder y
+sobre todo tu velocidad de reacción es
+ridícula comparada con la de un servidor
+de alta frecuencia. La pieza que falta
+en este rompecabeza es el eslabón
+perdido. Para que esta estrategia pueda
+ser realmente rentable a largo plazo, no
+se trata de aprender más análisis
+técnico, se trata de eliminar al
+operador, es eliminarte a ti de la
+ecuación. La solución, decidí
+automatizar la estrategia para que se
+ejecutara en automático. Al final
+debemos ser claros, el trading manual es
+como pedirle a un cirujano que trabaje 8
+horas seguidas sin parar, manteniendo la
+tensión y la concentración. Como trader
+con más de 15 años en el mercado, puede
+asegurarte que a nosotros nos sucede
+algo similar. La primera operación será
+perfecta, pero la octava seguramente sea
+un desastre. Por suerte tenemos la
+ventaja de que Silver Ballet no es solo
+un concepto, es un algoritmo. ¿Y qué es
+un algoritmo? Pues un algoritmo es un
+conjunto ordenado y finito de
+instrucciones, pasos o reglas que se
+siguen para resolver un problema,
+realizar una tarea o lograr un objetivo
+específico y un algoritmo se puede
+automatizar.
+Y si alguno tiene dudas de si
+automatizar es la solución o no, sobre
+todo en este tipo de estrategia, os lo
+resumo rápido. Si automatizamos,
+aplicamos una disciplina del 100% todo
+el tiempo, punto. Sin emociones y a la
+hora exacta. Mantenemos la máxima
+precisión del sistema porque se ejecuta
+todo al tic. Y lo más importante,
+libertad. Literalmente al automatizar la
+estrategia ya no tenemos que hacer nada
+más que revisar que todo esté en marcha
+y activo. No sé si para ti estos
+argumentos son suficientes para
+automatizar una estrategia de trading o
+no, pero desde luego para mí después de
+muchos años dejándome la vida delante de
+las pantallas, pasando horas y horas
+analizando, son argumentos más que
+suficientes. Punto número uno, olvídate
+del código. ¿Pensabas que nos íbamos a
+poner aquí a programar varias semanas
+para automatizar la estrategia? Pues no,
+vamos a automatizarla, sí, pero lo vamos
+a hacer sin escribir ni una sola línea
+de código, sin utilizar CH GPT. ¿Y cómo?
+Pues muy sencillo, te lo explico paso a
+paso. Lo que estás viendo aquí es la
+solución. Hemos convertido la Silver
+Ballet en un algoritmo y lo mejor es que
+lo vamos a hacer sin escribir ni una
+sola línea de código usando pura lógica
+visual. Vamos a construir el puzle pieza
+por pieza para que veas cómo encaja todo
+y se sostiene por sí solo. La
+arquitectura que vamos a construir
+funciona en cuatro bloques conectados.
+El primero, el bloque de contexto. Este
+bloque establece los filtros de entrada,
+es decir, vamos a comprobar que las
+condiciones de mercado reúnen las
+características necesarias para que el
+patrón sea operacional. Es como decirle
+al bot que solo buscamos ejecutar Silver
+Ballet cuando el precio está en una
+situación específica. El segundo bloque
+es la secuencia ICT. Este es el corazón
+del algoritmo. Aquí reside el patrón en
+sí. es donde sucede la detección del
+Swiip, la formación del Fire Value GAP y
+la confirmación del MSS. Es la lógica
+pura de Silver Valley traducida a
+condiciones matemáticas que el código
+entiende. Una vez identificada la
+oportunidad, llegamos al bloque de
+gestión matemática. Aquí es donde
+calculamos automáticamente el riesgo y
+el beneficio. Definimos dónde va el stop
+law y dónde va el take profit. es la
+parte que garantiza que cada operación
+respete el ratio 1 o 2 que vimos
+anteriormente de forma exacta y
+disciplinada. Y finalmente el bloque de
+ejecución. Este es el que lanza la orden
+a mercado, el bloque que ejecuta las
+entradas y las salidas automáticas sin
+intervención manual. Resumiendo, el
+código espera, detecta, calcula y actúa.
+Todo sin que tengas que estar mirando la
+pantalla. Prepárate porque lo que vamos
+a hacer ahora es clonar a un trader
+profesional dentro de tu ordenador en
+menos de 3 minutos que operará con 100%
+de disciplina la estrategia Silverbal
+siguiendo las normas al pie de la letra.
+Empezamos con la base, el bloque de
+contexto. Imagina esto como el portero
+de una discoteca. Aquí aplicamos la
+lógica estricta. Le decimos al bot, si
+son las 10 de la mañana en Nueva York y
+si no tenemos ninguna otra operación
+abierta con este número de
+identificación, entonces tienes permiso
+para empezar a buscar. Si no se cumplen
+estas dos condiciones a la vez a través
+de la compuerta lógica ANT, el algoritmo
+ni se inmuta. Esto elimina de golpe el
+overtrading y el operar fuera de sesión.
+Dos cosas que destruyen las cuentas
+manuales operando Silver Ballet. Por lo
+que básicamente aquí lo que estamos
+haciendo es responder a la pregunta de
+cuándo tiene permiso el sistema para
+siquiera pensar en entrar. Una vez que
+el contexto da la luz verde, entramos en
+el corazón del sistema, la secuencia
+ICT. Aquí es donde traducimos los
+patrones visuales que te enseñé antes a
+matemáticas puras. Primero está el
+liquidity Swift. Este indicador detecta
+cuando el precio hace un barrido de
+liquidez, rompiendo el swing previo con
+la mecha. Como ya hemos visto, es la
+cacería de stops clásica. El mercado
+limpia los extremos antes de girarse.
+Después entra el MSS actuando como un
+detector que lo que hace es confirmar el
+cambio de carácter. No basta con una
+mecha agresiva. El algoritmo exige que
+el cuerpo de las velas rompa en la
+dirección contraria. Esa es la señal de
+que el filtro de órdenes realmente ha
+cambiado y no es solo un spike aislado.
+Con el giro validado pasa al detector
+FVG. Este bloque busca el desequilibrio,
+es decir, el famoso Fire Value Gap,
+midiendo que haya un mínimo de
+desequilibrio en pips. Aquí es donde se
+marca la zona de imán que hemos visto,
+la zona de imán que el precio tenderá a
+rellenar en el retroceso. Y por último,
+la zona de entrada, que lo que hace es
+transformar toda la secuencia en una
+entrada concreta. El sistema espera a
+que el precio vuelva y toque el FG y en
+ese punto coloca una orden limitada
+exactamente en la zona definida. De este
+modo, todas las narrativas ICT, es
+decir, Swift, cambio de carácter, FVG y
+entrada en zona, queda automatizada en
+una sola cadena lógica. Y aquí llega la
+disciplina de hierro, el bloque de
+gestión matemática. Aquí no hay duda ni
+sentimiento. El bot mide la distancia
+exacta en pips desde la entrada hasta el
+mínimo del switch para colocar el stop
+loss y automáticamente pasa por el
+multiplicador de riesgo para fijar el
+take profit. No hay un creo que va a
+subir más o no nada. Aquí no hay
+avaricia. Es matemática fría ejecutando
+el ratio 1 do en cada operación sin
+excepción. Calculamos el riesgo,
+definimos el objetivo y el sistema se
+encarga del resto. En un solo flujo, el
+sistema sabe dónde entra, dónde sale si
+se equivoca y dónde cobra si acierta. El
+resultado es que cada trade mantiene de
+forma automática la relación 1 2 riesgo
+beneficio que hace que la matemática del
+sistema sea positiva a largo plazo,
+incluso si no acertamos más del 50% de
+las veces. Finalmente, el bloque de
+ejecución. Cuando todo lo anterior se
+alinea, el sistema no entra a mercado
+persiguiendo el precio desesperadamente.
+Coloca una orden by limit quirúrgica en
+el borde inferior del FG y espera
+pacientemente el retroceso. Además, le
+añadimos un nodo crucial, el de salida
+por tiempo. Si llegan las 11 y la
+operación no se ha cerrado, el bot corta
+la posición inmediatamente. Esto lo hace
+para proteger nuestro capital contra la
+baja volatilidad de la tarde y
+directamente cerramos el ciclo y hasta
+el día siguiente. Pero para contártelo
+te lo enseño en la plataforma que ya lo
+tengo todo montado y conectado. Esto que
+estás viendo ahora mismo son los cuatro
+bloques que os acabo de describir con
+sus nodos ya conectados. Así es como
+quedaría la estructura del bot Silver
+Ballet completa. La operativa 100%
+automatizada. Os lo enseño rápido. Este
+es el bloque ANT. Estos son los bloques
+lógicos, el bloque de que se tienen que
+dar estas dos condiciones que tiene aquí
+conectada. Por ejemplo, si despliego
+una, veo que esto es el filtro de tiempo
+que habíamos visto en el bloque número
+uno y aquí tendríamos el bloque de no
+órdenes, el bloque que hace que no
+operemos fuera de tiempo. Entonces, esto
+sería el bloque número uno. Esto que
+tenemos aquí sería el bloque número dos.
+De nuevo, esta sería la compuerta lógica
+ANT que va a llevar hacia el flujo de la
+apertura del by limit. Por lo que para
+que el ANT pase una condición válida
+para abrir la órdenes, se tiene que dar
+el bloque uno y el bloque dos, que es el
+que tenemos aquí debajo. Todo esto se
+conecta también a una tercera compuerta
+AND, que requiere que las cuatro
+condiciones que habíamos visto se
+ejecuten. Si los despliego, vemos que
+aquí tenemos el barrido de líquide,
+despliego este otro también. Y aquí
+tenemos el MSS, despliego. Este otro
+también. Aquí tenemos el detector FVG. Y
+este último lo voy a desplegar. Y aquí
+tenemos la entrada en la zona. Aquí
+estamos controlando el barrido de
+liquidez. Aquí estaríamos controlando el
+FVG. aquí la estructura del mercado y
+aquí se entre en la zona para validar la
+operativa. Fijaros cómo tendríamos el
+flujo completo de todo. Así que lo cojo,
+lo cierro.
+Aquí tenemos el bloque número tres.
+Fijaros ya que los nodos tienen un icono
+de matemática. Aquí tenemos la
+matemática pura y dura. Los despliego
+para que los veáis. Fijaros la
+configuración tan sencilla que tienen
+estos nodos. Todo se queda por el valor
+de defecto 2 menos la constante que le
+ponemos un dos. ¿Qué quiere decir esto?
+Que no tenéis que hacer ningún cálculo
+matemático. Ya están todos los nodos
+diseñados directamente para hacerlo y
+tenéis la receta matemática para
+construirlo, o sea, que no hay ningún
+problema.
+Y aquí tenemos el bloque número cuatro.
+Este sería nuestro nodo de compra
+limitada al mercado, es decir, el que va
+a ejecutar la operativa. Aquí tendríamos
+todo lo relativo a la gestión final.
+Aquí directamente tenemos el filtro de
+tiempo. En este caso le pondríamos en
+11. Y lo básicamente lo que va a decir
+es que si a las 11 hay algo abierto,
+¿qué va a hacer? Pues vemos que está
+conectado con este nodo y este nodo lo
+que hace es cerrar todas las órdenes.
+Entonces, estos dos nodos, cuando llegue
+las 11 va a cerrar todas las operaciones
+y este va a ejecutar todas las compras
+que se den en el mercado. De esta forma
+tendríamos toda nuestra estrategia ICT
+Silver Ballet automatizada. Cierro todo
+y directamente ya lo organizo aquí, tal
+cual quedaría. Y ahora, ¿cómo llevamos
+esto al Metatrader? Pues muy sencillo,
+decimos si queremos llevarlo a
+Metatrader 5 o a Metatrader 4. Yo lo voy
+a dejar en Metatader 4, le voy a dar a
+construir bot y aquí me genera el
+código. Fijaros qué locura total. Aquí
+tengo todo el código y ha tardado un
+segundo en ejecutarse. Aquí lo tenemos,
+más de 3,000 líneas de código. Aquí
+nosotros podemos escribir, podemos
+modificar. En caso de que sepamos
+programar, pues podemos hacer. En caso
+de que no sepamos o no queramos
+programar, directamente le damos a
+descargar y se nos descarga el bot. Y
+aquí lo tendríamos ya descargado.
+Fijaros, yo vuelvo a descargar y aquí
+tengo el siguiente. O sea, cada vez que
+le dé descargo el bot. Aquí lo veis sin
+ningún problema. Ahora vamos a llevarnos
+al Metatrader porque ahora llega la hora
+de la verdad. Vamos a llevar el código
+al metaeditor de Metatrader a ver si
+compila sin errores y a ejecutarlo en el
+mercado. Yo le voy a cambiar el nombre
+para que se llame ICT Silver Ballet y os
+lo voy a subir aquí en la biblioteca
+para que el que quiera literalmente
+tenerlo, modificarlo, trabajar sobre él,
+pueda acceder a él aquí desde la
+biblioteca. Aquí lo tenéis. Lo he
+marcado el bot 130 con una estrella. Si
+lo abrís, aquí lo tenéis. botado en la
+estrategia ICT Silver, Vale. ¿Y cómo
+funciona esto? Pues muy sencillo,
+fijaros. Voy a borrar el bot. No tengo
+nada. Podría empezar aquí a trabajar
+sacando nuevos nodos, creando un bot. O
+sea, no tengo nada abierto, no tengo
+nada puesto. Me voy a la biblioteca.
+Aquí estaría el bot cargado.
+Directamente me interesa. Le doy
+importar al canvas. Y aquí lo tengo el
+bot ya listo para de nuevo volver a
+descargarlo. Así que aquí os lo dejo
+construido para el que quiera seguir
+trabajando sobre él, optimizarlo o
+evolucionarlo.
+Aquí tengo el bot ya cargado en el
+metaeditor. Lo cojo, lo abro. Aquí
+tenéis 3093 línea de código. Es el bot
+que habíamos generado en la plataforma
+de Techain. Lo tengo ya aquí puesto. Y
+ahora vamos a la hora de la verdad.
+Vamos a compilarlo. Le doy a compilar y
+aquí está cero errores. ¿Qué significa
+esto? bot generado con cero errores y
+cero errores es igual a que está listo
+para llevar al Metatrader, ejecutarlo y
+empezar a ejecutar nuestra estrategia
+Silver Ballet en automático, sin
+complicaciones, sin escribir una línea
+de código en menos de 5 minutos, sin
+tener que pasar horas y horas
+interminables con chat GPT o una
+genérica discutiendo para que nos genere
+algo medio decente, que no tenga errores
+todo el rato al compilar y que no
+sepamos qué es lo que está haciendo,
+porque aquí tenemos el control total, es
+decir, sabemos exactamente qué es lo que
+va a hacer nuestro bot, por lo que no
+hay ningún tipo de problema. Ahora aquí
+en el Metatrader lo selecciono. Silver
+Ballet. Le vamos a dar modo visual
+simplemente para ejecutarlo, ver que
+todo funciona. Ejecuto.
+Vamos a alejarlo para que se vea que
+todo funciona. Y aquí está el bot
+corriendo. Fijaros, aquí estaría el bot
+ya funcionando.
+Cero errores. Me voy aquí a registro.
+Cero errores, cero todo. Y ahora
+simplemente sería dejarlo y empezar a
+realizar nuestro B testing, empezar que
+dejase las operativa y tendríamos ya el
+bot completamente funcional y operativo.
+Cero errores, cero advertencia. Acabamos
+de convertir una idea abstracta en un
+ejecutable real listo para operar. Lo
+arrastramos al gráfico, ejecutamos y ahí
+está la carita feliz, sonriente en la
+esquina. El bot está vivo. Acabamos de
+automatizar 15 años de experiencia
+institucional en unos minutos. Ahora
+tienes el arma cargada, tienes la
+estrategia Silver Ballet y tienes la
+receta para construir el bot y
+ejecutarlo automáticamente.
+Probablemente te mueres de ganas de
+ponerlo en una cuenta real y dejarlo
+correr mañana mismo a las 10 de la
+mañana. Pero si haces eso, vas a perder
+dinero. Te lo garantizo. Tener la
+estrategia es solo el 10% del trabajo.
+Porque sabes si esta estrategia ha
+funcionado realmente el último mes,
+sabes qué par de divisas está respetando
+mejor el FG esta semana, ¿sabes si el
+ratio 12 es el óptimo para el mercado
+que tú quieres operar o deberías
+ajustarlo? El bot ejecuta, pero los
+datos mandan. El mayor error que cometen
+los traders algorítmicos es lanzar un
+bot sin haberlo sometido a un back
+testing de alta precisión y sin
+optimizar sus parámetros. Yo ya he hecho
+todo este trabajo sucio por ti. He
+puesto este mismo bot que acabamos de
+crear a pelear contra 5 años de
+histórico en diferentes mercados para
+ver si realmente imprime dinero o si
+quema cuentas. Y los resultados que
+encontré me obligaron a cambiar una
+configuración clave que nadie te cuenta.
+Tienes que ver esa optimización y los
+resultados reales de la curva de
+ganancias antes de arriesgar un solo
+euro. Te muestro la verdad de los
+números y el ajuste secreto en este
+vídeo de aquí. Haz clic ahora porque esa
+configuración marca la diferencia entre
+ser rentable o ser liquidez. Nos vemos
+dentro.
+[música]

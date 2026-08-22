@@ -1,0 +1,454 @@
+Titulo              : 5 Modelos de IA votando en tiempo real | El bot que los institucionales temen en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-02
+Duracion            : 23:19
+Vistas              : 1,444
+URL                 : https://www.youtube.com/watch?v=NlVnhZ9saOc
+----------------------------------------------------------------------
+
+Esto que ves en pantalla son cinco inteligencias 
+artificiales operando el mercado, votando en  
+tiempo real para decidir si tu próxima operación 
+es una compra, una venta o no opera. Este bote  
+en concreto ha dado una rentabilidad del 
+115.1%, llevando una cuenta de tan solo  
+$1,000 a una de 2151 y lo vamos a construir ahora 
+mismo en directo. Ninguna de estas inteligencias  
+artificiales actúa sola. Todas aprenden del 
+mercado mientras tú duermes y lo construís sin  
+escribir ni una sola línea de código. Si tu boto, 
+no es un bot inteligente ni mucho menos rentable.  
+Es un indicador con disfraz de bot. Y hoy te 
+voy a enseñar exactamente cómo construir este  
+ecosistema desde cero usando estratos, sin tocar 
+códigos, sin saber programar, sin pelearte con una  
+IA tipo Cloud o Chat GPT. Y al final del vídeo te 
+regalo un asiento único a mi comunidad privada de  
+school para que puedas acceder sin coste alguno y 
+comenzar la formación gratuita que he creado para  
+que des el salto de la mediocridad del trading 
+hacia la rentabilidad profesional hoy mismo.  
+Antes de entrar en materia, necesitas entender una 
+sola cosa sobre estratos. No es un back tester,  
+no es un optimizador y no es chat GPT escribiendo 
+código que no entiendes. Es el sistema operativo  
+donde los traders inteligentes crean voz 
+rentable sin tener que escribir ni una sola  
+línea de código. Es el laboratorio matemático 
+de diseño potenciado con inteligencia artificial  
+donde con solo arrastrar y conectar nodos entre 
+sí, Stratos te genera automáticamente el bot  
+profesional listo para llevar a tu Metatrader 
+4 o Metatrader 5. tiene cinco categorías de  
+inteligencia artificial que cooperan señales, 
+filtros, orquestación, agentes y herramientas. Hoy  
+vamos a construir un bot de trading inteligente 
+con las señales, la columna vertebral que decide  
+si el mercado merece tu dinero o no. Esto es 
+la interfaz, lienzo en blanco, barra lateral  
+izquierda con todos los nodos disponibles. Voy 
+a arrastrar el primer bloque ahora mismo. Listo.  
+Esto es todo lo que tardas. 30 segundos y ya 
+tienes un sistema de inteligencia artificial  
+conectado y procesando datos del mercado en 
+vivo. Todavía no hace nada útil por sí solo,  
+pero en los próximos minutos lo vamos a convertir 
+en el detector de régimen más preciso que hayas  
+visto y después lo vamos a conectar con cuatro 
+cerebros más que van a votar junto con él cada  
+decisión de trading. Antes de que sigamos, quiero 
+que entiendas algo fundamental. Lo que acabas de  
+ver no es un indicador. Los indicadores te dicen 
+lo que ya pasó. Este nodo te dice en qué estado  
+está el mercado en este momento exacto y cambia 
+su comportamiento solo cuando el mercado también  
+cambia. Es la diferencia entre un termómetro 
+y un termostato. El termómetro te informa,  
+el termostato actúa. Tu bot actual probablemente 
+solo sea un termómetro con una interfaz bonita.  
+Lo que vamos a construir ahora es el termostato. 
+Vamos con el nodo uno, pero para un momento porque  
+si estás pensando que esto es como los indicadores 
+tradicionales que repintan o se quedan retrasados  
+cuando el mercado cambia, estás completamente 
+equivocado. Lo que vas a ver, no se parecen nada a  
+los sistemas estáticos que te han intentado vender 
+durante años. Esto es tecnología profesional  
+adaptativa pura que cambia su comportamiento 
+según lo que haga el precio. Si quieres dejar  
+de ser liquidez de las instituciones y operar 
+con ventaja matemática, presta mucha atención  
+a los componentes técnicos que vamos a configurar 
+a continuación. Vamos a profundizar en el corazón  
+del sistema analizando los cinco nodos principales 
+de señales de inteligencia artificial para que  
+entiendas cómo te pueden ayudar a generar dinero. 
+Pero para ello debes aprender cómo configurarlo  
+de forma profesional. El primer bloque es el 
+nodo uno, el detector de régimen de mercado  
+con inteligencia artificial. Su tecnología combina 
+una media de móvil avanzada para la dirección, el  
+ADX para la fuerza de la tendencia, el ATR para la 
+volatilidad y las bandas de Bollinger para evaluar  
+la compresión del precio, entre otros. Todo 
+ello supervisado por un modelo de inteligencia  
+artificial avanzado. Este nodo clasifica el 
+mercado en tiempo real en 10 regímenes de mercado  
+diferenciados. El régimen cero es la tendencia 
+alcista tranquila para operar con total confianza.  
+El régimen uno es la tendencia alcista normal, 
+donde el sistema incrementa el volumen de las  
+posiciones. El régimen 2 es la tendencia alcista 
+volátil, donde el bot expande los storquen del  
+mercado antes de tiempo. El régimen 3 es la 
+tendencia bajista tranquila, ideal para usar,  
+por ejemplo, un trailing stop. El régimen 4 es 
+la tendencia bajista normal para activar ventas  
+agresivas. El régimen 5 es la tendencia bajista 
+volátil y aquí ya requiere máxima precaución.  
+El régimen 6 es el rango silencioso sin volumen 
+para esperar o hacer scalping rápido. El régimen 7  
+es el rango normal para comprar soporte y vender 
+en resistencias de forma quirúrgica. El régimen 8  
+es el caos volátil de volatilidad extrema donde 
+el nodo ordena no operar. Y el régimen nu es  
+la transición donde el mercado está cambiando 
+de estado. Para evitar señales falsas, el nodo  
+exige un número determinado de velas consecutivas 
+confirmando el nuevo estado antes de cambiar de  
+régimen. Sus salidas te entregan el régimen ID, 
+es decir, condiciones de sí o no para tendencia  
+o volatilidad, la dirección exacta del precio, 
+la fuerza del régimen y la edad expresada en  
+velas para evitar entrar en estados ya agotados. 
+Para activos como el oro o el eurodólar se suelen  
+configurar los parámetros con un periodo de media 
+móvil entre 50. ADX en 14, ATR en 14, bandas de  
+Bollinger sobre 20 y las velas de confirmación 
+en tres. Activado todo el panel visual para que  
+puedas ver todo el cambio de régimen en tiempo 
+real. La magia de esto es que tu estrategia  
+deja de ser una regla rígida y se convierte 
+en un camaleón que se adapta instantáneamente  
+a cualquier escenario. Mientras otros bos 
+quiebran cuando el mercado pasa de tendencia  
+a régimen lateral, el tuyo simplemente cambia de 
+marcha de forma automática gracias al detector de  
+régimen. Pero esto es solo el principio, porque 
+ahora vamos a añadir la capacidad de votación  
+democrática con el nodo de machine learning más 
+robusto de la industria. Continuamos expandiendo  
+nuestro ecosistema arrastrando el nodo dos, el 
+random forest o clasificador de inteligencia  
+artificial. Este nodo utiliza un ensamble de 50 a 
+100 árboles de decisión independiente, combinando  
+con la técnica backing. Lo que hace es entrenar 
+un bosque completo utilizando los datos históricos  
+del activo que estás operando, donde cada árbol 
+analiza el mercado desde una perspectiva diferente  
+y la decisión final depende de la votación de 
+los nodos, clasificando la salida en compra,  
+venta o espera. Cada árbol toma su decisión 
+analizando ocho características normalizadas  
+del mercado. El RSI, el ATR relativo, el ADX, la 
+posición del precio respecto a una media móvil de,  
+por ejemplo, 20 periodos, la posición dentro 
+de las bandas de Bollinger, el MD respecto a  
+su línea de señal y el oscilador estocástico y el 
+momentum de las últimas cinco velas, entre otros.  
+No te preocupes porque de todo esto tú no tienes 
+que hacer nada. El nodo lo hace automáticamente  
+por ti. Su funcionamiento interno recopila 
+1000 barras históricas por defecto. Analiza  
+cada barra mirando cinco velas hacia delante para 
+determinar retrospectivamente qué sucedió. Entrena  
+los árboles con muestra aleatoria y para la vela 
+actual calcula el porcentaje de coincidencia. Si  
+la mayoría supera el umbral de confianza, activa 
+la señal. El nodo se reentrena de forma automática  
+cada cierto número de barra, garantizando así 
+que el modelo jamás quede obsoleto. Las salidas  
+te ofrecen la condición de compra de venta, el 
+porcentaje exacto de confianza de 0 a 100 y el  
+valor promedio de la predicción. Para configurarlo 
+de forma profesional, establecemos 50 árboles,  
+una profundidad máxima de ocho para evitar el 
+sobreajuste y 1000 barras de entrenamiento.  
+Un Luca Head de 5 barras, un movimiento mínimo 
+del 0.1%. Reentrenamiento cada 200 barras, umbral  
+de compra de 0.3, umbral de venta en menos 0.3 3 
+y una confianza mínima del 55% para validar las  
+operaciones. Su ventaja competitiva es que genera 
+sus propias reglas estadísticas según el activo,  
+ofreciendo robustez institucional sin tocar 
+código. A diferencia de SA de caja negra por  
+el que pagaste una fortuna o con el que peleaste 
+durante horas con Cloud o Chat GPT y que te llevó  
+a la quiebra de la cuenta total porque no sabías 
+qué hacía por dentro, aquí tú tienes el control  
+absoluto. Imagínate la ventaja matemática que 
+tienes cuando tu bot toma una decisión basada  
+en 50 analistas artificiales que votan de forma 
+independiente en lugar de confiar en una simple  
+línea que se cruza en la pantalla. Estás operando 
+con el mismo algoritmo de Ensemble que utiliza  
+Netflix para recomendarte contenido, pero adaptado 
+para extraer beneficios del mercado financiero.  
+Para asegurar que la predicción es perfecta, 
+vamos a cruzar estos votos con un nodo geométrico  
+de alta precisión. El tercer componente clave 
+es el nodo 3, el SVM generador de señales IA,  
+basado en support vector machine con un núcleo 
+RBF. A diferencia del random forest que vimos  
+antes que utilizaba votaciones, el SVM opera 
+bajo un principio geométrico buscando el  
+hiperplano óptimo que separa matemáticamente las 
+condiciones de compra exitosas de las de venta.  
+Al usar el núcleo RBF establecemos una frontera 
+multidimensional sobre la superficie curva capaz  
+de identificar patrones no lineales invisibles 
+para el ojo humano y sobre todo para los  
+indicadores tradicionales. aterrizando el concepto 
+para que nos entendamos todos. Imagina que tienes  
+una mesa llena de fichas de colores. Las fichas 
+verdes son [resoplido] las velas cuyas condiciones  
+de mercado precedieron subida. Las fichas 
+rojas son velas cuyas condiciones predijeron  
+bajadas. El SVM lo que hace es trazar una línea 
+divisoria perfecta entre las rojas y las verdes,  
+pero no en línea recta, sino en una curva que 
+se adapta a la forma exacta en la que están  
+distribuidas por la mesa. Una vez trazada esa 
+frontera efectiva, cada vez que llega una señal  
+nueva, el nodo simplemente mira a qué lado de 
+la curva cae. Si cae del lado verde, compra.  
+Si cae del lado rojo, vende. Si está demasiado 
+cerca de la frontera, hay duda, por lo tanto,  
+no hace nada. Lo extraordinario del RBC es que esa 
+frontera se adapta a la forma real de los datos,  
+como una membrana que se pliega, no como intentar 
+separar agua y aceite con una regla. Algunas de  
+las métricas que analiza simultáneamente el modelo 
+son, por ejemplo, el RSI, el MACD normalizado,  
+el ATR relativo, el ADX y la posición de las 
+bandas de Bollinger, por ejemplo, entre otros.  
+Ambos nodos son perfectamente complementarios 
+porque combinan un enfoque de ensemble con uno  
+geométrico, actuando como una doble opinión 
+de inteligencia artificial. Para configurarlo,  
+ajustaremos la sensibilidad de la curva Gamma 
+en 0.1, El parámetro de regularización C en  
+1.0 para controlar el sobrejuste. 500 barras 
+de entrenamiento histórico, reentrenamiento  
+automático cada 200 barras, un lookahe de cinco 
+barras, movimiento mínimo en 0.1% y un umbral de  
+confianza mínimo en 0.7 para asegurar que solo 
+entren las señales en las zonas más sólidas.  
+Ya tenemos la clasificación del mercado y la doble 
+confirmación estadística y geométrica. Pero ahora  
+viene el verdadero salto cuántico tecnológico. 
+Si estás operando en la plataforma Metatrader 5,  
+el siguiente nodo te va a permitir predecir 
+el futuro del precio basándote en la memoria  
+secuencial de las velas de trading. Un nivel 
+de sofistificación que antes era exclusivo  
+de laboratorios avanzados. Para los traders que 
+buscan la máxima sofisticación en Metatrader 5,  
+Stratos ofrece el nodo 4, el predictor neural de 
+inteligencia artificial. Este nodo integra una red  
+neuronal recurrente de tipo LSTM, diseñada para el 
+análisis de series temporales. Esta arquitectura  
+comprende que el precio es una secuencia continua 
+donde el orden de los movimientos pasados puede  
+ayudar a determinar el futuro, pero no es 
+garantía absoluta de ello. Evidentemente  
+analiza las últimas 70 velas como una secuencia 
+unificada y predice la dirección más probable  
+del mercado y la magnitud exacta del próximo 
+movimiento. Todo expresado en PIPS junto con su  
+porcentaje de confianza. Aterrizando el concepto 
+para que nos entendamos todos. Imagina que le  
+pides a alguien que prediga si va a llover mañana, 
+pero en lugar de mirar solo el termómetro de hoy,  
+le entregas un diario con las últimas 60 páginas 
+con toda la información del clima, cómo subió la  
+temperatura, cómo bajó, si hubo rachas de calor o 
+frío repentino, etcétera, etcétera. Con el tiempo,  
+esa persona empieza a reconocer historias que se 
+repiten, no una foto suelta, sino una secuencia.  
+El predictor neural de inteligencia artificial de 
+Stratos hace exactamente eso con el gráfico. Lee  
+las últimas 60 velas como si fueran una película. 
+Detecta patrones que solo existen en el tiempo,  
+aceleraciones, agotamiento, continuaciones 
+y responde tres cosas: sube o baja. ¿Con  
+qué probabilidad? Y si lo configura, ¿cuánto 
+podría moverse? Si la predicción es clara,  
+emite señal. Si el mercado está en zona gris, 
+se queda quieto. En cada nueva vela compara  
+lo que dijo con lo que pasó para ir afinando 
+su criterio. Cuenta con tres modos de datos de  
+entrada. El modo OHLC que es simple y efectivo, el 
+modo OHLCV que añade el volumen de transacciones y  
+el modo completo que procesa los precios junto al 
+RSI, ATR y ADX. ofrece tres modos de predicción:  
+dirección, magnitud o ambos de forma conjunta. Sus 
+salidas proporcionan señales alcistas o bajistas,  
+una puntuación de predicción de 0 a 100 y 
+la magnitud esperada en puntos para calcular  
+dinámicamente tu take profit. Los parámetros 
+de configuración profesional se definen con 70  
+velas de secuencia, una velocidad de aprendizaje 
+de 0.1% hasta 0.0% 0% para asegurar estabilidad.  
+Reentrenamiento continuo cada 100 velas. 
+Umbral alcista de 0.6 y umbral bajista de 0.4,  
+capturando patrones profundos gracias a su 
+aprendizaje continuo. Tener un bot con una red  
+neuronal prediciendo pips y un bosque de árboles 
+decidiendo operaciones es espectacular. Pero de  
+nada sirve si un evento geopolítico inesperado o 
+una noticia económica destruye tu cuenta debido  
+a un movimiento errático. Para evitar que tu 
+sistema caiga en estas trampas de liquidez,  
+necesitamos un elemento de seguridad perimetral 
+que vigile el mercado de forma implacable. Para  
+blindar por completo nuestro capital frente a 
+los imprevistos, arrastraremos el último bloque  
+esencial, el nodo 5, denominado el guardián 
+de anomalías. Este componente actúa como el  
+jefe de seguridad de todo el botándose en una 
+detección estadística que analiza, por ejemplo,  
+el Z score del precio, el ATR, las variaciones del 
+spread y la volatilidad histórica, entre otros. Su  
+función es identificar en tiempo real cinco tipos 
+de anomalías extremas y bloquear inmediatamente la  
+ejecución de operaciones si se da alguna de ellas, 
+protegiendo así al sistema completo de pérdidas  
+catastróficas. La primera anomalía es el flash 
+crash, es decir, caídas verticales en segundo,  
+donde el guardián detiene el sistema al instante, 
+evitando pérdidas totales. La segunda es el gap  
+extremo, impidiendo entrar en zonas vacías 
+donde los stop loss no se ejecutarían al precio  
+correcto. La tercera es la volatilidad extrema 
+provocada, por ejemplo, pues por noticias de alto  
+impacto como las nóminas no agrícolas, comunicados 
+de la Reserva Federal, etcétera, etcétera. En este  
+caso se detiene la operativa de inmediato. La 
+cuarta es el sprint anormal en momentos de baja  
+liquidez, evitando comisiones gigantescas de 50 
+p que arruinarían la rentabilidad total de tu  
+operativa. La quinta es la congelación o fallo de 
+los datos del broker, impidiendo que el sistema  
+opere con precios desactualizados. El nodo ofrece 
+salidas claras como la condición de seguridad que  
+utilizaremos como filtro obligatorio, cruzándola 
+con las señales anteriores, además de entregar el  
+score y el tipo específico de anomalía detectada. 
+Antes de continuar con el vídeo, quiero recordarte  
+que en la primera línea de la descripción tienes 
+un enlace para unirte a mi comunidad privada de  
+school totalmente gratuita. Dentro he creado 
+una formación de 14 días totalmente gratis,  
+donde te enseño a crear tu primer bot y te 
+comparto alguna de las estrategias que me  
+han permitido ser rentable en la última década. Al 
+unirte vas a tener acceso totalmente gratuito a un  
+ecosistema de networking donde compartirás espacio 
+con personas como tú que quieren avanzar y crecer,  
+aparte de con ingenieros informáticos, matemáticos 
+y traders profesionales que avanzan en tu misma  
+dirección y que van a potenciar tu evolución 
+técnica. Haz clic en el enlace de la descripción  
+para unirte. Nos vemos dentro. Y ahora sí, 
+seguimos con el vídeo. Y para que veas que esto  
+no es teoría vacía, este es el resultado del wall 
+forward de un bot de trading inteligente montado  
+bajo este sistema específico en el eurodólar 
+durante los últimos meses. Los datos no mienten.  
+De $1,000 a $2,151, un 115.1% de rentabilidad. 
+Ahora que entiendes el funcionamiento de cada  
+bloque, observa el poder de la integración visual 
+dentro de estratos. Empezamos colocando los cinco  
+generadores y filtros que acabamos de estudiar. 
+Detector de régimen, randfor, SVM generador,  
+predictor neural y solo si tiene Metatrader 
+5, guardián de anomalías. Añadimos dos bloques  
+and lógico. Juntamos las condiciones de compra y 
+venta a mercado. El primer paso es el consenso de  
+inteligencia artificial. Cableamos la señal de 
+compra del Random Forest y la del SVM al mismo  
+nodo ano avanza si ambos modelo coinciden. El 
+bosque que bota y la frontera geométrica del VM.  
+En Metatrader 5 conectamos también la señal 
+alcista del predictor neural a ese mismo ant,  
+convirtiendo la entrada en una triple 
+confirmación. Ensemble estadístico,  
+clasificador geométrico y memoria secuencial 
+en 70 velas. Repetimos. exactamente el mismo  
+esquema en el lado de las ventas, es decir, 
+en el lado bajista. El segundo paso es el  
+contexto del mercado. El detector de régimen 
+no genera entradas por sí solo. Le dice al bot  
+cuándo tiene sentido operar. conectamos, está en 
+tendencia y no es volátil mediante un bloque not  
+al mismo ANT de compra y venta de antes. Así la 
+señal ML se activa cuando el mercado no está en  
+caos ni en transición peligrosa. Si quieres afinar 
+más, puedes añadir edad del régimen, por ejemplo,  
+con un umbral mínimo para evitar entrar en estados 
+recién creados o aún inestables. El tercer paso es  
+la protección perimetral. La salida de LAN compra 
+o venta va a las entradas del guardián de anomalía  
+y desde ahí usamos la salida de compra segura y 
+venta segura y en lugar de las señales originales.  
+Si detecta flash crash, gap extremo, volatilidad 
+desbocada, spreta normal o datos congelados,  
+bloquea la operación aunque toda la IA esté de 
+acuerdo. Es la última barrera antes de arriesgar  
+tu capital real. El cuarto y último paso es la 
+ejecución. Compra segura, compra de mercado.  
+Venta segura, venta de mercado. Pulsamos compilar 
+y extato automáticamente en segundos traduce todo  
+el canvas a un archivo optimizado, listo, para 
+llevar a Metatrader, sin escribir ni una sola  
+línea de código. Lo que acabamos de diseñar no 
+es una estrategia común, como has podido ver,  
+es un ecosistema multicerebro donde el régimen 
+define el contexto. Varios modelos de IA confirman  
+la dirección. El guardián protege la cuenta ante 
+lo imprevisible y Stratos convierte el diagrama  
+en un bot ejecutable, un sistema que se reentrena 
+solo, filtra el ruido, se protege ante anomalía  
+y pone el trading cuantitativo al alcance de 
+cualquier trader minorista con transparencia  
+total sobre qué hace cada pieza, a diferencia de 
+esa caja negra que te costó la cuenta. Si quieres  
+dejar de operar con desventaja matemática frente 
+a instituciones y quieres ir más allá de estos  
+cinco nodos, tengo una muy buena noticia para 
+ti. He creado una formación completa de 0 a 100,  
+totalmente gratuita, donde te enseño a construir 
+tu primer bot de trading desde el principio hasta  
+tenerlo corriendo ya en tu Metatrader. 
+Sin conocimientos previos, sin código,  
+paso a paso la encontrarás en nuestra comunidad 
+privada de school. El enlace está fijado en el  
+primer comentario. Entras, te registras gratis y 
+tienes acceso inmediato a toda la formación, a los  
+recursos y a una comunidad de trader que están 
+construyendo exactamente lo mismo que tú. Y si  
+lo que acabas de ver hoy te ha parecido potente, 
+el siguiente vídeo te va a cambiar la perspectiva  
+por completo. Hablo del bot que construí usando 
+Coolarning, la misma tecnología de inteligencia  
+artificial que derrotó al campeón del mundo del 
+juego de Go, considerado durante décadas imposible  
+de resolver para una máquina. Ese algoritmo 
+lo aplica al mercado para crear un bot que  
+no sigue reglas fijas, sino que aprende operando. 
+Mejora con cada vela. se adapta solo a condiciones  
+que nunca había visto. Está en pantalla. 
+Ahora mismo, dale click. Nos vemos dentro.
+[música]
+he

@@ -1,0 +1,956 @@
+Titulo              : Tu Bot IA de Trading se Auto-Pausa Cuando Falla | Aquí está el Código
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2025-12-30
+Duracion            : 43:14
+Vistas              : 20,698
+URL                 : https://www.youtube.com/watch?v=o3FkmSzIEFw
+----------------------------------------------------------------------
+
+Lo que vas a ver ahora no es un bot
+típico de si cruza la media compra. Es
+un bot de inteligencia artificial real
+que aprende del mercado, se ajusta solo
+y en muchas condiciones opera mejor que
+un trader humano en manual, sin
+emociones, sin cansancio y sin
+improvisar. Y lo más importante, puede
+demostrarte por qué toma cada decisión.
+Si llevas tiempo en el trading, ya lo
+sabes. No pierdes por no saber hacer un
+análisis técnico básico. Pierdes porque
+el mercado cambia, tus emociones te
+traicionan y tus decisiones no son
+consistentes. En este vídeo te voy a
+enseñar paso a paso cómo funciona por
+dentro un bot de IA basado en cool
+learning, capaz de entender en qué tipo
+de mercado está, aprender qué acción
+funciona mejor en cada situación,
+ajustar el riesgo automáticamente y
+pausarse él solo cuando detecta que su
+rendimiento se degrada. Y no, no estoy
+hablando de usar un chat GPT. No te
+preocupes porque vas a entenderlo todo,
+ya que lo vamos a construir juntos, paso
+a paso, y al final del vídeo vas a
+entender con claridad por qué en muchos
+escenarios un bot de IA bien diseñado
+tiene una ventaja frente al trading
+manual. para que te sitúes. Esto es lo
+que vas a aprender en este vídeo.
+Primero te voy a explicar los límites
+claros del trading manual y dónde un bot
+de IA empieza a tener ventaja para que
+sepas identificar si este tipo de bots
+son o no para ti. Segundo, aprenderás la
+arquitectura mental de este bot. Veremos
+cómo piensa, cómo ve el mercado, cómo
+aprende y cómo decide. Todo desvelado,
+nada de cajas negras. Tercero, te voy a
+explicar de forma clara las técnicas de
+IAC que utiliza, entre ellas el cool
+learning, la detección de régimen del
+mercado, el sistema de recompensa, la
+adaptación de parámetro y el autopausa.
+Y cuarto, veremos por qué este enfoque
+es tan potente y robusto y diferenciador
+frente a un EA clásico con reglas fijas.
+Cuando entiendas estos cuatro bloques,
+vas a ver el trading automatizado de
+otra forma, te lo garantizo. Y quizás te
+pregunte, "Pero, Ignacio, ¿de qué me
+sirve a mí saber todo esto si no tengo
+ningún bot de inteligencia artificial de
+este tipo?" Pues te lo aclaro rápido,
+necesitas saberlo porque en este vídeo
+vamos a construir juntos tu primer bot
+de trading con IA 100% funcional e
+independiente. Sí, y digo tu voz de IA
+porque al final del vídeo te lo voy a
+regalar. Así que vamos a por ello. El
+trading manual tiene tres problemas
+estructurales principales, entre otros.
+Primero, la sobrecarga de información,
+decenas de indicadores macros,
+temporales, noticias, etcétera,
+etcétera. Es imposible procesarlo todo
+simultáneamente en tiempo real con la
+misma precisión siempre. Segundo, las
+emociones, miedo, avaricia, fomo,
+venganza, todo nubla a tu juicio. Aunque
+tengas un plan, tu dedo en el ratón no
+siempre obedece a la lógica y lo sabemos
+todos porque hemos pasado por ello
+tercero, la inconsistencia.
+Un día sigues tu estrategia al 100%, al
+día siguiente la modificas un poco,
+dudas, sales antes de tiempo, tus
+resultados dependen más de tu estado
+mental que del sistema. Sin embargo, un
+bot de IA bien diseñado no tiene este
+problema, no se cansa, no se asusta, no
+se emociona y repite la misma lógica
+miles de veces exactamente igual. El bot
+que vamos a construir hoy no es un
+simple de si cruza el RSI por encima del
+nivel 70 vende y si está por debajo del
+nivel 30 compra. este bot aprende o lo
+que es lo mismo, a diferencia de un
+sistema estático que ejecuta el mismo
+error infinitamente hasta quemar tu
+cuenta de trading por completo, tu bot
+IA es inteligente y aprende de sus
+errores para evitar cometerlos de nuevo.
+Utiliza una técnica de inteligencia
+artificial llamada cool learning, que es
+un tipo de aprendizaje por refuerzo
+tabular. Es la técnica que utilizaron
+desde Google Deep Mind en 2016 cuando
+marcaron únito con su inteligencia
+artificial Alpha Go, la cual derrotó al
+entonces campeón mundial del complejo
+juego de mesa Go Lisidol. Traducido para
+que todos nos entendamos. En lugar de
+seguir reglas fijas, el bot experimenta,
+mide el resultado y ajusta su
+comportamiento para la próxima vez. Y
+aquí está el primer punto clave. Un
+trader manual tiene una memoria limitada
+y sesgada por emociones, pero tu bot en
+cambio, tiene una tabla de decisiones
+objetiva que se va refinando con cada
+operación, por lo que cuanto más opera
+el mercado, más aprende a operarlo y
+mejor se vuelve. Y seguramente ahora
+estés pensando, "Vale, Ignacio, todo
+esto de Google y Alpha Go suena
+espectacular, pero esos son
+superordenadores y cajas negras que
+nadie entiende. ¿Cómo voy a controlar yo
+algo así?" Y ahí es donde te equivocas.
+Y es el motivo por el que la mayoría
+fracasa con el trading algorítmico.
+Confían ciegamente en cajas negras que
+no comprenden. Pero tú no vas a hacer
+eso. Si estás valorando poner tu capital
+en manos de una inteligencia artificial,
+necesitas verle las tripas. Necesitas
+entender exactamente por qué decide
+comprar o vender. Así que olvídate de la
+magia. Lo que vamos a hacer ahora es
+abrirle el cerebro al bot y te voy a
+enseñar la estructura matemática exacta
+que convierte el caos del mercado en
+dinero, sin secretos y sin cajas negras.
+Así que estate atento porque esto es lo
+que separa un trader amater de un
+ingeniero de sistemas de trading. Vamos
+a entrar en detalle y ver cómo piensa el
+bot. Para que lo entiendas con claridad,
+he diseñado esta slide para ti.
+Imagínate una tabla de 100 filas por
+cuatro columnas. Esas 100 filas
+representan 100 estados posibles del
+mercado. No son velas, son contextos,
+son combinación de tendencia,
+volatilidad y momentum. Las cuatro
+columnas son las acciones posibles del
+bot. Cero hold o no hacer nada. Uno, buy
+o comprar, dos, sell o vender, y tres,
+close o cerrar posiciones. Dentro de
+cada celda, el bot guarda un número.
+Este número es el valor Q. Es una medida
+de cuán buena ha sido históricamente esa
+acción en ese estado concreto del
+mercado. Si por ejemplo en el estado 42
+cada vez que el bot ha comprado le ha
+ido bien, la celda buy tendrá un valor
+alto. Si vender en ese mismo estado ha
+sido un desastre, la celda sell tendrá
+un valor muy bajo o negativo. La magia
+del cool learning está en cómo se
+actualizan esos valores. Cada vez que el
+bot toma una decisión y ve el resultado,
+actualiza la tabla con esta lógica. Por
+lo tanto, Q nuevo será igual a Q viejo +
+alfa, que es la recompensa más I por
+mejor futuro menos Q viejo. Tranquilo,
+no hace falta que recuerdes la fórmula.
+Lo importante es que entiendas la idea.
+Es decir, si la acción sale bien, el
+valor de la celda sube, si sale mal, el
+valor baja y continúa actualizando el
+valor continuamente. De esta forma
+siempre tiene en cuenta lo que podría
+ganar en el futuro si sigue actuando
+bien. con el tiempo y a medida que se
+realizan más operaciones, la tabla ya
+deja de ser aleatoria y se convierte en
+una especie de mapa de experiencia
+sólido y robusto. Es literalmente la
+memoria del bot de trading. Para mejorar
+los resultados de nuestra estrategia de
+trading y ganar más, ya no necesitamos
+aprender más, añadir más indicadores o
+dedicar más tiempo. Simplemente
+necesitamos que nuestro bot opere más y
+eso lo podemos hacer con riesgo cero en
+una cuenta demo porque al bot le da
+igual si es dinero real o ficticio. Él
+seguirá aprendiendo y mejorando con cada
+operativa. Pero hay algo más, algo que
+te va a proporcionar una ventaja enorme
+sobre el resto de traders. He añadido
+una técnica que acelera el aprendizaje
+de forma brutal.
+El experience replay. Piénsalo así. Sin
+esta técnica, el bot solo aprendería del
+último trade. Es decir, hace una
+operación, actualiza una celda de la
+tabla y sigue adelante. Es como un
+estudiante que lee una página del libro
+una sola vez y nunca la vuelve a mirar.
+Sin embargo, con el Experience Replay,
+el bot guarda cada operación en una
+memoria especial, un historial de hasta
+1000 operaciones y experiencias pasadas.
+Y aquí viene lo importante. Cada minuto
+de forma automática, el bot selecciona
+32 experiencias al azar de ese historial
+y las repasa actualizando la tabla como
+si acabaran de ocurrir. Es como si un
+estudiante, además de leer las páginas
+nuevas, repasara constantemente sus
+apuntes anteriores. Y no cualquier
+apunte, porque el sistema prioriza las
+experiencias más significativas, los
+grandes aciertos y los grandes errores
+se repasan más veces que los trades
+mediocres, es decir, repasan más lo que
+tiene mayor relevancia para el examen
+del mercado. El resultado, un bot que
+antes necesitaba 10.000 operaciones para
+empezar a mostrar patrones de
+aprendizaje sólidos, ahora lo consigue
+con solo de 200 a 500 operativas. ¿Y qué
+vamos a conseguir con esto? Pues que la
+Q ttable deje de ser aleatoria mucho más
+rápido y el bote empiece a tomar
+decisiones inteligentes en una fracción
+del tiempo total. Así que cuando pongas
+tu bot a operar en demo, no solo estará
+aprendiendo de cada nuevo trade, estará
+repasando constantemente su historial,
+reforzando lo que funciona y evitando
+repetir lo que no. es aprendizaje
+acelerado, automático y completamente
+autónomo. Alto ahí, porque en esta fase
+es cuando aparece en escena un error
+típico muy grave que destruye cuentas de
+trading sin miramientos y destruirá tu
+cuenta si no lo conoces y le pones
+remedio. Y es que muchos bots cometen el
+error fatal de operar en cualquier
+entorno o régimen del mercado. El
+ejemplo más claro de esto somos nosotros
+mismos. Aprendemos una estrategia cada
+día abrimos la plataforma para buscar la
+oportunidad de trading en el mercado y
+cuando se da la ejecutamos esperando lo
+mejor, pero por desgracia para nosotros
+lo mejor no siempre sucede. Nos han
+hecho creer que ser disciplinados es la
+clave para ser rentables. Nos han
+llenado la cabeza de psicología y
+motivación barata, que ojo, en muchos
+aspectos de la vida puede hasta
+funcionar. No tengo nada en contra, pero
+en el trading no. Ejemplo simple,
+imaginemos que tenemos una estrategia
+clara, un plan de trading bien definido
+y somos los más disciplinados del mundo.
+Si será X e Y, tal como dice nuestra
+estrategia, lanzamos la operativa. Fin.
+Entonces, ¿cuál es el problema? Pues el
+problema es que incluso aunque no sea el
+mejor momento para nuestra estrategia,
+vamos a lanzar la operativa si todo se
+cumple. El problema de fondo aquí es que
+incluso no estando el mercado en un
+régimen favorable para nuestra
+estrategia, como se dan las señales,
+todo se cumple y somos disciplinados,
+lanzaremos la operativa. Incluso aunque
+nuestra estrategia en ese entorno tenga
+una esperanza matemática negativa,
+evidentemente así terminaremos siempre
+perdiendo dinero, tarde o temprano. Y
+ojo, esto no es culpa nuestra. Hemos
+cumplido con todos los checks del plan
+de trading con disciplina, pero
+sencillamente no era el momento. Y lo
+peor de todo es que seguramente no
+sepamos ni en qué régimen se encuentra
+el mercado. O peor aún, es posible que
+no sepamos ni analizar correctamente el
+régimen del mercado para identificarlo y
+determinar si es o no un buen momento
+para ejecutar nuestra estrategia. Y
+ahora después de saber todo esto, quizás
+te preguntes, pero Ignacio, esto es un
+problema importante y de hecho me
+identifico con él en parte porque me ha
+pasado ya varias veces. ¿Cómo lo
+solucionamos? Pues estate atento porque
+te comparto la solución a tu problema ya
+mismo. ¿Y cómo sé yo la solución? Pues
+porque yo no soy especial ni ajeno a
+este tipo de problemas. Y después de más
+de 15 años dedicándome a operar los
+mercados profesionalmente a diario, hay
+pocas situaciones en las que no me haya
+visto y pocos problemas en los que no me
+haya metido. Debes tener claro que en
+esta situación nos hemos visto todos
+tarde o temprano y por ello tu botía ya
+lleva la solución al problema integrada
+para que no tengas que hacer nada. ¿Y
+cómo es esto posible? Pues muy sencillo,
+pues esto es posible porque este bot
+hace algo diferente. Antes de decidir si
+operar o no tu estrategia, clasifica el
+mercado en uno de estos 10 estados o
+régímenes distintos. Para ello agrupado
+en categorías, como por ejemplo
+tendencia alcista, calmada, normal o
+volátil, tendencia bajista, calmada
+normal o volátil, rango tranquilo o
+volátil, caos volátil sin dirección o
+directamente fase de transición. ¿Con
+qué y cómo lo hace? pues lo hace gracias
+a una combinación sólida de indicadores.
+Utiliza medias móviles optimizadas para
+ver la dirección de la tendencia, el ADX
+para medir la fuerza real de esa
+tendencia, el ATR para cuantificar la
+volatilidad frente al histórico, el RSI
+para el momentum y las bandas de
+Bollinger como soportes y resistencias
+dinámicos. Con eso el bot no solo mira
+el precio, sino que entiende en qué tipo
+de entorno está operando. Aprende a
+entender el mercado. Y esto es crítico
+porque todos sabemos que lo que funciona
+en una tendencia alcista calmada suele
+ser un desastre en un mercado lateral
+caótico y viceversa. Por eso, la mayoría
+de las estrategias de trading funcionan
+o dejan de funcionar por ciclos. El gran
+problema para un trader manual, yo, tú o
+de cualquiera que opere en manual, es
+que muchas veces no ajustamos nuestra
+forma de operar con la suficiente
+rapidez y nos mantenemos fieles a lo que
+marca nuestra estrategia. Esto nos mete
+en un problema, pero no pasa nada porque
+el bot sí lo hace. El bot clasifica,
+etiqueta el régimen y a partir de ahí
+usa la parte de su experiencia que mejor
+se adapta a ese tipo de mercado. De esta
+forma adapta la operativa. Hasta aquí
+todo lógico y sencillo, ¿verdad? Pues
+tengo malas noticias para ti, porque
+esto fue una de las primeras técnicas
+que apliqué hace unos años y no conseguí
+avanzar nada, solo perdí tiempo y
+dinero. Descubrí que clasificar el
+mercado no es la solución, sino todo lo
+contrario, agrava el problema. Esto
+sucede porque el mercado es continuo y
+prácticamente infinito en matices, pero
+la IA para operar necesita sí o sí
+estados manejables. Esto nos lleva a
+entrar en un problema en espiral sin
+salida si decidimos operar con
+inteligencia artificial. Pero atento
+porque así es como lo solucioné.
+Partimos de la base de que el mercado al
+ser continuo y prácticamente infinito en
+matices es imposible de clasificar de
+forma sencilla. Pero cualquier sistema
+de trading para ser rentable y en
+especial un bot de IA necesita sí o sí
+estados manejables, necesita
+objetividad. Bueno, realmente la
+necesitamos todos para ser rentables,
+pero especialmente la necesitamos si
+queremos operar con una IA. A solucionar
+este gran problema, el bot toma tres
+grandes dimensiones: tendencia,
+volatilidad y momentum, y las convierte
+en un número de 0 a 99. Este número lo
+utiliza para decirse internamente algo
+así como ahora mismo estamos en el
+estado 37, que para la A significa
+cierto tipo de tendencia, cierta
+volatilidad y cierto momentum. Ese
+número se usa como índice en la Qtable
+que vimos anteriormente. Repito, no hace
+falta que entiendas la fórmula exacta,
+simplemente tienes que conocer el
+concepto y es este, el bot. coge toda la
+complejidad del mercado y la resume en
+un estado discreto que le permite
+reconocer patrones y decir, "Vale,
+cuando he visto un entorno como este
+antes y he comprado, ¿qué pasó? Y cuando
+vendí, ¿qué pasó? ¿Y cuando me quedé
+quieto, ¿qué pasó? Esto es el state
+encoding o codificación de estado y el
+propio bot lo hace automáticamente, así
+que no te preocupes por eso. Ya lo
+tenemos todo. Pues no, porque cuando
+llegué a este punto y pensaba que todo
+se había solucionado, me encontré con un
+nuevo problema que puso todo patas
+arriba. Y es que aunque tengamos la
+estrategia diseñada y el mercado
+clasificado para que el bota, un agente
+de IA aprenda, hay que definirle
+claramente qué se considera bueno y qué
+se considera malo. Necesita reglas de
+comportamiento porque si no todo lo
+anterior no habrá servido para nada y
+terminará perdiendo dinero sí o sí,
+igual que cualquier bot clásico con oía.
+Para resolver este nuevo problema,
+tenemos que diseñar nuestro propio
+sistema de recompensas. Vamos a ello. Tu
+botia va a utilizar un sistema de
+recompensas adaptativos basado en dos
+puntos claves, los pips de beneficio o
+pérdida y el ratio riesgo, beneficio o
+RR. Si la operación termina en beneficio
+es un éxito y la recompensa es positiva.
+Aquí ya se usa una raíz cuadrada para
+suavizar los extremos, es decir, no se
+premia de forma desproporcionada una
+operación aislada muy grande. Esto sería
+como premiar a tu hijo con 5,000 € por
+sacar a pasear el perro 5 minutos, pues
+todo el día estaría pidiendo para poder
+sacar el perro a pasear. Para que esto
+no suceda con el bot, todas las
+recompensas deben ser ajustadas
+proporcionalmente,
+evitando los extremos. Si por el
+contrario la operación termina en
+pérdida, se clasifica como un fallo. La
+penalización en este caso sí que es más
+fuerte que la recompensa equivalente. O
+dicho de otra forma, se castiga más las
+pérdidas que lo que se premian las
+ganancias. También aplicamos el Risk
+Regard o bonu de calidad, que es algo
+así como la propina extra que ofrecemos
+a un profesional cuando el trabajo se ha
+hecho muy bien y estamos contentos. El
+objetivo es sencillo. Con todo esto, lo
+que queremos es que tu botaje
+de que no solo importa ganar, importa
+ganar con buena estructura de riesgo y
+evitar a toda costa las pérdidas
+grandes. Con el tiempo tu bot va a ir
+aprendiendo y aprende a favorecer
+conductas que generan ganancias
+consistentes con un buen RR y a evitar
+patrones que lleven a pérdidas
+dolorosas.
+Llegados a este punto pensé, "Ya está
+todo listo, pero si vamos a hacerlo,
+vamos a hacerlo bien." Tenemos la
+estrategia definida, el mercado
+clasificado y el sistema de recompensa
+definido para que el bot sepa cuándo
+operar. Pero para ser rentable no solo
+necesitas saber cuándo operar, sino
+también cómo operar. Tener el gatillo de
+entrada es importante, pero sin una
+buena gestión se terminará perdiendo o
+no ganando todo lo que se podría llegar
+a ganar. Le di una vuelta y esta fue la
+solución que descubrí. Queda claro que
+el siguiente nivel de inteligencia del
+bot no es solo decidir cuándo comprar o
+vender, sino cómo ajustar el riesgo
+según el entorno. La gestión es el 80%
+del beneficio de cualquier estrategia de
+trading. Por buena que sea, si no hay
+una gestión eficiente, todo terminará en
+pérdida inevitablemente. O sea, el único
+camino sin gestión es la ruina. Lo que
+hice aquí fue dotar a la IA de la
+capacidad para modificar automáticamente
+parámetros claves como el stop loss, el
+take profit o el tamaño del lote en
+función del régimen del mercado
+detectado. Así de esta forma nuestro
+bot, por ejemplo, en una tendencia
+calmada, pues puede utilizar un stop
+loss más ajustado y take profridos
+limpios con un riesgo controlado. En
+tendencia volátil, puede ampliar el stop
+loss y el tape profit, pero también
+puede reducir el tamaño del lote para no
+exponerse demasiado al ruido. En rangos
+tranquilos trabaja con objetivos más
+cortos y stops más cercanos. En caos
+volátil aumenta el margen del stop loss
+reduciendo considerablemente el tamaño
+del lote y tiende a operar menos. Y en
+transición pues normaliza parámetros,
+pero reduce un poco el tamaño porque
+sabe que está entrando en una zona
+incierta. Básicamente dotamos al botia
+de capacidad para realizar una gestión
+inteligente y adaptativa según las
+condiciones del mercado. Esto es algo
+que un trader manual intenta hacer de
+forma intuitiva, pero rara vez consigue
+aplicar de forma consistente y
+cuantitativa, pero el bot lo hace de
+forma objetiva y automática, es decir,
+de forma natural. Aquí debo ser sincero
+contigo, el primer prototipo de bot con
+inteligencia artificial que puse en el
+mercado con todo lo que hemos mencionado
+ya configurado y totalmente funcional,
+comenzó muy bien, pero terminó quebrando
+la cuenta demo lentamente, pero sin
+pausa. Llegué a un punto sin salida, no
+sabía cómo solucionarlo. era un bot
+bueno, bueno, estable y rentable, pero
+cuando salía un movimiento muy volátil
+en el mercado por algún acontecimiento
+inesperado, etcétera, todo se iba al
+traste. Me enfoqué en encontrar una
+solución, pero no podemos predecir
+eventos aleatorios e impredecibles de
+este tipo. Seguramente ya sepas de lo
+que te hablo si has pillado alguno y te
+ha pillado sobre todo por sorpresa.
+Hasta que de repente vi la luz al final
+del túnel y ayer la solución, te la
+cuento. La solución era algo tan obvio
+que quizás por eso tardé tanto en
+descubrirlo. A veces nos enfocamos en
+complicar las cosas más de lo realmente
+necesario. Apliqué una de las
+características más potentes e
+infravaloradas y todo se solucionó. La
+autopausa, porque sí, la IA, al igual
+que el trader manual tiene que dejar de
+operar cuando las cosas no están yendo
+bien, en lugar de seguir operando y
+empeorando la situación. El tener la
+disciplina necesaria para o no operar es
+clave. para no perder una cuenta de
+trading por completo. Como ya hemos
+visto, tu bot monitoriza constantemente
+sus propios resultados. No solo mira el
+mercado, se mira a sí mismo. Si detecta
+que el dry down supera un umbral
+definido por ti o el win rate cae por
+debajo de un mínimo razonable después de
+un número suficiente de operaciones o
+que el profit factor baja de cierto
+nivel, el bot se pone en pausa. En la
+práctica, esto significa que si el
+entorno del mercado cambia y su
+comportamiento deja de ser efectivo, el
+bot lo entiende y no sigue tirando tu
+cuenta de trading por el retrete como sí
+que lo haría un bot clásico. Seguramente
+ya conozcáis varios ejemplos. Si entra
+en una racha estadísticamente mala, no
+lo niega, no se frustra, no se venga del
+mercado, simplemente se detiene. Y esto
+comparado con un trader manual ya es una
+ventaja brutal, porque el humano en
+Drown suele forzar más aumentar el
+riesgo o saltarse las reglas para
+intentar recuperar o no terminar
+perdiendo más de lo que estaba perdiendo
+y al final solemos liarla en muchos
+casos. El bot, en cambio, tiene claro
+que cuando sus métricas clave se
+degradan, la mejor decisión es no seguir
+operando hasta que tú revises o ajustes.
+Pero no todo se hace mal, también hay
+cosas que se hacen bien, operativas que
+se ganan. Esto me llevó a la siguiente
+reflexión. Es importante que el botenda
+qué está haciendo bien y lo refuerce
+para que lo haga más. Pero y si aparece
+en el mercado otra forma de hacer las
+cosas, otro patrón de comportamiento que
+puede ser más rentable, pero como hace
+siempre lo mismo, lo que le ha
+funcionado nunca lo va a descubrir. Y si
+podría estar ganando más, pero estoy
+dejando escapar oportunidades.
+Este pensamiento me estuvo días rondando
+por la cabeza hasta que se me ocurrió
+una solución lógica, pero después me
+encontré con más problemas por el
+camino. Para que el bot no se quedase
+atrapado siempre haciendo lo mismo y
+evolucionase con el mercado, debía
+probar cosas nuevas. Pero claro, probar
+cosas nuevas sus riesgos y no quería que
+el probar nuevas estrategias o
+comportamientos terminasen comiéndose
+todo el beneficio acumulado. Tenía claro
+que el bot necesitaba un equilibrio bien
+definido entre explotar lo que ya sabe
+que funciona y explorar cosas nuevas que
+podrían ser mejores. Para controlar este
+equilibrio, introduje un parámetro
+llamado
+la lógica es que con probabilidad
+el bot elige una acción aleatoria y este
+sería su modo de exploración controlado.
+y con probabilidad 1 menil, el bot elige
+la mejor acción conocida hasta ahora
+según su Qable, lo que vendría a ser la
+explotación de la estrategia, lo que ya
+sabemos que funciona y que nos da
+rentabilidad. Evidentemente al principio
+es más alto, por lo que el bot explora
+más, prueba más combinaciones y aprende
+del terreno. Por eso la importancia de
+que se ejecute en una cuenta demo, sobre
+todo inicialmente, en especial en esta
+fase de aprendizaje. Con el tiempo,
+se va reduciendo gradualmente, de forma
+que el bot se centra cada vez más en
+explotar el conocimiento que ya ha
+validado. Es decir, se centra en generar
+rentabilidad con lo que ya sabe que
+funciona. Es muy parecido a como
+aprendemos nosotros. De niños probamos
+de todo, pero de adultos nos quedamos
+con lo que ya sabemos que funciona. La
+diferencia es que el bot no olvida. no
+sega y puede cuantificar exactamente qué
+acciones rindieron mejor en cada estado
+del mercado. Todo iba perfecto hasta que
+se me fue la luz y se detuvo la
+plataforma. Gracias, Iberdrola. En ese
+momento, semanas de aprendizaje del
+Botia desaparecieron en un parpadeo. No
+me lo podía creer. Estaba tan enfocado
+en mejorar el algoritmo y tan emocionado
+en ver cómo todo funcionaba tan bien e
+iba mejorando que olvidé algo tan obvio
+que es hasta ridículo. Te comparto la
+solución para que no te pase a ti. Lo
+que hice fue implementar un sistema de
+autoguardado porque sí estaba tan
+centrado en el bot y sus resultados que
+se me pasó por completo el guardar el
+avance de aprendizaje. Pero todo esto no
+te va a pasar a ti porque después de mi
+error aprendí por las malas y todo ese
+aprendizaje ya no se queda en la RAM o
+memoria temporal de tu ordenador. Ahora
+el bot guarda su Q table completa en un
+archivo binario con las 100 filas por
+las cuatro columnas Q, el nivel de
+exploración actual épsilon, el número de
+episodio u operaciones y el reward
+acumulado. De esta manera, si reinicias
+la plataforma o paras el bot y lo
+vuelves a activar o se te va la luz como
+a mí, no empiezas desde cero. El bot
+retoma desde donde lo dejó. A diferencia
+de muchos sistemas que siempre vuelven a
+la misma configuración estática, aquí
+crearemos una IA que acumula experiencia
+real del mercado a lo largo del tiempo.
+Si juntamos todas las piezas, la
+comparación con el trading manual se
+vuelve muy clara. Un trader manual tiene
+memoria limitada y sesgada. Cambia de
+opinión en función de emociones. Le
+cuesta adaptar su estilo a cada entorno
+del mercado. A menudo no mide de forma
+objetiva su dry down, su profit factor,
+su win rate, etcétera, y rara vez se
+autopausa cuando está operando mal. Tu
+botía, en cambio, tiene una memoria
+estructurada de 100 estados por cuatro
+acciones, actualizada con cada
+operación. Aprende qué es bueno y qué es
+malo. No solo por beneficio inmediato,
+sino ponderando riesgo y calidad de las
+operaciones. Clasifica el mercado en 10
+régímenes distintos y adapta su
+comportamiento a cada uno. Ajusta el
+riesgo de forma dinámica según la
+volatilidad y el tipo de mercado. Se
+protege a sí mismo y a tu cuenta con
+autopausa basada en métricas objetivas.
+no en impulsos y desde luego no se
+cansa, no se saltan las reglas y no
+improvisa a las 3 de la mañana cuando va
+al baño medio dormido para intentar
+salvar alguna operativa que le ha ido
+mal. Por eso, en muchos contextos, un
+bot de IA bien diseñado como este tiene
+una ventaja estructural clara frente al
+trading manual. sencillamente porque es
+más consistente, es más disciplinado y
+puede procesar estado de mercado
+complejo sin perder claridad. Y además
+al ser coolarning tabular, que ahora ya
+sabes lo que es y no una red neuronal
+opaca, sigue siendo interpretable.
+Puedes inspeccionar su Qtable, entender
+qué ha aprendido, cómo y auditar su
+lógica de decisión. Ahora que ya
+entiendes qué tenemos entre manos, vamos
+a construir este pedazo de bot para que
+puedas descargártelo totalmente gratis.
+Vamos a por ello. Aquí viene la parte
+interesante. En este caso voy a crear el
+bot para Metatrader 5. Como ya sabéis,
+podemos generarlos tanto para Metatrader
+4 como Metatrader 5. Sé que la mayoría
+suele tener Metatrader 4, pero algunos
+también tenéis Metatrader 5, que cada
+día se va expandiendo más entre todos
+vosotros. Entonces, como el anterior de
+medias móviles lo hicimos para
+Metatrader 4, este lo vamos a hacer para
+Metatrader 5. Para que podáis cacharrear
+con él, probarlo y hacer todo tipo de
+prueba, vamos a crear un bot sencillo,
+fácil de controlar, pero potente.
+Entonces, vamos a utilizar algo que
+todos podáis controlar y entender. Por
+ejemplo, vamos a hacer un bot de cruce
+de medias móviles. Vamos a poner dos
+medias móviles. Me voy a indicadores,
+medias móviles. Lo saco la media móvil.
+Vosotros podéis poner la que queráis. Yo
+voy a poner aquí, por ejemplo, por
+defecto una de 10 y una de 20.
+Sencillamente para que haya una mayor
+que otra y no me dé fallo al formar la
+lógica. Ahora voy a hacer dos cruces,
+cruce alcista y cruce bajista. Como es
+la lógica, me voy a lógica, bajo a
+cruces, saco el cruce alcista y el cruce
+bajista. Una vez que tengo estos dos
+nodos, conecto que cuando haya un cruce
+alcista de la media móvil rápida sobre
+la media móvil lenta, me saldrá la señal
+de cruce, que será la señal que voy a
+conectar al nodo de venta. Y lo mismo
+voy a hacer con el cruce bajista, el
+valor de la media rápida sobre el valor
+de la media lenta. De esta forma ya
+tendría hecho el cruce. Lo como digo,
+los parámetros de aquí los podréis
+cambiar vosotros. Yo siempre simplemente
+os conecto aquí los nodos para que
+vosotros tengáis ya los parámetros y
+podáis hacerlo. Aquí ahora tendríamos
+dos opciones. Opción una, crear un bot
+normal, un bot eh como el que tendréis
+todos. me vendría a acciones y iría a
+órdenes. Pondría el nodo de compra del
+mercado y diría que la condición de
+compra va a ser la de la señal de
+arriba. Y para la señal de venta le
+diría que sería la parte de abajo. Voy a
+plegar todo, organizo el cana y aquí
+tendría la señal de venta. Voy a sacar
+el flujo para que lo veáis. Aquí
+tendríamos el camino azul. sería el
+camino de de compra y el camino rojo
+sería el camino de venta. Aquí para que
+lo veáis mejor, el azul y el rojo. Bien,
+esto sería un bot normal de cruce de
+medias móviles, pero no queremos hacer
+un bot normal, queremos hacer un bota,
+como el que hemos visto en el vídeo, es
+decir, queremos algo potente. Pues bien,
+¿qué hago? directamente quito el nodo de
+venta, el nodo de compra y me voy al
+apartado de inteligencia artificial.
+Aquí tengo dos nodos. Saco el de agente
+estratégico de IA. Saco este nodo. Ya
+veis que visualmente es diferente. Y
+aquí ya veo rápidamente que tengo la
+condición del buy y la condición del
+cell. Conecto la condición de buy al
+nodo que genera la señal de by y la
+condición de sell al nodo que genera la
+condición de sell. Pliego todo, cierro,
+actualizo y ya tendría el botia
+generado. Ahora tengo un bot que opera
+cruce de medias móviles que vosotros
+podréis eh optimizar y mejorar y ponerlo
+para que veáis cómo funciona.
+Simplemente, ¿qué hago ahora? Pues como
+digo, seleccionaría la plataforma para
+la que quiero generar el código. En este
+caso vamos a variar y vamos a hacerlo
+para MQL5. Iré alternando unos
+Metatrader 5 y otros Metatrader 4. Le
+doy a construir bot. Se me genera el
+código. Aquí tengo ya todo el código
+completo. No tengo que hacer nada.
+Fijaros aquí lo que es esto. 6761
+línea de código. Casi nada. haciendo
+aquí cuatro clicks con este nodo, pero
+claro, es que este es un bot muy
+potente. Entonces, directamente una vez
+que lo tenemos así, cojo y lo que digo,
+genero código, le doy a descargar. Ahí
+habéis visto que se me ha descargado. Y
+ahora me voy al Metatrader.
+Ahora aquí en el Metatrader 5, que ya lo
+tengo abierto, arrastro el archivo, le
+doy doble clic, se me abre aquí en el
+metaeditor, le doy a compilar y aquí lo
+tenemos generado con cero errores, cero
+de todo. Vale, perfecto. Pues ya está.
+Esto ya lo podemos cerrar. Me quedo en
+el Metatrader 5. Y aquí ahora, ¿qué
+haría? Pues muy sencillo, vosotros os
+podéis descargar el bot, tenéis el
+enlace aquí en la descripción en el
+canal de Telegram donde vamos
+compartiendo todo lo que lo que os
+regalamos. Directamente iría ya aquí a
+mercado, por ejemplo, el eurodólar.
+Abriría el eurodólar, le voy a quitar la
+la rejilla esta que no me no me gusta
+mucho. Y directamente ahora cojo y
+inserto el bot. Me voy a insertar
+esperar experto o esperador bot de IA.
+ejecuto, le digo que sí y aquí me va a
+cargar ya. Aquí lo tengo ya cargado. Ya
+lo veis. agente de IA estratégico. Lo
+suyo es que lo pongáis, por ejemplo, en
+en el time frame, en el time frame y
+mercado que queráis, que es sobre el que
+va a aprender. Eh, si ponéis time frame
+alto, un H1 H4, va a tardar muchísimo
+tiempo en aprender. Pero también si
+queréis operar en ese time frame, pues
+ese time frame es el que debéis ponerlo.
+Si lo ponéis en un time frame de 1
+minuto, luego no podéis echar el bot en
+el time frame de H1 porque no va a
+servir la lógica que haya aprendido,
+¿no? Aquí tenéis el bot. Para que lo
+veáis en funcionamiento. Yo le voy a dar
+a ejecutar. Voy a realizar aquí un back
+testing rápido, simplemente para que lo
+veáis en funcionamiento. Fijaros que
+aquí va corriendo. Mira, ahí va abriendo
+operaciones.
+Bueno, aquí veis como va haciendo eh
+operaciones. Las primeras operaciones.
+Lo voy a parar
+y simplemente para que veáis cómo
+funciona. Hecho esto hacia abajo y aquí
+lo tenéis. los parámetros en tiempo real
+que se van a ir modificando. A
+diferencia de aquí en el Metatrader que
+todavía no ha hecho nada y está a cero.
+Fijaros que aquí ya con las primeras
+operativas que ha hecho, en este caso
+cuatro, ya empieza a contabilizar todo.
+¿Qué vemos aquí? Pues vemos el régimen
+del mercado, clasifica el mercado, la
+tendencia, volatilidad. En base a esto
+vemos como va aprendiendo también el
+cool learning, la ingeniería cool
+learning, cómo va los parámetros, eh,
+simplemente para que lo monitoricemos,
+si queremos monitorizarlo o no, el total
+de operativas que ha hecho, el win rate
+que ha ido sacando, el profit factor, el
+máximo dry down y luego abajo vemos los
+parámetros que va calculando en tiempo
+real para los stop loss, lotaje, take
+profit, etcétera. Bueno, aquí ha hecho
+solo ahora cuatro operativas, entonces
+el win rate pues puede salir muy bajo o
+muy alto, no hay dato suficiente, ¿no?
+Pero para que veáis un poco cómo
+funciona aquí ya directamente sería pues
+como lo tengo yo puesto ya aquí en
+pantalla, cogerlo, cargarlo en la
+gráfica, activar el auto trading y
+dejarlo aquí ya correr que él vaya
+haciendo operaciones. Como digo, esto es
+para un aprendizaje, para que vosotros
+podáis aprender cómo funcionan este tipo
+de de algoritmos. Lo suyo es que lo
+pongáis en una cuenta demo para que
+veáis cómo funciona, aprender de ello e
+iros familiarizando con este tipo de
+tecnología. Ya sabes cómo piensa y cómo
+funciona. Por dentro un bot de trading
+con IA real basado en cool learning
+tabular, capaz de aprender de cada
+operación, adaptarse a 10 régímenes de
+mercado, ajustar riesgo y parámetros en
+tiempo real y proteger tu cuenta con
+sistema de autopausa. has podido
+comprobar que no es un simple bot con
+reglas fijas, es un sistema inteligente
+que bien configurado y supervisado,
+puede operar con una disciplina que muy
+pocos traders humanos son capaces de
+mantener a largo plazo. El siguiente
+paso lógico es entender cómo funciona y
+optimizar este tipo de bots para que
+encajen con tu estilo de trading, tu
+perfil de riesgo y las condiciones
+específicas del mercado que operas o lo
+que es lo mismo, para que opere tu
+estrategia de trading 100% en
+automático, sea cual sea, aprenda de
+ella, la adapte al mercado y la
+evolucione continuamente para aumentar
+su rentabilidad en el tiempo. ¿Quién
+sabe? Quizás incluso podrías tener un
+portfolio de bots IA operando tus
+cuentas de fondeo con tus estrategias
+favoritas. Y ese es exactamente el tema
+del siguiente vídeo, donde aprenderás
+cómo llevar esta arquitectura de IA que
+acabas de aprender a una cuenta de
+trading de forma responsable, cómo
+acortar considerablemente el tiempo de
+aprendizaje, cómo evaluar sus métricas y
+cómo decidir cuándo dejarlo aprender y
+cuándo intervenir. Ahí es donde se marca
+la diferencia entre tener un bot y tener
+un activo estratégico real en tu
+operativa de trading. ¿Te imaginas cómo
+sería tener 5, 10, 15, 20 o 50 bota,
+operando en diversos mercados las
+estrategias más rentables, aprendiendo
+de ellas y mejorándolas por ti? Pues no
+imagines más y vamos a por ello. Nos
+vemos dentro.
+[música] oho
+[música]

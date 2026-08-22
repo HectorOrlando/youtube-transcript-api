@@ -1,0 +1,638 @@
+Titulo              : El BOT de XAUUSD más Caro del Mercado vs Mi Clon | La Verdad Detrás del Backtest Perfecto
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-01-03
+Duracion            : 25:49
+Vistas              : 5,711
+URL                 : https://www.youtube.com/watch?v=4AjU2aez2o0
+----------------------------------------------------------------------
+
+Esto que ves aquí no es un error de
+Matrix, es un bot de trading real a la
+venta ahora mismo en MQL5 por 30,000 €
+el precio de un Tesla por un archivo de
+texto. Dicen que es la máquina perfecta
+de hacer dinero con el oro. Hoy no voy a
+comprarlo, voy a hacer algo mejor. Tengo
+10 minutos para clonarlo y si consigo
+que funcione te lo regalo. Pero os
+advierto, lo que iba a ser un reto de
+automatización ha terminado destapando
+una de las trampas más sofisticadas del
+mercado. Si alguna vez has pensado en
+comprar un bot, tienes que ver lo que
+descubrimos o podrías perder todo tu
+dinero. Bienvenidos a Techain. El plan
+de hoy es suicida, ingeniería inversa.
+Vamos a diseccionar el bot de lujo.
+Clonación no code. Usaré la A para
+replicarlo en tiempo récord. El dato
+oculto. Al final revelaremos el secreto
+sucio que permite a estos vendedores
+cobrar 30,000 € por algo que quizás
+puedas hacer tú gratis. Empezamos.
+Bueno, Víctor, estoy Líctor. Tengo ya
+aquí el generador abierto y el
+cronómetro acero. ¿Qué has encontrado
+hoy por aquí? Algo de ready, algo de de
+For factory. ¿Qué tenemos por aquí para
+el reto?
+Olvida Ready, estamos en Navidad, así
+que he cambiado un poco el reto y hay
+que subir el nivel, así que mira esto.
+A ver, a ver, a ver, a ver. ¿Cómo que
+has cambiado un poco el plan? 30,000 €
+En serio, esto ya pasa de de estafa a
+lavado de dinero ya prácticamente, ¿no?
+Nadie paga eso por un bot de internet,
+que al final esto es lo que pasa, que no
+saben ni qué ni cómo funciona ni qué
+lógica sigue, ¿no?
+Pues por raro que parezca, hay mucha
+gente que lo ha comprado, así que el
+reto cambia. En vez de darle una
+estrategia de un for, quiero que clones
+el Ferrari de los bot y tienes 10
+minutos para conseguirlo. Pero Víctor, a
+ver, esto aquí, esto es una caja negra,
+o sea, sin el código fuente en 10
+minutos es prácticamente imposible. Esto
+al final es intuición pura. O sea, aquí
+se necesitaría por lo menos un par de
+días para hacer el proceso completo de
+ingeniería inversa y poder sacar la
+lógica. Vale, pues hagamos un trato. Si
+consigues que tu clon haga el 90% de las
+operativas del original, daré el reto
+como válido.
+A ver, Víctor, Víctor, frena, que te me
+va, que esto ya no es cambiar la regla
+un poco, es cambiarla totalmente. O sea,
+una estrategia de foro es texto, puedo
+leer la lógica, entenderla rápido y
+automatizarla. Esto es un reto mucho más
+complejo al final porque 10 minutos es
+poco tiempo, pero bueno, puede ser que
+tenga posibilidades, pero aquí con un
+boss compilado, que es una caja negra,
+no sé lo que hay dentro y en 10 minutos,
+pues no podría hacer casi que nada. Esto
+al final sería más intuición e intentar
+replicarlo que que otra cosa.
+Bueno, no te ves capaz. Si es mucho para
+ti, volvemos a Ready. Que tenga una
+estrategia preseleccionada, no pasa
+nada.
+ no, no me piques, que eso se lo
+hago yo a mi hija cuando quiero que que
+haga algo. A ver, el 90% de coincidencia
+siga a ciega.
+Pues bueno, venga, vale. Venga, acepto.
+Dale, dale al crono.
+Venga, va. Trato hecho.
+Pues venga, vamos a por ello.
+Vamos. En tres, dos, 1.
+Esto me pasa por venir a grabar aquí en
+Navidades, macho. Con lo bien que
+estaría yo en casa ahí comiendo
+polvorones y viendo solo en casa ya por
+enésima vez. Pero bueno, vamos al lío
+que el tiempo que el tiempo corre. Lo
+primero veo por aquí un poco el bot. Veo
+que se tiene que ejecutar en la
+temporalidad de uno o 5 minutos, así que
+vale, perfecto. Pues nada, venga, vamos
+a descargarlo.
+Descargar demo gratis para Metatrader.
+Mira, mira lo que me Mirad lo que me
+estoy dando cuenta aquí ahora. Fijaros.
+Actualizado 22 de noviembre.
+O sea,
+muy muy justito cuando un bot, que no
+quiero decir nada malo, pero cuando un
+bot se actualiza tanto,
+normalmente suele ser síntoma de que se
+le actualiza con los datos del mercado
+para que los vaya conociendo y lo las
+pruebas demo pues sean bastante buenas,
+¿no? Pero bueno, no sabemos si será este
+el caso o simplemente que es un
+desarrollador muy responsable y lo
+mantiene actualizado continuamente, ¿no?
+Al final si tiene aquí los parámetros y
+siempre son los mismos, debería ir bien
+siempre pase una semana para adelante o
+una semana para atrás, ¿no? Sobre todo
+si vale 30,000. Pero bueno, lo dicho,
+vamos a descargarlo.
+Tengo Metatrader 4. Sí, ejecutamos.
+Fijaros lo curioso que me deja solo
+descargarlo para Metatrader 4, cuando en
+la página ya está el cinco solo para
+descargar. Bueno, ahí ha sonado.
+Vamos a buscarlo aquí. Aquí veis la
+pestaña market para que 100% que el que
+ponemos es este. Gold Ichimoku le damos
+que sí.
+Busco aquí el oro. Aquí está el oro. 5
+minutos. Vamos a ponerlo en 5 minutos. Y
+venga, vamos a darle. Vamos con ello. Ni
+lo configuro ni nada porque por lo que
+veo por aquí, eh, viene ya configurado.
+Son los parámetros por defecto que se
+recomiendan. No los voy ni a tocar. Digo
+yo que si vale 30.000 1000 € y ya te
+pone en la página los parámetros que
+tienen que ser sí o sí vendrán puestos.
+De hecho, aquí vemos, confirmamos que
+viene que vienen puestos. Así que venga,
+vamos a ver qué qué hace. Mirad esto. Es
+que es una locura. Sinceramente sé que
+hay gente que estas cosas se las cree,
+pero a mí ver esto me causa más rechazo
+que que otra cosa, la verdad. Pero
+bueno, lo mismo al final nos da no nos
+da esta rentabilidad exagerada, porque
+esto es difícil de creer, pero quizás sí
+que sea rentable, aunque con mayor
+moderación, no lo sé. Vamos a verlo.
+Fijaros, fijaros aquí. Es que gana
+prácticamente todas las operaciones. O
+sea, el factor de beneficio y el dry
+down es absurdo. Si esto fuera real, o
+sea, vamos, JP Morgan habría comprado al
+desarrollador y no estaría vendiendo en
+una página web como MQL5 ni ninguna
+similar. O sea, pero bueno, no quiero
+sacar conclusiones precipitadas aún sin
+tener prueba. Eso nos convertiría al
+final en otro hater típico de internet,
+¿no? Pero sí que podemos, ¿no?, primeros
+pensamientos de que esto es un poquito
+raro, ¿no? Y ya vamos con escepticismo,
+pero bueno, vamos a ver cómo se
+desarrolla el tema. Vamos a ver cómo va.
+De todas formas, el reto es replicarlo y
+si lo replicamos y esto es lo que hace,
+os vais a llevar un pedazo de voz para
+para regalo de Navidad, que va a ser la
+bomba. Vamos a ver el gráfico visual
+porque necesito ver dónde entra, dónde
+sale y cómo lo gestiona todo. Vale, por
+aquí veo las flechas, compra, venta.
+Fijaos en este indicador de fondo, esas
+nubes. Un momento. Pensaba que iba a
+tener que ponerme a buscar algoritmos
+complejos, pero mirad el fondo del
+gráfico. Esas nubes, eso es un Ichimoku
+simple, básico y vulgar. O sea, un
+Ichimoku tal cual. Lo podéis tener ya
+gratis dentro del propio Metatrader. O
+sea, me me estás diciendo que piden
+30,000 € por un cruce de líneas que
+viene gratis en Metatrader. Vamos, esto
+acaba ya de pasar de imposible a
+sospechosamente
+fácil. Parece que que usa el cruce de
+línea y la nube para filtrar. Así que
+esto es lo que hay. Así de simple. A
+simple vista, aquí mirando, pues no veo
+no veo nada más más que un indicador
+personalizado ni criterio adicional, no
+sé, demasiado simple, ¿no? Bueno, vamos
+al generador y vamos a ver qué qué
+podemos sacar. Vamos a construirlo así a
+ver si así de simple hacen las mismas
+operaciones, porque como las haga eh
+directamente es que era así de simple y
+no había nada más detrás. Vamos a verlo.
+Vamos a verlo. A ver, voy a sacar aquí
+los parámetros de los inputs
+y vale, por aquí lo tenemos.
+Tenkan Kinun,
+¿vale? Sí, el trailing, el start
+trailing, el take prof. Vale, perfecto.
+Pues voy a ir.
+Vale, pues perfecto. Me los apunto todo
+y con esto, vamos, creo que lo tengo
+aquí. Es que ya en las inputs ya veis
+que no hay nada más para configurar que
+un ichimoku clásico. De hecho, fijaros
+que tiene hasta el stop loss y el take
+profit con ATR para que se vaya
+calculando con ATR y está en falso, por
+lo que son fijos y deberían ser fijos
+siempre manteniendo las mismas
+distancias, cosa que no he visto en el
+gráfico. se ha ejecutado con esto en
+false y las take profit y estos lido
+moviendo, no estaban a distancias fijas,
+que son los que le hemos configurado
+aquí. Esto ya ves, me causa un poquito
+de más rechazo todavía porque debería
+respetar los parámetros que nosotros le
+tenemos puesto aquí, pero claro, como no
+podemos ver el código es una caja negra,
+no sabemos si internamente el
+programador para estas versiones demo le
+pone otros parámetros y bueno, bueno, no
+voy a sacar conclusiones, vamos a tirar
+para adelante con ello, pero raro sí que
+me parece, desde luego, no sé, cuando se
+ocultan cosas dentro del código y a
+simple vista el usuario no suele haber
+buena buenas intenciones detrás. La
+verdad, la verdad es que lo que iba a
+ser un reto está resultando aquí un poco
+un examen forense. Vamos a ver, vamos a
+ver.
+Bueno, aquí no voy a perder tiempo
+uniendo nodos manualmente para construir
+la base. El que si la quisiera
+construir, pues me iría a indicadores,
+buscaría el indicador, lo arrastraría y
+empezaría todo el rollo con el Ichimoko
+y todo, [música] pero lo voy a
+simplificar porque como aparentemente a
+no ser que haya algo que no he visto,
+parece un bot bastante simple, así que
+voy a usar la función del chat ahí para
+que lo me lo diseñe y lo construya.
+Igualmente, aunque fuese complejo, me lo
+podría diseñar, pero es que como es tan
+simple que no hay que supervisar nada,
+le cojo y le pego aquí el prom que acabo
+de de diseñar, que básicamente le doy
+aquí a enviar y os lo leo un poco por
+encima para no meteros el toctón.
+Simplemente le digo, "Diseña un bot que
+opere con el indicador Ichimoku osando
+los parámetros y le pongo los
+parámetros. El bot debe ejecutarse en
+cada tic, no solo en cada nueva barra,
+evaluando señales continuamente. Por
+ejemplo, le he puesto que para Bay
+cuando el precio sea mayor que la nube
+Ichimoku y Tenkan sea mayor que Kinun,
+el precio mayor que Tenkan y precio
+mayor que Kinun y actual, pues entonces
+que coja y que realice la compra para
+los sals, pues lo mismo a la inversa y
+bueno, que debe abrir múltiples
+posiciones hasta máximos trademos aquí
+fijado mientras que se cumplan las
+condiciones. O sea, yo le he puesto
+ahora un más trade fijo aquí, igual que
+como el otro bot, eh, si quisiésemos que
+abriese más, le pondríamos más, pero
+bueno, yo creo que con esto va bien. Así
+que bueno, le damos a enviar aquí y a
+ver qué nos diseña.
+Pues nada, aquí lo tenemos. Sé que lo
+que le he dado, pues bueno, al final,
+fijaros el parrafito que le he dado
+aquí, sé que es una descripción bastante
+escueta, lo sé, pero bueno, es un prom
+sucio, eh, porque el tiempo me come y el
+chat está diseñado, pues, para
+entenderme, aunque sea sea lo que les
+ponga sea así de loco, ¿no? Pero bueno,
+ya habéis visto que fijaros, mira, aquí
+lo tengo todo generado. Espera biso gold
+o onichimoku, ¿vale? Sistema de nodos
+profesional. Aquí nos dice lo que
+necesita.
+nos lo ha diseñado aquí todo. Fijaros la
+fase lógica de indicadores, los cuatro
+nodos. Esto es como la receta de cocina.
+Yo ahora aquí podría e ir buscando
+cada nodo. La fase dos, que es la lógica
+de señales y y by que se compone de
+siete nodos. Esto es como la, vamos, la
+receta de cocina del bot. Y aquí me dice
+el flujo de cómo tengo que conectar los
+nodos. Ahora simplemente iría aquí a la
+izquierda, buscaría los nodos y los iría
+sacando. Como ya tengo el diseño hecho
+aquí, le voy a decir que me lo
+construya.
+A ver, reviso la lógica.
+Las condiciones parecen correctas. Cruce
+alcista.
+Está okay. A ver, filtro de la nube.
+Estos lotes
+parece que lo tenemos. Pues nada, aquí
+está construido el bot. Ahora
+simplemente elijo la plataforma. Por
+ejemplo, vamos a poner como hemos sacado
+el anterior para Metatrader 5, este lo
+vamos a poner para Metatrader 4. Le doy
+a construir bot. Ya sabéis que vamos
+intercalando porque me pedís vos para el
+Metatrader 5, otros me los pedís para el
+Metatrader 4. Bueno, como sé que hay
+gente que tiene una plataforma y gente
+que tiene otra, no os preocupéis que
+vamos intercalando. Unos saldrán para
+Metatrader 5 y otros para el Metatrader
+4. Igualmente este bot pasará a formar
+parte de la biblioteca de bots, así que
+lo tendréis aquí junto con todos los
+bots que ya forman parte de la
+biblioteca. Simplemente lo cargáis y si
+lo queréis descargar en otra plataforma,
+pues lo descargáis. Si lo queréis
+modificar, trabajar la lógica porque os
+guste o pensáis que tiene potencial y
+tal, pues desde aquí nada, continuaríais
+añadiendo nodos, modificando lo que
+queráis. En este caso, como hemos dicho,
+para Metatrader 4, aquí tenemos ya el
+código todo generado, o sea, es un bot,
+bueno, 3015 líneas de código generadas
+en cuánto, eh, segundo. Pues nada, vamos
+a darle a descargar.
+Descargo el código. Ahí lo tengo.
+Bueno, lo tengo aquí ya. Vamos a darle
+doble clic.
+Vamos aquí al meta editor. Compilo.
+Cero errores, cero warning. Tiramos para
+adante con él. Ya tenemos aquí el
+archivo generado. Golichimoku Super
+Clon. Vamos aquí. Golichimoku super
+clon. Ahí lo tenemos. Eh, igual vamos a
+ponerlo desde el 1 de enero. También
+igual.
+en el oro. 5 minutos y vamos con ello.
+Bueno, bueno. ¿Cuánto tiempo me queda
+ya?
+Pues te queda algo más de 2 minutos.
+2 minutos ya. Eh, voy justito aquí con
+el tema.
+Pues sí, porque todavía hay que ver si
+te funciona y si llegas al 90% de
+similitud. Tienes el código, pero
+funcionaría igual.
+Bueno, vamos a verlo ahora mismo. Llega
+el momento de la verdad. A ver, voy a
+cargar el bot. Clon clon 30k. High
+quality, como le llaman por aquí, high
+quality. Mismos parámetros que el
+original, mismo periodo, mismo capital.
+A ver, le doy iniciar.
+Madre, ¿qué está pasando? Mira el
+gráfico.
+Empieza perdiendo. A ver si recupera.
+Buah, sigue perdiendo más. Y sigue
+perdiendo y perdiendo. Buah, al final,
+mira, quema la cuenta por completo.
+Hala, cuenta completa quemada.
+tiempo. Pues Ignacio, creo que esta vez
+estás estrellado. El original gana miles
+de euros y el tuyo ha perdido hasta la
+camisa, así que sintiéndolo mucho, reto
+no superado.
+Espera, espera, es que esto no tiene no
+tiene sentido. A ver, he copiado la
+lógica exacta del del Ichimoku que vi en
+pantalla con los mismos parámetros. A
+ver, a ver, déjame poner los dos bas
+testing, uno al lado del otro, porque
+esto esto no me cuadra.
+Mira las horas de entrada y las
+operativas y el tipo de operativa.
+Vamos, son una calca prácticamente.
+Mira, mira dónde compra uno y el otro.
+Lo mismo, lo mismo con las ventas. Las
+distancias de los Tape Profit y los Stor
+Low son las mismas porque ya habéis
+visto, bueno, en edición poner por aquí
+la captura de los dos parámetros para
+que se vea que hemos usado exactamente
+lo mismo, por lo que si salta una orden
+debería saltar la otra. Si salto una
+orden en un bot, debería saltar en el
+otro, porque los take profit estos law
+son las mismas distancias y en los dos y
+en ambos casos no se utiliza ningún
+parámetro como ATR ni nada para
+modificarlos, por lo que aquí hay gatos
+encerrados. Incluso el mío, mira aquí en
+el final, ¿ves este final? Aquí hace
+algunos buy más que encima se ve que van
+a take prof y aún así termina perdiendo
+porque no es suficiente eso para
+recuperar todas las pérdidas de todas
+las operaciones anteriores porque hace
+una barbaridad. De hecho, mira, mira,
+Víctor, mira esto. No me fastidies,
+macho. Mira, son prácticamente
+idénticas. Por aquí, por favor, en
+edición marcarlo para que se vean eh en
+verde y en rojo las compras y las
+ventas. O sea, si es que estos son
+prácticamente idénticos, o sea, tengo
+por lo menos un 90% de coincidencia en
+las entradas. O sea, yo diría, no sé qué
+opináis vosotros viendo esto aquí, pero
+que el reto técnicamente está superado,
+o sea, he replicado la lógica de entrada
+y la gestión. Otra cosa es que el bot
+sea un paquete, eso y que no sea
+rentable. Ahí ya no podemos hacer nada.
+El reto era replicarlo y mira, h si
+alguien tenía pensado comprárselo por
+30,000 € que imagino que no, pero mira,
+ya os lo había ahorrado porque la verdad
+eh no tiene nada pinta. Desde el
+principio había algo raro y estamos
+desvelando que hay muchas cosas más
+raras de las que de las que veíamos a
+simple vista.
+Pero entonces, ¿por qué el tuyo pierde y
+el de 30,000 gana si entráis en el mismo
+sitio?
+Aquí es donde entra la pieza que falta y
+que explicaría por qué este bot cuesta
+30.000 € y por qué, en mi opinión es un
+back testing como poco cuestionable.
+Fíjate en el precio de cierre. Mi voz
+cierra cuando llega al take profit o al
+stop loss y son distancias fijas, como
+ya hemos visto. O sea, no se aplica
+ningún parámetro que convierta estas
+distancias en algo variable. Cierra con
+pérdida. Pues sí, eh, es un robot que
+pierde, pero cierra con pérdidas porque
+el mercado se gira, esa es la realidad.
+O sea, si el criterio no vale, pues no
+vale. Pero fíjate en mis en mis mis y
+mis stop loss siempre están en la misma
+distancia porque es la real que está
+definida, pero mira el voto original,
+mira esto. Cambia mágicamente la
+distancia de los take profit y y los
+stop loss, por eso acierta casi que
+todas las operativas porque porque
+modifica los tapilos lo conforme va el
+mercado. Pero ya habéis visto que
+teníamos el único parámetro que podía
+modificar la variabilidad de T Prof L es
+el AT y estaba en falso. Estaba en
+falso. Pero de todas formas, aún
+habiendo estado en true, ya os digo yo
+que como estaba configurado difícilmente
+hubiese hecho nada para mejorar el este
+escenario ni este criterio. O sea, un
+simple ichimoku de compra y venta que lo
+tiene cualquiera. Mira, aquí tiene
+definido, como te digo, los tapó
+profilos, estos lo de forma fija, por
+eso que es que no hay más misterio. Está
+haciendo algo que no le hemos permitido
+hacer esta variabilidad de los tapil o
+estos los y no se lo hemos permitido
+hacer, por lo que lo está haciendo
+internamente dentro del código,
+ocultándoselo al usuario en el back
+testing de la demo. Claro, te descarga
+esto y este porque vale 30.000 y no creo
+que la gente se lance a comprarlo, pero
+este bot te lo ponen por 100 € te
+descargan la demo, te hace esto y
+tranquilamente lo terminas comprando
+porque por 100 € dice, "Bueno, si va
+mal, pues va mal, pero si va bien, oye,
+mira que son 100 € que no era tanto." Y
+si lo hace, ¿no? Y al final la gente
+cae, o sea, este bot lo pone por 100 € y
+lo vende como churro, por desgracia.
+Luego pues pasan las cosas que pasan en
+el mundo del trading, ¿no? Y al final
+pues la gente termina engañada con
+estafa y tal. Pero es que fíjate esto,
+es que es que mira, mira, mira, mira,
+mira aquí. Es que no tiene no tiene
+sentido. Los stw están fijos, o sea, y
+esto lo está variando, o sea, como
+mínimo es un fallo grave de diseño el
+que un bot haga lo que él quiere sin
+seguir la lógica de la programación. Por
+lo que si está haciendo esto y no es un
+fallo grave de diseño y que el bot estáé
+haciendo algo que no sea lo que tenga en
+la programación, que lo cual es
+totalmente ilógico. O sea, un algoritmo
+no puede hacer algo diferente de lo que
+tenga en la programación. Entonces, no
+sé, o hay un fallo grave de diseño que
+provoca que el bot no funcione bien y
+misteriosamente lo lleva a ganar todo y
+ser el bot perfecto. Cuando luego hay
+bots que están hechos perfectamente, sin
+ningún error ni nada y pierden eh como
+cosaco, no sé, es raro, como mínimo es
+raro. No sé qué pensáis vosotros,
+ponerlo por comentario, pero la cuestión
+no es por qué modifica mágicamente los
+niveles de stop loss para que no salten,
+sino cómo sabe el bot que el precio se
+va a girar justo ahí y pone los stop
+loss a una distancia tan perfecta y los
+take profit lo mismo. Sencillamente no
+tiene sentido. No sé si alguien conoce
+algo igual, pero yo en 15 años operando
+los mercados a diario no lo he visto y
+he visto bots rentables muy buenos, pero
+nada como como esto con esta precisión.
+O sea, he visto rentables buenos y
+ninguno ha conseguido este ratio ni de
+acierto ni de rentabilidad, por lo que
+me hace sospechar que esto no es real. O
+sea, ahora mismo si tuviese que apostar
+apostaría a que está aplicando lo que se
+llama Luca Headas o en español leer el
+periódico de mañana.
+Os lo explico rápido para que nadie os
+engañe con este tipo de técnicas comunes
+en los bots de trading comerciales. Hay
+errores de programación, a veces
+voluntarios y a veces involuntarios, que
+permiten que el bot durante el bad
+testing lea los datos de la vela futura
+antes de tomar la decisión en la vela
+actual. Esto es posible porque en el
+back testing ya están todos los datos
+desde el inicio. Es como si estuvieras
+apostando en un partido de fútbol
+grabado, pero tú ya sabes el resultado
+final antes de hacer la apuesta. El voto
+original está haciendo trampas en la
+prueba. Está usando información del
+precio del cierre futuro para decidir si
+mantiene o no la aperación abierta o la
+cierra ahora o modifica sus niveles de
+stop para acertar más. En el mercado
+real en directo esa información futura
+no existe. Nadie sabe dónde cerrará la
+vela. Por eso, si compráis este tipo de
+bots de 30,000 € y los ponéis en una
+cuenta real, casi con total seguridad,
+no hará lo que hace en el basing y
+terminará haciendo exactamente lo que ha
+hecho mi clon, perder dinero. Mi bot es
+honesto, opera con lo que ven en el
+mercado. Está creado en directo, sin
+trampa ni cartón desde la plataforma. Lo
+que hace es lo que hay con esta
+estrategia pésima. El bot de 30.000 1000
+€ es un ilusionista.
+Así que mi conclusión del análisis
+forense del bot de en 10 minutos es que
+uno, pues he superado el reto, la lógica
+es un simple ichimoku y se parecen, yo
+diría que en torno al 90%, no sé qué qué
+opináis vosotros. Y el ingrediente
+secreto que vale 30,000 € seguramente
+sea una trampa de código para engañar en
+cautos con B testing falso y y si con
+eso consigue pues vender dos o tres B,
+pues habrá hecho ya en agosto. No sé qué
+qué opinas tú. Pues como tú has dicho,
+Ignacio, después de ver los las
+operaciones en la gráfica, creo que sí
+que por lo menos el 90% de acierto lo
+has tenido, así que hemos tenido el reto
+superado.
+Genial. Al final cada uno puede sacar
+sus propias conclusiones. A mi entender,
+con la escasa información que tenemos
+ahora, es que la única conclusión real
+que podemos sacar de estos 10 minutos de
+estrés es que acabamos de replicar un
+producto de lujo que resulta ser un bot
+básico de Ichimoku que cualquier
+programador junior hace en una tarde,
+funcione o no funcione finalmente. Al
+menos gracias al generador de No Code
+Generator, lo hemos hecho en apenas 8
+minutos y nos ha costado menos de un€ Y
+ahora os estaréis preguntando, "Vale,
+Ignacio, el original es un presunto
+engaño, pero el clon también pierde
+dinero. ¿De qué me sirve?" Ahí es donde
+te equivocas. El clon pierde dinero
+porque está en bruto y es una estrategia
+muy básica y sin gestión avanzada. Me he
+quedado toda la tarde haciendo una
+optimización profunda a este mismo
+código, limpiando la estrategia y
+añadiendo una gestión de riesgo real
+para ver si podíamos hacerlo rentable de
+verdad o no. y he conseguido darle la
+vuelta a la tortilla y es algo que
+tienes que ver para creer. Haz clic en
+este vídeo aquí ahora porque ahí es
+donde convertimos este desastre en un
+bot que quizás sí te valga la pena para
+usarlo.
+[música]

@@ -186,7 +186,7 @@ def choose_output_dir() -> Path:
         print("\nDonde guardar la transcripcion?")
         print("  [1] Carpeta por defecto (transcripts)")
         print("  [2] Crear una subcarpeta dentro de transcripts")
-        print("  [3] Usar una subcarpeta existente de transcripts")
+        print("  [3] Usar una carpeta existente (incluye subniveles)")
         opcion = input("Opcion: ").strip()
 
         if opcion == "1":
@@ -206,7 +206,11 @@ def choose_output_dir() -> Path:
             if not CARPETA_BASE.is_dir():
                 print("[-] La carpeta 'transcripts' aun no existe.")
                 continue
-            subcarpetas = sorted(c.name for c in CARPETA_BASE.iterdir() if c.is_dir())
+            subcarpetas = sorted(
+                c.relative_to(CARPETA_BASE).as_posix()
+                for c in CARPETA_BASE.rglob("*")
+                if c.is_dir() and not c.name.startswith(".")
+            )
             if not subcarpetas:
                 print("[-] Todavia no hay subcarpetas dentro de 'transcripts'.")
                 continue

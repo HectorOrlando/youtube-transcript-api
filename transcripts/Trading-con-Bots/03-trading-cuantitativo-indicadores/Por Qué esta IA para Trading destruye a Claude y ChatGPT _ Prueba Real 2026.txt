@@ -1,0 +1,505 @@
+Titulo              : Por Qué esta IA para Trading destruye a Claude y ChatGPT | Prueba Real 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-05-17
+Duracion            : 26:14
+Vistas              : 682
+URL                 : https://www.youtube.com/watch?v=o0ZfjOgLE9U
+----------------------------------------------------------------------
+
+En este vídeo vamos a ver a dos modelos 
+top de inteligencia artificial competir  
+en la creación de bots. Vamos a ejecutar 
+el mismo prontan o por qué no funcionan,  
+pero lo vamos a ver desde un punto de vista 
+técnico, analítico y profesional. Así que no te  
+lo pierdas si tu objetivo este 2026 es dedicarte 
+al trading algorítmico y cuantitativo, porque  
+necesita esta información para ser rentable. 
+Para que sea totalmente objetivo e imparcial,  
+tengo aquí las tres principales inteligencias 
+artificiales, los tres principales modelos de  
+inteligencia artificial del mercado. Sabemos 
+también que Chat GPT hace poco acaba de sacar  
+un nuevo modelo al igual que Cloue y por supuesto 
+YMI también que siempre va a la cola. Entonces  
+tenemos aquí los tres modelos más potentes para 
+la generación de código, pero siempre modelos LLM.  
+Vamos a [ __ ] uno de estos tres aleatorios. Para 
+ello he diseñado una ruleta totalmente random,  
+aleatoria que va a seleccionar uno y ese 
+algoritmo, esa inteligencia artificial que sea la  
+seleccionada va a ser la que va a competir contra 
+la app de Tchain, la inteligencia artificial de  
+Techain, que os recuerdo que es una inteligencia 
+artificial específica para la creación de bots  
+de trading para Metatrader 4 y Metatrader 5. Hoy 
+en día está muy de moda construir bot de trading  
+con chat GPT, con Claude, con Gemini, etcétera. 
+Vamos a ver qué tan efectivo es cómo funcionan  
+estos algoritmos y qué resultados arrojan, porque 
+desde luego tienen un factor comercial muy grande  
+donde los propios algoritmos, la propia IA, 
+vais a ver cómo se sesga incluso para mentirnos,  
+pero vamos a verlo todo aquí en directo, no os 
+adelanto nada más. Entonces, vamos a ver qué  
+modelo es el que va a tocar en esta competición. 
+Giramos la ruleta. Ahí va girando Gemini, ¿no?  
+Chat YPT. Nos toca chat YPT. Pues venga, vamos con 
+chat YPT. Lo primero que voy a hacer es sacar la  
+app. Tenía por aquí abierta ya las tres app. Busco 
+la de chat GPT. Aquí la tengo y le pego un pron,  
+un pron muy sencillo que dice, "Crea un bot 
+para MQL5, Metatrade 5 para operar un mercado en  
+régimen tendencial que opere roturas o breakout, 
+pero deben validarse matemáticamente. Una vez que  
+abra la operativa, debe realizar una gestión 
+de seguimiento de tendencia para maximizar la  
+rentabilidad. Fijaros que tengo hasta falta de 
+ortografía por aquí. Da igual, no vamos a poner  
+ni acento ni nada. Quiero que tenga una gestión de 
+riesgo profesional que calcule el lotaje por ATR.  
+Quiero que si llega al 1% de dry down se cierre 
+todo y se aplique un call down de 24 horas para  
+dejar que el mercado se tranquilice. Quiero que 
+como filtro se aplique que debe haber momentum  
+alcista y una de X mayor a 20, si no que no 
+habrá la operativa. Ya veis, no me complico  
+directamente un pron literal de cinco líneas, 
+nada de historias raras de hay que hacer un PDF  
+con un PR maestro secreto con fórmulas mágicas 
+de alquimia para que la IA lo entienda. Nada,  
+vamos a ponerle aquí. Son modelos de IA avanzados. 
+Los primeros modelos que salían de inteligencia  
+artificial sí que requerían de una técnica 
+o o prompting mayor. Hoy en día los modelos  
+de inteligencia artificial que salen ya están 
+muy adaptados al usuario medio y para generar  
+un código simple de un EA de 500 600 líneas con 
+esta prom debería ser más que suficiente y el EA  
+debería poder entendernos, la IA debería poder 
+entendernos, saber qué queremos y eh crearlo,  
+porque al final si para que funcione necesita que 
+nosotros seamos unos profesionales y recurrimos a  
+la IA porque no somos profesionales, pues tenemos 
+un problema y una incongruencia de base. Entonces,  
+le voy a [ __ ] y le voy a dar. Y aquí empieza 
+la generación del código. Vemos que va generando  
+todo, nos va sacando sus conclusiones, lo que va 
+a hacer. Y aquí empieza la generación del código.  
+Vamos a esperar que termine. Una vez que termine, 
+lo vamos a llevar a compilar a Metatrader 5. Es  
+decir, primer paso antes de ver ni qué hace ni qué 
+no hace, ver que compila correctamente. Aquí nos  
+dice cosas importantes donde la mayoría falla, 
+pero se supone que él no ha fallado. Y vale,  
+pues aquí nos da el código. Cojo este código y me 
+lo llevo a Metatrader. Aquí dentro de Metatrader,  
+por ejemplo, voy a duplicar este este EA que tengo 
+por aquí, lo cojo, lo copio y lo duplico. Aquí lo  
+tengo. Y le voy a poner nombre JPT. Y este es ela 
+de chat JPT. Ahora aquí lo tengo abierto para que  
+veáis que no hay ni trampa ni cartón. Cojo el 
+código, le doy a copiar, copiado. Me vengo aquí,  
+cojo este código, lo elimino. Aquí está. borrado 
+cero. Le pego el código de chattéis darle  
+velocidad e quitarle velocidad al vídeo, hacerlo 
+para que veáis que este es el de chat JPT. Pues  
+bueno, aquí lo tengo. Cojo para que veáis último 
+revisión para que veáis que es lo mismo. Incluso  
+aquí le ha puesto Tchain. Fijaros como la memoria 
+de la IA, pero bueno, ya veis que es de chat GPT,  
+no es de Tchain. Pero bueno, me vengo por aquí 
+y le doy a compilar. Vamos a ver si compila.  
+Bueno, eh, siete errores de compilación. Ahora, 
+como siempre, ¿no? Pues alguno dirá, "Bueno,  
+pero puedes pasarle captura de los errores y tal 
+y cual y los va a ir corrigiendo y al final pues  
+te llegará a compilar." Efectivamente, incluso ya 
+os digo yo que hay veces que puede ser que no nos  
+dé ni errores de compilación y que salga, pero 
+bueno, de momento vemos que tiene errores de eh  
+compilación. Entonces, el primer problema, errores 
+de compilación. Y ahora habría que echar aquí un  
+rato para que esto llegase a algo, ¿no? Para que 
+llegase a buen puerto. Y aún así viene el problema  
+de que nosotros si iniciáis nuevo y utilizáis una 
+IA de este estilo es porque no sabéis programar,  
+por lo que no sabéis leer lo que hay aquí. No 
+sabéis si realmente hace lo que le habéis dicho  
+que haga. Es decir, aunque logréis resolver los 
+errores de compilación echándole un ratito más  
+aquí a esto, al final no sabéis si lo que tiene 
+que lo que le habéis dicho que haga lo hace.  
+o incluso si lo que quiera que haga lo está 
+haciendo bien y con lógica o tiene fallo,  
+simplemente que compila. Entonces, primera 
+parte, tenemos esto por aquí. Vamos a ver qué  
+es lo que nos hace Techain. Cojo el mismo prom, lo 
+copio, me vengo aquí a Techain, abro el chat Ia,  
+me vengo el ingeniero IA, le pego el prom, lo 
+mismo, y le doy a enviar. Fijaros que es el  
+mismo prom. crea un bot para MQL5, Metatrader 
+para operar un mercado en régimen tendencial,  
+etcétera. Exactamente lo mismo, sin trampa ni 
+cartón. Aquí viene la diferencia. No solo se  
+trata de utilizar el último modelo de inteligencia 
+artificial, sino de hacer las cosas bien. Hay  
+gente que me ha dicho, "Pero, ¿por qué voy a pagar 
+te cha si puedo tener cloud o chat GPT?" Bueno,  
+pues si te dedicas al trading, pues seguramente 
+te interese una herramienta más específica,  
+porque al final eh si quieres hacer bot de trading 
+y que te diga que puedes cocinar con lo que tiene  
+en la nevera, evidentemente cógete Cloud, echa GPT 
+que le pasa una foto de lo que tiene en la nevera,  
+le dices, "No sé qué comer, dime qué puedo comer 
+con lo que tengo aquí", y te lo va a hacer,  
+¿no? Pero si vas a hacer trading algorítmico 
+cuantitativo y profesional, pues primer punto  
+número uno, necesitas no perder tiempo y cuando 
+le das aquí a construir, que te lo construya. Por  
+ejemplo, aquí tenemos el diseño. Fijaros, ya solo 
+simplemente el plantamiento no tiene nada que ver  
+con lo que había hecho eh Chagipt. Le voy a dar 
+a constrúyelo para que me lo construya. Y esta es  
+la la parte crucial. El diseño de la estrategia 
+de trading es donde tiene que estar el groso del  
+trabajo. Una vez que yo le doy a constrúyelo, eso 
+tiene que ser instantáneo porque el trabajo de un  
+trader cuantitativo está en la fase de diseño 
+y planificación. ¿Qué quiero hacer? Pero una  
+vez que ya lo sé, eso tiene que ser instantáneo. 
+Problema cuando utilizamos modelo como Chat GPT,  
+Cloud, Gemini, que le estamos delejando a ellos en 
+la fase de diseño y es un problema, ¿no? Fijaros,  
+aquí tengo el el botcho, cojo y lo organizo 
+por aquí para que lo veáis. Fijaros, aquí  
+está el bot completo. Le doy a construir, lo voy 
+a descargar, pero fijaros, no lo voy a descargar,  
+lo voy a copiar de aquí el código directamente 
+para hacerlo igual que con el otro. Me voy a  
+venir aquí al Metatrader y fijaros aquí. Ahora 
+voy a [ __ ] este código, lo voy a quitar y le  
+voy a poner el código nuestro. O sea, fijaros qué 
+barbaridad. El de chat GPT tiene 161 líneas. 161  
+líneas. Voy a borrar esto. Le pego el de Techain. 
+Tiene 5,829. O sea, daros cuenta del detalle.  
+Ya, simplemente por esta cantidad de línea 
+puede ser dos opciones, que tech le guste meter  
+muchas líneas de relleno y a lo mejor por aquí 
+tenemos la Biblia en verso, aunque vemos que no,  
+que es código todo con una lógica estructurado. 
+Y la siguiente conclusión pues que chat GPT lo  
+que nos ha dado es un borrador de algo y no nos 
+sirve para llevarlo al mercado real y sobre todo  
+para poner nuestro dinero. Pero bueno, vamos 
+a darle a compilar. Aquí está compilando cero  
+errores. ¿Cómo puede ser que en casi 6,000 líneas 
+haya cero errores y que chat GPT o o ya os digo,  
+lo podéis hacer con Claude, con Jemen en menos de 
+200 tenga errores y aunque no tenga y os compile,  
+vuelvo a lo mismo. Ya veis que falta mucha 
+mucho material. Falta mucho material. Bueno,  
+una vez que tenemos esto, llega el juicio final. 
+Yo tengo mi código copiado. Me voy a volver aquí a  
+chat GPT y le voy a poner que me diga que compare 
+su código con el mío y que me diga cuál es mejor.  
+Le voy a poner aquí. Realiza una comparativa de tu 
+código con el mío y dime cuál es mejor y por qué.  
+Y cuál es más profesional y cuál y cuál cumple 
+con los criterios solicitados. O sea, importante,  
+ya ves que no eh no me complico mucho, o sea, 
+que directamente que nos diga cuál es mejor de  
+los dos, cuál es más profesional y cuál cumple 
+con los criterios seleccionados o solicitados.  
+En este caso cojo el bot de Tchain descargado. 
+Aquí lo veis, Tchain MQL5, que lo acabamos de  
+descargar ahora. Y le doy a enviar. Y vamos a ver 
+qué nos dice Chat GPT. Está en modelo automático,  
+el último modelo que acaba de sacar eh Open 
+que ojo, quiero importante que queda aquí.  
+Esto no es un vídeo de hater sobre CH GPT, 
+ni Clauden ni Gemini, ni muchísimo menos.  
+Sonías muy buenas, muy potente, pero son 
+muy buenas y muy potentes para lo que son,  
+para lo que sirven, para lo que funcionan, ¿no? 
+Y estamos hablando aquí, aquí esta comparativa  
+no es si chat GPT es mejor para escribir un libro 
+que te chain. Evidentemente va a ganar chat GPT.  
+¿Cuál es mejor? Pues para ayudarte a a investigar 
+un producto en internet. Evidentemente chat GPT,  
+¿no? Recordar siempre que esta comparativa es 
+puramente para la creación de voz de trading. Y  
+aquí el propio chat GPT nos dice, "He revisado tu 
+archivo y te voy a ser directo, técnico y honesto  
+como pediste." Conclusión rápida, tu EADChain 
+es claramente más profesional, robusto y cercano  
+a producción real. El mío es un byline limpio y 
+funcional, pero no compite a nivel arquitectura.  
+Ambos cumplen parcialmente tus requisitos, pero 
+el tuyo cumple mejor en implementación global.  
+Me está diciendo ya que el suyo simplemente no 
+compite a nivel de de arquitectura. Evidentemente,  
+esto ya lo hemos visto. Dice, "Arquitectura 
+general, tu código de techain, arquitectura  
+modular real, gestión de estado, new bar, flux, 
+trading allowet, etcétera, etcétera, etcétera.  
+Adaptación por mercado. Ya nos vemos que tiene las 
+capas de HFT lógico y a de trading, adaptativo,  
+parámetro. Aquí ya vemos que nos está diciendo que 
+esto es un nivel semiinstitucional. O sea, fijaros  
+literalmente, o sea, prestar atención a esto. 
+Fijaros, eh, el pront que le hemos puesto, un  
+pron de nivel, no voy a decir nivel bajo porque es 
+que es nivel cero. Hemos puesto un pronivel cero,  
+que podría haber sido como un WhatsApp que le 
+enviásemos a un colega y nos está diciendo que con  
+un prolivel cero en escrito en lenguaje natural, 
+incluso con falta hasta de ortografía escrito  
+aquí a lo rápido, nos está diciendo que hemos 
+generado un bot de nivel semiinstitucional. O sea,  
+imaginaros si a Techain le hubiese escrito un poco 
+el pro más detallado. O sea, imaginaros lo que  
+podemos crear. nos dice que su código tiene una 
+estructura simple, lógica directa, sin separación  
+por capa, sin gestión avanzadas de estado y nos 
+dice que no es escalable. Nos dice que es claro y  
+mantenible. Claro, claro, no clarísimo. Tiene solo 
+160 líneas. E es clarísimo. Y mantenible, claro,  
+si tiene 160 líneas, pero el problema es que no 
+vamos a poder hacer nada con con él porque ya  
+para de entrada ni compila. y nos dice ganador tua 
+por mucha diferencia pone lógica de breakout que  
+era uno de los requisitos que le pedíamos nos dice 
+aunque no he pegado todo aquí es enorme. Se ve que  
+no es un breakout simple usa lógica adaptativa, 
+condiciones compuestas y posible multifactor.  
+Esto evita mayormente falsa ruptura constante. 
+Evidentemente es un bot de lógica de breakout lo  
+que le hemos pedido y Techain ya lo sabe. ¿Y qué 
+hace? Añade filtros lógicos para filtrar falsas  
+roturas. Si yo ahora me voy a cloud, a Gemini, a 
+CH GPT, a la IA a que sea y le digo un bot para  
+operar breakout, me va a hacer un bot para operar 
+breakout. Si yo no sé explicarle lo que necesito,  
+me va a hacer un bot para operar breakout. Pero 
+Techain ya sabe que hacerme un bot efectivo para  
+operar breakout implica muchísimo más. como 
+también lógica de filtrado para evitar falsas  
+rupturas constantes. Y algunos me diréis, "Bueno, 
+pero yo solo cojo a CHGPT, a Yemini o a Claude y  
+le digo que me ponga filtros también." Claro, 
+pero ¿qué filtros me va a poner? Me va a poner  
+filtros que él crea, que él piense o que él haya 
+buscado por internet. Y recordar que mandar a la  
+I a buscar por internet puede ser que caiga en 
+forocoche de alguien que está hablando una teoría  
+que descubrió por la tarde con su cuñado en el 
+bar de filtro para falsa rotura y que Claut o  
+Yemina o Chagipt diga esto es un criterio tal y 
+te lo aplique. O sea, cuidado con esto. Techain  
+ya tiene los criterios profesionales a nivel 
+académico para este tipo de de lógica. Vosotros  
+no necesitáis saber nada, simplemente saber qué es 
+lo que queréis hacer. Y ya lo veis que lo podéis  
+sacar. Nos dice que su suea, bueno, aquí nos dice 
+ya que funciona. Fijaros, nos dice es clásico,  
+pero funciona. No funciona. ¿Cómo va a funcionar 
+si no compila? Y nos dice ya, por ejemplo,  
+por aquí también que es vulnerable en rangos. 
+Claro, como no va a ser vulnerable en rangos  
+si no tiene ni filtros de breakout, como entre 
+un rango, va a llevar la cuenta a la quiebra,  
+a la velocidad de la luz. nos dice claramente tu 
+EA es el ganador, que él hizo un modelo académico,  
+pero que el mío está mucho más evolucionado. 
+Nos dice que en la gestión en mi EA, el detinaje  
+avanzado, ajuste por tipo de mercado automático y 
+probablemente incluye multiplicadores, progresión,  
+control interno de capital y esto es un nivel 
+prop eh avanzado. Si, de hecho, si nos venimos  
+aquí y cierro esto para que no nos quite espacio, 
+ya vemos aquí que Tchain nos ha puesto el dry down  
+para call down, para el máximo de órdenes, máxima 
+pérdida, eh eh cálculo de posiciones por eh ATR,  
+filtro de momentum, ADX, como le habíamos pedido, 
+eh medias móviles multitime frame para medir la  
+fractalidad del mercado y que cuando opere, si 
+esto lo ponemos en time frame de un minuto, vaya  
+alineado con La tendencia de fondo, la tendencia 
+subyacente de time frames superiores. Al final es  
+un bot muchísimo más eh robusto. Breakout validado 
+por ATR para no entrar en falso breakout. O sea,  
+como la noche o el día, ¿no? Pero vamos a 
+seguir leyendo para terminar qué nos dice  
+el propio chat GPT del bot que ha creado él, 
+porque al principio, cuando nos lo ha dado,  
+nos ha dicho que esto era la caña total, pero 
+que vemos que si empezamos luego a comparar, é,  
+él mismo se va echando un poco hacia atrás. nos 
+dice también que el nuestro tiene control eh de  
+dry, que tiene efectivamente filtro de entrada ADX 
+momentum, etcétera, etcétera, etcétera. Entonces,  
+si bajamos aquí abajo, nos dice, fijaros, que en 
+filtro ADX están empatados los dos y en robustez  
+que depende, depende de la práctica, ¿no? ¿Cómo 
+va a depender de la práctica? Ahora le voy a poner  
+conclusión honesta. nos dice que MIA es mucho más 
+profesional, sin lugar a duda, y que cumple mejor  
+con lo que le pedí. Punto superimportante 
+o o yo lo veo así, cuando un usuario acude  
+a una herramienta de inteligencia artificial para 
+ayudarla a resolver un problema específico porque  
+no sabe programar, porque no quiere programar, 
+porque no entiende código, es superimportante  
+que la IA le haga lo que el usuario quiere, 
+porque si te hace una cosa que no hace, no  
+cumple con lo que tú le has pedido y tú no tienes 
+el conocimiento técnico para revisar el código y  
+ver si realmente haces lo que te ha pedido o no, 
+Tú te quedas con que sí, con que te lo ha hecho.  
+¿Por qué? Porque se lo he pedido, me ha sacado 
+eso y me lo ha hecho. Solo tengo que solucionar  
+los errores de compilación y luego ya tendré el ea 
+listo. Pues ya veis que no. Pero yo, por ejemplo,  
+aquí voy a ir un poco más allá y un poco más 
+allá le voy a decir, eh, por ejemplo, eh, tu EA  
+incluye magic number o va a cerrar o interferir 
+con otros EAS. controla eh el broker, spreads,  
+etcétera. Vamos a pedirle simplemente esto, 
+que son puntos básicos de robustez que eh para  
+que no nos cierre todo nos está diciendo, ¿no? Y 
+esto es importante, mi tal como está ahora no es  
+seguro para convivir con otros expervisor. Y te lo 
+explico sin rodeo. No tiene magic number. nos está  
+diciendo, o sea, fatal, nos está diciendo, "No 
+tiene magic number, no filtra posiciones por magic  
+number." ¿Qué quiere decir? Pues esto básicamente 
+que va a cerrar y modificar todas las posiciones  
+de la cuenta de todos los bots. Si tú abres una 
+operación manual en el eurodólar y este bot está  
+puesto en el Bitcoin, te va a cerrar lo que tengas 
+en el eurodólar y si tienes otro bot en el oro,  
+te va a [ __ ] y te va a machacar el bot que 
+tengas en el oro. Eh, ya te lo está diciendo aquí,  
+que puede cerrar operaciones de otros EAS o 
+operaciones manuales. Eh, nos está diciendo  
+interferencia con otro EAS. Dice interfiere. Sí, 
+interfiere. O sea, un problema gordo, control de  
+broker, spread, etcétera, etcétera. No, no hay no 
+hay filtro de spread máximo, ni control de lipaje,  
+ni validación de de condiciones de mercado, 
+etcétera, etcétera, etcétera. Y otros problemas  
+ocultos que él mismo ha detectado. No controla 
+si es una posición abierta, puede sobreoperar,  
+no usa eh on trade transition, eh por lo que 
+tiene poca precisión a la hora de de ejecutar.  
+Eh, conclusión que su EA no vale para nada. Y 
+aquí nos dice cosas que se podrían implementar.  
+Si nos vamos aquí a Lea de Techain y yo hablo, 
+por ejemplo, el nodo de compra de mercado, ya  
+vemos que por defecto, aunque no sepáis nada, voy 
+a hacerle zoom para que se vea esto bien, aunque  
+vosotros no sepáis nada, ya se está controlando 
+el deslizamiento, el número mágico, comentario,  
+números de órdenes, spread máximo, etcétera, 
+etcétera, etcétera. ¿Por qué? Porque son controles  
+mínimos básicos que deben incluirse. Y muchos me 
+diréis, "Bueno, pero yo hago un super prom que me  
+descargué del canal de YouTube X, que es un PDF de 
+siete páginas que está superdallado todo y ya le  
+dice que meta el magic number, control del lipaje 
+y tal." Y yo os digo aquí, seamos honestos, seamos  
+sinceros, si habéis trabajado con la IA un tiempo, 
+no mucho, con que llevéis unos días con ella,  
+sabéis que hay una parte de omisión de los datos 
+que se le mandan. ¿Qué quiere decir esto? que si  
+yo le mando un PDF muy extenso y superdallado, 
+gran parte de esos datos que yo le estoy mandando  
+los va a omitir y no les va a hacer ni caso. 
+Y yo luego le puedo decir, "Revíssalo a ver si  
+has hecho todo." Y me dirá, "Te soy honesto, esto 
+no lo he hecho, esto tampoco. Y esto lo he hecho,  
+pero parcialmente. ¿Quieres que lo haga?" Sí, 
+hazlo. Me va a volver a reescribir el código y me  
+dirá, "Ya he hecho todo lo que tenía." Y le diré, 
+"Ahora falta algo porque veo que esto otro no  
+está." Sí, mientras que lo modificaba, borré esto 
+otro. Perdóname, lo vuelvo a rehacer. Y entramos  
+en un bucle de modificaciones de un código de 
+cientos o miles de líneas en las que nos perdemos  
+navegando y al final llevamos al Metatrader algo 
+que no sabemos qué es lo que llevamos. Entonces,  
+aquí lo veis con un promsencillo, la última de 
+CH GPT no ha sido capaz, no ya de competir con  
+la de Techen, sino ni de igualar. Y ya veis que 
+lo hemos hecho aquí en directo. Este es un vídeo  
+que lo estoy haciendo sin cortes para que lo 
+veáis en directo, porque no quiero que haya  
+ningún corte para que no haya lugar a duda a que 
+yo he manipulado nada. De hecho, algo muy curioso  
+porque antes de estar haciendo esta prueba, he 
+estado probando, como digo, siempre voy probando,  
+mirando la fórmula de cómo mejorar chain. Y antes 
+de hacer esta prueba, estaba probando con Claude,  
+con Gemini, con Chag, etcétera. Le pasé lo mismo y 
+me dijo que su bot era mejor y le dije, "Creo que  
+te estás equivocando. No tiene magic number, no 
+tal, no cual, revísalo y quiero que seas honesto."  
+me hizo una tabla en la que quedaba al bot de 
+Techain como una basura. Le dije, "Creo que no es,  
+no eres sincero." Y cogió, y os lo pongo por 
+aquí para que lo veáis. Aquí lo estaréis viendo  
+ahora en pantalla para que veáis cómo me mintió 
+descaradamente cuando le dije que te he pillado,  
+que te he cazado, que esto no es real lo que 
+me estás comentando. Hizo un análisis y aquí  
+tenéis una imagen del análisis real de cómo 
+queda. Entonces, por eso es importante. Y ojo,  
+lo repito y lo remarco, esto no es un ataque 
+contra este tipo de modelo, ni muchísimo  
+menos. son muy útiles para muchas cosas y yo lo 
+utilizo en muchísimos procesos de mi día a día,  
+pero al final no estamos comparando la IA de 
+Tchain con la de Cloue Gemini, JGPT, que están  
+año luz y son empresas multimillonarias, sino que 
+estamos comparando en una en un área específica  
+que es la construcción de bots para trading y 
+cómo una persona con un bot con un prompt simple,  
+como si le enviase un WhatsApp a un colega, 
+puede generar un bot de nivel semiinstitucional,  
+de nivel profesional en cuestión de un minuto y 
+que compila a la primera. Eso es simplemente lo  
+que quiero que tengáis aquí. Imaginaros si yo 
+ahora le agrando un poco este prom y le pongo  
+un poco más detallado todo, ¿no? Entonces, al 
+final un poco para que veáis la comparativa,  
+para que la gente eh tenéis que aprender a pensar, 
+a pensar por vosotros mismos, a no creeros lo que  
+veis en redes sociales. Al final se hace mucho 
+para marketing llevar el último modelo de de  
+Cloue de Chat GPT. Creo un bote en 10 segundos 
+con pilas en errores, trading profesional y al  
+final atrae muchas visualizaciones, atrae mucha 
+gente incauta que termina comprando formaciones  
+o cayendo en problemas de trading, pues que no 
+sirven para nada. Entonces, siempre mi consejo, la  
+única recomendación que os voy a hacer, aprender 
+a pensar por vosotros mismos, comprobar todo. No  
+os creáis lo que yo os digo, no os creáis lo que 
+os diga nadie. Comprobar todo siempre por vosotros  
+mismos. Y recordar que la velocidad máxima en el 
+trading para ser rentable es hacer las cosas bien.  
+Así que si queréis aprender a crear bots realmente 
+efectivos y profesionales, te dejo aquí un vide  
+tutorial completo donde te explico paso a paso la 
+herramienta de Tchain, porque esto es simplemente  
+una de las funcionalidades básicas que tiene con 
+todo lo que te puede ofrecer directamente. Te digo  
+que te va a sorprender. Te dejo por aquí el vídeo, 
+míratelo porque no te lo puedes perder si quieres  
+dedicarte al trading algorítmico y cuantitativo 
+este 2026 y sobre todo si quieres crear bot de  
+trading profesionales, objetivos y que puedan 
+acercarte a la rentabilidad. Nos vemos dentro.
+he

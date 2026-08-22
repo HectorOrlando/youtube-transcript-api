@@ -1,0 +1,743 @@
+Titulo              : Ingeniería Financiera Aplicada | La Estrategia Outside Day Explicada +$140 DIARIOS
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-02-15
+Duracion            : 40:48
+Vistas              : 1,962
+URL                 : https://www.youtube.com/watch?v=-r4DTnLmCxc
+----------------------------------------------------------------------
+
+Hoy vas a aprender una estrategia de scalping 
+profesional para operar en el oro. La mayoría  
+de los traders pierden dinero porque intentan 
+adivinar el futuro. Se preguntan si el oro  
+subirá o bajará mañana, pero esa es la pregunta 
+equivocada y es exactamente la razón por la que  
+tu cuenta no crece. Los fondos cuantitativos y 
+las mesas de dinero institucionales se hacen una  
+pregunta completamente diferente. ¿Dónde está la 
+liquidez y cuánta energía tiene el precio para ir  
+a buscarla? No importa si eres alcista o bajista, 
+lo que importa es la volatilidad frente a la  
+dirección. Hoy os voy a enseñar una ineficiencia 
+estadística que descubrí analizando miles de datos  
+del oro. Se trata de una estrategia de scalping 
+para operar el oro, diseñada específicamente para  
+días de alta expansión, conocidos técnicamente 
+como outside days. Días donde el mercado rompe  
+tanto el máximo como el mínimo del día anterior, 
+barriendo toda la liquidez y generando las  
+oportunidades más explosivas del mercado. Esto 
+no es un vídeo de análisis técnico básico,  
+esto es un deck gloss de trading cuantitativo 
+para aquellos traders que realmente quieren  
+ser rentables y consistentes en el tiempo. En 
+los próximos minutos vamos a deconstruir el  
+mercado del oro paso a paso. Primero entenderemos 
+el terreno con una investigación de datos reales,  
+analizando la distribución de probabilidad de 
+los rangos diarios. Segundo, os revelaré el  
+Santo Grial de este sistema, la métrica MFE 
+o excursión favorable máxima. Y finalmente  
+definiremos las reglas exactas de ejecución, dónde 
+entrar, dónde colocar el stop y lo más importante,  
+dónde tomar beneficio basándonos en la mediana 
+estadística, no encorazonadas. Quedaos hasta  
+el final porque los números que vamos a ver 
+contradicen todo lo que os han enseñado sobre  
+ratios, beneficios, riesgo convencionales. Esto 
+es ingeniería financiera aplicada. Esto es Techin.  
+Para diseñar un sistema profesional, primero 
+necesitamos entender el terreno. Cada pocos  
+meses realizo un retesteo sobre mis estrategias de 
+trading, las que tengo puestas en mis portfolios  
+de bots. Esta semana estaba repasando una de las 
+estrategias que tengo puesta en el oro y quería  
+compartirla con vosotros, ya que me está dando muy 
+buenos resultados y según los datos va a seguir  
+haciéndolo. He extraído toda la data histórica del 
+último año del oro y he calculado la distribución  
+de probabilidad de los rangos diarios. Fijaos en 
+este histograma. Está construido sobre los datos  
+de 2025 completos del oro en diario. Esas barras 
+doradas representan la frecuencia de los rangos.  
+Lo que veis dibujado encima, esa curva 
+suave es la distribución normal teórica,  
+pero si miráis atentamente las barras reales, 
+veréis que sobresalen por la derecha. Esa  
+cola gorda o fatile o asimetría positiva es la 
+prueba visual de que el mercado no es aleatorio,  
+tiene memoria de volatilidad, pero lo que 
+realmente nos interesa para tener éxito  
+con nuestra estrategia de scalping no es el 
+grueso de la campana. sino lo que sucede en  
+los extremos. Hablamos de los niveles claves como 
+el máximo del día anterior, PDH, y el mínimo del  
+día anterior o PDL. Para el trader retail, 
+esos son los típicos soportes y resistencia.  
+Para un algoritmo institucional son piscinas de 
+liquidez. Cuando el precio rompe esos niveles,  
+se libera energía y esa energía es la que vamos 
+a capturar con nuestra operativa. Hasta aquí la  
+teoría suena sencilla. Rompe el máximo, compramos, 
+rompe el mínimo, vendemos. Parece lógico, ¿verdad?  
+Pero aquí es donde el 99% de los traders queman 
+sus cuentas intentando operar rupturas en el oro.  
+Ejemplo claro y directo. Esto es un back test de 
+operativa a la rotura de los máximos y mínimos  
+diarios del oro realizado sobre la data de todo un 
+año, todo el 2025. Sobran las palabras. No es una  
+opinión, es una realidad estadística. Si entras al 
+mercado solo porque ha roto un nivel sin conocer  
+la estadística del entorno, eres carne de cañón 
+para los barridos institucionales. La mayoría  
+entra. ve el precio moverse a favor unos puntos 
+y luego ve cómo se gira violentamente hacia su  
+stop loss. Necesitamos saber exactamente cuánto 
+dura esa inercia y eso es lo que te voy a mostrar  
+ahora. Aquí es donde entra en juego la ciencia de 
+datos. Para que no tengas que volverte loco con el  
+tema, ya he programado y ejecutado un script para 
+medir una métrica crítica que va a responder a la  
+cuestión clave de una vez que el precio rompe 
+el máximo el mínimo del día anterior, ¿cuántos  
+puntos avanza a mi favor antes de girarse. Esto 
+se llama MFE o máximum favorable excursión.  
+Sintetizando el concepto para que nos alineemos 
+todos. El MF en trading mide la ganancia máxima  
+no realizada que alcanza una operación mientras 
+está abierta desde el punto de entrada hasta su  
+punto más altos para compra o punto más bajo antes 
+del cierre para las ventas. Es una métrica clave  
+para optimizar la salida, definir el take profit y 
+analizar el potencial perdido. Nunca he entendido  
+por qué existiendo este tipo de conocimiento y 
+herramientas aún me sigo encontrando a traders  
+que dudan sobre cómo gestionar una operativa 
+y se preguntan cuándo deben cerrarla o cuándo  
+deben dejarla correr, si es pronto aún o si deben 
+dejarla un poco más, pero tienen miedo de que se  
+le gire, etcétera, etcétera. No entiendo esta 
+incertidumbre trasladada a la operativa cuando  
+todo es perfectamente calculable, controlable 
+y predecible. Pero eso se acaba hoy aquí porque  
+esta estrategia de scalping para el oro viene 
+directa de mi portfolio de bots y te la comparto  
+ya optimizada y con todo lo necesario para que se 
+ejecute con éxito de forma profesional. Observad  
+bien este gráfico. Aquí está la trampa. ¿Veis esa 
+línea vertical verde a la derecha? Esa es la media  
+aritmética y está en 27.4 puntos. Cualquiera os 
+diría, pon tu take prof y esa línea verde te va  
+a hacer ganar dinero. Pero eso es un suicidio 
+estadístico. La media es mentirosa porque esas  
+pocas barras azules pequeñas que veis al final 
+del gráfico, los días de volatilidad extrema,  
+tiran de la media hacia arriba artificialmente. 
+Ahora cambiad la vista a la línea roja punteada  
+gruesa, la que está más hacia la izquierda. Esa 
+es la mediana estadística en 18.6. Ese es el dato  
+real que necesitas conocer y apuntarte. La mayoría 
+de las veces el precio llega hasta esa línea roja,  
+pero rara vez alcanza la verde. Por eso, para 
+asegurar la probabilidad matemática de que  
+nuestra operativa de scalping en el oro se cierra 
+en el take profit, seremos aún más conservadores y  
+fijaremos nuestro objetivo en 14 puntos. justo en 
+el corazón de las barras azules más altas. Ahora  
+que tenemos el dato, vamos a definir las reglas 
+del juego. Imagina que tienes el gráfico delante.  
+Buscamos días de expansión. Primero, el contexto. 
+El mercado debe tener la necesidad de visitar esos  
+extremos tanto al alza como a la baja. Segundo, el 
+trigger o disparador. Definimos el PDH y el PDL.  
+Si el precio rompe el PDH, entramos en largo. Si 
+rompe el PDL, entramos en corto. Y aquí está la  
+regla de oro que separa a los profesionales de los 
+amaters. Solo tomamos la primera rotura del día,  
+no estamos persiguiendo el precio. Capturamos la 
+inercia inicial, vamos a la piscina de liquidez,  
+pero una vez que esa piscina se vacía, no volvemos 
+a tirarnos a ella de nuevo porque el baño no  
+terminaría bien. Veámoslo en un ejemplo visual. 
+Mirad la línea azul discontinua que marca el PDH  
+o máximo de ayer de la vela verde. En el momento 
+exacto en el que la vela bajista roja del día  
+actual cruzó esa línea, estaría la entrada. Fijaos 
+en la caja verde que se despliega hacia arriba.  
+Esa es nuestra operativa. No necesitamos capturar 
+todo el movimiento del día, solo necesitamos que  
+el precio recorra esa distancia exacta marcada 
+por la línea verde sólida del Tape Profity.  
+Aunque luego la vela roja caiga y rompa el mínimo 
+de abajo que marca la línea roja discontinua,  
+nuestra operación ya está cerrada y el 
+dinero asegurado. entrar en la ruptura azul,  
+salir en la línea verde, simple, objetivo y 
+letal. Seguramente te estés preguntando, Ignacio,  
+pero esto funciona a largo plazo o es solo suerte? 
+Pues para que salgas de dudas, he corrido un back  
+test de esta estrategia en Python con Lotato 
+de todo el 2025. El resultado es esta línea  
+morada. Fijaos que no es una línea recta perfecta, 
+tiene sus valles y sus retrocesos. Esos dientes de  
+sierra son normales, pero la tendencia de fondo 
+es impecable y siempre recupera nuevos máximos.  
+Incluso con esta ventaja estadística, hay días 
+perdedores, evidentemente. La diferencia es que  
+al mantener un ratio, riesgo beneficio asimétrico, 
+cada vez que la línea sube, sube con más fuerza de  
+la vez que baja. Ahora comparadla con esto. Mirad 
+este abismo rojo. Si esperáramos solo, sin un stop  
+loss fijo y sin un target basado en dato, la curva 
+se hondiría en una pendiente negativa constante,  
+aunque seguramente eso ya lo sepas. Esta 
+bien podría ser la cuenta de un trader amater  
+intentando adivinar el mercado con estrategia 
+subjetiva. La diferencia entre esta catástrofe  
+y la línea morada ascendente es simplemente saber 
+cuándo salir. Aquí os he preparado un pequeño  
+script para analizar mejor la la estrategia 
+sobre el mercado real. Para que lo entendéis  
+cómo funciona, pues bueno, vemos que tenemos 
+una serie de carteles donde iría la entrada y si  
+llega a take profit o a stop loss. Si llega a take 
+profit, pues nos sale el cartel verde y si llega a  
+stop loss, pues nos sale el cartel rojo. Entonces, 
+para que lo veáis rápido, aquí voy a marcar una,  
+por ejemplo, aquí este precio cerró aquí el día 
+28 de enero. Pues lo extiendo y para que veáis,  
+aquí tendríamos la entrada. Voy a darle zoom que 
+se vea mejor. Vamos a centrarlo. Y fijaros, aquí  
+tendríamos la entrada al nivel del cierre y aquí 
+encima tendríamos los puntos del eh take profit.  
+Entonces, para que veáis cómo sale, por ejemplo, 
+marco otra. Esta vela cerró eh llegó el máximo  
+aquí en este nivel donde tendríamos la mecha. 
+Vamos a marcarlo por aquí y desde aquí extiendo y  
+aquí tendríamos la operativa. O sea, fijaros esta 
+otra igualmente llega hasta ahí, llega al precio,  
+toca, da la entrada y nos lleva al take profit. 
+Voy a marcar otra para que lo veáis. Por ejemplo,  
+esta el máximo llegó aquí en este nivel, en esa 
+pequeña mecha, pues lo mismo, hasta aquí toca y  
+tendríamos la entrada. Entonces, para que veáis 
+cómo eh cómo funciona, cuando rompe el máximo o  
+el mínimo del día, se ejecuta la entrada y luego 
+pues tendríamos si llega al take profit sería take  
+profit y si no pues sería stop loss. Entonces, 
+puntos claves que debéis tener aquí en cuenta,  
+pues fijaros por ejemplo este movimiento. Aquí 
+estamos hablando de que esto es desde el 28 de  
+noviembre, o sea, tenemos aquí diciembre, enero 
+y parte de febrero, parte de noviembre, por lo  
+que tendríamos unos 3 meses aproximadamente. 
+En tres meses hay un día, 2 días, 3, 4, 5, 6,  
+7, 7 días que el precio no llegó al take profit y 
+fueron pérdidas de casi 3 meses, es decir, de casi  
+90 días, siete el precio no lo dio. Sé que parece 
+demasiado bueno, pero como digo, yo he hecho el  
+script este aquí para controlarlo, pero es algo 
+que vosotros mismos podéis ir ahora y comprobar,  
+¿no? O sea, esto es muy sencillo. Aquí no hay eh 
+ningún misterio. Por ejemplo, tendríamos el máximo  
+de la vela ahí en este punto, el mínimo de la vela 
+aquí en este punto y lo mismo, ¿no? Si rompe por  
+arriba, pues compramos, si rompe por abajo, pues 
+vendemos. Aquí lo mismo, ¿no? Máximo de la vela,  
+mínimo de la vela. lo mismo, como llega al máximo, 
+pues compramos, si llegase al mínimo, pues eh  
+venderíamos. O sea, lo que hay es lo que se ve. 
+Es un back testing muy sencillo de realizar, pero  
+hay un par de consideraciones que hay que tener 
+en cuenta porque son lo que marcan la diferencia  
+entre ganar o perder consistentemente, ¿no? Y 
+al final el objetivo pues cuanto menos es ganar,  
+pero desde luego no es perder consistentemente. 
+Entonces, puntos claves que debemos tener en  
+cuenta, pues si yo me sigo alejando hacia atrás, 
+vemos que llega un punto en el que empiezan a  
+aparecer muchas pérdidas. Eh, seguida. También 
+es cierto que esto es más escandaloso que el que  
+el verde porque los carteles de los se ponen 
+por encima. Si yo me acerco aquí, voy a darle  
+zoom y contase, pues aproximadamente yo ya lo he 
+contado y hay incluso eh más win que que los pero  
+estaríamos sobre el 5050 aproximadamente. Eh, 
+¿qué quiere decir esto? pues que vemos que hay  
+periodos en los que el mercado no es favorable o 
+es menos favorable para esta estrategia. Luego,  
+si vemos la parte de atrás, pues lo mismo, vemos 
+otra vez un montón de eh de ganancias. ¿Cuál es  
+la conclusión que debéis sacar aquí como primer 
+filtro para la estrategia? Pues bien, como vemos,  
+esto es un rango, una zona de rango de movimiento 
+lateral del mercado. Entonces, punto número uno,  
+no es que nos perjudiquen, porque eh muchas veces 
+se da más eh se da un mayor win rate que pérdidas,  
+pero sí que es cierto que pese a que puede o 
+no perjudicarnos, desde luego sí que no nos  
+beneficia. Entonces, un punto importante que 
+aplico yo en la estrategia es un filtrado por  
+exponente de Harst. ¿Qué quiero decir? Pues bueno, 
+os dejaré el vídeo aquí en la descripción. tenéis  
+la tarjeta también por aquí para que podáis ver y 
+entender paso a paso qué es el exponente de Hast  
+y cómo utilizarlo en vuestro bot de trading para 
+filtrar este tipo de movimientos que claramente  
+que estamos viendo aquí es un exponente de hardz 
+bajo, es decir, inferior a la media, que es cuando  
+se dan los movimientos de rango lateral, por lo 
+que ya vemos claramente que solo nos interesaría  
+operar eh o realizar esta operativa cuando el 
+exponente de hard esté de próximo a uno. ¿Por  
+qué? porque se están dando solo movimientos 
+tendenciales y es cuando la estrategia es más  
+favorable, ¿no? Entonces, para que veáis este tip 
+es fundamental para poder tener un alto win rate.  
+Con esto pues vais a ver y entender mejor quizás, 
+¿no?, pues todo el conocimiento que os comparto  
+aquí en el canal para que veáis cómo se aplica 
+y cómo lo podéis aplicar para mejorar vuestra  
+estrategia de trading y vuestro bot de trading, 
+¿no? Al final una estrategia de ruptura del del  
+oro eh en scalping. Aquí os lo enseño con velas 
+diarias porque pues para que lo tengamos como una  
+vela, ¿no? Pero esto lo marcaríamos en un minuto 
+y lo haríamos en scalping. Son operativas que  
+duran minutos. Entonces, para que para que veáis 
+otro tip muy importante también para la gestión,  
+aunque este es un poco más avanzado, pero bueno, 
+yo os lo explico y el que quiera pues darle al  
+coco ahí exprimir las neuronas, pues lo va a poder 
+sacar. es relativamente sencillo de entender y de  
+aplicar, pero me refiero que es avanzado en el 
+sentido, pues bueno, de que no es tiro cuatro  
+líneas y compro, ¿no? Hay que hacer un poquito 
+de cálculo y si os interesa, pues os enseñaré  
+a hacerlo en otro vídeo, pero bueno, os lo explico 
+por aquí para que lo veáis. Y este es el punto. El  
+otro punto que hemos visto es la clave entre ganar 
+o perder. Y este punto es la clave entre ganar y  
+ganar mucho. Es decir, es el siguiente punto 
+que lleva la estrategia a otro nivel. Por eso,  
+cuando os digo que es importante entender la 
+estrategia, cómo funciona, desgranarla paso por  
+paso, ver dónde falla sus puntos débiles, es para 
+que entendáis cómo realmente eso es importante  
+y marca la diferencia, ¿no? Yo cojo un bot de 
+internet, me lo descargo, lo pongo y seguramente  
+voy a perder. Yo hago un curso, una formación, me 
+dan una estrategia, me dicen cuatro cuatro cosas,  
+la replico como un papagayo y seguramente 
+voy a perder. ¿Por qué? Porque eh la mayoría  
+de las veces no entendemos, no profundizamos, 
+no materializamos el concepto, no lo llegamos  
+a entender. Incluso la persona que nos da la 
+formación seguramente no sea ni profesional y  
+él no lo haya llegado ni a entender y nos esté 
+dando o enseñando simplemente o transmitiendo  
+unas reglas rígidas, por lo que difícilmente él 
+pueda ser rentable. Seguramente no lo sea y más  
+difícil será que nosotros lo seamos replicando 
+algo de alguien que no es rentable. Entonces,  
+siempre, como digo, el conocimiento es importante 
+y la gestión es el 80% de la estrategia. Y por eso  
+es importante que entendáis cómo funciona. Y por 
+eso lo he plasmado aquí con este script. ¿Por qué?  
+Porque aquí lo vais a ver muy claro. Una vez que 
+entendemos qué es lo que operamos, cuáles son los  
+movimientos que nos interesan y cuáles son los 
+que nos perjudican. nos interesan movimientos  
+tendenciales, no nos interesa movimiento en rango 
+o movimientos laterales. Una vez que entendemos  
+la estrategia, podemos llevarla a la gráfica 
+y realizar un back testing real, profesional,  
+eh analizando los puntos débiles. Y bien, un 
+punto débil que tenemos aquí es el siguiente.  
+Vemos que aquí, por ejemplo, el precio sube y 
+da take profit, pero también tiene una mecha  
+inferior. Entonces, ¿qué pasó antes? que subió al 
+take profit o que bajó al stop loss. La mayoría de  
+los casos eh suele darse que cuando el precio 
+rompe el máximo o el mínimo del día anterior,  
+lo primero que hace eh es dar el take profit 
+simplemente por la volatilidad de la rotura,  
+pero hay días que no. Entonces, ¿cómo podemos 
+hacerlo para maximizar el beneficio? Pues bien,  
+aquí hay dos puntos clave. Os voy a explicar uno, 
+el otro no voy a entrar en detalle porque si no  
+sería un vídeo muy largo, pero si entendéis este 
+vais a entender el siguiente. Esta estrategia,  
+como sabéis, se compone de un take profit y un 
+stop loss. Y ahora yo os digo aquí, ¿qué pasaría  
+si le quitásemos el stop loss? Si eliminásemos 
+la opción de la pérdida. Pues seguro la mayoría,  
+sobre todo en el sector retail, donde todo eh 
+se hace de forma más simple y digamos no peor,  
+llamémoslo con cariño, minimalista, eh el 
+no utilizar un stopl concepto de que no está  
+protegida la estrategia. No tengo un stopl, mi 
+estrategia no está protegida, eso es una locura,  
+tal, tal, etcétera. O sea, hay muchísimos vídeos 
+de gurú por YouTube que os van a decir eh eso,  
+¿no? Que si no hay un blog, la estrategia no está 
+protegida. Y bien, yo ahora os digo lo siguiente.  
+Si tú te montas en el coche y no te pones el 
+cinturón, no estás protegido. Es decir, si tú  
+vas en tu coche, vas por tu carril a la velocidad 
+que toca, vas tranquilo, no hay ningún coche  
+más en la carretera, no te vas a encontrar con 
+nadie, tú respetas la velocidad. Si ha llovido y  
+el pavimento está mojado, disminuye eh velocidad, 
+conduces perfectamente. Tú no vas protegido en tu  
+coche si tú haces una conducción perfecta y no hay 
+ningún coche más que te pueda chocar ni ni puedas  
+colisionar con nada, ni se te va a cruzar ningún 
+animal ni nada, o sea, tú solo en un universo  
+conduciendo por la carretera perfectamente. Si te 
+pones cinturón es la diferencia entre morir o no.  
+Pues seguramente no, porque si la conducción es 
+perfecta y no hay ninguna posibilidad de colisión,  
+que tengas o no cinturón, no va a hacer que tú 
+estés seguro o no. Bien, ¿qué pasa en el trading?  
+viene la incertidumbre de que si no nos ponemos 
+el cinturón, si no nos ponemos el stop los,  
+como desconocemos el mercado y sabemos 
+que está lleno de coches, días lluviosos,  
+días de hielo en la carretera, animales 
+cruzándose, pues genera el riesgo, ¿no?,  
+de la incertidumbre y es el momento en el que 
+recurrimos en el sector retail a técnicas básicas,  
+eh, rápidas, porque son la opción más rápida, 
+más fácil. Pon un est y olvídate de todo,  
+aunque nunca en la vida llegue a ser rentable. 
+recurrimos a lo básico, a lo fácil. El trading  
+es un sector de los más profesionalizados. De 
+hecho, el sector de las finanzas es el sector más  
+rentable del mundo y dentro de él la industria 
+de las inversiones es la más rentable. O sea,  
+estamos en un sector enorme, gigantesco, 
+muy profesionalizado y las cosas hay que  
+hacerlas bien. No implica complicarnos o hacerlas 
+difícil, sino simplemente hacerlas bien. Bien,  
+ahora yo voy a plantear aquí lo siguiente para 
+que vosotros le deis una vuelta y saquéis vuestras  
+conclusiones. Yo sé que si me pongo un stop los 
+cierro en ese nivel. Yo sé que si no me pongo un  
+stop los no tengo cierre. No quiere decir que esté 
+asumiendo mayor riesgo o menor riesgo. ¿Por qué?  
+Porque cuando pongo un stop los, por ejemplo, 
+en una entrada, lo vamos a poner aquí. Si yo  
+esta fuese mi entrada y yo pusiese aquí arriba, 
+digamos, aquí en este nivel un take profit y aquí  
+en este nivel un stop loss, automáticamente mi 
+precio quedaría encerrado, encerrado por niveles  
+visuales, eh, digamos físicos, que yo ya veo y me 
+da cierta tranquilidad en la operativa. ¿Por qué?  
+Porque yo ya conozco el dato de mi stop loss. Como 
+yo ya conozco el dato, el precio de mi stop loss,  
+en este caso eh 5387, como yo ya conozco el dato, 
+eh eso me hace calcular mi pérdida máxima que yo  
+puedo tener con esta operativa, porque sé el 
+lotaje que voy a meter, conozco el nivel del  
+stop loss, por lo que yo ya puedo calcular mi 
+pérdida máxima. O sea, al final el objetivo del  
+stop loss es controlar y calcular la pérdida 
+máxima. No podríamos llegar a esa conclusión.  
+No sé qué pensáis vosotros, ponémo por los 
+comentarios, pero creo que al final el uso del  
+stopl básicamente reduciéndolo o simplificándolo 
+es calcular la pérdida máxima que yo podría tener  
+con una operativa, ¿no? Y de esta forma pues lo 
+hacemos, ¿vale? Y ahora yo os digo lo siguiente,  
+imaginaros que con esta estrategia no utilizásemos 
+stop loss. Y ahora vosotros me diríais, "Claro,  
+Ignacio, si no utilizamos stop loss, no 
+sabemos cuál es nuestra pérdida máxima,  
+no podemos calcularla porque no tenemos el 
+nivel del stop loss. Como no tenemos el nivel  
+del precio del stop loss, no podemos calcular 
+la pérdida máxima." Y ahora yo os digo, cierto  
+es que no tienes un nivel ahora rápido, simple, 
+minimalista para calcular eh tu pérdida máxima,  
+pero también es cierto que el oro y cualquier 
+mercado, ¿no?, pues tiene un histórico muy grande,  
+un histórico muy grande. Voy a quitar de aquí el 
+scrip para que lo veamos. O sea, tenemos siempre  
+un histórico muy grande. Como vemos, hay velas 
+grandes, hay velas pequeñas, hay velas medianas,  
+hay data, hay data. Esa data siempre podemos 
+acceder a ella, podemos analizarla y sacar  
+conclusiones. Conclusiones como, por ejemplo, yo 
+puedo [ __ ] el histórico del oro del último año,  
+últimos 5 años, últimos 10 años, lo que queráis. 
+Tenéis data para todo y puedo calcular cuál es  
+el promedio de movimiento del oro en un día. O 
+sea, ¿cuál es la media teniendo en cuenta los  
+días máximos y los días mínimos, los grandes de 
+recorrido grande, de recorrido pequeño? ¿Cuál es  
+la media? Yo, una vez que saque ese movimiento, 
+imaginaros que me dice que la media, lo vamos a  
+dibujar por aquí, la media pues sería una vela tal 
+que así. Los días que el precio se mueve muy poco,  
+pues sería una vela tal que así. Y los días que 
+el precio se mueve mucho, me lo traigo por aquí,  
+sería una vela tal que así. O sea, podríamos 
+sacar el promedio, que sería este de aquí.  
+Vamos a marcarlo de color diferente. Digamos que 
+este sería el promedio, es decir, cuando el precio  
+de todos los días, máximo y mínimo sacando el 
+promedio, pues este sería el movimiento. El día  
+que menos se movió fue este y el día histórico 
+que más se movió fue este. ¿Qué probabilidades  
+hay de que el precio se vaya a mover más 
+de lo que ya se haya movido históricamente,  
+especialmente ahora? con movimientos como 
+estos últimos de aquí rompiendo máximo. Las  
+probabilidades son muy bajas. Entonces nosotros 
+aquí podemos utilizar lo siguiente. Si yo no pongo  
+un stop loss el promedio de mi pérdida los días 
+que no llegue al take profit serán así. O sea,  
+esta será la pérdida promedio que yo podré tener 
+el día que la operativa no llegue al take profit.  
+Y los días máximos, la pérdida máxima que yo podré 
+tener orientativa los días que el precio no llega  
+a mi stop blow será esta de aquí. ¿Qué quiere 
+decir esto? Que en el mejor de los días incluso  
+podía tener la pérdida mínima, pero con esto yo ya 
+tengo la pérdida mínima, la pérdida promedio, que  
+será la que se dará el 99% de las veces. De hecho, 
+podéis sacar la estadística de cuántas veces se da  
+esta pérdida promedio y la pérdida máxima. Con 
+esto yo ya tengo unos niveles. ¿Por qué? Porque  
+yo desde teniendo este esta vela ya sé la altura 
+que tuvo, por lo que ya sé el desplazamiento en el  
+gráfico que se puede dar. Yo ya me puedo calcular 
+mis niveles de stop loss, mis niveles de pérdida,  
+pese a que no tengo una distancia eh horizontal 
+del precio, sí que tengo una distancia vertical  
+que la puedo extrapolar a mi operativa. Bien, 
+entonces si yo saco estos datos, estamos de  
+acuerdo en que voy a poder calcular tanto el stop 
+loss el día de la pérdida mínimo, el promedio y el  
+máximo, por lo que yo ya podría ajustar mi lotaje 
+y podría ya pues tener en cuenta cómo sacar ese  
+nivel de stop loss, cómo calcular mi pérdida y lo 
+estoy haciendo de una forma pues más eficiente,  
+más adaptada al mercado, ¿no?, que el típico 
+el stone ll en el soporte, en la resistencia,  
+en el alto, en el bajo, a mitad de la vela, en 
+la apertura, en el cierre, ¿no? Eso es un poco  
+subjetividad total, ¿no? Es replicable cuando 
+hacemos ese tipo de de estrategia de utilizar  
+máximo, mínimo, cierre, soporte, resistencia, 
+pivotes, fibonacciis, etcétera, etcétera, es algo  
+muy subjetivo. ¿Por qué? Porque los movimientos, 
+como vemos, no son iguales. O sea, aquí mismo en  
+esta gráfica estamos viendo movimientos pequeños, 
+movimiento muy pequeño, movimiento muy grande,  
+movimiento mediano y movimiento radicales. 
+Estamos viendo de todo. Entonces, tirar Fibonacci,  
+utilizar puntos pivotes, soporte resistencia de 
+movimientos que no son iguales unos de otros,  
+ni en duración ni en intensidad, quiere decir 
+que mi estrategia es totalmente subjetiva y  
+que si gano no voy a poder replicarlo con éxito 
+en el futuro. Porque si yo estuviese operando,  
+por ejemplo, eh una operativa eh a la rotura 
+de este soporte de aquí, por ejemplo, el precio  
+llega aquí, rompe la resistencia, baja hacia 
+abajo, digamos que hace aquí el soporte y se va  
+hacia arriba. Y yo diría, bueno, pues el stone lo 
+pondría en el bajo anterior, ¿vale? En este caso,  
+pues me quedaría por aquí. Pero si yo lo hubiese 
+hecho aquí, es decir, si yo hubiese operado este  
+nivel aquí, por ejemplo, a la rotura, mi stop 
+ya no me hubiese quedado ahí, me hubiese quedado  
+aquí. Para que veáis la diferencia, o sea, fijaros 
+de esta distancia a esta distancia. ¿Qué quiere  
+decir? pues que mis stop loss, mi gestión no es 
+nada digamos eh estructurada ni organizada, no  
+tiene una lógica, no no es replicable porque si yo 
+voy a operar eh mi gestión es operar 1 dos, pues  
+esto de aquí me va a obligar a que mi take profit 
+tenga que estar aproximadamente por aquí y esta  
+operativa de aquí me va a obligar a que mi stop, 
+mi tape profit tenga que estar aproximadamente por  
+aquí. ¿Y qué quiere decir esto? Pues fijaros, esta 
+operativa, con esta operativa le estoy exigiendo  
+tamaños, recorridos, duraciones e intensidades 
+muy diferentes al mismo mercado. Es como [ __ ]  
+una persona, pedirle que corra 1 km en una hora, 
+no hay problema, lo va a poder hacer aunque vaya  
+gateando seguramente, pero luego a esa misma 
+persona pedirle que recorra 1 km en 30 segundos,  
+pues ya seguramente no lo va a hacer, ¿no? 
+O sea, 100% que no lo va a hacer. Entonces,  
+pues tenemos un problema. No sé si entendéis el 
+concepto, pero cuando lo calculamos, como os he  
+comentado yo aquí de esta forma siempre nuestros 
+trade profit y estos lo van a ser los reales del  
+mercado. Van a ser los reales del mercado porque 
+estamos calculando con el mercado. Bien, entonces  
+dicho esto, no me entretengo mucho más porque es 
+un tema muy extenso eh sobre gestiones y demás,  
+pero para que veáis el concepto, voy a volver 
+a a poner aquí el indicador y fijaros aquí cómo  
+funcionaría este criterio. Si en lugar de poner 
+un stop loss yo calculase a mi pérdida máxima o  
+mi pérdida mínima. Por ejemplo, fijaros aquí. Si 
+yo ahora veo esta vela, muchos me podríais decir,  
+"Claro, es que esta vela de aquí es gigante. Si el 
+precio rompe y se va así a negativo y yo cierro al  
+final del día, porque como no tengo el blog y la 
+operativa es diaria, cerraría al final del día,  
+pues eh cuando gano gano muy poquito y cuando 
+pierdo una vela como esta me quita 50 días,  
+100 días de ganancia, por lo que la estrategia es 
+perdedora. Y ahora yo os voy a dar aquí una clave,  
+que es la clave del pensamiento, de poner todo 
+siempre eh en perspectiva y analizarlo. Fijaros,  
+esta vela tiene el máximo aquí arriba, el 
+mínimo aquí abajo y esta vela de esta vela  
+bajista no está ni cerca de llegar a romper el 
+máximo, por lo que siempre siempre solo hubiese  
+dado una operativa bajista. por lo que incluso 
+hubiésemos podido en vez de poner un take profit,  
+un trailing stop o un recorrido y sacar muchísimo 
+más de take profit. Pero bueno, esa parte os la  
+dejo para que la calculéis vosotros y le deis 
+una vuelta. Pero el concepto es que esta vela  
+gigante de una magnitud que se sale de la media, 
+evidentemente, nunca estuvo ni cerca de llegar a  
+activar un buy, por lo que siempre solo activó un 
+sale. Vale, aquí tenemos otra vela muy potente,  
+pero volvemos a lo mismo. Fijaros, esta vela 
+tendríamos aquí el mínimo y aquí el máximo,  
+por lo que la nueva vela que tenemos aquí abajo no 
+estuvo ni cerca de llegar a abrir un by, de llegar  
+a romper por arriba, rompió por abajo, por lo que 
+nuestro eh negativo de operativa quiere decir que  
+aunque hubiese tocado y hubiese retrocedido 
+durante el día, al final siempre llega a tocar  
+el take profit. Entonces, el riesgo que asumimos 
+con un stop loss calculado en la media de o el  
+promedio del mercado frente a tener un win rate 
+muy alto y es un riesgo calculado. Pese a que no  
+estemos utilizando un stop los físico horizontal, 
+sí que tenemos un stop los vertical controlado  
+dentro del lotaje. Fijaros, por ejemplo, esta vela 
+tuvo el mínimo aquí y tuvo el máximo aquí arriba.  
+Fijaros, la siguiente, no estuvo ni cerca de abrir 
+el sell, por lo que solo abrió el buy. Entonces,  
+¿qué quiere decir? Que este día también hubiese 
+llegado al T profy antes que eh al negativo del  
+stop loss. Pero bien, aquí son velas muy grandes, 
+pero es lo que os digo, este ejercicio lo podéis  
+hacer vosotros. Fijaros, por ejemplo, aquí 
+tendríamos el buy del máximo y aquí tendríamos  
+el mínimo. Fijaros que la siguiente tampoco llega 
+a abrir el sell, solo abre el buy, el día alcista  
+positivo. Lo mismo aquí. Aquí tendríamos el 
+máximo y aquí tendríamos el mínimo. Y vemos que la  
+siguiente vela no está ni cerca de abrir el sell, 
+por lo que igualmente hubiese ido también al take  
+profit antes que a la pérdida. Es simplemente esto 
+lo podéis ir haciendo vosotros. Fijaros que las  
+que se pierden justamente son muy pequeñas, por lo 
+que eh no habría eh mayor problema aquí con eso,  
+pero es simplemente para que veáis otro tipo 
+de gestión. Eh, la estrategia es muy buena,  
+es rentable, es muy potente, eh es potente 
+con los datos estadísticos que os doy. Si no,  
+pues será una estrategia desastrosa que os llevará 
+la pérdida. O sea, las cosas hay que operarlas  
+y hacerlas con un criterio y un conocimiento 
+detrás, pero si aplicáis lo que os digo aquí,  
+aplicar un bas textil, analizarlo, mirarlo, crear 
+el bot dentro de Techain. Yo crearé un bot para  
+base para que lo podáis poner y hacer todo esto y 
+lo podáis utilizar y seguir mejorando y avanzando  
+desde ahí, pero para que veáis cómo funciona esta 
+estrategia, que la podáis entender y que realmente  
+sea aplicable por todos vosotros y la podáis 
+aplicar con un criterio, con un conocimiento  
+para que os pueda dar una rentabilidad. Si no se 
+hacen las cosas bien, no se obtienen resultados.  
+La velocidad máxima en el trading es hacer las 
+cosas bien, no ir más rápido, no [ __ ] atajo,  
+no simplificar a lo absurdo, no aplicar criterios 
+subjetivos. Si cogemos una estrategia muy buena  
+y le aplicamos criterios subjetivos, le 
+metemos ingredientes caducados. O sea,  
+te podemos tener la mejor receta de cocina 
+del mundo, pero si teniendo una carne de  
+primera calidad le metemos luego ingredientes 
+caducados que no están bien, que no están buenos,  
+pues vamos a a destrozar la receta. Es lo mismo 
+lo que pasa con el trading. Cuando empezamos a  
+meter subjetividad, operar eh con una gestión en 
+soporte, resistencia a 1, dos en mercados que por  
+definición son no estacionarios, estamos creando 
+una estrategia, un sistema que no es replicable en  
+el tiempo y que por muy buenos resultados que nos 
+dé en un periodo de tiempo, como no es replicable,  
+va a dejar de funcionar y no va a salir nada bien. 
+Entonces, es importante que eso lo tengáis en  
+cuenta cuando diseñéis un bot de trading. Siempre 
+si queréis que lo que veis en el back testing sea  
+replicable hacia el futuro en meses, años y 
+que eso sea invariable, debéis aseguraros de  
+que ese bot de trading está utilizando un criterio 
+totalmente objetivo, extraído del mercado y que es  
+totalmente replicable independientemente del ciclo 
+del mercado que en el que estemos. O sea, eso es  
+importante. Si no hacéis eso, todos los bots de 
+trading, todas las estrategias, todo lo que hagáis  
+va a dejar de funcionar tarde o temprano. Por 
+eso siempre os lo digo. Muchos usuarios me dicen,  
+"Yo utilizo Strategic One o esto o el otro y 
+saco cientos de bot y al final ninguno me llega a  
+funcionar." Evidentemente estáis sacando bots con 
+criterios subjetivos. Nadie os puede construir un  
+bot si vosotros no entendéis el sistema. lo tenéis 
+que construir vosotros porque si no a la larga va  
+a dejar de funcionar. Es la lógica del trading, es 
+la lógica del mercado. Entonces, pues para que lo  
+entendáis, os lo comparto aquí y ahora seguimos 
+con el vídeo. Pese a todo lo analizado, todo el  
+sistema que hemos construido se desmoronaría en un 
+pestañeo por un solo factor, la psicología humana,  
+el miedo y la avaricia. La avaricia te hará querer 
+ganar 20 puntos más cuando la estadística te dice  
+que solo hay 14 probables. El miedo te hará cerrar 
+la operación antes de tiempo. Por eso, la pieza  
+final que hace que este sistema sea robusto y 
+consistente en el tiempo, como ya hemos visto,  
+es la gestión. Los números mágicos que eliminan 
+la emoción de la ecuación inicialmente son estos.  
+Tap fijo en puntos. ¿Por qué? Porque es 
+nuestra zona de altísima probabilidad según  
+la distribución ME y el stop loss fijo en 5.6. 
+Esto nos da un ratio riesgo beneficio de 1 a 2.5.  
+Significa que por cada dólar que arriesgas 
+buscas ganar 2,5. Con este ratio inicial  
+puedes permitirte fallar más de la mitad 
+de tus operaciones y aún así seguir siendo  
+rentable. Es la armadura matemática contra tu 
+propia psicología. Además, tenemos la ventaja  
+estadística ya calculada y los datos no mienten. 
+No olvides nunca que el trading no es magia,  
+es estadística. Hemos cogido datos reales del 
+mercado, hemos analizado la distribución de la  
+excursión favorable y hemos diseñado un plan 
+de trading inicial rígido, TP14 SL 5.6, rotura  
+de rango. Así es como se construye una ventaja 
+estadística. Ahora tiene la teoría y los números,  
+pero necesita mejorar la gestión y esto empieza 
+por filtrar los tres perdedores y eliminarlos  
+de tu operativa. Para ayudarte a eliminar los 
+días perdedores de forma efectiva y profesional,  
+he diseñado este vídeo de aquí donde te explico 
+cómo puedes hacerlo paso a paso. Nos vemos dentro.
+[música]

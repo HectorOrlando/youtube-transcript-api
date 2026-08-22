@@ -1,0 +1,388 @@
+Titulo              : Guía Completa de 0 a 100: Cómo diseñar un bot de trading rentable en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-05-19
+Duracion            : 20:50
+Vistas              : 635
+URL                 : https://www.youtube.com/watch?v=sw6mb7uxTKg
+----------------------------------------------------------------------
+
+Si copias las reglas de entrada de una estrategia 
+de trading rentable y tu bot quema la cuenta, casi  
+nunca es porque los indicadores técnicos estén 
+fallando, es porque estás operando con la mitad  
+de un sistema. El error estándar en la creación 
+de bots no es matemático, es de especificación.  
+Se define con precisión milimétrica cuando 
+comprar, pero se deja al azar el contexto,  
+los filtros de liquidez y las condiciones 
+de invalidación. Al terminar este vídeo,  
+tendrás un marco operativo estandarizado mediante 
+el que planificar y diseñar tu bot de trading de  
+forma profesional paso a paso. Vamos a ver cómo 
+estructurar un sistema desde cero evitando la  
+parálisis del lienzo vacío, pasando por los 
+seis pasos del diseño clave hasta llegar a la  
+especificación avanzada de nueve pasos. Un proceso 
+que fuerza a tu estrategia de trading a defenderse  
+antes que atacar. Si no aprendes esta guía que 
+te voy a compartir para diseñar bot de trading,  
+nada podrá salvarte de la quiebra por una mala 
+ejecución. La mayoría de los usuarios abren un  
+entorno de desarrollo algorítmico y empiezan 
+a arrastrar nodo por intuición. Esto genera un  
+sesgo de confirmación visual. ves lo que quieres 
+ver y omites lo que no te conviene. El blueprint  
+de Techain existe para que no pueda saltarte 
+la arquitectura básica sin darte cuenta. No  
+construyas, primero piensa. Vamos a estructurar 
+esto en dos bloques operativos. Primero,  
+el modo guiado que traduce una línea abstracta 
+en reglas lógica. Segundo, el modo avanzado que  
+introduce la arquitectura de tres capas y un 
+test de estrés de 16 preguntas para saber si  
+lo tienes todo correcto. Y al final veremos 
+cómo esta formalización teórica se mapea de  
+forma mecánica en un gráfico de nodos ejecutable 
+en la plataforma, sin inteligencia artificial,  
+inventando señales, operando estrictamente según 
+las reglas que tú has definido. Al abrir el  
+Strategy Blueprint Design de Techain, la pantalla 
+de selección te obliga a tomar la primera gran  
+decisión, modo guiado o modo avanzado. El guiado 
+no es peor, es una herramienta de estructuración  
+mental. Consta de seis pasos diseñados para 
+encadenar la lógica de tu ventaja estadística.  
+Paso número uno, el objetivo. Aquí no preguntas 
+qué indicador usar, preguntas qué clase de  
+ventaja buscas sobre el mercado, tendencia, 
+reversión, scalping, breakout, etcétera. La  
+intención pedagógica de este paso es alinear tu 
+mentalidad con el time frame y los indicadores.  
+El error común que se comete aquí es mezclar 
+los conceptos, elegir scalping en tu cabeza,  
+pero seleccionar un time frame de 4 horas sin 
+reconocer la contradicción matemática o elegir,  
+por ejemplo, breakout y luego diseñar entradas 
+típicas de un mercado en rango. El tip clave que  
+debe llevarte de este paso, elige en función 
+del coste de oportunidad y de cuánto tiempo  
+pueden monitorizar el sistema. más operaciones 
+no equivale a más beneficio. Paso número dos,  
+el contexto. Esto define dónde y en qué escala 
+temporal opera el sistema, símbolo, time frame  
+y crucialmente la sesión. El error común aquí 
+es ignorar la sesión al operar, por ejemplo,  
+con pares de Fore y quejarse después de señales 
+falsas en la sesión asiática o aplicar reglas de  
+índice americano en apertura europea sin ajustar 
+la volatilidad esperada. Tip clave que te llevas  
+aquí, la sesión importa porque dicta el sprint, la 
+participación institucional y las correlaciones.  
+El blueprint te permite seguir sin un símbolo 
+concreto, pero el timeframe y el mercado son  
+innegociables. Paso número tres, condiciones de 
+entrada. Este es el corazón del modo guiado. Aquí  
+forzamos la traducción de cuando el precio sube 
+a reglas observable, indicador, operador lógico,  
+objetivo, compra, venta y filtro. Todo 
+interconectado con una lógica de Andw.  
+Por defecto ya te aparecen una serie de criterios 
+de entrada preconfigurados específicamente para  
+la estrategia que has seleccionado anteriormente. 
+El error común aquí es la redundancia estadística,  
+apilar dos medias móviles y un M+D pensando que 
+más filtros es mejor. Están midiendo exactamente  
+el mismo fenómeno derivado del precio tres 
+veces. Eso no es confirmación, es colinealidad.  
+Otro error clásico es usar un donde un an tiene 
+más sentido, disparando la frecuencia de trade  
+a la basura. Tip clave que te llevas aquí. 
+Una condición clara y un filtro útil alineado  
+siempre con el objetivo del paso uno, superan 
+estadísticamente a cinco condiciones mediocres.  
+Hasta aquí el marco te da una entrada limpia, 
+pero hay una variable implícita que aún no hemos  
+tocado y es precisamente donde el 90% de los bots 
+devuelven su ganancia al mercado y hasta el doble.  
+Esa variable es la asimetría de la salida y la 
+gestión de la ruina. Paso cuatro, condiciones de  
+salida. Aquí definimos el stop loss, el take 
+profit, el trailing y las salidas por señal  
+inversa. El blueprint iguala la importancia de 
+la entrada y la salida. El error común aquí es  
+colocar un take profit fijo, ridículamente lejano 
+en un mercado volátil, sin activar un triling  
+stop, por ejemplo, o fijar un triling stop tan 
+ajustados que corten la simetría de una tendencia  
+en su primera corrección normal. Tip clave 
+que te llevas aquí, piensa en el ratio riesgo,  
+beneficio en términos de supervivencia. ¿Cuántos 
+fallos seguidos tolera la esperanza matemática de  
+tu sistema y tu psicología antes de quebrar? Usa 
+el ATR para adaptar tu salida a la volatilidad  
+real. No una cantidad de pips arbitraria arriba 
+o abajo fija, utiliza siempre un stop dinámico.  
+Esto nos lleva al paso 5 y se gestión de riesgo y 
+resumen. Aquí pasamos de hablar de lotes abstracto  
+a porcentaje de cuenta, límite diario y exposición 
+máxima simultánea. El error común aquí es usar  
+lotes fijos con una cuenta que crece o decrece. 
+Esto altera tu riesgo implícito en cada operación  
+sin que te des cuenta. Un tip clave para que 
+no te pase. Utiliza el límite de pérdida diaria  
+de la plataforma como una válvula de seguridad 
+técnica e inquebrantable. Al llegar al paso seis,  
+el sistema compila todo en un resumen de lenguaje 
+natural. Léelo en voz alta. Si suena ambiguo,  
+tu backter será una lotería. Al darle a 
+generar directamente la app de techain,  
+mapea todo esto directamente en nodo directamente 
+ya en tu canva listo para descargar el bot.  
+Fin. El modo guiado ha terminado. Este flujo 
+secuencial es perfecto para ordenar un primer  
+concepto. El problema es que estamos mirando 
+el mercado desde el nivel de un diseño lineal.  
+Cuando operamos estrategias con capital privado o 
+fondeos estrictos, necesitamos una especificación  
+profesional de un sistema complejo. Al elegir 
+formalización avanzada, entras en nueve pasos con  
+la misma idea de fondo. Primero, ¿qué compraría 
+o vendería el sistema, que es la señal? Luego,  
+¿en qué contextos ni siquiera debe intentarlo, 
+que son las exclusiones? Y por último, cómo entra,  
+cómo sale y cuánto arriesga en cada operativa, 
+que es básicamente la gestión de posición y  
+gestión de riesgo. No es magia. Cada respuesta se 
+traduce después a nodos en el canvas. La calidad  
+del grafo es la calidad de lo que escribiste 
+aquí. Ahora, paso número uno, identidad de  
+la estrategia. El paso uno consiste en definir la 
+identidad de la estrategia. Aquí es donde nombras  
+el sistema y describes tu idea en unas pocas 
+líneas. Luego eliges el tipo de estrategia,  
+ya sea de seguimiento de tendencia, reversión a la 
+media, breakout, scalping, rango, swing trading,  
+position trading, smart money, green, Martingala, 
+etcétera, lo que quiera o un enfoque totalmente  
+personalizado. También define la direccionalidad 
+indicando si opera solo largos, solo cortos o de  
+forma bidireccional. Definir esto importa mucho 
+porque el tipo de estrategia orienta el lenguaje  
+de toda tu especificación y la direccionalidad 
+condiciona directamente lo que harás en el paso  
+número cuatro. Por ejemplo, si eliges solo largo, 
+toda la lógica para cortos queda desactivada de  
+raíz. Para que entiendas cómo encaja todo esto 
+en la herramienta, debes saber que todo esto  
+vive dentro del Advanced Identity Data, por lo 
+que no es un simple botón direccional, sino la  
+identidad y clasificación completa de tu sistema. 
+Pasamos al paso número dos, donde establecemos tu  
+mercado autorizado o frontera operativa. Aquí 
+defines exactamente dónde opera el sistema,  
+el mercado, los símbolos, tu time frame principal 
+y si decides usarlo, un time frame secundario.  
+También marcas las ventanas de sesión, los días 
+operativos, por ejemplo, de lunes a viernes y  
+estableces un spread máximo en puntos exclusivo 
+para este tipo de mercado. Además, configuras  
+condiciones especiales sumamente operativas, 
+como por ejemplo ponerle un tiempo de cald tras  
+una apertura de sesión, filtros para gap para no 
+operar o limitarlo por x punto y límite de ATR,  
+es decir, un ATR mínimo o máximo para quedarte 
+fuera de regímenes de volatilidad que tu setup  
+pues no contempla o no le favorecerían. Este paso 
+importa porque es literalmente tu contrato con el  
+mercado antes de siquiera mirar los indicadores. 
+Dejar un spread máximo en cero o sin definir es  
+el error clásico. En la apertura de Londres o 
+en pleno impacto de noticia, el deslizamiento  
+de precio y el spread se comerán toda tu ventaja 
+estadística. Como nota útil, ten en cuenta que  
+más adelante en las exclusiones podrás añadir otra 
+capa de filtro de spread. Son niveles distintos,  
+ya que aquí autoriza el contexto general y allí 
+luego definiremos cómo añadimos estos vetos mucho  
+más finos. Llegamos a los pasos tres y cuatro que 
+conforman la capa de señal separando rigurosamente  
+los largos de los cortos. En el paso número tres, 
+construyes tu entrada larga utilizando el catálogo  
+completo de indicadores, comparadores como mayor o 
+menor, cruce alcista y bajista y entrelazando las  
+condiciones con lógica and. Luego llegaremos al 
+paso número cuatro, que será donde responderemos  
+cómo se generan exactamente las ventas. Aquí 
+tienes cuatro modos reales, no un simple montón  
+para invertir lógica. Puedes usar la inversa 
+automática que voltea los operadores y cruces de  
+la lógica largo, crear condiciones personalizadas 
+con reglas propias para el corto. Seleccionar solo  
+largo para ser coherente con la direccionalidad 
+del paso uno o elegir solo short, donde las  
+condiciones long dejan de ser la condición 
+de entrada activa. Esta separación importa  
+profundamente porque mientras en el modo guiado la 
+narrativa está más unificada, en el modo avanzado  
+la compra y la venta son dos especificaciones 
+totalmente independientes. Asumir que para vender  
+solo hay que aplicar lo mismo, pero al revés es 
+ignorar el sesgo de direccionalidad del mercado,  
+las asimetrías en los índices, por ejemplo, 
+o la diferencia de velocidad entre el pánico  
+y la acumulación. Un tip muy alineado con la 
+herramienta es el siguiente. Si tu marco tiene un  
+sesgo claro o se comporta distinto en las caídas, 
+usa las condiciones personalizadas y escribe el  
+corto como un sistema aparte, no como un espejo 
+automático del largo. La predicción de la señal  
+ya está escrita sobre el papel. Lo que sigue ahora 
+es lo que en los mercados reales te liquida aún  
+teniendo la señal correcta. El contexto prohibido, 
+la mala salida o tamaño de posición absurdo. Ahí  
+entran las exclusiones y la gestión. Por eso 
+el paso número cinco es la capa de exclusiones.  
+Aquí defines tus reglas de no operar si pasa X. 
+Son condiciones que, aunque tu señal principal  
+sea verdadera, anulan por completo la autorización 
+para abrir un trade, manteniendo tu lógica limpia.  
+En la interfaz, estas exclusiones están agrupadas 
+en cuatro grandes familias. las temporales,  
+cómo estar fuera de un horario de días vetado, un 
+buffer antes o después del cierre de una sesión o  
+un cooldown entre operaciones. Las de mercado como 
+un sprete elevado, volatilidad ATR muy baja o muy  
+alta y mercado chopi en un rango estrecho. las 
+de indicador que son ideales para evitar zonas  
+de sobrecompra o sobreventa, tipo, por ejemplo, 
+un RSI, régimenes inválido o exclusiones mediante  
+un indicador personalizado. Y finalmente, la de 
+cuenta que te frenan en seco si tienes demasiadas  
+órdenes, abierta un margen insuficiente, el 
+dry down diario se ha superado u otras reglas  
+de cuenta que quieras definir. Importa saber 
+aquí que la interfaz te va a permitir dejar este  
+paso completamente vacío y seguir adelante 
+sin impedírtelo. Pero a nivel operativo,  
+separar la señal de exclusión es lo único que te 
+permitirá saber en el futuro si lo que falló de  
+tu modelo predictivo también falló por el filtro o 
+el entorno o no. El paso número seis se centra en  
+la gestión de posición porque con las entradas 
+ya asumidas aquí concretamos exclusivamente la  
+salida. Defines tu stopl pudiendo elegir entre 
+punto fijo, ATR, porcentaje sobre el precio o  
+un nivel técnico basado en un indicador y decide 
+si ese stop se moverá durante la operación o no.  
+También configuras tu tape profit, tu relación 
+matemática con el stopls, una posible escalera  
+de salidas parciales o incluso decide operar sin 
+take profit si esa fuese tu estrategia. A esto le  
+añades tu trailing stop, ya sea estándar, por ATR 
+o avanzado, los cierres parciales, el break even  
+y opciones clave como por ejemplo la salida por 
+tiempo, fijando un máximo de barra o el cierre por  
+el fin de la sesión. O incluso si decides que la 
+posición se cierre antes de una señal en contra,  
+también podrías configurarlo aquí. Esto importa 
+muchísimo porque sin una salida explícita,  
+un mercado lateral prolongado simplemente 
+te va a congelar el capital y ensuciar toda  
+tu estadística. Te dejo un tip clave y es este, 
+la salida por tiempo es una regla humilde, pero  
+tremendamente útil cuando el precio se estanca 
+y no toca tu stor ni tu objetivo. En el paso  
+número siete, abordamos el riesgo y el capital 
+definiendo el tamaño y los límites de tu cuenta.  
+Aquí elige el método de sizing como por ejemplo 
+riesgo porcentual sobre el stop law, lote fijo,  
+fixer ratio, el modelo de Ryan o el criterio de 
+Kelly, todo con su fracción y parámetros de win  
+rate y payf. Además, añades tus escudos, el máximo 
+de operaciones simultáneas que quieres tener  
+abiertas, la pérdida o ganancia máxima diaria, 
+el límite de frecuencia de tus trade, el margen  
+mínimo requerido y opciones avanzadas como, por 
+ejemplo, el seguimiento de la curva del equity.  
+Debes entender por qué esto importa tanto. El 
+paso número seis diseña la geometría exacta  
+de tu trade, pero el paso número siete decide 
+cuántas veces esa misma geometría puede hundirte  
+en un solo día según el tamaño de tu lote. El 
+diseño ya es exhaustivo. Antes del resumen,  
+la herramienta te enfrenta ahora sí o sí a un test 
+de especificación. No es un examen que bloquea el  
+software, es un espejo de vulnerabilidades. Aquí 
+la herramienta te enfrenta al paso número ocho,  
+que es el test de 16 preguntas. Y exactamente 
+es esto, un checklist automático que revisa  
+si tu borrador puede responder de forma clara a 
+las preguntas clásicas de una auditoría técnica.  
+Y ojo, puedes tener íem en rojo y seguir adelante. 
+Esto es deliberado porque la plataforma no te va a  
+salvar de tu propia indisciplina, simplemente te 
+lo va a mostrar a la cara. Los bloques se dividen  
+como en código. En mercado de la pregunta uno 
+a la cuatro, revisa tu instrumento time frame,  
+sesión y el express máximo definido en la señal 
+de la 5 a la 8. Aquí comprueba tu condición de  
+entrada en largo y corto exacta. el modo de tus 
+cortos, cómo gestionas condiciones simultáneas y  
+qué exclusiones activas tienes ahora mismo sobre 
+la señal. En gestión de posición de la pregunta  
+9 a la 12, aquí revisa básicamente cómo es el 
+stop, si se mueve durante la vida del trade,  
+si hay take profit y si hay cierre o no por tiempo 
+u otra condición. Y en riesgo de la 13 a la 16,  
+aquí se audita cuánto capital utilizas por 
+operación. El límite de trade simultáneo,  
+tu dry down diario máximo y la frecuencia de 
+la operativa. Cuando te falta algo, el test te  
+da un enlace directo al paso relacionado para que 
+vayas y lo parché o lo corrijas correctamente. Si  
+decides ignorar estos avisos y genera el bot 
+de todos modos, lo que tienes entre manos no  
+es una especificación cerrada, es solo intuición 
+exportada a nodos. Finalmente, en el paso número  
+nueve, entramos en el resumen y generación. ¿Qué 
+ocurre aquí? Pues bien, aquí visualizas tu resumen  
+completo. Puedes guardar tu bluepin y al darle a 
+generar el cliente persiste el proyecto con toda  
+su metadata y mapea tus decisiones directamente 
+a lógica and. Cruza esto con las exclusiones si  
+las definiste y amarra las acciones operativas 
+al riesgo y límites que fijaste. Lo que verás  
+en el Canva es un grafo perfectamente ordenado 
+que refleja con cruda realidad qué tan completa  
+está tu respuesta a lo que haría un bot serio 
+en tu lugar. Esta es la verdadera recta final,  
+un diseño en tres capas exhaustivo donde antes de 
+darte el resumen, el sistema te obligó a mirar tus  
+propios puntos ciegos mediante una auditoría. 
+Y lo más interesante de todo esto es que no te  
+prohibió avanzar aunque suspendieras. Es la forma 
+fácil para crear un bot de trading desde cero,  
+sin saber programar e incluso sin saber ni tener 
+qué es lo que querías hacer. Con esto hemos  
+resuelto la especificación técnica mediante 
+los modos del blueprint. Hemos erradicado la  
+ambigüedad de las reglas, separado las exclusiones 
+de las señales y expuesto nuestras propias lagunas  
+en la auditoría de las 16 preguntas. Tu bot en 
+el Canva ahora tiene integridad estructural,  
+pero tener un sistema correctamente especificado 
+expone inmediatamente el siguiente gran problema  
+analítico. La tentación natural ahora es ir al 
+back test y empezar a mover los parámetros hasta  
+que la curva de capital suba y suba y suba. Eso se 
+llama sobre optimización y garantiza que tu botase  
+en el momento en el que lo conecte a una cuenta 
+real con datos fuera de la muestra. Ajustar el  
+sistema a la historia destruye su esperanza 
+matemática futura. Pero, ¿cómo validar este  
+bot de trading recién creado de forma robusta 
+y profesional? Es un proceso contrainttuitivo  
+y es exactamente lo que desarrollo en 
+el siguiente vídeo. Nos vemos dentro.
+[música]
+he

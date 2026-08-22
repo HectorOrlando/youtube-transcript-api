@@ -1,0 +1,332 @@
+Titulo              : VPS Barato = Dinero Quemado | La verdad sobre latencia
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-01-11
+Duracion            : 19:11
+Vistas              : 2,721
+URL                 : https://www.youtube.com/watch?v=pACaX1dtzU0
+----------------------------------------------------------------------
+
+Esta pequeña diferencia de cinco puntos 
+no es mala suerte, es un robo y te acaba  
+de costar la rentabilidad completa del mes. 
+El 90% de los traders culpan a su estrategia,  
+pero el problema real es que están operando con 
+una desventaja física de 100 milisegundos contra  
+instituciones que operan solo a 1 milisegundo. 
+He supervisado miles de despliegues de botch  
+en los últimos 15 años y he visto cuentas 
+quemarse solo por la latencia. Pero hoy te  
+voy a enseñar a construir la infraestructura 
+que necesitas para ser rentable. Para que  
+no pierdas tu tiempo, este es el plan de 
+batalla exacto de los próximos 15 minutos.  
+el mapa físico. Aprenderás a colocar tu bot 
+literalmente en la mejor ubicación posible,  
+en el mismo edificio que tu broker, para bajar el 
+pin de 50 milisegundos a menos de 1 milisegundo  
+y hacerlo con la mejor optimización posible. 
+La mentira del hardware. Te mostraré por qué  
+pagar más RAM te está haciendo más lento y cuál 
+es la única especificación de CPU que importa.  
+El sistema operativo. Resolveremos el debate 
+Windows Linux con datos reales de ejecución  
+y no opiniones. Y el secreto, al final te daré 
+la configuración oculta dentro de Metatrader,  
+que el 99% de los traders que se inician 
+ignora y que es la responsable real de tu  
+enlipaje. Si no aplicas este último paso, los 
+tres anteriores no sirven para nada. Empezamos.  
+Un error que cometen muchos traders es crearse 
+sus propios paneles de trading o algoritmos para  
+ejecutar órdenes saltándose el Metatrader, pero 
+hay algo que debes saber al respecto para que no  
+termines perdiendo más dinero aún. Operar desde 
+casa con desarrollos de terceros que no sabemos  
+cómo están configurados, aun con fibra óptica, es 
+un suicidio para el trading de alta frecuencia,  
+el scalping o trading algorítmico con bot en 
+general. La señal tiene que viajar desde tu  
+router, pasar por el proveedor de internet local 
+o el servidor donde se aloje el servicio que sea  
+que utilice y cruzar nodos internacionales para 
+finalmente llegar al broker. Son una media de 150  
+milisegundos de viaje como poco. En ese tiempo el 
+precio ya ha cambiado. Pero vamos a dejarnos de  
+teorías. Vamos a medir tu latencia real ahora 
+mismo. Abrid la terminal de comandos o cmd.  
+Escribid pink seguido de la dirección del servidor 
+de vuestro broker. La podéis encontrar en vuestro  
+Metatrader. En mi caso, como podemos ver aquí, me 
+da una media entre 140 y 150 milisegundos. Si os  
+da más de 100 milisegundos, estáis perdiendo 
+dinero en cada trade. Hacedlo ahora. Ahora.  
+Abrid vuestro Metatrader y comprobar la conexión 
+real que tiene vuestro terminal con el broker. En  
+mi caso, lo miro aquí, 53.42 milisegundos. ¿Qué 
+está pasando aquí? ¿Por qué esa diferencia de una  
+media de 150 a 54 o 53 en este caso? Pues porque 
+Metatrader utiliza un protocolo TCP optimizado  
+directo, no un protocolo genérico ISMP. o lo que 
+es lo mismo, tu Metatrader tiene una conexión VIP  
+directa con el broker. La prueba del pin que hemos 
+hecho es como enviar un paquete por correo público  
+que pasa por 1000 oficinas, pero desde Metatrader 
+es como tener un mensajero privado que va directo  
+del punto A al punto B. En tu trading lo que 
+cuenta es lo que se ve en tu Metatrader. Por  
+eso es importante dejarse de inventos raros y 
+optar por soluciones profesionales como las que  
+os voy a compartir en este vídeo. Pero aquí está 
+el twist del asunto. Para la mayoría de los casos,  
+si tuviéramos un VPS en Equinix N4 o LD4 con 
+protocolo Metatrader optimizado más colocación  
+en el mismo data center que tu broker, esos 53 
+milisegundos bajarían a solo uno o 2 milisegundos.  
+Pero claro, estos servidores son nivel y suelen 
+rondar más o menos los 400, 500 € mensuales,  
+lo que los hace inaccesible para la mayoría de los 
+traders retails, por lo que necesitamos darle una  
+vuelta de tuerca al asunto y encontrar opciones 
+más accesibles para el bolsillo de la mayoría.  
+La mayoría de los traders cuando llegan a este 
+punto directamente miran algún vídeo chorra por  
+internet o directamente recurren a preguntar en 
+alguna comunidad de trading en la que estén. Oye,  
+gente, estoy mirando de [ __ ] un VPS, pero no sé 
+cuál [ __ ] Quiero algo que sea bueno, bonito y  
+barato. Alguno tiene algo que le vaya bien y 
+al final terminamos todos en el mismo sitio,  
+sea bueno o malo. Pero si quieres una solución, 
+algo más profesional a un precio ridículamente  
+bajo y con una velocidad sorprendente, quédate 
+porque te digo la receta. Aquí es donde ganan  
+los profesionales y desde hoy vas a comenzar a 
+ganar tú también. La mayoría se cree que cuanto  
+más cerca es mejor y evidentemente la ubicación 
+es importante, pero no solo es geografía,  
+sino protocolo, infraestructura y optimización. El 
+primer paso obvio es conocer la ubicación de los  
+servidores de nuestro broker, los servidores que 
+utilizamos nosotros. En mi caso, mi broker está  
+en Europa, concretamente en Frankfurt, Alemania, 
+por lo que cuanto más cerca pueda ubicar mi VPS,  
+mejor. Si no sabes dónde están los servidores 
+de tu broker, lo puedes ver generalmente desde  
+el propio Metatrader, donde miramos antes 
+los milisegundos. Y si no te aclaras con el  
+Metatrader, no te angusties. Ve a Perplexity, por 
+ejemplo, y pídele que investigue la ubicación de  
+los servidores y te la dará en un par de segundos. 
+Seguro que has pensado, "Genial, busco el VPS que  
+esté más cerca de mi broker con el pin más bajo 
+y listo. Grave error. El pin bajo con jiter, es  
+decir, con inestabilidad, entre otras casuísticas, 
+son peor que un pin alto estable. Un VPS barato,  
+no optimizado, puede darte 2 milisegundos un 
+segundo y 500 milisegundos al siguiente. Vamos  
+a ver cómo evitar las trampas baratas. Como hemos 
+dicho, la ubicación geográfica es importante,  
+pero no lo es todo. Para mi caso, sobre el papel, 
+elegiría Hetchner por encima del típico contabo.  
+¿Por qué elegiría Hetchner sobre contavo si ambos 
+están en Frankfurt? Porque Hetzner tiene peer  
+inding directo con Theix, el Internet exchange 
+más grande de Europa. Eso significa ruta directa  
+con mi broker, sin rodeos. Contavo está en 
+Frankfurt también, pero su infraestructura  
+de routing no está optimizada para esta ruta. Es 
+como tener dos restaurantes en la misma ciudad,  
+pero uno tiene acceso directo a la cocina y 
+el otro tiene que pasar por tres pasillos.  
+Cetchner tiene infraestructura más integrada 
+y optimizada sobre todo para el trading,  
+mientras que contavo tiene una infraestructura 
+más inflada, pero menos eficiente para lo que  
+nosotros como traders realmente necesitamos. y 
+tienen el mismo precio. Incluso algo más barato,  
+Hetchner, porque no pagas toda la mensualidad 
+si no la consumes. Por este motivo, Hetchner es  
+la opción más profesional y robusta para bot de 
+trading. Para que sea más claro, lo podéis ver en  
+esta tabla comparativa que os he creado, donde 
+se ve rápidamente lo que no está optimizado,  
+por ejemplo, en este caso en contavo y que sí 
+que está en Hechner. Contavo no tiene pin directo  
+o internet exchange. Solo uplink genéricos sin 
+backbone privado, es decir, usa internet público  
+como nosotros y o variable en planes baratos, es 
+decir, el que cogemos todos para hacer trading con  
+hasta 1500 ips en el plan básico y sin la garantía 
+de latencia o SLA. Del otro lado vemos a Hetner y  
+lo que sí tiene optimizado, como por ejemplo peing 
+directo de el point of presen más importante de  
+Europa, imprescindible para un trader, el backbone 
+de fibra oscura o dark fiber o lo que es lo mismo,  
+conexión privada no pública. Más de 120 
+GB por segundo entre data center. Esto es  
+redundancia extrema. Siete uplinks diferentes. 
+Si uno falla, hay otros seis. I o consistente,  
+incluso con los planes baratos. Pero aquí viene 
+el problema que nadie te cuenta y que lo cambia  
+todo. Empresas como Hetchenner tienen un problema 
+enorme para nosotros como trader de Metatrader y  
+todas las plataformas Retails en general es 
+hostil con Windows. Esto, ¿qué significa?  
+pues que sus servidores Cloud nativos de Linux 
+mayormente, por lo que si quieres instalar tu  
+Windows, ahí no hay ningún botón de instalar 
+y listo. Tienes que entrar en modo rescate,  
+montar una ISO personalizada, usar comandos 
+de consola, inyectar los driver manualmente,  
+etcétera, etcétera, etcétera. Es un proceso 
+técnico tedioso y si cometes un error,  
+tu servidor no arranca. Además, al no tener 
+una licencia oficial gestionada por ellos,  
+ya que la tienes que aportar tú, puedes tener 
+y seguramente tendrás problemas de estabilidad  
+o drivers que te dejen tirado en medio de una 
+operación. Entonces, ¿qué hacemos? ¿Nos vamos a  
+contavo y aceptamos una infraestructura peor o nos 
+peleamos con la consola de comandos de Hechner?  
+Quizás para tu caso ninguna de las dos opciones. 
+Veamos si existe una tercera vía. Esta tercera  
+vía es la solución que combina la potencia 
+de una infraestructura profesional como la  
+de Hestner con la facilidad de uso de un iPhone. 
+Hablo del VPS nativo de Metatrader, el MQL VPS.  
+Mucha gente ignora esto porque piensan que es caro 
+o básico, pero escúchame atento. Meta, la empresa  
+de Metatrader, tiene servidores alquilados 
+directamente en los data center financieros,  
+Equinix, NI4, LD4, etcétera. Sí, esos data centers 
+tan caros que vimos inicialmente, donde un VPS nos  
+costaba cientos de euros al mes. No tienes que 
+instalar Windows, no tienes que configurar nada,  
+es literalmente un clon de tu terminal en la 
+nube. La latencia es ridícula y hablo por debajo  
+incluso de 1 milisegundo. Hablo de 0.20, 0.23, 23, 
+etcétera. Al ser un servicio dedicado solo para  
+Metatrader 4 y Metatrader 5, no compites con gente 
+minando criptos, alejando webs, alejando apps,  
+etcétera, como sí que pasa en los servidores 
+VPS baratos, donde toda la gente mete de todo  
+y tienes un servidor compartido. Esto conecta con 
+la mentira del hardware que te venden en todos los  
+sitios, aprovechándose del desconocimiento de 
+la mayoría de la gente. El usuario medio suele  
+pensar que necesita 32 GB de RAM y ocho núcleos 
+porque más es mejor y si tiene más de todo,  
+más rápido ir a su Metatrader. Pero recuerda esto, 
+Metatrader es single threaded. ¿Qué quiere decir?  
+usa un solo núcleo. Si contratas un VPS en contavo 
+con ocho núcleos, siete van a estar durmiendo. Lo  
+único que realmente marca la diferencia es la alta 
+frecuencia del reloj, ya que aporta velocidad pura  
+de ejecución. El VPS de Metatrader te asigna los 
+recursos justos y necesarios, pero optimizados  
+para ejecución. No te venden números grandes para 
+impresionar, te venden ejecución pura. Así que  
+en lugar de enseñarte a pelear con una línea de 
+comando de Linux en Hechner durante 40 minutos,  
+vamos a hacer lo que haría un trader inteligente 
+que valora su tiempo y su dinero. Vamos a ver cómo  
+se activa la opción nativa paso a paso. Fíjate lo 
+sencillo que es. Simplemente ves a tu Metatrader,  
+clic en la esquina inferior derecha donde ve la 
+latencia. Incluso también podrías hacer clic donde  
+la opción directamente donde ve el icono de VPS. 
+Directamente podemos dar clic en cualquiera de los  
+dos. Aquí ahora simplemente elegiríamos el plan 
+que queramos y el método de pago. Lo que ocurre  
+aquí es la magia de la tecnología. Tu terminal 
+local se clona al servidor, es decir, tus seas,  
+tus indicadores, tus señales, todo se mueve allí. 
+La ventaja brutal, no hay escritorio remoto. ¿Por  
+qué es una ventaja? Porque la interfaz gráfica de 
+Windows consume aproximadamente un 20 30% de los  
+recursos del VPS. Aquí al no tener una interfaz 
+visual que renderizar, toda la potencia va a la  
+ejecución de tus órdenes. Ahora bien, sé que 
+algunos de vosotros, por la razón que sea,  
+necesitáis un VPS completo con Windows, porque 
+quizás usáis un software externo o simplemente  
+os gusta ver el gráfico moviéndose. Si decides 
+ir por esta vía, una de las mejores opciones  
+quizás sea ir a contavo u otro proveedor externo 
+de Windows VPS. Pero si eliges esta opción, tienes  
+que escuchar y aplicar esto o perderás tu cuenta 
+de trading completa el día que menos te lo espere.  
+Ejemplo, claro, llega el viernes, NFP, volatilidad 
+máxima, tienes operaciones abiertas y de repente  
+Windows Update, tu VPS se reinicia solo. Si 
+usas el VPS de MQL5 que te acabo de enseñar,  
+esto no pasa, ellos gestionan el mantenimiento, 
+estás blindado. Pero si usas un VPS externo como  
+contabo, etcétera, Bill Gates es quien decide 
+sobre tu VPS. Por eso, si usas un VPS externo,  
+desactivar las actualizaciones automáticas es 
+obligatorio. Para ello, ve a configuración,  
+Windows Update, opciones avanzadas, notificar para 
+programar reinicio. Y además, no olvides estas  
+cuatro configuraciones adicionales. La hibernación 
+desactivada, la energía en modo alto rendimiento,  
+apagado de disco desactivado, suspensión USB 
+desactivada. Si eliges la opción de Metatrader  
+VPS, te ahorras todo este jaleo, que aunque es 
+fácil y rápido, para algunos, sobre todo con  
+versiones antiguas de Windows Server, se les puede 
+complicar un poco la cosa, pero si eliges VPS  
+externo como contavo u otro, haz esto hoy mismo o 
+no habrá paracetamol lo suficientemente grande en  
+el planeta que te libre del dolor de cabeza que 
+está por venir. Recuerda que si quieres dedicarte  
+profesionalmente al trading, debes actuar de 
+forma profesional en todas tus decisiones. Y  
+con dedicarte al trading profesionalmente, no me 
+refiero únicamente a querer vivir del trading,  
+porque aunque solo quieras generar un 
+pequeño ingreso extra a tiempo parcial,  
+vas a competir en el mismo mercado contra los 
+mismos contrincantes, todos ellos profesionales,  
+por lo que da igual si quieres sacar 100 € al 
+mes o 20,000. Este es un sector profesional  
+y hay que actuar en consecuencia con 
+responsabilidad y con inteligencia.  
+No dejes que nadie te convenza de lo contrario 
+o estarás perdido. Por eso no puedes omitir el  
+siguiente paso que te comparto. Ya sea que uses 
+el VPS de Metatrader o uno externo optimizado,  
+hay una cosa que ningún VPS puede arreglar si tú 
+no lo haces primero. La optimización interna del  
+Metatrader. Si tu terminal es basura, enviarás 
+basura a la velocidad de la luz. Primero, máximo  
+número de barras, bajar de ilimitado o el máximo 
+a solo 2000. Esto va a liberar una cantidad de  
+RAM masiva. Segundo, desactivar las noticias. Ve 
+a herramienta, opciones, servidor y fuera. Ahorra  
+ancho de banda. Un ancho de banda vital. Tercero, 
+sonidos. Desactívalos todos. Esto va a reducir  
+la latencia de entrada y salida. Y cuarto y más 
+importante, ocultar símbolos. Ve al marketwatch  
+o visualizador de mercado, clic derecho y ocultar 
+todo. Deja solo los mercados que realmente operas.  
+hacer esto me llevó de un pin inestable con CPU 
+al 40% a un pin plano de menos de 1 milisegundo,  
+CPU al 2%, ejecución instantánea. Esto es 
+lo que diferencia a un trader retile de  
+un trader profesional, la eficiencia invisible. 
+Ahora tienes la infraestructura. Si has elegido  
+el VPS de Metatrader, tienes la latencia más 
+baja posible sin dolores de cabeza técnicos.  
+Si has elegido configurar tu propio VPS, ya sabes 
+cómo blindarlo contra reinicios. Pero si pones a  
+un conductor novato en un Fórmula 1, se estrella 
+fijo sí o sí. Tu bot actual probablemente tiene  
+un código basura que tarda 500 milisegundos en 
+decidir una entrada anulando toda la velocidad  
+que acabamos de ganar con esta configuración. 
+Para solucionar eso y optimizar el código de tu  
+EA sin saber programar, tienes que ver este 
+vídeo de aquí donde desgloso cómo crear un  
+algoritmo limpio en TCHN mientras tú automatizas 
+la estrategia de trading favorita por completo.

@@ -1,0 +1,307 @@
+Titulo              : 👉🏾 CÓMO ES UN SETUP DE TRADING PROFESIONAL / TRADING ALGORÍTMICO CUANTITATIVO
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-09
+Duracion            : 15:24
+Vistas              : 632
+URL                 : https://www.youtube.com/watch?v=ONe3dURev8I
+----------------------------------------------------------------------
+
+En este vídeo os voy a enseñar cómo es mi propio 
+setup de trading profesional, cómo me lo monto yo,  
+cómo lo organizo, cómo lo gestiono todo y cómo 
+lo tengo montado y preparado para hacer trading,  
+tanto cuando estoy aquí en mi casa como cuando 
+estoy fuera, ya que normalmente en las oficinas  
+de Tchain cuando voy pues son para gestiones 
+de la empresa y sobre todo el trading es algo  
+que me gusta eh realizarlo en un ambiente cómodo. 
+Por eso lo tengo todo montado en casa y os voy a  
+enseñar todo sin guardarme nada de cómo lo tengo 
+montado de cer a 100. Bueno, lo primero de todo,  
+os pido disculpas por la calidad de la 
+grabación porque es un poco de andar por casa,  
+nunca mejor dicho, ¿no? Lo estoy haciendo yo aquí 
+un poco todo a pulso, pero eh quería enseñároslo  
+tal cual como lo tengo aquí montado sin eh dejarme 
+nada guardado. Entonces, ¿cómo lo tengo yo eh  
+montado? Pues bueno, [música] tengo dos monitores 
+panorámicos, uno sobrepuesto encima del del otro.  
+¿Por qué lo tengo así? Pues bueno, en la parte 
+inferior me suelo poner eh todo lo que estoy  
+monitorizando. Por ejemplo, cuando me abro todos 
+los Metatrader y voy analizando pues todos los  
+bot, los datos, etcétera, me lo monto por 
+aquí. Y ahora os voy a enseñar cómo utilizo yo  
+eh Metatrader en un Mac para que podáis verlo. Y 
+en la parte de arriba, pues siempre tengo puesto  
+lo todo lo que son las métricas, los dashboard, 
+etcétera, para ir monitorizando todo. Ahora os  
+lo voy a enseñar un poco para que lo veáis 
+un poco más al detalle. A mí me gusta tener,  
+como veis, detrás de los monitores, una 
+iluminación, ya que esto me separa un poco  
+los monitores de la pantalla y al final pues eh 
+agota un poco menos el cansancio, ¿no? Entonces,  
+os lo voy a enseñar por aquí para que veáis cómo 
+lo utilizo y cómo lo tengo eh montado. Pues bueno,  
+bueno, estas cositas que veis por aquí, pues 
+lo de siempre, el que tenga niño y hijo y tal,  
+pues ya sabe cómo va un poco el rollo y al final 
+pues aquí la decoración es un poco mía y y de mi  
+hija también, ¿no? Entonces, primero, eh, ¿cómo 
+lo tengo yo? Pues yo utilizo lo que estáis viendo  
+aquí, el stream deck del gato, que básicamente 
+es una botonera que eh se puede configurar,  
+¿no? Pues yo la tengo configurada con atajos pues 
+para abrir páginas web, para abrir eh Metatrader,  
+para realizar funciones repetitivas, etcétera, 
+etcétera. Entonces, me ayuda bastante sobre todo  
+eh a la hora de arrancar el ordenador. Nada más 
+arranco el ordenador, eh, ya tengo la secuencia  
+de botones que tengo que pulsar y abro todo 
+automáticamente. Y para cerrarlo lo mismo,  
+¿no? Entonces, yo ya tengo memorizada la secuencia 
+que voy haciendo y lo ejecuto todo un poco eh más  
+rápido. En cuanto a a periféricos, pues bueno, 
+tengo este teclado que la lo cogí hace no mucho,  
+eh, la verdad me va bastante bien. Lo bueno que 
+tiene que tiene un panel solar de Logic, o sea,  
+no tiene batería, no lo tienes que cargar nunca, 
+no tienes que hacer absolutamente nada, eh, nada  
+con él. Ratón, tengo este ergonómico. ¿Por qué 
+tengo este ergonómico aquí todo raro? Pues bueno,  
+si lo habéis utilizado ya sabréis lo para qué 
+sirven. Básicamente pues para eh túnel carpiano,  
+dureza del brazo, etcétera, etcétera. Resumiendo, 
+la posición esta, fijaros, si vosotros apoyáis  
+el brazo naturalmente, esta es la posición 
+natural cuando vosotros apoyáis la mano. ¿Qué  
+quiere decir? Fijaros, encaja perfectamente 
+con el ratón. La no natural es la de girar  
+el brazo y estar así con el ratón. Al final, 
+¿qué pasa? Pues si esto se hace poquito,  
+no pasa nada. Pero cuando se están muchas horas 
+eh como la que estamos nosotros, pues llega a  
+generar problemas en el antebrazo, etcétera, 
+etcétera. O sea, y luego pues la almodilla. Por  
+aquí también importante, que esto no sé si muchos 
+lo tenéis o no, ya os lo digo yo, esto es un lujo,  
+lo mejor de todo el setup, esta castaña por 
+aquí que parece una castaña para apoyar el brazo  
+y trabajar. Os lo digo, parece algo muy 
+simple, algo muy absurdo, pero realmente  
+eh muy importante. ¿Por qué? Pues si pasáis muchas 
+horas en el ordenador, no os duele el hombro,  
+pues [música] esto hace que el brazo descanse ahí 
+y quitamos ese dolor de hombro que a veces llega  
+a doler como una barbaridad. Entonces, pues un 
+poco lo tengo montado aquí. ¿Qué hago yo? Bueno,  
+pues una de las cosas que utilizo es esto de 
+aquí, que es básicamente pues para un reloj  
+de cuenta atrás para ir utilizando, por ejemplo, 
+eh Pomodoro. Yo no la utilizo para esto como tal,  
+sino eh ya cada vez la utilizo menos, pero sí que 
+al principio una de las cosas que me pasaba mucho  
+es que pues me ponía a diseñar bot o me ponía 
+algún proceso y se me pasaban las horas y las  
+horas y las horas y no me daba cuenta. Y al 
+final [música] con esto lo que hago es delegar  
+suficiente, ni un minuto más ni un minuto menos a 
+cada función. Si en ese tiempo lo he desarrollado  
+perfecto, si no corto y sigo a la siguiente 
+y no sigo atascado, ¿no? Pues por ejemplo,  
+estoy diseñando un flujo de gestión para un bot 
+de trading, pues le dedico 30 minutos. Si en 30  
+minutos no lo he diseñado porque estoy atascado, 
+lo cojo, lo dejo, me pongo con otra cosa y luego  
+al rato vuelvo otra vez. Y ese cambio mental 
+de pasar de una cosa a otra muchas veces pues  
+desbloquea, ¿no? Porque al final eh digamos la 
+carga psicológica del pensamiento para este tipo  
+de trading que hacemos nosotros no es física, 
+¿no? No es como, por ejemplo, para clavar un un  
+tornillo en la pared. Mientras más fuerza le hagas 
+al destornillador y más gire, más rápido lo vas a  
+meter, ¿no? La mente no funciona así. Mientras más 
+fuerza queremos hacer para sacar algo, más difícil  
+va a ser que lo podamos sacar, ¿no? Y a veces 
+viene bien desconectar. Pues esto lo utilizo  
+eh para desconectar. Luego también cuando voy 
+diseñando, voy haciendo cosas. Pues antes tenía  
+una grabadora, ahora tengo el el pl note este de 
+por aquí que lo veis por aquí. Pues básicamente  
+es una grabadora. le tengo el el otro modelo y 
+este que básicamente pues es para grabar todo.  
+Básicamente ya lo conoceréis, lo grabas 
+todo. Lo voy a poner por aquí estaba cargando  
+y lo he desenchufado al sacarlo de aquí. 
+Básicamente lo que hace es grabar todo y luego  
+pues podemos generar resúmenes, transcripciones 
+con IA, etcétera, etcétera. Entonces, pues bueno,  
+yo lo uso muchas veces mayormente para eh las 
+reuniones, reuniones con eh con los compañeros,  
+reuniones de trabajo, etcétera, y muchas veces 
+pues para apuntes de trading, etcétera, etcétera.  
+Bueno, luego yo tengo el soporte del móvil. Eh, 
+esto importante, ¿para qué es esto? Pues nada,  
+los para qué los utilizo yo mayormente aquí 
+si tengo altavoces y de todo pues soy mucho de  
+escuchar eh audiolibros. Entonces, cuando me pongo 
+audiolibros, pues en mi casa pues se genera un  
+poco de de angustia, ¿no? Porque siempre está la 
+persona ahí con la voz típica de audiolibro, pam,  
+pam, pam, que bueno, a mí me gusta, lo escucho y 
+tal, pero pues eh a mi mujer y a mi hija no les  
+gusta estar todo el rato escuchando audiolibro. 
+Entonces, para no poder dormir dentro de casa y  
+no en el sofá ni en la calle, pues me compré esto 
+y lo utilizo para esto. Luego, tema de ordenador,  
+¿qué utilizo yo? Yo tengo el el Mac Studio de 
+512 de RAM. Os lo voy a enseñar ahora. Bueno,  
+el micro que tengo, pues para cuando eh 
+hago reuniones y tal, estos pulserillas  
+de decoraciones de de mi hija. [música] Sin 
+más, pero bueno, os voy a enseñar por aquí  
+el Mac Studio por aquí. [música] Pues este es 
+el ordenador que tengo yo principal aquí en  
+en casa es [música] el Mac Studio, 
+el Apple M3 Ultra de 512 de RAM,  
+básicamente el ordenador principal. Tengo 
+también este ordenador. Este me lo monté yo.  
+Es un ordenador eh Windows que me monté yo. 
+Simplemente pues lo utilizo muchas veces  
+para back testing, etcétera. Bueno, estos 
+son 10 dirham de de Dubai, simplemente de  
+recuerdos de los antiguos, pero ¿qué pasa? Yo 
+no utilizo siempre el Windows, tengo aquí abajo  
+el Parallels Descope, que básicamente es, 
+le doy aquí para que lo veáis. Pues ya veis,  
+es un Windows simulado dentro de eh mi Mac 
+Studio. Yo le doy aquí directamente, arranca  
+y aquí tengo pues lo que sería el 
+Metatrader, ¿no? Aquí tengo todo. Bueno,  
+ahora está cuando arranca se pone un poco loco. 
+Ahí está, ahí se estabiliza y ya está. Bueno,  
+pues aquí tengo Metatrader y básicamente aquí lo 
+que tengo es un Windows, ni más ni menos. [música]  
+Tengo un Windows simulado. Si 
+yo cierro aquí los Metatrader,  
+tengo el Windows, básicamente, o sea, lo que 
+sería un Windows normal y corriente, pero dentro  
+de mi Mac, aunque como digo, tengo el ordenador de 
+Windows, que también lo utilizo para cuando quiero  
+hacer eh optimización en más tiempo y no dejar el 
+Mac Studio encendido todo el tiempo. lo hago en el  
+en el Windows, que es este de aquí, 
+que eh no es una marca en concreto,  
+me lo me lo construí yo con piezas como como 
+bueno, como yo como yo quería hacérmelo,  
+sobre todo optimizado para para este tema. Luego 
+por aquí un poco, bueno, algunos me preguntaréis,  
+¿qué es qué es tanto cacharreo de ese que tienes 
+por ahí? Pues no, bueno, esto decoración de mi  
+hija, una excursión que fue a una mina de sal, 
+esto una piedra que me pintó ahí del jardín,  
+unos muñecos que le han tocado repe en los 
+huevos Kinder y y me los da a mí. Y bueno,  
+un poco el tema de este. Yo uso muchas veces 
+también eh temas de esto que son los los fiters  
+básicamente pues por estar aquí, ¿no? Simplemente 
+y y vas pues eh muchas veces por nervio, estrés o  
+ya por por porque estás ya eh inconscientemente lo 
+coges y vas moviendo. Simplemente eh te ayuda un  
+poco a veces a concentrarte. A mí me ayuda mucho a 
+concentrarte. Y esto tan raro que tienes por aquí,  
+¿qué es lo que es? Pues nada, esto es un 
+fósil de megalodón y esto es un tetadma de  
+Alejandro Magno de Plata, que lo tengo por aquí 
+de recuerdo. [música] Y nada, básicamente un poco  
+así sería el setup. Os voy a enseñar ahora eh ah, 
+bueno, por aquí también más cosas. Bueno, tengo el  
+[música] el ebook simplemente para leer 
+y ahora os voy a enseñar qué hago yo,  
+cómo traslado todo esto cuando eh salgo fuera de 
+casa o voy de viaje, cómo me llevo todo esto para  
+hacer trading fuera de aquí. Pues bueno, cuando 
+me voy de viaje, como norma general, me llevo el  
+iPad Pro con el Magic Keyboard, básicamente y el 
+Mac Pro que tengo, un M un M4, y os voy a enseñar  
+qué hago [música] cuando me voy de viaje, cómo 
+convierto esto en una estación de trading que sea  
+lo más parecido o equivalente a esto de aquí. 
+Bueno, pues básicamente así es como me lo montó.  
+tengo el estos dos monitores eh plegables que los 
+incorporo aquí al Mac Studio y de esta forma pues  
+ya veis, fijaros, el tamaño pues viene a ser más 
+o menos el mismo que el de una pantalla. Fijaros  
+donde llega una y donde termina, pues es como 
+si me llevase uno de estos de viaje organizado  
+en tres pantallas. cuando me lo llevo, eh, y 
+estoy, pues digamos en un aeropuerto o un viaje de  
+tránsito o algo, pues esto es que no ocupa nada. 
+Esto literalmente son eh unos 2 3 mm cada monitor,  
+o sea, en nada. Cuando queda plegado, quizás 
+queda eh como un dedo, así que se lleva en el  
+mismo maletín del portátil, donde estés, lo coges, 
+lo hable, lo despliega y tiene ya automáticamente  
+un monitor eh panorámico. Si ya estoy en un lugar 
+eh más cómodo, digamos, pues estoy eh en un hotel  
+o en alguna reunión, en una sala de reuniones o 
+lo que sea, sí que eh no soy muy fan de utilizar  
+todo desde aquí. Entonces tengo eh el trackpad 
+y el teclado de Apple también que me lo suelo  
+me lo suelo llevar para no utilizarlo todo desde 
+aquí. Aparte de esto, eh, ¿qué hago? Y esto ya son  
+fricadas mías, lo sé, lo reconozco, es lo que hay, 
+me gusta mucho la tecnología. [música] ¿Qué hago  
+para literalmente hacer trading como si estuviese 
+tocando las velas? Pues bien, tengo por aquí este  
+este Mac Mini, a ver si no la lío mucho por aquí 
+tengo un Mac Mini. Este es el de 64 de RAM, o sea,  
+el Mac Mini a tope de todo. Si le pusieses todo, 
+lo que se le puede poner sería este de aquí. ¿Y  
+qué hago con esto? Pues fijaros con esto y aquí 
+ahora imaginaros cómo es hacer trading con esto.  
+Una auténtica locura lo que os voy a enseñar 
+ahora mismo. [música] Pues aquí lo tenéis.  
+Conecto el Mac Mini y como si me voy por ahí de 
+viaje no tengo eh monitores y voy a un hotel,  
+un Airbnb o lo que sea, pues sí que tengo ya 
+normalmente la tele, pero también la tele del  
+comedor es super incómoda para hacer trading. ¿Qué 
+hago yo? Y lo reconozco, estos son fricadas mías,  
+es lo que hay. ¿Qué hago yo? Pues me llevo 
+la APE Vision Pro. Fijaros. Imaginaros ahora  
+lo que os voy a decir. Imaginaros qué locura es 
+esto [música] haciendo trading en una pantalla  
+de metros, o sea, literalmente de metros de altura 
+y de metros de de anchura. O sea, imaginaros ahí  
+vosotros dentro del Metatrader moviendo las velas, 
+mirando los boss cómo operan. Pues esto es lo que  
+se hace con la Apple Vision Pro. Literalmente 
+hacéis la pantalla lo grande que queráis, os la  
+ponéis por donde queráis y hacéis lo que queráis 
+con ella. O sea, una pasada, no es necesario para  
+hacer trading, ni muchísimo menos. Como digo, 
+estos son eh fricadas mías que tengo yo ya que  
+que me que me gustan, pero bueno, pues al final 
+cada uno tiene sus rollos, ¿no? Pues nada, este  
+es un poco mi setup de trading, mi setup de de 
+cacharreo personal aquí en casa. Si os gusta, pues  
+darle like, comentarlo y os enseñaré cómo tengo 
+el de la oficina. Evidentemente no tiene nada que  
+ver con este. Este es aquí hoy os he enseñado 
+mi mi parte personal más íntima, ¿no? Donde yo  
+hago trading aquí en mi casa, en el espacio que 
+tengo habilitado para ello. Si queréis ver el de  
+la oficina, ya está enfocado en otro punto de 
+vista personal, aunque también sigue habiendo  
+alguna decoración de mi hija, pero ya no hay tanto 
+como como lo que hay por aquí por casa, ¿no? Así  
+que pues nada, ¿cómo es vuestro stat de trading? 
+¿Cómo os gustaría que fuese? ¿Alguna idea para  
+mejorar este que tengo yo por aquí? Ya sabéis que 
+todas las ideas que me déis las apunto, tomo nota  
+y todo lo que sea mejorar y avanzar vamos a por 
+ello. Un saludo a todos y suelto un puesto trade.
+[música]

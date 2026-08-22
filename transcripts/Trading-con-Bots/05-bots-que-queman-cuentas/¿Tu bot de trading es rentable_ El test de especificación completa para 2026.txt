@@ -1,0 +1,316 @@
+Titulo              : ¿Tu bot de trading es rentable? El test de especificación completa para 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-05-03
+Duracion            : 16:09
+Vistas              : 917
+URL                 : https://www.youtube.com/watch?v=cSC7c4JY3OQ
+----------------------------------------------------------------------
+
+En este vídeo te voy a enseñar a automatizar 
+tu trading en Metatrader paso a paso. ¿Por  
+qué debes saber que hay un tipo de error que 
+destruye proyectos de automatización antes de  
+que lleguen a Metatrader? Y no es un error 
+técnico, es un error de diseño y consiste  
+en intentar automatizar una estrategia 
+que nunca estuvo correctamente diseñada.  
+Cuando operas en manual, tu cerebro rellena los 
+vacíos de tu estrategia de forma automática, casi  
+sin darte cuenta. Aplica filtros que nunca has 
+escrito, usas contexto que no están definidos en  
+ninguna regla y eso hasta cierto punto, si tienes 
+la experiencia necesaria puede hasta funcionar. si  
+tienes el juicio de la experiencia necesario para 
+hacer que funcione. Pero si no la tienes y recién  
+estás comenzando en el trading, necesita la guía 
+paso a paso que te voy a compartir en este vídeo.  
+El problema se genera cuando intentas trasladar 
+eso a un sistema automatizado. Eso vacío aparecen  
+y el bot lo rellena de la peor forma posible, 
+ejecutando sin ningún filtro. En este vídeo vamos  
+a resolver este problema de raíz con un proceso 
+sistemático de formalización y al final del vídeo  
+tendrás las herramientas para convertir cualquier 
+estrategia de trading en un conjunto de reglas que  
+un ordenador pueda ejecutar exactamente como tú lo 
+harías. Vamos a trabajar en tres bloques. Primero,  
+entenderemos por qué la mayoría de estrategias 
+discrecionales tienen lagunas estructurales que  
+son visibles hasta que intentas automatizarlas. 
+Segundo, el proceso de formalización en tres  
+capas, es decir, señal, exclusiones y gestión. Y 
+tercero, el T de especificación completa que te  
+dice si tu voz de trading está listo para pasar a 
+Metatrader o si todavía le faltan piezas. Cuando  
+un trader discrecional explica su estrategia, 
+lo que describe es el núcleo, la señal principal  
+que busca en el mercado. Pero alrededor de esa 
+señal hay una capa de filtros implícitos. que  
+ha desarrollado con la experiencia o a través 
+de haber ido recopilando ideas y concepto y que  
+aplica todo de forma automática sin ser consciente 
+de ellos. Esos filtros son las lagunas invisibles  
+que te comento. Un ejemplo concreto, un trader 
+coopera cruces de medias móviles en Forex.  
+Aplica consciente o inconscientemente filtros 
+como estos que te comparto. No entra en el  
+cruce si está a menos de 30 minutos de un dato 
+macroeconómico importante o no entra si el spread  
+está inusualmente alto o no entra en tendencias 
+alcistas durante el cierre de la sesión asiática  
+si el activo tiene alta correlación con el Nike o 
+por ejemplo no escala una posición si ya tiene una  
+operación abierta en un activo correlacionado. 
+Pero ninguno de estos filtros está escrito,  
+aunque todos están aplicándose sobre la 
+estrategia manual. Por ello, cuando se  
+construye un SPA advisor basado solo en la señal 
+de cruce, es decir, en la señal de entrada,  
+sin todos esos filtros que forman el groso de la 
+gestión misma, el sistema opera un momento en el  
+que el trader, pues por ejemplo, nunca habría 
+elegido entrar y por lo tanto el resultado del  
+bot no va a ser el esperado o desde luego no va 
+a ser el mismo que el de la estrategia manual.  
+Y no es que el sistema sea malo, es que el sistema 
+está incompleto. La forma de identificar estas  
+lagunas no es intuitiva, pero requiere de un 
+ejercicio específico de revisión que vamos a  
+ver ahora. Hay una categoría de lagunas que 
+es especialmente difícil de detectar porque  
+no aparece en el análisis de condiciones de 
+entrada, aparece en el análisis de salidas y  
+es donde la mayoría de sistemas pierden la 
+rentabilidad que generan en las entradas.  
+Pero antes debe ser consciente de un punto crítico 
+de la automatización y es la estrategia de salida,  
+ya que la salida de una estrategia discrecional 
+son generalmente mucho más complejas que las  
+entradas. El trader discrecional ajusta el stop en 
+tiempo real basándose en datos como, por ejemplo,  
+cómo se va desarrollando la operativa. Amplía 
+el objetivo de beneficio si el movimiento tiene  
+fuerza o realiza un cierre parcial si se acerca 
+a una resistencia o por ejemplo cierra antes  
+de tiempo si detecta un patrón de reversión. 
+Nada de eso se puede automatizar directamente  
+porque ninguna de esas decisiones está basada en 
+reglas explícitas. están basadas en un juicio de  
+mercado en tiempo real. La formalización requiere 
+convertir ese juicio en criterios objetivos. Si  
+el precio se mueve a favor de un X%, mover el stop 
+a ese precio de entrada. Si el precio llega a una  
+resistencia anterior con una vela de divergencia, 
+por ejemplo, en el MACD, cerrar el 50% de la  
+posición, etcétera. Y eso sí es automatizable. 
+El juicio bruto, ¿no? La forma más efectiva de  
+formalizar una estrategia es hacerlo en capas, no 
+intentar escribir todo de golpe, sino construir  
+la especificación de forma secuencial, capa a 
+capa. La primera capa es la señal principal,  
+la condición o conjunto de condiciones que 
+genera la oportunidad operativa. Esto suele  
+ser lo que el trader ya tiene relativamente claro. 
+Por ejemplo, RSI por debajo de 30, cruce de media,  
+ruptura de máximo de las últimas 20 velas, lo que 
+sea que funcione como la hipótesis central de la  
+estrategia. La segunda capa son las exclusiones, 
+las condiciones que deben estar ausentes para que  
+la señal sea válida. Aquí aparecen los filtros 
+implícitos, contexto de mercado, momento del día,  
+correlaciones con otros activos, condiciones 
+de spread, eventos macroeconómicos programados,  
+etcétera. Esta capa suele ser la más larga y 
+la más compleja de construir porque requiere  
+hacer explícito lo implícito. La tercera capa es 
+la gestión de posición abierta. Stop loss, take  
+profit, trailing stop, cierre parcial, cierre por 
+tiempo, etcétera, todo lo que ocurre desde que se  
+abre la operación hasta que se cierra. Esta capa 
+determina en gran medida la curva de resultados  
+del sistema y recibe sistemáticamente menos 
+atención de la que se merece. Para identificar los  
+filtros implícitos de una estrategia discrecional, 
+existe una técnica que llamo la reversión de  
+operaciones rechazadas y funciona así. Revisa el 
+historial de operaciones que habrías podido tomar  
+según tu señal principal, pero que no tomaste. 
+Identifica al menos 10 casos en los que la señal  
+se generó, pero tú decidiste no entrar. Para 
+cada uno, escribe por qué no entraste. No el  
+resultado de qué habría tenido la operación, sino 
+el razonamiento que te llevó a ignorar la señal.  
+En este ejercicio van a aparecer los filtros de 
+forma natural, van a aparecer expresados de forma  
+cualitativa y vaga. Al principio el mercado pues 
+no se veía bien, había demasiada incertidumbre,  
+el contexto no era el adecuado, etcétera, pero 
+con trabajo de precisión se pueden convertir en  
+condiciones objetivas. El objetivo del ejercicio 
+no es capturar todos los filtros posibles,  
+es identificar los cinco o seis que tienen mayor 
+frecuencia. y mayor impacto en la calidad de las  
+señales. Esos son los que necesita incorporar al 
+sistema. Y aquí hay una trampa específica en la  
+que caen casi todos los que hacen este ejercicio 
+por primera vez y si no la conoces, invalida  
+completamente el trabajo de formalización. La 
+trampa es el sesgo de resultado. Cuando revisas  
+operaciones pasadas, sabes cómo terminaron 
+y eso contamina el análisis presente. Si la  
+operación que rechazaste terminó siendo ganadora, 
+construye un filtro para no rechazar ese tipo de  
+operaciones en el futuro. Si la que tomaste fue 
+perdedora, construyes un filtro para evitarla. El  
+problema es que estás construyendo reglas basadas 
+en resultados individuales, no en probabilidades,  
+es decir, estás sobreoptimizando manualmente. 
+La forma correcta de hacer este análisis es  
+separar completamente la evaluación del contexto 
+preentrada del resultado de la operación. Solo  
+mira el momento en el que se generó la señal y el 
+estado del mercado en ese instante. No mires qué  
+pasó después. Si necesitas apoyo de alguien 
+que no conozca tu historial para hacer este  
+ejercicio de forma limpia, úsalo. Una vez tienes 
+los filtros identificados en lenguaje natural,  
+el siguiente paso es convertirlos a condiciones 
+lógicas expresables en términos de datos de  
+mercado. Este es el paso técnicamente más exigente 
+del proceso de formalización, aunque no requiere  
+programación. Y hay tres tipos de condiciones 
+que puedes usar. Las condiciones de precio. El  
+precio está por encima o por debajo de un nivel 
+calculable, como por ejemplo una media móvil,  
+un máximo previo o un porcentaje del rango. 
+Las condiciones de indicador, es decir,  
+un indicador calculado a partir del precio, 
+cumple una condición numérica o no la cumple.  
+y las condiciones de tiempo, la hora de la sesión, 
+el día de la semana o la proximidad a un evento  
+programado. Lo que no puedes usar directamente 
+son condiciones que dependen de juicio subjetivo,  
+como por ejemplo, el mercado tiene momentum, 
+hay presión compradora visible, la vela tiene  
+buena estructura, etcétera. Esas condiciones 
+necesitan ser operacionalizadas, convertidas  
+en una métrica calculable que las aproxime. Para 
+que nos alineemos todos, la operacionalización  
+es el proceso de definir cómo medir un concepto 
+cualitativo con datos cuantitativos. Ejemplo,  
+el momentum puede operacionalizarse como la tasa 
+de cambio del precio en los últimos n periodos.  
+La presión compradora puede aproximarse 
+con el ratio entre el volumen en velas  
+alcistas y el volumen en velas bajistas, por 
+ejemplo, en una ventana temporal definida.  
+Una buena estructura de velas puede definirse como 
+una vela con cuerpo mínimo de un X%, por ejemplo,  
+del rango total y mecha inferior máxima de 1%. 
+Ninguna operacionalización es perfecta, todas  
+son aproximaciones. El objetivo no es capturar 
+exactamente el concepto original, sino capturar  
+suficientemente información de la esencia para 
+que el filtro tenga valor predictivo. Todo lo que  
+hemos construido hasta aquí asume un mercado en 
+régimen estable, pero hay una condición de mercado  
+específica en la que el proceso de formalización 
+produce resultados completamente distintos a los  
+esperados y es la condición más común en los 
+mercados CFD en Metatrader. Metatrader opera  
+en instrumentos que tienen características 
+que afectan directamente a la formalización.  
+Los CFD sobre índice y materias primas tienen 
+gap de apertura entre el cierre del viernes y la  
+apertura del lunes o del domingo por la noche. 
+Los pares de Forex tienen cierres de sesión y  
+comportamientos distintos según la sesión que esté 
+activa. Y algunos instrumentos tienen horarios de  
+baja liquidez donde el express se expande y el 
+comportamiento del precio es estadísticamente  
+diferente. Esto tiene una implicación directa para 
+la regla de exclusión. Si no define explícitamente  
+que el bot no opere durante los primeros minutos 
+tras la apertura de una sesión o que no opere  
+con un sprint superior a un umbral definido, 
+vas a observar operaciones en condiciones que  
+nunca habrías elegido en manual. La formalización 
+correcta incluye siempre una capa de condiciones  
+de mercado, es decir, el estado de mercado en el 
+que el sistema está autorizado a operar o no. Y  
+esto es distinto de la señal de entrada. La señal 
+dice cuándo hay una oportunidad. Las condiciones  
+de mercado dicen cuándo el sistema está activado 
+para buscar oportunidades. Es una capa previa a la  
+señal, no posterior. Piénsalo como el protocolo de 
+un piloto de aerolínea. Hay condiciones de vuelo  
+en las que el avión está certificado para operar 
+y condiciones en las que no. Las condiciones de  
+mercado de tu sistema son el equivalente a esa 
+certificación. Operación autorizada dentro de  
+ella. posición cero fuera de ella. Antes de llevar 
+tus reglas a Metatrader, hay un test final que  
+determina si la especificación está lista. Se 
+hace respondiendo a 16 preguntas organizadas en  
+cuatro categorías. Si no puedes responder alguna 
+con una condición objetiva y medible, ese es el  
+trabajo que te queda por hacer. Categoría de 
+mercado. ¿En qué instrumento opera el sistema?  
+¿En qué time frame? ¿En qué horario de sesión está 
+autorizado a operar? Hay condiciones de spread  
+máximo definidas. Categoría de señal. ¿Cuál es la 
+condición exacta de entrada en largo y en corto?  
+¿Hay condiciones adicionales que deben cumplirse 
+simultáneamente? ¿Qué condiciones invalidan la  
+señal aunque se cumpla la condición principal? 
+Categoría de gestión de posición. ¿Cómo se calcula  
+el stop loss? ¿Se mueve durante la vida de la 
+operación? ¿Hay objetivo de beneficio definido?  
+Se cierra la posición por tiempo, además de por 
+precio. Y categoría de riesgo, ¿cuánto capital  
+se arriesga por operación como porcentaje de la 
+cuenta? ¿Hay un límite de operaciones simultáneas?  
+¿Hay una regla de máximo downown diario que 
+pause el sistema? En otro vídeo te enseñaré  
+a realizar todo el proceso completo de forma 
+más profesional y estructurada con el asistente  
+de diseño de voz profesionales de Techain, donde 
+puedes planificar, diseñar y estructurar tu voz de  
+trading paso a paso, sin pérdida. Pero lo dicho, 
+esto lo veremos en otro vídeo. Ahora es importante  
+que tengas en cuenta que la formalización no es 
+un paso previo a la automatización, es la parte  
+más importante del proceso. Todo lo que viene 
+después, el código, el backtail, la optimización,  
+etcétera, es consecuencia directa de la calidad de 
+lo que hayas escrito en esta fase. Un sistema con  
+señal excelente pero formalización incompleta 
+produce resultados aleatorios. Un sistema con  
+señal mediocre pero formalización rigurosa produce 
+resultados predecibles. La diferencia entre un  
+sistema que funciona y uno que rara vez lo hace 
+solo en la señal, está en la precisión de los  
+filtros, en la completitud de las condiciones 
+de exclusión y en la especificación de la  
+gestión de la posición. Si cuando termines este 
+ejercicio tienes un documento con respuesta a las  
+16 preguntas, reglas el lenguaje lógico para 
+las tres capas y filtro de mercado definido,  
+estás listo para el siguiente paso para construir 
+tu bot de trading. Hemos resuelto el problema de  
+la formalización. Tienes el proceso para convertir 
+cualquier estrategia en reglas operativas. Tienes  
+el test de especificación completo para saber si 
+estás listo o no. El siguiente problema es más  
+técnico y más concreto. Por ejemplo, cómo llevar 
+esta regla a Metatrader sin escribir ni una sola  
+línea de código. Pero hay herramientas visuales 
+como la app de Tchain que generan el expervisor  
+a partir de estas condiciones lógicas. El proceso 
+tiene pasos específicos y tiene trampa específica  
+si no entiendes el proceso. ¿Cómo evitarlas 
+y cómo hacer el primer back test con los  
+parámetros correctos es lo que cubre el siguiente 
+vídeo. Haz clic y nos vemos dentro. [música]
+e
+[música] h

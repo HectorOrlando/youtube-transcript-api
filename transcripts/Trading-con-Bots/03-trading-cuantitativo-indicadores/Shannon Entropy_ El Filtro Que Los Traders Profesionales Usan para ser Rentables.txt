@@ -1,0 +1,705 @@
+Titulo              : Shannon Entropy: El Filtro Que Los Traders Profesionales Usan para ser Rentables
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-02-11
+Duracion            : 38:32
+Vistas              : 1,977
+URL                 : https://www.youtube.com/watch?v=l7OnqAcyD04
+----------------------------------------------------------------------
+
+Hace un mes me compartieron un vídeo donde 
+alguien decía, "Habéis ganado $400,000 en 4  
+meses con una estrategia de breakout. Suena 
+impresionante, ¿verdad? Así que la analicé,  
+la apliqué en una cuenta demo y aquí está lo que 
+pasó. Pérdida del 28% en dos semanas. Un desastre  
+total. ¿Sabes por qué? Porque ese vídeo te enseña 
+a identificar Breakout, pero no te enseña a medir  
+el caos. Y aquí está lo más importante que voy 
+a enseñarte en este vídeo. De cada 10 breakouts  
+que ves en el gráfico, siete son simplemente 
+ruido estadístico, son trampas de alta entropía.  
+Pero hoy voy a mostrarte exactamente por qué 
+fallan todas las estrategias de breakout clásica y  
+más importante, cómo filtrarlos usando un concepto 
+de la física y de la teoría de la información  
+que los cuan utilizamos para separar la señal del 
+ruido. Esta es la clave que separa a los ganadores  
+de los que pierden dinero consistentemente. El 
+resultado que te vas a llevar hoy es un sistema  
+que distingue los breakouts reales de lo falso, 
+midiendo el desorden del mercado con un 85% de  
+precisión, porque esto es ingeniería financiera 
+aplicada, esto es techin. Empezamos. Aquí está el  
+mapa completo de lo que vamos a ver hoy. Primero 
+identificaremos el problema fundamental porque tus  
+ojos te engañan viendo un orden donde solo hay 
+caos. Segundo, te compartiré la fórmula exacta  
+de la entropía que necesitas para filtrar las 
+trampas del mercado. Tercero, te enseñaré cómo  
+aplicarlo desde hoy mismo y al final del vídeo te 
+enseñaré a automatizarlo todo para que el cálculo  
+físico se realice solo. Mira este gráfico. ¿Ves 
+este breakout fuerte hacia arriba? Cualquier  
+trader novato entra aquí. De hecho, estos son los 
+típicos movimientos ideales que todos utilizan  
+para mostrar resultado y vender formaciones de 
+trading como agua en el desierto. Pero la verdad  
+que nadie te dice y tus indicadores clásicos 
+no detectan es que este movimiento está vacío,  
+no tiene estructura, por lo que es aleatorio. 
+¿Cómo diferenciamos un movimiento sólido y con  
+acompañamiento por parte de los inversores de 
+uno vacío? Aquí es donde entra la entropía de  
+Shan. La entropía de Shannon responde exactamente 
+a la pregunta de es movimiento del precio una  
+estructura organizada y acompañada o es 
+simplemente ruido aleatorio por ello,  
+es excelente para filtrar señales falsas de 
+breakout y es la técnica que se utiliza en  
+el sector profesional para ejecutar este 
+tipo de estrategias con éxito. Desde hoy  
+vas a dejar de utilizar indicadores y criterios 
+subjetivos del sector retail y vas a dar un salto  
+cuántico hacia tu futuro como trader rentable y 
+profesional. Para que entiendan mejor el concepto,  
+en el sector profesional, una de las ramas que 
+aplicamos es la econofísica o física del mercado.  
+Dentro de esta rama existen multitud de fórmulas 
+y herramientas para aplicar al trading que ayudan  
+a mejorar exponencialmente los resultados de tus 
+inversiones. La entropía de Shannon es una de estas  
+herramientas y es utilizada a diario por los Hond 
+cuantitativos, gestores de riesgo, traders quant,  
+etcétera. es la herramienta más quirúrgica para 
+filtrar los breakouts que vas a poder encontrar.  
+Para simplificar el concepto, la entropía de Shannon 
+te dice exactamente por qué fallan tus breakouts.  
+Es la única explicación científica que necesitas 
+para ejecutar una estrategia de este tipo con  
+criterio. Para hacerlo, simplemente la entropía 
+mide el desorden o la incertidumbre de un sistema.  
+Imagina una habitación desordenada, eso sería alta 
+entropía. Una habitación perfectamente ordenada,  
+eso sería baja entropía. En el mercado 
+funciona igual. Entropía alta, el precio  
+se mueve violentamente, pero de forma aleatoria 
+y desorganizada. Es puro ruido. Si operas un  
+breakout aquí, te van a liquidar tarde o temprano. 
+Entropía baja, el precio se ordena, se organiza,  
+la información fluye en una dirección y tiene 
+acompañamiento. Aquí es donde ocurren la mayoría  
+de los breakouts ganadores. No es opinión, es 
+física del mercado. Si la entropía del activo está  
+subiendo, el caos aumenta. No toques ese breakout. 
+Si la entropía colapsa o baja drásticamente,  
+el mercado se está alineando. Eso es una luz verde 
+para un breakout. Aquí terminaría el 99% de los  
+tutoriales. Pero espera, porque medir esto mal es 
+peor que no medirlo? ¿Pensabas que bastaba con ver  
+si el mercado parece ordenado, verdad? Falso. El 
+ojo humano es terrible, estimando probabilidades y  
+aproximaciones. Vemos patrones donde no existen. 
+Unos verán el vaso medio lleno y otros verán el  
+mismo vaso medio vacío. Necesitamos calcular 
+la entropía de información matemáticamente,  
+bit por bit. Mira esto. Vamos a ver la causa 
+raíz. ¿Por qué fallan los breakouts clásicos?  
+Un breakout clásico te dice, "El precio rompió 
+una resistencia o un soporte. Y los indicadores  
+clásicos te dicen, "Está alineado, compra o 
+vende." Pero observa estos dos gráficos. El  
+gráfico A rompe la resistencia, el gráfico B rompe 
+otra resistencia. El gráfico A se va a la luna,  
+el gráfico B se da la vuelta, se hunde y toca 
+tu stop loss. La diferencia en el gráfico A,  
+la entropía era mínima, cercana a 0.5. El 
+mercado estaba más eficiente, es decir,  
+era más direccional. En el gráfico B la 
+entropía estaba al máximo, era puro ruido  
+disfrazado de movimiento. Un bot clásico entra en 
+los dos, un bot cuantitativo solo entra en el A.  
+Y por si estabas pensando que la resistencia 
+B no era una resistencia real del mercado,  
+mira, esto. No solo es una resistencia 
+válida, testada y respetada por el mercado,  
+sino que era una resistencia incluso mayor que 
+la que funcionó. La solución aplicar la entropía  
+de Shan como filtro. La fórmula de Shannon calcula 
+la probabilidad de distribución de los retornos.  
+No te voy a asustar aquí con la matemática. Déjame 
+explicártelo con una analogía que nunca olvidarás.  
+Imagínate una multitud de gente en un mismo 
+lugar. Escenario A, pánico, alta volatilidad,  
+alta entropía. De repente suena una alarma 
+de incendio falsa, pero todo el mundo empieza  
+a correr como loco. Hay mucho movimiento, mucha 
+velocidad y gritos. Eso es volatilidad alta. Pero  
+cada persona corre para un lado distinto. Unos al 
+norte, otros al sur. Se chocan entre sí, se pisan,  
+da igual. El resultado, mucho ruido, mucha 
+energía, pero la masa de gente no avanza hacia  
+ningún sitio en concreto. Eso es caos. Si intentas 
+seguir un movimiento así, te aplastan. Escenario  
+B, un desfile militar, alta volatilidad, baja 
+entropía. Ahora imagina a 1000 soldados marchando  
+a paso rápido. Hay la misma cantidad de movimiento 
+y energía que en el pánico, es decir, volatilidad  
+alta. Pero aquí hay una diferencia clave. Todos 
+mueven el pie izquierdo a la vez, todos miran al  
+frente. Resultado, una fuerza imparable que avanza 
+en una dirección clara y predecible. Esto es  
+exactamente lo que la entropía de Shannon mide en el 
+trading. Si el mercado es el escenario en pánico,  
+alta entropía, es ruido blanco, impredecible, huye 
+de aquí. Si el mercado es el ejército marchando,  
+baja entropía. Es una tendencia real estructurada. 
+Aquí es donde se pone el dinero. La regla de oro,  
+para que no nos confundamos, los breakouts que te 
+hacen rentable son los del ejército. Necesitas que  
+el precio se mueva rápido, volatilidad alta, pero 
+que lo haga de forma ordenada y unidireccional,  
+entropía baja. Grábatelo a fuego. Volatilidad alta 
+más entropía baja, igual a breakout efectivos.  
+¿Y cómo lo vas a aplicar? Pues te lo cuento ya 
+mismo. Paso uno, necesitas medir la distribución  
+de probabilidad de los precios en las últimas 
+X velas. Por ejemplo, un término medio son 50.  
+Paso número dos, clasificar el estado. Zona de 
+caos. Esto es entropía mayor a 0.8. El mercado  
+está caótico. Cualquier ruptura es probablemente 
+falsa, no se opera. Zona de transición. Esto es  
+una entropía del 0.6 al 0.8. Aquí hay que ir con 
+precaución. Zona de flujo. Esto es entropía menor  
+a 0.6. Idealmente menor a 0.5. Aquí el mercado 
+está ordenado. Si aquí ves un breakout técnico,  
+seguramente hay una entrada viable. Paso número 
+tres, valida la entrada. Precio rompiendo el nivel  
+clave, ¿sí? Volumen alto, sí. Entropía baja, sí. 
+Esto es igual a viabilidad alta para ejecutar una  
+operativa. Si la entropía está alta, ignoras la 
+entrada, aunque el patrón de vela sea perfecto  
+o tu indicador favorito te dé señal. Pero para 
+contártelo te lo muestro y así lo validamos con  
+el mercado real ya mismo, porque de nada sirve 
+una teoría que no se pueda llevar a la práctica.  
+Acompáñame a la gráfica que vamos a ver unos 
+ejemplos de operativa en directo. Aquí en el  
+Metatrader lo vais a ver más claro. He 
+programado dos indicadores para que eh  
+podáis plasmar visualmente el concepto. Estos 
+indicadores son puramente pedagógicos para que  
+podáis entender el concepto y plasmarlo 
+visualmente dentro de un mercado. Estoy,  
+por ejemplo, aquí en el eurodólar en graficación 
+de 30 minutos. Se puede utilizar el concepto de  
+la entropía de Shanon se puede utilizar tanto 
+en scalping un minuto, 5, 10, 15, 30, o sea,  
+como queráis. El concepto es atemporal totalmente, 
+es decir, sirve para cualquier temporalidad. Lo  
+expando un poco para que lo entendáis mejor. Tengo 
+estos dos indicadores. El de la parte inferior  
+simplemente es un indicador fractal que utiliza la 
+fórmula de la organización de la entropía de Shannon.  
+Es decir, lo que hace básicamente, para que me 
+entendáis y no complicaros mucho, es eh cuando  
+el precio se organiza en un movimiento alcista, 
+el indicador se vuelve verde. Cuando el precio se  
+organiza en un en un movimiento bajista se vuelve 
+rojo y cuando la organización es neutral lateral  
+se queda en un color amarillo. Se puede plasmar de 
+muchas formas. Yo creo que este concepto visual se  
+va a entender bastante bien. Entonces, lo he hecho 
+de esta forma. Simplemente es para que veáis como  
+con anterioridad el momento, el movimiento ya 
+se empieza a organizar antes de producirse el  
+colapso. Vais a ver como la entropía empieza a 
+disminuir y luego pues se produce el colapso. Aquí  
+en la parte superior tengo este otro indicador, 
+que este es el indicador de la entropía de Shannon.  
+puramente eh, es un indicador, tanto el de arriba 
+como el de abajo, ninguno de los dos repintan,  
+por lo que los ejemplos que vamos a ver aquí son 
+totalmente válidos, es decir, son indicadores  
+matemáticos profesionales. Si un concepto se da, 
+se da. Y que en el futuro se dé otro concepto que  
+lo apoye o lo desmienta, no hace que repinten. Es 
+decir, 2 + 2 son cuatro. Si luego restamos uno,  
+pues será tr Pero cuando fue 4 era 4 porque era 2 
++ 2 y cuando es 3, que es 4 - 1, pues será 3 y no  
+se quita el caso anterior de que fue cuatro. O 
+sea, ahí fue cuatro y aquí ahora pues es tres,  
+pero uno no invalida al otro, por lo que este tipo 
+de indicadores puramente matemáticos objetivos no  
+repintan. De hecho, os he grabado eh una operativa 
+aquí en la en el premarket de americano para que  
+lo veáis. En graficación de un minuto en scalping 
+vais a ver la operativa, vais a ver cómo se forma  
+el indicador y vais a ver que efectivamente hm 
+pasan muchas velas. Yo os lo he puesto acelerado,  
+pero para que veáis que no repinta que lo que sale 
+es lo que hay. es la ventaja de utilizar este tipo  
+de de criterios objetivos profesionales para la 
+operativa, porque al final logramos crear una vez,  
+encontrar una vez, cuando encontramos una 
+casuística que es rentable o beneficiosa para  
+una estrategia, es somos capaces de reproducirla 
+a lo largo del tiempo y eso es la consistencia,  
+¿no? utilizar indicadores de retailer de los 
+que vemos por internet, RSI, MDI, etcétera,  
+pues son indicadores que tienden a repintar, no 
+son objetivo 100%, si el precio puede estar en  
+sobrecompra y seguir subiendo, etcétera, etcétera, 
+¿no? Entonces, bueno, este indicador no repinta y  
+cómo se basa. Pues yo lo he invertido, es decir, 
+el nivel uno está abajo y el nivel cero está  
+arriba. ¿Por qué lo he invertido? porque creo que 
+visualmente eh es más fácil ver el colapso de esta  
+forma con el pico hacia arriba que con el pico 
+eh hacia abajo. Le he puesto los niveles igual,  
+tanto el horizontal que tendríamos aquí con la 
+donde sería el punto de colapso, es decir, de  
+aquí de esta línea verde hacia arriba tendríamos 
+el colapso. De esta línea naranja e sería el punto  
+en el que el indicador nos diría algo puede estar 
+a punto de pasar. Y en el punto verde tendríamos  
+la continuación con el colapso. Entonces, ¿qué 
+es lo que buscamos aquí? Pues voy a contraer  
+esto un poco, teniendo ya claro los indicadores, 
+porque lo que nos interesa ahora es la gráfica.  
+Yo lo tengo de esta forma, que es la que yo 
+utilizo para hacer bas testing. Yo esto no lo  
+opo en manual porque ya dentro de Tchain tenéis el 
+nodo de entropía de Shannon, que es este concepto  
+de los indicadores, pero un poco más avanzado ya 
+eh preparado para el trading automático. Es decir,  
+lo vais a poder utilizar para cualquier tipo de 
+estrategia. Y ahora vais a entender el poder de  
+este filtro y sobre qué tipo de estrategia lo vais 
+a poder utilizar para maximizar el win rate y por  
+lo tanto el profit factor de la operativa. Voy 
+a empezar por aquí en esta parte. Por ejemplo,  
+nos venimos aquí y fijaros aquí el indicador, yo 
+le he puesto que cuando cruce la línea naranja  
+en la parte superior, es decir, en la gráfica, me 
+tire una línea o verde o roja en función de si es  
+un cruzalcista o bajista para que yo visualmente 
+sepa ya que ahí hay algo que va a poder pasar, que  
+está próximo a pasar, ¿no? Esto pues simplemente 
+es una alerta visual. Aquí vemos que el indicador  
+cruza el nivel, nos marca arriba que algo puede 
+estar pasando, en este caso un breakout alcista,  
+no hay colapso. Como no hay colapso, pues no 
+se hace nada. Y aquí viene un punto interesante  
+que os voy a explicar ahora, porque fijaros que 
+estoy en el eurodólar aquí en tiempo real, o sea,  
+no tengo que irme al 2005 a buscar ejemplo. Esto 
+pasa continuamente en el mercado. Y aquí viene  
+lo interesante. Fijaros aquí en esta zona. Aquí 
+el indicador cruza la línea naranja, es decir,  
+la entropía empieza a disminuir. En este punto 
+de aquí se produce el colapso. El precio cruza  
+el nivel partiendo desde el nivel cero al alza. 
+Es decir, lo que buscamos aquí es el colapso,  
+que el indicador, estando en un nivel inferior 
+cruce directamente hacia la parte superior. Esto  
+sería el patrón que estamos buscando. Ejemplo 
+de lo que no estamos buscando, para que lo veáis  
+aquí sería esto de aquí. Por ejemplo, si aquí el 
+indicador hubiese cruzado y aquí, que no es el  
+caso, pero imaginaros que aquí se hubiese dado un 
+colapso, esto no sería un filtro válido. ¿Por qué?  
+Porque necesitamos que el indicador cruce 
+directamente en un movimiento mucho más virulento,  
+mucho más eh violento aquí al alza y que sobre 
+este nivel, sin retroceder, se hubiese producido  
+el colapso. Este no es el caso. Vemos que el 
+indicador retrocede y aunque se hubiese dado  
+más adelante, no tendríamos un movimiento eh 
+organizado, por lo que aquí descartaríamos  
+esta señal. Aquí, por ejemplo, sí que lo tenemos. 
+Vemos que la señal se produce aquí en esta vela,  
+por lo que aquí tendríamos nuestra entrada, 
+nuestra rotura de eh el breakout. Pensar que yo  
+aquí estoy ahora en graficación de 30 minutos. Si 
+bajásemos a un minuto, pues aquí veríamos en esta  
+mecha, voy a darle zoom para que se vea mejor. 
+Aquí en esta mecha tendríamos el retroceso y  
+esta vela es la que rompe el breakout. Eh, el stop 
+loss aquí se suele poner por el nivel de reversa,  
+pero en este caso no vamos a entrar en la gestión 
+simplemente para que entendáis la teoría. Fijaros  
+como el precio rompe aquí en este nivel y 
+rápidamente se va a positivo. Es decir, cuando  
+se da un colapso de entropía, el movimiento que 
+suele preceder al precio es este, un movimiento  
+muy vertical. Fijaros que rápidamente esta 
+operativa se va a positivo. No le hagáis caso a la  
+línea que se extiende más allá. Esto lo tengo yo 
+puesto por por defecto, simplemente para controlar  
+el momento del colapso. Es aquí en esta zona 
+cuando se produce rompe. Fijaros cómo va al alza.  
+Sigo hacia delante. Fijaros, aquí tendríamos 
+otro colapso. El precio sube verticalmente,  
+se produce la señal, se produce el colapso y lo 
+mismo. Fijaros como este colapso no es tan fuerte  
+como el anterior, no llega a un nivel tan alto 
+de entropía. Aquí tenéis eh un tip. Si queréis  
+operativas que rápidamente vayan a positivo, 
+buscar niveles más altos o en este caso como  
+está la inversa, más bajos de entropía. 
+Cuanto menor es el nivel de la entropía,  
+mayor organización estructural tiene el mercado 
+y más rápido tiende ir a positivo. Entonces, ya  
+en función de la operativa que vayamos a hacer, si 
+vamos a utilizar grid, si vamos a poner solo uno,  
+una única operativa y concentrarlo todo ahí, pues 
+nos interesará un nivel o otro. Ya depende un poco  
+de la estrategia. Ahora luego lo explicaré más en 
+detalle. Fijaros como el precio tendríamos aquí  
+la entrada. Vamos a marcarla ahí en ese punto. El 
+precio rompe, retrocede con el throwback y se va a  
+positivo. Y fijaros, aquí tenemos el movimiento 
+alcista que suele venir en este tipo de eh de  
+colapso. El precio retrocede. Aquí vuelve a venir 
+otro colapso aquí en este nivel. Ahí tendríamos la  
+entrada. Este es el nivel en el que el precio 
+cruza y se produce eh se produciría, digamos,  
+la señal. el momento en el que el indicador 
+pues nos está diciendo, ya ha llegado al nivel  
+de la entropía que tú estabas buscando aquí 
+en esta vela. El precio rompe en esta vela,  
+fijaros que retrocede con la siguiente y de 
+nuevo vuelve a dar este movimiento al alza  
+aquí virulento que tendríamos en esta zona. Vamos 
+a buscar algunos más hacia atrás para que podáis  
+verlo. A ver si tenemos alguno eh bajista. Mira, 
+fijaros, aquí tenemos dos, uno detrás de otro.  
+Fijaros, aquí tendríamos el momento de la señal. 
+Ahí llegaríamos al colapso. Es un colapso que no  
+es muy grande, pero sobrepasa el nivel, por lo que 
+si este fuese nuestro nivel hubiese activado la  
+operativa. La señal se produce aquí. Fijaros que 
+el precio viene por aquí, pega, hace un pullback,  
+viene, rompe. Aquí tendríamos la rotura. Este es 
+el punto de la señal y rápidamente igual se va  
+positivo. O sea, cuando hay una entropía acorde 
+a lo que nosotros estamos buscando, es decir,  
+hay una organización estructural cohesionada 
+en el mercado, rápidamente el precio tira. Eh,  
+lo mismo a la inversa. Fijaros, aquí tenemos otro 
+colapso aquí en este nivel que lo tendríamos aquí  
+en esta zona. Y ahora vais a ver lo interesante 
+de esto de aquí. Lo mismo, el precio llega,  
+colapsa aquí el indicador y aquí en este punto 
+tendríamos la rotura. Nuevamente el precio rompe  
+y vemos que hace un movimiento potente al alza. Si 
+mirásemos por aquí atrás, pues bueno, aquí tenemos  
+más ejemplos, aquí tenemos otro. Eh, no vamos a 
+extendernos mucho, pero para que los veáis. Mirad,  
+aquí tenemos otro de rotura alcista, igual 
+movimiento fuerte al alza. Aquí tendríamos en  
+esa vela otro igual, movimiento bajista potente. 
+Fijaros aquí en esta zona que rompe también,  
+se va al alza, incluso sirve luego de soporte. En 
+este caso es un poco para que veáis los ejemplos.  
+Entonces ahora vais a ver una operativa para que 
+veáis cómo cómo yo la la opero. Evidentemente yo  
+lo tengo automatizado, por lo que ya no lo hago en 
+manual, pero para que veáis el concepto. Entonces,  
+¿cuándo es válido este tipo de filtros? ¿No? ¿Para 
+qué sistemas? Porque evidentemente esto no es para  
+todos los sistemas de trading, simplemente 
+para sistemas, estrategias o bot de trading  
+que se beneficien de un filtro en la rotura 
+de una zona clave. Por ejemplo, si tuviésemos  
+un bot o una estrategia que operase rotura de 
+soporte resistencia, sería válido el filtro de  
+la entropía de sano. Si tuviésemos un bot, una 
+estrategia que operase niveles de Fibonacci,  
+también sería válido este tipo de filtro. por 
+ejemplo, la caja o la o la trading box típica  
+de las aperturas eh de los índices, pues por 
+ejemplo, ahí también sería válido. De hecho, hay  
+un vídeo en el canal donde explico cómo operar la 
+apertura del premarket para seguir al movimiento  
+institucional. Y este filtro, por ejemplo, 
+encajaría perfectamente con esa operativa,  
+con esa estrategia, porque recordar que esto no 
+es una estrategia por sí misma, sino que es un  
+filtro para aplicar en otro tipo de estrategias 
+que se beneficien de este filtrado. También  
+recordar que mientras mayor sea el número de 
+filtros que añadimos y más estrictos sean estos,  
+menor va a ser el número de operativas. Tipa aquí, 
+eh, hacer menos operativas no implica ganar menos.  
+Yo tengo bots que operan solo una o dos veces 
+al mes y hay meses que ni operan. Eso no implica  
+que yo mensualmente y anualmente no cumplan 
+mis objetivos de rentabilidad. Simplemente  
+tengo un portfolio de bot donde tengo multitud de 
+operativas programadas de estrategias diseñadas  
+y lo que busco es calidad, no cantidad. Me da 
+igual si un bot hace una o dos operativas al m,  
+porque si tengo 20, 30, 40 bots, pues al final del 
+mes tengo una o dos operativas diarias. Entonces,  
+al final también depende un poco cómo se lo monte 
+cada uno. Pero fijaros, por ejemplo, aquí en esta  
+zona, si estuviésemos buscando la operativa 
+de breakout de boxes, de cajas, pues fijaros,  
+por ejemplo, aquí tendríamos una caja y en este 
+punto de aquí donde rompe, aquí tendríamos la  
+entrada del colapso de la entropía. Lo mismo si 
+estuviésemos con la caja del movimiento anterior.  
+Fijaros aquí este nivel. Imaginaros que en vez 
+de una caja estamos operando un eh soporte y  
+resistencia. Fijaros, aquí tendríamos un soporte, 
+lo extiendo hacia eh la derecha y aquí tenemos el  
+colapso, el primer colapso que rompe el soporte y 
+el segundo colapso que confirma ya rompiendo por  
+encima del soporte, por lo que si operase soporte 
+y resistencia este sería un soporte válido para  
+operar a la rotura. Es la forma que tenemos de 
+filtrar el ruido de eh la intencionalidad clara.  
+Entonces, un poco para que entendáis el concepto. 
+Bueno, el indicador este de aquí no le hagáis  
+mucho caso, es un indicador que he programado yo 
+aquí para el ejemplo. Evidentemente es totalmente  
+funcional y real tal cual como funciona eh la 
+entropía de Shan, pero es puramente pedagógico  
+para que para que vosotros tengáis el concepto 
+visual de cómo funciona la entropía, cuál es  
+el tipo de colapso que buscamos, cómo tiene que 
+formarse para que entendáis mejor cómo funciona  
+este tipo de filtro matemático profesional que se 
+utiliza muchísimo en el sector profesional para  
+este tipo de movimientos. Sobre todo también, por 
+ejemplo, otro tip que os vais a llevar, también  
+se utiliza muchísimo para los bots que operan las 
+noticias. Cuando hay una noticia, si la entropía  
+de Sean alcanza el nivel mínimo de nuestro 
+filtro, ese movimiento, esa noticia va a tener  
+intencionalidad y va a tirar. Si no alcanza el 
+nivel de filtrado, esa noticia es solo ruido y se  
+va a revertir rápidamente la vela. Son las típicas 
+velas de noticia que salen y luego se devuelven  
+dejando todo en una mecha o incluso el movimiento 
+se gira virulentamente y nos deja eh con una vela  
+contraria, todo mecha y luego el cuerpo contrario, 
+¿no? Pues para ese tipo de estrategia también  
+sería totalmente válido. Al final veis que es un 
+filtro, un criterio profesional muy válido y que  
+ayuda a aumentar la robustez de cualquier sistema 
+de trading, ya sea manual o trading algorítmico,  
+trading cuantitativo, etcétera. Así que ahora 
+sí que sí vamos con la operativa y vais a ver  
+en directo cómo funciona el indicador y 
+cómo gestionaría yo una operativa con él.
+Parece fácil, ¿verdad? Calculan la fórmula 
+y listo. Falso. Porque aquí hay una trampa  
+mortal. La entropía es relativa. Un nivel de 
+entropía de 0.5 en Forex puede ser ordenado,  
+pero en cripto puede ser un caos total. Cada 
+activo tiene su propia huella digital de  
+desorden. Si usas un número fijo para todo, vas a 
+perder dinero. Necesita normalizar la entropía. No  
+buscamos un número absoluto, buscamos el cambio 
+de régimen. Lo que buscas es exactamente un  
+colapso de entropía. La señal no es la entropía 
+está baja para dentro. La señal es la entropía  
+estaba alta y acaba de colapsar violentamente 
+mientras el precio rompía la resistencia.  
+Esa combinación específica de ruptura de 
+precio más colapso de desorden es la firma  
+matemática de las instituciones entrando al 
+mercado. Y no debería ser yo quien os lo diga,  
+pero anotároslo porque es totalmente cierto. 
+Existen metodologías profesionales para detectar  
+el dinero institucional, que no son indicadores 
+de volumen ni de momento, ni orden flow,  
+ni historia subjetiva de estas que se usan solo 
+en el sector retail. Y lo curioso del tema es que  
+han sido los propios profesionales durante años 
+los que han creado esta metodología de detección.  
+Evidentemente no porque quieren ser detectados, 
+sino todo lo contrario para medir su impacto en  
+el mercado y mejorar su estrategia de incursión 
+para no ser detectado fácilmente. Pero para ello  
+necesitan medir su impacto y se realiza con este 
+tipo de metodologías que desconocen en el sector  
+retail, pero que son altamente efectivas. De ahí 
+que se hayan diseñado diversos tipos de órdenes  
+como las icebar, etcétera, para camuflar el 
+impacto y con él disminuir la detección sobre todo  
+tipo de indicadores técnicos, etcétera, etcétera. 
+Pero bueno, este vídeo no es para ese tema,  
+que me desvío del tema principal. Seguimos. Si os 
+interesa el tema, dejarlo por comentarios y ya en  
+otro vídeo más específico hablaré sobre ello. Sé 
+que hablar de termodinámica en trading suena denso  
+y más si estás acostumbrado al típico contenido de 
+trading de redes sociales con líneas de tendencia  
+y cajas. Pero déjame demostrarte por qué esto 
+vale la pena en 60 segundos de simulación. Vamos  
+a simular el par eurodólar, año 2025 completo. Bot 
+físico, compra cuando rompe el máximo anterior,  
+pero solo si la entropía de sano normalizada está 
+colapsando y por debajo de 0.6. Resultado, 38% de  
+la cuenta. Drown mínimo. La clave, el bot se quedó 
+quieto siempre que había ruido. Solo operó cuando  
+el mercado se ordenó y organizó correctamente. 
+Paciencia de francotirador versus ametralladora  
+ciega. Ahora tienes el concepto, pero tienes un 
+problema. Calcular la entropía de sano requiere  
+logaritmos y distribuciones de probabilidad 
+en tiempo real. No puedes hacerlo en un Excel  
+mientras que operas el mercado por el otro lado 
+directamente. No puedes y tampoco puedes hacerlo  
+a ojo. Y si intentas hacerlo mentalmente, llegarás 
+tarde a todos los movimientos. Necesita velocidad.  
+Todo lo que hemos visto, la teoría del caos, la 
+señal versus el ruido, se reduce a esto. He creado  
+un nodo específico que hace el trabajo pesado por 
+ti. ¿Te acuerdas el back test del bot que acabamos  
+de ver? Pues ese mismo vamos a construirlo ahora 
+aquí, paso a paso. Bueno, no os quiero complicar  
+más de lo necesario, así que he hecho aquí un bot 
+sencillo, pero muy potente y lo vais a poder ver  
+ahora. ¿Cuál es la lógica de este bot? Pues bueno, 
+el activador es un cruce de medias móviles. Vemos  
+que tenemos aquí la media móvil de de 10, una 
+media móvil simple y una media móvil de 20. Y  
+lo que hacemos es buscar el cruce alcista. ¿Por 
+qué tenemos este eh disparador? Pues muy sencillo  
+porque como digo, la entropía de Shannon es un 
+filtro, no un disparador, sino un filtrado, una  
+condición que debe darse para validar o invalidar 
+la señal principal de la estrategia. Entonces  
+necesitamos un activador, es decir, un disparador. 
+En este caso va a ser la media móvil. Vamos a  
+decirle que cuando haya un cruce eh alcista, 
+es decir, que haya un movimiento alcista, se va  
+a activar la entropía de Shan, que la tenemos 
+aquí debajo. Y fijaros cómo funcionaría esto,  
+porque claro, debéis tener en cuenta un concepto 
+fundamental, la entropía de sanon. Yo aquí,  
+por ejemplo, como veis, estoy sacando el valor 
+actual y este valor, lo que estoy diciéndolo,  
+es que cuando esté por debajo del 0.6 me dé la 
+señal, es decir, tendré el resultado. Pero claro,  
+como hemos visto, cuando el precio baje por 
+0.6 6 se produce un colapso, pero por eso os  
+lo he enseñado visualmente para que entendáis cómo 
+funciona, porque hemos visto eh en el modo visual  
+con el indicador que un colapso puede darse 
+tanto en un movimiento o una rotura alcista  
+como en una bajista. Por eso era la importancia 
+de que lo viese visualmente. ¿Qué quiere decir?  
+que si yo comprase siempre que la entropía de Shan 
+cayese por debajo del umbral del 0.6, podría estar  
+comprando en breakouts bajistas, por lo que me 
+iría rápidamente a negativo. Debo comprar en  
+breakouts alcistas y vender en breakouts bajistas. 
+Por eso, para asegurarme de que estoy comprando en  
+un movimiento alcista, he añadido el filtro de 
+las medias móviles. Por eso es la importancia  
+de que visualmente lo entendieseis, cómo se puede 
+dar ese colapso y que no es una estrategia por sí  
+misma, sino que es un filtro, un filtro para 
+validar nuestra estrategia. Entonces, bueno,  
+simplemente contraigo todo. Lo que estoy diciendo 
+es que cuando el cálculo de, en este caso,  
+de la entropía de Sanon esté por debajo del nivel 
+0.6 y el movimiento sea alcista, saldrán las dos  
+señales, se juntarán y en este nodo estoy diciendo 
+un nodo , es decir, un nodo i, una lógica buleana.  
+Estoy diciendo, cuando se dé la señal de medias 
+móviles y se dé el filtro de la entropía de Sanon,  
+saldrá la señal hacia el nodo de compra, es decir, 
+se ejecutará una compra a mercado. Para que veáis  
+el potencial de este sistema, eh, le he añadido un 
+trailing stop. ¿Por qué? Porque como habéis visto,  
+por eso es la importancia de de entender las 
+cosas y no simplemente [ __ ] botch de internet  
+y hacerlo funcionar sin entender cómo funciona. 
+Por eso lo he querido enseñar visualmente. Y  
+habéis podido ver que cuando se da un colapso 
+de la entropía, el movimiento tiende a realizar  
+un movimiento violento y muy vertical tanto al 
+alza como en corto. Entonces, es especialmente  
+importante para la gestión el utilizar un trading 
+stop para capturar el mayor movimiento eh posible.  
+Luego ya en función del mercado le alejaremos 
+o le acercaremos más el trading stock. Bueno,  
+yo cojo este bot, lo genero y me voy al Metatrader 
+para que lo veamos en funcionamiento. Bueno,  
+aquí estoy con el con el bot. Lo voy a poner en 
+el eurodólar. Lo voy a poner en 5 minutos porque  
+quiero que haga bastantes operativas, es decir, 
+que se den bastantes cruces de medias móviles para  
+que podamos eh verlo cómo funciona. Os enseño aquí 
+los parámetros que tengo puestos por si alguien eh  
+se lo descarga de la biblioteca. Lo subiré en 
+la biblioteca el bot, tal cual este de aquí,  
+para que vosotros podáis descargarlo, optimizarlo, 
+mejorarlo, evolucionarlo, introducirle vuestra  
+estrategia como vosotros queráis. Entonces, bueno, 
+os dejo aquí los valores para que veáis cómo yo  
+lo tengo puesto aquí en el euroólar en 5 minutos. 
+Directamente voy a ejecutar en modo visual, alejo  
+la gráfica, quito la rejilla, pongo vela y lo dejo 
+aquí. Fijaros, os pongo aquí la gráfica. Vamos a  
+ponerlo de esta forma un poco para que lo veáis. 
+Fijaros aquí como va abriendo y cerrando operativa  
+en estos tipos de movimientos eh alcista. Aquí 
+tenemos el back testing y yo voy a [ __ ] y lo  
+voy a dar aquí en modo saltar hacia delante 
+porque quiero que veáis cómo va funcionando.  
+Yo le tenía puesto el stop loss a unos 900 puntos 
+aproximadamente, luego se lo cambié porque, bueno,  
+yo lo tenía en una hora, pero lo bajé a 5 minutos 
+para que hiciese más operativa. Y bueno, aquí veis  
+cómo va la gráfica. Alguna vez va a saltar el 
+stoplot. De hecho, ahora por aquí viene un salto  
+de stop loss, que son aproximadamente un 9% de la 
+cuenta, lo que está puesto el stop loss. Es decir,  
+un stop loss, la cuenta es de 10,000, pues va a 
+caer aproximadamente eh un 9 eh%, unos 900 € que  
+viene por aquí ahora ya creo el este stop loss. 
+Fijaros cómo cae. Aquí viene el stop loss. O sea,  
+es importante que entendáis cómo funciona. La 
+estrategia que tengo puesta aquí ahora es una  
+estrategia con un stop los bastante alejado porque 
+como voy a buscar breakouto que los retroces me  
+saque. Entonces lo tengo de esta forma. La cuenta 
+tenía ya hecha aquí un 40% cuando a mí me pierde  
+un 9%. Incluso aunque fuese inicialmente recién 
+ponerlo, tampoco no habría eh mayor problema. De  
+hecho, vemos ya que lo ha recuperado y que sigue 
+avanzando. Bueno, vemos todavía le falta mitad de  
+la gráfica. Lo dejamos aquí. simplemente para que 
+veáis eh cómo funciona este tipo eh de bots. Aquí,  
+evidentemente, como os digo, lo he bajado a 5 
+minutos para que haga muchas operativas. Yo ya  
+sabéis que no soy partidario de hacer muchas 
+operaciones, a no ser que el hacer un volumen  
+por x motivo no se interesase, sino que busco más 
+el eh operativas de calidad y me centro mucho en  
+la gestión. Pero bueno, aquí os lo dejo, eh, para 
+que veáis cómo funciona y que tengáis plasmado el  
+concepto de qué es la entropía de Shano y cómo 
+aplicarla. No es magia, es limpiar la señal,  
+es como ponerte gafas de visión nocturna en la 
+niebla. Y sí, puedes usar este nodo y aplicarlo  
+a tus boting y a cualquier estrategia que se 
+te ocurra para mejorarla. Entras en Techi,  
+buscas Entropía de Sanon, lo conectas y listo. 
+Ahora ya sabes cómo distinguir la señal del  
+ruido. Tienes la herramienta para dejar de operar 
+caos y empezar a operar estructura. Pero cuidado,  
+incluso con entropía baja, si no sabes gestionar 
+el tamaño de tu posición cuando la volatilidad  
+explota, puedes quemar la cuenta igualmente. 
+Ese es el siguiente paso lógico que debes  
+seguir y lo explico en este vídeo de aquí sobre 
+gestión del riesgo dinámica. Nos vemos dentro.
+oho

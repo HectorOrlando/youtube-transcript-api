@@ -1,0 +1,824 @@
+Titulo              : Gané Millones En Backtest Pero Perdí Todo En Real | Esto Es Lo Que Pasó
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-01-14
+Duracion            : 46:20
+Vistas              : 3,197
+URL                 : https://www.youtube.com/watch?v=24ywEOM90_c
+----------------------------------------------------------------------
+
+Esa curva de equidad perfecta que ves en 
+tu backesto, es tu sentencia de muerte  
+financiera. El 95% de los bots fallan no por mala 
+suerte, sino por un error estadístico fundamental  
+llamado overfitting. Te han enseñado a 
+optimizarlos mirando por el retrovisor,  
+buscando la combinación perfecta de parámetros 
+para un pasado que ya no existe. Hoy vamos  
+a matar la optimización tradicional. Te voy a 
+demostrar matemáticamente por qué tu estrategia  
+falla y cómo sustituirla por una arquitectura de 
+inteligencia artificial que no predice el precio,  
+sino que aprende de la ineficiencia del mercado 
+en tiempo real. En los próximos minutos vamos a  
+deconstruir la industria del trading algorítmico 
+por completo y desvelaremos la realidad,  
+lo único que funciona en el medio y largo plazo. 
+Desmontaremos matemáticamente por qué tu voz de  
+trading falla usando conceptos de varianza y 
+esperanza matemática. ¿Y por qué el Wall for  
+Wall y el Out of sample son solo parches para una 
+herida mortal? la estacionariedad de las series  
+temporales. Después vamos a construir juntos una 
+solución real. Cogeremos la estrategia de trading,  
+la optimizaremos y luego haremos algo que el 
+99% no hace. Le inyectaremos un cerebro de cool  
+learning, de inteligencia artificial. Veremos 
+cómo la arquitectura de un agente QLearning con  
+state encoding y Qable pone fin a un problema 
+existencial en el mundo del trading que no te  
+permite crecer tu capital. Y la pieza final, 
+aprenderás a usar el No Code Generator para  
+crear una estrategia de trading 100% funcional, 
+a optimizar sus parámetros básicos y luego a  
+sustituir su cerebro clásico y obsoleto por 
+uno con inteligencia artificial operativa.  
+Si alguna vez has quemado una cuenta con un 
+bot que funcionaba genial en el back test,  
+pero cuando lo pusiste en real, este vídeo 
+es la explicación técnica que necesitas para  
+entender por qué sucedió y sobre todo cómo 
+evitarlo. Empecemos por el problema raíz.  
+Hablemos de matemáticas, hablemos de regresión, 
+porque cuando usas el optimizador de Metatrader o  
+cualquier plataforma de terceros como Strategic 
+One, está forzando a una ecuación para que  
+explique el ruido del pasado. Sí o sí, el 100% de 
+las veces vas a encontrar varias combinaciones de  
+parámetros que hubieran ganado millones el año 
+pasado. Felicidades. Has creado un historiador  
+perfecto, no un trader. has memorizado el ruido, 
+no la señal. ¿Por qué sucede esto? Pues porque  
+un bot de trading como los que todos conocemos o 
+experisor es esencialmente un conjunto de reglas  
+estáticas con parámetros fijos como X, Y o Z. 
+Cuando optimizas estos parámetros en Metatrader  
+sobre datos históricos, estás realizando 
+un proceso de regresión para minimizar el  
+error en el pasado. Este problema silencioso 
+al que ya te habrás enfrentado sin saberlo  
+si has utilizado algún bot de trading se llama 
+sobreajuste u overfeitting. Con tu optimización,  
+básicamente estás encontrando la combinación 
+exacta de parámetros que memoriza el ruido  
+del mercado del periodo seleccionado, pero que 
+no entiende la lógica del mercado fuera de ese  
+periodo, por lo que tu botado a fallar y llevar 
+tu cuenta de trading a la ruina. Para minimizar  
+el riesgo del sobreajuste, existen varias 
+técnicas profesionales que muy pocos conocen  
+fuera del sector. Pero hoy te voy a compartir una 
+de las mejores, la generalización. Resumiendo,  
+si optimizas un bot con la data del 2025 y lo 
+ejecutas en el mercado real este 2026, seguramente  
+quiebre tu cuenta de trading por completo tarde 
+o temprano. Ahora sé lo que muchos podéis estar  
+pensando. Ignacio, la solución es simple. Para 
+evitar esto, simplemente cogeré más datos,  
+optimizaré sobre los últimos 10 o 20 años para que 
+mi bot sea robusto y seguro ante cualquier crisis,  
+como aprendí en un curso de trading que hice hace 
+poco. Parece lógico, ¿verdad? Es un argumento  
+fácil de vender a personas inexpertas. Cuantos más 
+datos, mayor seguridad. Error, y te lo demuestro.  
+Matemáticamente lo que acabas de hacer no es 
+añadir robustez, sino firmar la sentencia de  
+muerte de tu alfa. Si has escuchado alguna 
+conferencia o entrevista de Warren Buffett,  
+uno de los inversores más exitosos de todos los 
+tiempos, seguramente habrás escuchado su mítica  
+frase de generar alfa. Definamos esto rápido para 
+que estemos todos alineados el resto del vídeo.  
+El alfa no es solo ganar dinero, es el retorno 
+activo que generas gracias a una ineficiencia o  
+ventaja matemática real, descontando el movimiento 
+general del propio mercado. Es decir, es tu age,  
+tu ventaja injusta, es la pericia o el experti 
+del trader, es la ventaja de tu estrategia que  
+la hace única. Muchos fondos y gestoras pagan 
+cantidades absurdas de dinero a analistas que son  
+capaces de generar alfa de forma consistente. El 
+alfa es lo que buscamos todos, es la rentabilidad  
+sobre el mercado. Pero cuando mezclas datos de 
+régimímenes incompatibles, por ejemplo, desde  
+el 2015 hasta el 2025, está diluyendo ese alfa 
+en un promedio inservible. Está sacrificando tu  
+única ventaja matemática por una falsa sensación 
+de seguridad. Y esto es lo más antiprofesional  
+que se puede hacer dentro del trading. Por eso, 
+cuando alguien supuestamente profesional te diga  
+que aumentar un back testing le aporta robustez 
+y seguridad, desde hoy mismo puedes afirmar con  
+total seguridad y tranquilidad que no solo no es 
+profesional, sino que quizás sepa menos de trading  
+que tú. Y la razón se reduce a un concepto que 
+los inversores retail ignoran. pero que los quant  
+traders nos obsesionamos con él, el cambio de 
+régimen o regim Swift. Optimizar un bot sobre una  
+década o dos asume implícitamente que existe una 
+media global, una media global válida para todo  
+ese periodo. Asume erróneamente que el mercado 
+es estacionario, pero el mercado no funciona  
+así. Piénsalo de esta forma. El mercado de 2015 
+era un mercado o un entorno de baja volatilidad,  
+dopado por un quantitative fishing infinito de 
+los bancos centrales. El mercado de 2025 es una  
+bestia completamente distinta. Dominado por la 
+alta frecuencia o HFT, la ejecución y gestión  
+por algoritmos de inteligencia artificial y una 
+inestabilidad geopolítica constante. Son dos  
+deportes distintos jugados en el mismo estadio. 
+Entonces, ¿qué ocurre matemáticamente cuando  
+obligas a tu optimizador a encontrar parámetros 
+que funcionen en ambos mundos y en diferentes  
+ciclos de mercado? Pues muy sencillo, el 
+algoritmo entra en pánico, trata de encontrar una  
+configuración que no pierda mucho en el mercado 
+lento de 2015 y que gane algo en el caos de 2025.  
+El resultado matemático es lo que en la industria 
+profesional llamamos mediocridad aritmética. creas  
+un sistema que es mediocre en todos los escenarios 
+y un experto en ninguno. Como decía mi abuela,  
+y perdonarme por la expresión, acabas de crear 
+un maestro liendres que de todo sabe pero de nada  
+entiende. Básicamente has optimizado un coche para 
+que sea un promedio entre un Fórmula 1 y un Jeep  
+de rally. El resultado es un sedán demasiado lento 
+para un circuito y demasiado frágil para el campo.  
+La realidad es dura, pero totalmente cierta. 
+Al incluir datos de hace 10 años que ya no  
+representan la microestructura actual de la oferta 
+y la demanda, no estás añadiendo información,  
+estás inyectando ruido, estás diluyendo tu alfa. 
+Esto es así 100% y está ampliamente estudiado  
+y documentado en el sector profesional, 
+aunque por desgracia en el sector retail,  
+ampliamente desprofesionalizados se utilicen 
+estos vacíos de desconocimientos generales como  
+argumentos de venta para cualquier formación 
+o producto. Sé más inteligente que la masa.  
+Suscríbete al canal si aún no lo estás y activa 
+la campanita para seguir avanzando y creciendo  
+hacia tus metas económicas. No te dejes engañar 
+o convencer por argumentos del tipo, "Bueno,  
+Ignacio, quizás haciendo esto el bot no sea muy 
+bueno en ningún periodo en concreto y sea mediocre  
+en todos, pero mientras gane, aunque sea poco, ya 
+me sirve." Total, como ha ganado durante 10 años,  
+tiene ya todos los ciclos del mercado aprendidos 
+y es un superb todo terreno. A este pensamiento  
+erróneo se le conoce como el espejismo de la 
+supervivencia y ha llevado a más traders a  
+la ruina que cualquier otra técnica en los back 
+testing. El optimizador genético de Metatrader,  
+de Strategy Quand o de cualquier otra plataforma 
+que empleen este tipo de optimizaciones son  
+unos tramposos con ventaja. Si le das 10 años 
+encontrará la combinación exacta de stop loss y  
+take profit que sobrevivió al crash del COVID por 
+dos pips y al del Brexit por un pip. El engaño.  
+¿Tú crees que el bot es robusto porque aguantó 
+10 años que incluso tuvieron periodos complejos?  
+¿Realmente llegas a creer que tienes un botto y 
+rentable? La realidad, el bot es extremadamente  
+frágil. Sobrevivió porque el optimizador sabía 
+exactamente hasta dónde bajó el mercado ese día.  
+Si en el futuro el mercado baja un solo pip más 
+que en el histórico, ese bot mediocre pero seguro  
+quiebra instantáneamente tu cuenta por completo. 
+No tiene margen de error real, solo tiene suerte  
+histórica simulada y dará igual todos los periodos 
+out of sample que le quieras poner. Y aquí entra  
+en juego otro de los grandes mitos que destruye 
+cuentas de trading constantemente sin piedad.  
+Es el concepto que separa a los quant traders de 
+los Amateus. Seguro que algún gurú te ha dicho o  
+habrás escuchado en algún momento algo como, 
+"Usa periodos de prueba fuera de la muestra,  
+usa los out of sample". Así el bot no se 
+sobreajusta. Suena profesional y hasta  
+puede parecer lógico cuando no tienes todo el 
+conocimiento e información completa, pero no lo  
+es en absoluto. ¿Por qué? Porque tiene un fallo de 
+lógica. evidente. Cuando ejecutamos periodos fuera  
+de la muestra para no sobreoptimizar, cometemos 
+un grave error. Estamos asumiendo que el futuro,  
+que también es un offsample por pura lógica, 
+tendrá la misma distribución estadística,  
+media y varianza que el pasado, aún siendo 
+este en su gran mayoría un periodo dentro de  
+la muestra o insample. En estadística, esto 
+se llama estacionariedad. La representación  
+la veis aquí con el ejemplo verde, una cuenta de 
+trading que crece y crece y crece. Seguramente ya  
+habréis visto algún ejemplo de estos con traders 
+que os habrán enseñado históricos de 5, 10, 15,  
+20 años donde el bot gana y gana y gana y gana. 
+Pues el ejemplo lo tendríais aquí. Pero el mercado  
+financiero es por definición no estacionario, 
+como el ejemplo naranja que tenéis aquí ahora en  
+pantalla. sus propiedades estadísticas cambian 
+con el tiempo. Esto lo tenemos todos claros.  
+Por eso un bot optimizado con Wall Forward, por 
+ejemplo, simplemente tarda un poco más en fallar,  
+pero fallará igualmente porque sigue siendo 
+rígido ante un mercado fluido, por lo que cuando  
+lo llevemos a la realidad vamos a ver lo que está 
+pasando aquí. una cuenta de trading que disminuye  
+y disminuye y disminuye. Para que estemos todos 
+alineados con el concepto de estacionariedad,  
+es una propiedad clave en el análisis de series 
+temporales donde las características estadísticas,  
+como por ejemplo la media, la varianza y la 
+autocorrelación no cambian con el tiempo,  
+es decir, su comportamiento es constante y 
+predecible. Ejemplo, el ejemplo verde que  
+tenemos aquí en pantalla. Por eso los mercados 
+financieros son por definición no estacionarios,  
+como el ejemplo naranja, es decir, se mueven por 
+ciclos variables, por lo que muestran tendencias  
+o variaciones a lo largo del tiempo que a menudo 
+requieren transformaciones matemáticas para  
+reajustarse. Esto como traders algorítmicos 
+nos lleva a tener que estar de forma activa  
+revisando y reajustando nuestro bot de trading 
+casi constantemente si no queremos que queden  
+obsoleto o desajustándose del ciclo del mercado, 
+lo cual llevaría la cuenta de trading a la ruina.  
+Símil rápido para aterrizar el concepto. Es como 
+entrenar a un soldado para luchar perfectamente  
+en la selva, memorizando cada árbol, cada piedra y 
+luego soltarlo en el desierto. No importa lo bien  
+que entrenara en la selva, sus reglas estáticas lo 
+matarán en el desierto. La solución, no necesitas  
+un soldado que memorice el mapa, necesitas un 
+soldado que aprenda a luchar en tiempo real. La  
+solución a esto te la digo ya mismo. Aquí es donde 
+entra en juego la inteligencia artificial en el  
+mundo del trading algorítmico para revolucionarlo 
+por completo y más concretamente el aprendizaje  
+por refuerzo. En este caso, a diferencia de 
+la optimización tradicional que busca un set  
+de parámetros fijos para siempre, la IA mediante 
+el cool learning busca una política de actuación  
+que se actualiza constantemente. Mientras un 
+bot tradicional se entrena con el pasado para  
+operar el futuro y nosotros rezamos para que esto 
+funcione contra toda evidencia matemática lógica,  
+el bot con inteligencia artificial se enfrenta 
+con el pasado para tener una base, pero aprende  
+del futuro a medida que opera. En el vídeo 
+anterior que te dejo aquí en la tarjeta y que te  
+recomiendo que veas, vimos la Qtable y cómo crear 
+tu primer bot 100% funcional. Recordemos rápido  
+el concepto. El bot no ve las japonesas como un 
+operador humano, ve estados. A través del state  
+encoding transformamos la complejidad infinita 
+del mercado como la volatilidad, tendencia, RSI,  
+ADX, etcétera. En estados discretos numéricos 
+como los que estáis viendo aquí en pantalla.  
+El bot consulta su tabla y se dice algo así 
+como estoy en el estado 37, que para él pues  
+significa cierto tipo de volatilidad, cierto tipo 
+de tendencia, etcétera. Con el estado del mercado  
+codificado, acto seguido, se pregunta qué acción 
+tiene mayor recompensa histórica. Repasa todas  
+sus acciones memorizadas y extrae la información 
+clave. sabe qué pasó cuando compró, cuando vendió  
+o cuando no hizo nada y el mercado estaba en el 
+estado 37. Si ejecuta venta y gana, refuerza ese  
+valor en la celda. Si pierde, lo penaliza. Es un 
+sistema vivo que se actualiza de forma automática  
+constantemente. Pero aquí viene el problema que 
+nadie te cuenta de la IA, el cult starting o  
+arranque en frío. Porque si lanzas una en blanco 
+al mercado, da igual la que sea, tardará años en  
+aprender y perderá mucho, mucho dinero explorando. 
+Necesitamos un atajo, un atajo profesional.  
+Necesitamos darle un cuerpo perfecto a ese nuevo 
+cerebro. Y aquí es donde entra la metodología  
+que te voy a compartir ahora mismo, el transfers 
+learning manual o transferencia de aprendizaje.  
+Atención a este flujo de trabajo porque es lo que 
+marca la diferencia entre jugar a ser un trader  
+que tiene unos cuantos bots en una carpeta y hacer 
+trading algorítmico profesional de verdad. El  
+proceso que vamos a seguir es generar la lógica de 
+la estrategia, realizar una optimización genética  
+e inyectarle la IA al bot. Y voy a hacerlo 
+paso a paso. El primer paso es el diseño de la  
+estrategia. Para ello, entro aquí en la plataforma 
+No Code Generator de Techain y lo que voy a hacer  
+es diseñar la lógica de la estrategia, es decir, 
+voy a construir el bot. En este punto voy a usar  
+los nodos de compra y venta tradicionales. ¿Por 
+qué? porque necesitamos estructura. Entonces,  
+voy a generar el proyecto, descargar el código 
+y vamos a ver cuál es el siguiente paso,  
+que es donde se pone interesante. Estaba pensando 
+qué bot hacer aquí para este vídeo, porque como  
+es un bot que os voy a regalar, estaba mirando 
+algo interesante. pensado que quizás podría subir  
+un poquito eh el nivel de los bots porque ya con 
+varios vídeos en el canal, pues el que se los haya  
+visto todo un poco por encima ya sabe eh muchos 
+conceptos, podéis entender muchas cosas y se puede  
+sacar más rendimiento a este tipo de vídeo, pero 
+tampoco no quiero hacer todavía a estas alturas  
+algo muy muy complejo y que eh se le vaya de las 
+manos alguno. Entonces, un punto intermedio con  
+un bot que puede ser bastante interesante y que 
+podréis cacharrear con él y hacer vuestras pruebas  
+y obtener buenos resultados en varios mercados. He 
+pensado en el siguiente. Un bot de cruce de medias  
+móviles con un interruptor. Una particularidad que 
+no se suele utilizar en este tipo de estrategia  
+de medias móviles, ya que se operan normalmente 
+al cruce, pero que aquí le vamos a añadir esta  
+particularidad. Lo vamos a combinar con una sobre 
+una detección de sobrecompra en un RSI y vais a  
+ver que sin hacer nada, tal cual sale de aquí, ya 
+es un bot bastante interesante o evidentemente lo  
+vamos a evolucionar durante el vídeo, por eso es 
+importante que no te pierdas el proceso. Entonces,  
+lo primero lo podría construir directamente con 
+Chatía, pedirle qué es lo que quiero y que me  
+lo haga, pero lo voy a hacer paso a paso porque 
+quiero que entendáis cómo funciona el bot para que  
+luego vosotros podáis optimizarlo y hacer pruebas 
+con él en el mercado que queráis. Entonces,  
+el primer paso, me voy a indicadores. Como voy 
+a sacar eh voy a hacerlo con medias móviles, me  
+voy en tendencia. Aquí tengo las medias móviles, 
+por ejemplo, voy a poner una de cinco periodos.  
+Saco otra media móvil. Esta la voy a dejar, por 
+ejemplo, de 15 periodos. Podéis cambiar los tipos  
+de media móvil. Está la simple exponencial 
+suavizada o la lineal ponderada. Yo le  
+voy a dejar en la simple. Tengo las dos medias 
+móviles para el cruce. Ahora voy a sacar el RSI,  
+que está en osciladores, porque es un oscilador. 
+Saco el RSI y lo voy a dejar tal cual viene en  
+14. En periodo de 14. Me voy a lógica. ¿Y qué 
+quiero hacer? Un cruce. quiere buscar el cruce  
+de las medias móviles. En este caso, como este 
+bot va a ser para localizar zona de sobrecompra  
+y vender en esa zona, lo que voy a hacer es buscar 
+lógica. Me voy a cruces y saco el cruce alcista,  
+pero también voy a sacar el cruce bajista. Y aquí 
+es donde viene la particular la particularidad,  
+perdón, de este bot que lo hace tan interesante. 
+Voy a hacer la unión directamente en el cruce  
+alcista de la media móvil rápida por la media 
+móvil lenta. En el cruce bajista lo mismo,  
+media móvil rápida sobre la media móvil lenta. De 
+esta forma ya tengo el cruce alcista y el cruce  
+bajista. Si solo voy a comprar en un cruce, ¿por 
+qué necesito los dos? ¿Por qué necesito detectar  
+los dos? Pues porque no voy a comprar cuando 
+se produzca el cruce. En este caso, como es  
+un bot de sobrecompra, lo que vamos a hacer es 
+vender, buscar la venta. No voy a vender cuando  
+se produzca el cruce, voy a vender mientras que el 
+cruce esté activo. Entonces, para detectar esto,  
+me voy a conectores y saco un interruptor. ¿Qué 
+hace este interruptor? Pues para que lo entendáis,  
+aquí ahora desde el cruce alcista, cuando la media 
+móvil rápida cruce al alza, la media móvil lenta,  
+la de cinco cruce la de 15, saldrá una señal y 
+esa señal podría juntarla con un nodo de comprar  
+o vender y compraría o vendería cuando los cruces 
+se dan, pero no quiero comprar o vender cuando  
+los cruces se den, quiero comprar mientras que 
+el cruce esté activo. Entonces, este nodo es  
+como un interruptor, como la luz de vuestra 
+casa. El interruptor que tenéis en la pared,  
+cuando le damos está encendida y siempre que esté 
+el interruptor pulsado, la luz estará encendida  
+y cuando lo pulse de nuevo lo apago. Por lo que 
+la luz, siempre que el interruptor esté apagado,  
+la luz estará apagada. Aquí funciona exactamente 
+igual. Por ejemplo, conecto activate signal,  
+o sea, la activación de la señal, darle al 
+interruptor para encender la luz. Le voy  
+a decir que el interruptor se tiene que encender 
+cuando el cruce bajista suceda y que el indicador,  
+el interruptor se tiene que desactivar cuando el 
+cruce alcista suceda. De esta forma, cuando haya  
+un cruce bajista, saltará el indicador y en ese 
+momento se podrá vender, pero cuando se genere el  
+cruce alcista se apagará el interruptor, por lo 
+que no habrá señal y no se podrá vender. Una vez  
+que tengo esta lógica arriba, voy a la condición 
+del RSI, que lo que quiero es, como quiero buscar  
+la zona de sobrecompra, me voy a comparación, saco 
+un nodo de umbral y le voy a poner el valor 90.  
+Es decir, lo que quiero detectar es cuando este 
+RSI esté por encima de la zona de 90. Lo conecto y  
+cuando esté por encima de la zona de 90, la señal 
+será positiva. Y cuando el cruce esté activo,  
+la señal será positiva. Y lo que quiero ahora 
+es que cuando las dos señales sean positivas,  
+que se venda. Entonces, ¿qué hago? Lo voy a unir 
+con una lógica de I. y o ant en inglés, que es un  
+operador lógico. Básicamente este nodo lo que hace 
+es cuando esta señal que conecto aquí esté activa  
+la condición uno y también la condición dos, es 
+decir, cuando estas dos condiciones estén activas,  
+generará la salida. ¿Y qué va a hacer esa salida? 
+Pues voy a [ __ ] por aquí, voy a plegar todo,  
+lo vamos a colocar y ahora en esa salida busco 
+la acción que quiero realizar. Me voy a acciones,  
+me voy a órdenes, saco venta a mercado, que lo 
+que quiero hacer es vender, y conecto la venta  
+con la salida. De esta forma ya tengo mi bote 
+hecho, organizo y aquí ya tenemos la lógica.  
+La lógica es la siguiente. Cuando el RSI esté 
+por encima de 90, se activará una señal. Cuando  
+la media móvil, el cruzalcista y bajista activen 
+el interruptor, saldrá señal. Si no está activo,  
+no saldrá señal. Y cuando la señal esté activa 
+y el RSI esté por encima de 90, saldrá la salida  
+hacia el nodo de venta que ejecutará la venta. Así 
+de sencillo, así de fácil. Este bot, por ejemplo,  
+lo voy a generar pues para Metatrader 4, 
+que los últimos han sido para Metatrader 5,  
+para que todos podáis utilizar todo. Le doy a 
+construir bot. Aquí tengo ya el código completo,  
+ya lo veis, todo el código completo. 
+Directamente minimizo, le doy a descargar.  
+Ahí se ha descargado y ahora me voy al Metatrader. 
+El paso dos es la optimización paramétrica,  
+es decir, el bot que hemos construido no es el 
+bot que vamos a utilizar, hemos construido el  
+chasi y ahora vamos a optimizarlo. Para ello 
+nos vamos al Metatrader. Tengo aquí ya el bot.  
+directamente cojo, doble clic, compilo. Aquí lo 
+tengo compilado y aquí se me acaba de generar  
+el archivo. Y por cierto, veis aquí una carpeta 
+que pone fondeo. Pues sí, estamos trabajando en  
+un bot de fondeo, lo que era inicialmente un bot 
+de fondeo. Ya sabéis que vamos a hacer el vídeo  
+de todo el documental de cómo pasar challenge de 
+fondeo de forma efectiva con voz de trading, pero  
+hemos descubierto mucha más profundidad dentro 
+del meollo de las cuentas de Fondeo, de NFTMO,  
+etcétera, por lo que al final no va a ser un 
+bot, sino un proyecto más extenso. Pero bueno,  
+no os cuento más, lo veréis en el vídeo cuando 
+salga, que va a ser muy muy interesante. Una vez  
+tenemos el boss compilado, lo pongo ya aquí, lo 
+selecciono, lo voy a hacer en euroólar. un minuto,  
+los últimos 3 meses más no tiene sentido, menos 
+en un minuto. Lo voy a poner en modo visual  
+simplemente para que veamos un poco cómo va el 
+bot, ¿no? ¿Qué distancias tiene? ¿Cómo funciona?  
+Y bueno, aquí lo tenemos abriendo y cerrando 
+operativa. Le voy a dar a saltar hacia delante.  
+Nos vamos a la gráfica y vamos a ver cómo termina 
+este bot. Ahora recordar que está sin optimizar  
+tal cual como lo hemos sacado. Bueno, aquí vemos 
+que termina prácticamente donde empezó. Entonces,  
+bueno, ha tenido periodos positivos, periodos 
+negativos. No está mal porque no hemos hecho  
+absolutamente nada con él. Encima lo hemos 
+puesto en eurodólar, en scalping en un minuto,  
+que lo normal de este mercado en un minuto 
+y un boss sin optimizar es que fuese cayendo  
+en picado. Entonces, bueno, el que haya quedado 
+más o menos donde empezó nos indica que tiene una  
+base aproximadamente del 40 a 50% de win rate. 
+Entonces, ahora, ¿qué vamos a hacer? Después el  
+paso dos, la optimización paramétrica, que en este 
+caso sí vamos a utilizar el optimizador genérico,  
+porque lo que queremos hacer es buscar los mejores 
+periodos, en este caso para la media móvil y el R6  
+para este activo y time frame. Entonces, activo la 
+optimización, me voy a propiedades del experto y  
+aquí un punto rápido para que entendáis por 
+qué no me gusta hacer bots muy complejo o  
+avanzado de momento dentro del canal. Fijaros, por 
+ejemplo, voy a seleccionar el bot de HFT del oro,  
+que algunos ya lo estáis poniendo con bastante 
+bueno rendimiento. Recordar que lo tenéis en la  
+biblioteca. Si me voy aquí a propiedades del 
+experto, fijaros el montón de parámetros que  
+hay para configurar, optimizar, etcétera. 
+Sin embargo, este bot que hemos hecho hoy,  
+fijaros que es mucho más fácil de eh entender, 
+controlar y por lo tanto de manejar. No obstante,  
+os voy a dar aquí los tips claves de los 
+parámetros que debéis optimizar sí o sí porque son  
+los que mayor peso tienen. Es decir, no podríamos 
+optimizar todo, eso sería lo mejor, evidentemente,  
+pero no es necesario que optimicemos todo porque 
+no es el objetivo ahora de este vídeo. Entonces,  
+os voy a decir cuáles son los que realmente 
+tienen un peso. Por ejemplo, este de aquí que  
+es el moving average, ¿qué quiere decir? La media 
+móvil de cinco, la media móvil rápida, pues por  
+ejemplo lo pongo con un paso de uno, máximo 10. 
+La media móvil lenta, lo mismo que empiece en 15,  
+un paso de uno y a 20. ¿Qué quiere decir esto? Que 
+va a hacer la de 15, la de 16, la de 17, así la de  
+20. Y clico estos campos. Otro campo importante, 
+el del RSI, lo voy a hacer desde 5 hasta 14 con un  
+paso de uno. Otro punto importante, el stop 
+loss y el take profit. Lo hago de 5 a 100,  
+ambos con un paso de cinco, es decir, pondrá take 
+profit de 5, de 10, de 15, de 20, así hasta 100.  
+O sea, va a ir haciendo todas las combinaciones 
+de parámetros que pueda. Y por último, otro punto  
+importante es obviamente el umbral. El umbral que 
+le vamos a decir que empiece en 70 con pasos de 5  
+hasta 95. El 100 no tiene sentido porque no puede 
+haber nada por encima de 100 en un RSI, por lo que  
+va a ser un dato que lo va a utilizar, pero que no 
+va a dar nunca ninguna condición de venta en este  
+caso. Una vez lo tengo ya seleccionado, le doy 
+aceptar. y le doy a iniciar optimización. Aquí  
+se inicia. Ya veis que aproximadamente me dice 
+que va a tardar unas 10 horas y media. Entonces  
+yo voy a hacer una 2 horas. Para vosotros va a 
+ser 1 milisegundo porque va a salir ya mismo,  
+pero va a ser suficiente para sacar algunos 
+parámetros. Aquí en la en la pestaña de  
+resultados de optimización irán apareciendo todos 
+los escenarios sobre los cuales elegiremos el más  
+correcto o adecuado para que para lo que estamos 
+buscando, para lo que necesitamos ahora mismo.  
+Fijaros, ya ha salido el primer escenario. En 
+este caso pone que gana 300 con 10 transacciones,  
+beneficio, reducción, dry, etcétera. Entonces, 
+bueno, de momento lo dejamos aquí y vuelvo ya  
+mismo. Bueno, fijaros, la optimización lleva ya 
+una hora y cuarto aproximadamente. En resultado  
+de optimización tenemos ahora mismo 380. Una 
+barbaridad. Pero claro, ¿cuál elegimos de aquí?  
+Y aquí es importante tener claro que no buscamos 
+parámetros que ganen siempre, buscamos parámetros  
+que detecten bien las oportunidades porque 
+estamos construyendo el coche de carrera,  
+es decir, el chasis, ¿no?, al piloto. Aquí ahora 
+podríamos ir escenario por escenario, ordenarlos  
+por beneficio, por transacciones, etcétera. Yo 
+lo voy a simplificar. Le voy a dar botón derecho,  
+guardar informe. Guardo el reporte y aquí tengo el 
+reporte. Fijaros, esto literalmente es complejo,  
+sobre todo si lo dejásemos las 12, 13 horas que 
+se llevaría. Fijaros que lleva una hora y poco  
+y aún así esto ya es una barbaridad para poder 
+interpretarlo con cierta objetividad, sobre todo  
+si no tenemos experiencia. Pero bueno, yo tengo 
+aquí el reporte, me lo llevo a la plataforma de  
+Techen y lo vamos a analizar en un segundo. 
+Aquí en la plataforma de No Code Generator lo  
+que hago es me vengo aquí a la parte superior en 
+analizador de optimizaciones y directamente cojo  
+el informe que había generado y lo suelto aquí 
+encima. Ya está listo, analizado. Fijaros, vamos  
+a [ __ ] el paso 25, que nos está diciendo que 
+dentro del análisis, para que lo entendáis claro,  
+aquí lo que estamos viendo es en el eje vertical 
+estamos viendo la rentabilidad de 0 a 100.  
+En el eje horizontal estamos viendo el dry down de 
+ero al máximo dry down y el color de los círculos  
+y el tamaño va acorde al profit factor. Cuanto más 
+verde, mayor rentabilidad. Entonces, rápidamente  
+podemos ver que lo ideal sería un escenario 
+que estuviese en la esquina superior izquierda.  
+Como no lo tenemos, vamos a [ __ ] el que teniendo 
+mayor rentabilidad, es decir, estando más hacia  
+arriba, esté también más hacia la izquierda. En 
+este caso, la propia herramienta ya, el analizador  
+de optimizaciones de de Tchain, ya me dice que es 
+el escenario uno el más equilibrado, el dos el de  
+máxima actividad y el tres, el más seguro. Aquí 
+vemos que el uno sería el que tenemos aquí arriba,  
+el paso 25. El tres, por ejemplo, sería el que 
+tenemos aquí debajo y bueno, podríamos irnos  
+moviendo por todo. No obstante, bajamos hacia 
+abajo y aquí nos dice escenario recomendado  
+según lo que le hemos pasado, ¿no? Si hiciésemos 
+más optimización tendríamos más escenario. En este  
+caso nos dice que el mejor equilibrado e incluso 
+también el de máxima actividad es el escenario  
+con el IDP 25, 892 operativas, un 4,9% de drad 
+y221 de beneficio, o sea, aproximadamente un  
+12.2% de rentabilidad, un poco más del doble por 
+cento del dryown que tenemos. no llega al triple,  
+pero más o menos por ahí estaría, por lo que 
+estaríamos aproximadamente en un 2.x sobre el  
+dryown. Vale, perfecto. Pues me quedo con este, el 
+pass 25. Vuelvo aquí al Metatrader y me iría al ID  
+pass número 25, que en este caso es el repaso 
+número 25. Y aquí lo tengo. Repaso 25, $1,221,  
+892 operativa, 4,9% de drown. Perfecto, este es 
+el escenario. Ahora simplemente hago clic derecho,  
+configurar parámetros de entrada y ya los tengo 
+puesto en el bot. Esto es automático. Si me voy  
+ahora aquí al bot, ya puedo ver que tienen los 
+parámetros configurados. En este caso vemos que ha  
+puesto una media móvil de nu, la rápida, la lenta 
+de 15, el RSI en nu, el stop loss lo deja en 30,  
+el T profy en CCO y el rango del RSI lo deja 
+en 75. Esto yo ahora aquí sacaría una captura  
+de pantalla o lo apuntaría y son los parámetros 
+que me voy a llevar. Pero bueno, vamos a ejecutar  
+este escenario y vamos a ver realmente cómo 
+funciona. Directamente cierro. Bueno, lo vamos  
+a ejecutar modo visual también un tramo para que 
+lo veáis. Le doy a ejecutar. Quitamos la rejilla,  
+ampliamos hacia atrás y aquí tenemos el bot 
+funcionando, abriendo y cerrando operaciones.  
+Aquí tenemos la gráfica. Le voy a dar a saltar 
+hacia delante porque lo que nos interesa es  
+básicamente ver la gráfica. Él irá aquí abriendo 
+y cerrando sus operaciones. Y aquí vemos que  
+finaliza. Ahora con el escenario listo, recordar 
+para que realicéis una correcta optimización,  
+lo ideal es que vosotros dejéis correr todo el 
+tiempo de la optimización y utilicéis datos de  
+calidad. Ya se han extraído de TIC Data Suite, de 
+ducas copy, etcétera. Siempre las optimizaciones  
+tienen que tener una base de calidad. Si te quedas 
+aquí, tendrás un bot funcional sobreoptimizado que  
+fallará en uno o dos meses como mucho. Aunque 
+seguramente esto ya lo sepas porque es el  
+procedimiento que se sigue y que sigue la mayoría. 
+Pero ahora viene el paso clave, lo que el 99% de  
+los traders no hace o no sabe hacer. Aquí es donde 
+ocurre la magia. Le vamos a quitar el gatillo al  
+bot clásico y créeme que este paso es la clave que 
+necesitas, pero no te lo cuento, te lo muestro.  
+El paso tres es la inyección de la IA. Yo ya he 
+introducido los parámetros de la optimización en  
+cada nodo, pero ahora el paso vital es eliminar 
+la ejecución tonta, estática y obsoleta de la  
+ecuación del algoritmo, es decir, la venta a 
+mercado. Ahora mismo, la lógica de este bot y  
+de cualquier bot de trading que podáis conocer es 
+si pasa A, compra y si pasa B, vende. En este caso  
+solo ejecuta ventas, pero la lógica es la misma. 
+Cuando las condiciones se dan, la salida siempre  
+va a ser venta, sí o sí, independientemente 
+de cómo esté el mercado, si está volátil,  
+en tendencia, en rango, en caos, da igual. Cuando 
+la salida se da, la venta se ejecuta con este bot  
+y con todos los que podáis tener. Pero nosotros 
+no queremos construir un bot clásico que puede ser  
+rentable durante un tiempo. No digo que no, pero 
+queremos construir algo robusto y consistente en  
+el tiempo. Entonces, eliminamos el nodo de venta 
+a mercado, nos vamos a inteligencia artificial y  
+sacamos el nodo Strategic Agent IA. Lo cojo, 
+lo saco y veis que este nodo puede ejecutar  
+tanto compras como ventas. tiene las condiciones 
+para compra y las condiciones para venta. Conecto  
+la conexión de cell condition y ahora mismo este 
+nodo va a ejecutar la inteligencia artificial solo  
+cuando se den las señales que las va a interpretar 
+como señales de venta. ¿Qué acabamos de crear?  
+Pues la estrategia clásica que teníamos, esta 
+parte de aquí detrás, ya no va a disparar órdenes  
+directamente a mercado. Ahora la estrategia, la 
+parte de la estrategia actúa como un analista,  
+no como un disparador. Un analista que le va 
+a pasar las propuestas al nodo de inteligencia  
+artificial, el operador jefe. Es la misma lógica 
+que se sigue en un equipo profesional en cualquier  
+fondo o gestora. La estrategia dice, "Según mis 
+parámetros optimizados, aquí hay una venta." Y  
+la IA consultando su Qable y el estado actual del 
+mercado decide si va a vender o no. Y si vende,  
+decidirá con qué parámetro va a gestionar esa 
+orden, porque si os fijáis en el nodo ya no  
+tenemos un parámetro fijo de take profit, stop 
+law, etcétera. Tenemos rango, rangos sobre los  
+que le vamos a permitir actuar, por lo que va a 
+poder realizar una gestión activa y adaptativa  
+de la estrategia sobre el mercado. ¿Qué hemos 
+hecho? Pues esta conexión que tenemos aquí era  
+el disparador, ejecutaba directamente órdenes. 
+Ahora esta parte de la estrategia no va a ser un  
+disparador. La estrategia deja de ser una pistola 
+y pasa a ser un analista. Y esta es la diferencia  
+entre llevar una cuenta de trading a la ruina o 
+adaptarla al mercado y aumentar sus posibilidades  
+de éxito. Un punto importante que debéis tener 
+en cuenta con el nodo de inteligencia artificial,  
+en este caso este nodo, ya sabéis que hay varios, 
+es que yo le voy a dejar desactivado el autopausa.  
+¿Por qué? Porque este bot está nuevo, necesita 
+entrenarse, necesita rellenar la Qtable con al  
+menos entre 200 y 500 operaciones. Os dejo en 
+la descripción un vídeo donde os explico cómo  
+entrenarlo y cómo acelerar ese entrenamiento. 
+Entonces, ahora lo correcto sería que este bot  
+tiene que ir a una cuenta demo. ¿Para qué? 
+para que se entrene. Como en una cuenta demo  
+no hay riesgo, le quito el autopausa, porque si le 
+dejase puesto el autopausa, si lo dejase activo,  
+en el momento en el que la estrategia se degradase 
+muy rápidamente y los resultados del bot no fuesen  
+favorables, entraría en pausa en las condiciones 
+que nosotros le hayamos marcado para que el bot  
+no termine quebrando la cuenta. Como va a ir a 
+una cuenta demo y no hay riesgo y lo que queremos  
+es que se entrene lo máximo y lo más rápido 
+posible, no queremos que se pare, aunque pierda,  
+porque da igual si pierde la estrategia y la 
+Q table va a seguir mejorando, rellenándose y  
+avanzando. Entonces, lo que necesitamos en este 
+punto es el entrenamiento máximo, por lo que  
+le quito el autopausa. Ahora directamente 
+voy a construir bot y le doy a descargar.  
+Y lo que hemos hecho aquí ahora mismo es convertir 
+una estrategia, un bot de trading estático que  
+compraba o vendía, en este caso vendía por 
+cruces de media y niveles de osciladores en  
+una estrategia avanzada, robusta e inteligente. 
+Una que no necesita que estemos vigilando,  
+actualizando y back testeando continuamente para 
+no quebrar la cuenta. Con esto conseguimos algo  
+que hasta ahora era imposible. Tenemos los mejores 
+parámetros. gracias a la optimización clásica,  
+es decir, el entrenamiento sobre el pasado, 
+pero eliminamos la rigidez de la ecuación  
+gracias a la IA y al cool learning. Ahora, si el 
+mercado cambia, la estrategia optimizada seguirá  
+mandando las mismas señales, pero la IA aprenderá. 
+Aprenderá mediante su sistema de recompensas y  
+penalizaciones y aprenderá básicamente que esas 
+señales ya no funcionan en el nuevo contexto,  
+por lo que dejará de ejecutarla o cambiará la 
+gestión sobre las mismas. Resumiendo, se adapta  
+sin que tú tengas que reoptimizar código cada 
+semana, cada día o cada mes. Aunque evidentemente  
+es interesante mantener la estrategia actualizada 
+con alguna optimización de vez en cuando para  
+maximizar el rendimiento, pero ya deja de ser algo 
+crítico y constante. Pensarás que convertir una  
+estrategia mediocre en una rentable es quizás cosa 
+de magia, pero no lo es. De hecho, al principio,  
+en el periodo de aprendizaje que explico en 
+el vídeo de la tarjeta que te dejo por aquí,  
+tu bota, podría incluso perder operaciones 
+que el bot tradicional ganaría y eso asusta.  
+Por ello es importante realizar todo esto 
+en una cuenta demo con riesgo cero. Pero  
+mira la gráfica a largo plazo de un modelo ya 
+entrenado durante varios meses en el eurodólar.  
+Una carrera en el trading no es un sprint, es un 
+maratón. Recuerda siempre que la velocidad máxima  
+es hacer las cosas bien. Nada te llevará 
+más rápido a tus objetivos económicos. Sé  
+inteligente. El bot tradicional se rompe porque 
+intenta imponer su lógica al mercado. El bot que  
+hemos construido en Techain con esta arquitectura 
+híbrida navega al mercado. ¿Cómo es esto posible?  
+porque aprende del futuro. Cada trade en el 
+mercado real es un dato nuevo que actualiza y  
+nutre la Qtable. Tu bot es más inteligente hoy que 
+ayer y lo será más aún mañana. El bot tradicional  
+es igual de tonto cada día o incluso más tonto 
+si el mercado cambia y cambiará. Nuestro Botia  
+realiza un filtrado inteligente, es decir, la IA 
+no tiene que inventar la rueda. Usa la estrategia  
+que tú creaste y optimizaste como base y se 
+especializa en filtrar la calidad de la ejecución  
+y mejorar la gestión de la misma. De igual modo, 
+calcula y gestiona las probabilidades. Es decir,  
+pasamos de un modelo determinista de si pasa X a 
+Y a un modelo probabilístico donde si pasa X y la  
+probabilidad de éxito en el estado S es mayor que 
+Z, entonces haz I. Y cuando hacemos esto, lo que  
+estamos haciendo es utilizar ingeniería financiera 
+aplicada. es dejar de jugar a la lotería de la  
+optimización y empezar a gestionar probabilidades 
+dinámicas. Con esta metodología ya no depende  
+de que el futuro sea igual que el pasado, solo 
+depende de la capacidad de adaptación de tu agente  
+y sobre este tienes control total. Ahora tienes la 
+teoría. ¿Entiendes por qué tu EA antiguo falló y  
+por qué esta arquitectura de estrategia optimizada 
+más cool learning es superior matemáticamente?  
+Pero sé lo que seguramente estás pensando. ¿Cómo 
+configuro exactamente el nodo de IA? ¿Qué es  
+tan siquiera un bot de IA? ¿Y qué hago para que 
+aprendas rápido sin arruinarme? No sirve de nada  
+tener un Ferrari si no sabes meter las marchas. 
+Pero no te preocupes porque en este vídeo de aquí  
+vamos a construir un bot IA desde cero en directo, 
+donde te lo explico todo al detalle e incluso te  
+lo regalo. Haz click porque es la diferencia 
+entre tener la teoría y tener la rentabilidad.

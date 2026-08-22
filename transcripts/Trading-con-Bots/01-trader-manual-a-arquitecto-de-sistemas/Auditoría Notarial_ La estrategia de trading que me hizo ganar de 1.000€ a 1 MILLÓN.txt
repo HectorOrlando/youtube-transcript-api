@@ -1,0 +1,353 @@
+Titulo              : Auditoría Notarial: La estrategia de trading que me hizo ganar de 1.000€ a 1 MILLÓN
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-06-16
+Duracion            : 19:03
+Vistas              : 2,497
+URL                 : https://www.youtube.com/watch?v=QB4ooOWjKyI
+----------------------------------------------------------------------
+
+Han pasado más de 15 años desde que empecé a 
+interesarme por el trading y hasta que fui capaz  
+de vivir de ello. Estuve años probando decenas de 
+estrategias, indicadores y métodos discrecionales,  
+perdiendo enormes cantidades de dinero y de 
+horas delante de las pantallas en busca de la  
+mejor estrategia para ser rentable. Y a día de 
+hoy no solo te puedo decir que he trabajado como  
+analista profesional desarrollando, auditando 
+y desplegando sistemas de trading algorítmico  
+para fondos institucionales y gestoras de 
+primer nivel, sino que mis algoritmos generan  
+literalmente cientos de miles de euros de forma 
+automática. Y todo esto empezando con una modesta  
+cuenta de tan solo 1,000 € que he escalado 
+utilizando un portfolio de bot dinámico y el  
+interés compuesto. Sé que no parece mucho, pero 
+en aquel momento cuando empezaba entre estudios,  
+casa, etcétera, etcétera, era lo máximo que podía 
+permitirme depositar para hacer trading. Pero esa  
+cuenta modesta hoy supera el millón de euros. 
+Así que en el vídeo de hoy te enseñaré cómo uno  
+de mis sistemas generó 121,087,60 € en un solo 
+año, ayudando a crecer esa cuenta en concreto.  
+Y lo haré mostrándote una auditoría oficial ante 
+notario. Nada de captura de pantalla manipuladas.  
+Verás con qué lógica algorítmica consigo estos 
+resultados para que puedas entender el proceso  
+y te enseñaré cómo se ejecuta la estrategia 
+de forma real. y haré una reflexión final  
+para que entiendas por qué la mayoría fracasa 
+al dejarse llevar por las emociones. Además,  
+recuerda que abajo en el primer comentario 
+fijado y en la descripción del vídeo  
+encontrarás el enlace a mi comunidad privada 
+de school, donde te comparto mi formación en  
+trading cuantitativo totalmente gratis. Así 
+que habiendo dicho esto, vamos con el vídeo.
+Considero que efectivamente he tenido éxito en el 
+trading y lo que más me llena de orgullo es haber  
+podido ayudar a otras personas a tenerlo también. 
+Sin embargo, no lo he tenido por ser más listo  
+que tú o por haber nacido con mayores facilidades 
+económicas. De hecho, mi familia siempre ha sido  
+de clase humilde y trabajadora y mi comienzo fue 
+bastante tortuoso. No tenía dinero y el poco que  
+tenía lo invertía íntegramente en mis estudios, en 
+mí y en mi formación, porque mis padres, por mucho  
+que lo deseaban, pues no podían costearme una 
+carrera universitaria. Pero yo tenía muy claro que  
+quería vivir de esto. En ningún momento me llevé 
+a engaño. Siempre fui consciente de que no iba a  
+conseguirlo de forma fácil, rápida, sin riesgo, ni 
+copiando estrategias absurdas o la formación de un  
+gurú de turno en redes sociales como se promueve 
+hoy en día. Y tantos incrédulos se lo creen. Sabía  
+que si quería ganar dinero real, ser rentable y 
+construir mi propio futuro en uno de los sectores  
+más profesionalizados que existen, necesitaba 
+esforzarme al máximo. Aprendí de mis padres que  
+todo en la vida se consigue a base de trabajo 
+y esfuerzo. Nada viene regalado. Pero yo tenía  
+claro lo que quería y cuáles eran mis objetivos. 
+Tomé una decisión. Sabía que era lo que quería y  
+simplemente me dispuse a pagar el precio. Por eso, 
+con 18 años, me fui de casa de mis padres para  
+emprender y construir mi propio camino. Buscando 
+la estabilidad económica necesaria para financiar  
+mi formación, mis estudios, ingresé en las fuerzas 
+armadas españolas, donde serví durante 6 años,  
+concretamente en el Ejército del Aire y más 
+concretamente en las fuerzas especiales bajo  
+la especialidad de seguridad y defensa. No fue 
+un camino fácil ni mucho menos rápido, pero esa  
+etapa me ayudó a crecer muchísimo como persona. 
+me hizo comprender el verdadero significado de la  
+disciplina, la resiliencia y el esfuerzo. Conocí 
+a grandes personas y sobre todo ese trabajo me  
+permitió, cuál era mi objetivo, que era costear 
+mis estudios, creando la base sólida sobre la que  
+años después terminaría de construir mi perfil 
+profesional dentro del sector cuantitativo de  
+las inversiones. He tenido éxito porque desde el 
+minuto uno me tome esto como una profesión, como  
+una vocación. Para llegar hasta aquí, he hecho 
+innumerables sacrificios programando y analizando  
+mercado literalmente noche y día, porque cuando un 
+sistema fallaba, nunca tiraba la toalla, siempre  
+seguía adelante. Pero sobre todo, he tenido éxito 
+porque he enfocado el trading algorítmico en base  
+a tres pilares básicos que cualquier persona 
+con disciplina puede replicar y que te voy a  
+compartir ahora mismo. El primero es el rigor 
+estadístico. Siempre he querido operar de forma  
+demostrable y analítica. Siempre he cuidado mucho 
+la información con la que alimento mi cerebro, la  
+información que recibe y siempre he intentado que 
+fuese de la máxima calidad y de personas reales  
+con éxito real demostrable. Nunca me he dejado 
+liar por intuiciones visuales que surgen de la  
+nada y no se pueden medir, pero sobre todo nunca 
+me dejé influenciar por gurú de redes sociales y  
+sus promesas de ganar dinero de forma asegurada, 
+fácil y rápida. Lo que sí funciona es entender  
+las ineficiencias del mercado y aplicar lógicas 
+cuantitativas probadas que son rentables a largo  
+plazo. El segundo pilar es la gestión paramétrica 
+de riesgo. Del mismo modo que mi enfoque es  
+estrictamente matemático y analítico, en el 
+trading rentable el riesgo se calcula por código  
+antes de abrir ni una sola posición. Mi objetivo 
+inicial no era buscar pelotazo ni tan siquiera  
+entrada u operativa, sino analizar, calcular y 
+limitar el dryown para permitir que el interés  
+compuesto hiciera su magia matemática a lo largo 
+de los años. Y el tercero es la automatización.  
+Confío en la ejecución impecable de una máquina, 
+sin duda, sin fatiga y sin miedo. Si encontraba  
+una ventaja estadística que se repitiera, la 
+codificaba para que se ejecutase automáticamente,  
+día tras día. Sabía que automatizando llegaría 
+antes a mis objetivos que intentando adivinar  
+el futuro mirando gráficos a mano. Hoy tengo un 
+portfolio de más de 30 bots de trading operando  
+247. Sería el equivalente a tener 90 traders 
+manuales a 8 horas al día, cada uno analizando  
+y operando, pero soy una única persona, no 90 me 
+hubiese sido imposible. Con esto queda claro que  
+el training manual no es el camino para construir 
+nada y mucho menos hoy en 2026. Gracias a estos  
+tres pilares, mis sistemas son capaces de generar 
+ingresos de forma periódica. Y aquí es donde el  
+90% de los youtubers de trading te pondrían 
+una grabación de pantalla de su supuesto broker  
+enseñando beneficios y retirada. Yo no voy a hacer 
+eso. Hoy en día mostrar la interfaz de un broker o  
+una captura de pantalla no vale absolutamente para 
+nada, para nada más que para engañar a los novatos  
+que no saben cómo funcionan las cosas aún. Con una 
+inteligencia artificial cualquiera, por ejemplo,  
+con Cloud Code puedes replicar el código de la 
+interfaz de cualquier broker en 5 minutos para  
+que se vea idéntica a la real y ponerle ahí el 
+saldo de 1,000ón de euros si quieres. O peor aún,  
+una práctica más lamentable y que se suele 
+extender muchísimo es llamar al manager de  
+tu cuenta, es decir, a tu broker o creador 
+de mercado para que te inyecte operativa,  
+ganancia o retiro falso a mano y poder enseñarlo 
+en un vídeo para vender cursos. Todo desde la  
+propia plataforma del broker, pero al final 
+es todo humo y es fácilmente falsificable.  
+Por eso yo muestro las cosas de forma totalmente 
+diferente y verídica. No me creáis a mí,  
+creer al notario. Lo tengo aquí en mis manos. 
+Son auditorías reales en papel físico, elevada a  
+público y firmada y sellada por un notario oficial 
+que ha revisado toda la información directamente  
+desde la fuente y certifica la veracidad de 
+los datos. ¿Por qué tengo esto? Pues no es  
+por presumir, no tengo esa necesidad ni va con 
+mi personalidad. Tengo estas auditorías porque  
+durante el desarrollo de uno de los algoritmos muy 
+concretos que tuve que hacer por procedimientos  
+internos y un estricto control de resultado, 
+requería auditar el rendimiento de forma legal  
+y externa. Y los resultados que certifica 
+este documento son claros. una rentabilidad  
+de 121,087 generada en el periodo de un año con 
+un único bot de trading. Este beneficio limpio  
+se obtuvo sobre una cuenta que en ese momento 
+de la auditoría había alcanzado ya los 872,625,
+como podéis ver aquí. Pero sinceramente lo mejor 
+de todo y de lo que estoy más orgulloso no es de  
+esa cifra final, es que si retrocediésemos 4 
+años antes de esa auditoría, esa misma cuenta  
+tenía tan solo 20,000 € sería el equivalente de 
+pasar una cuenta de 2,000 a una de 87,262 en 4  
+años con interés compuesto. Pasar de 20.000 a más 
+de 870.000 no es magia ni apalancamiento suicida.  
+El que me conozca un poco sabe que este tipo 
+de trading retail va totalmente en contra de  
+mi sistema de gestión de riesgo. Esta rentabilidad 
+concreta es el resultado de aplicar un portfolio  
+de botch dinámico, reinvertir los beneficios de 
+forma paramétrica y dejar que el interés compuesto  
+creciese la cuenta matemáticamente. Y aquí podéis 
+ver todas las operaciones listadas una por una  
+dentro de la auditoría. sin trampa ni cartón. En 
+definitiva, no necesites seguir las reglas que hoy  
+en día imponen los que te venden cursos de cómo 
+interpretar una vela, ni someterme a la presión,  
+las reglas absurdas y abusivas de las empresas 
+de fondeo, que sabes que en cuanto ganes dinero  
+te van a cerrar la cuenta. Decidí emprender 
+el camino de ser totalmente independiente y  
+crear mi propio capital, 100% mío. Sabía que 
+me iba a costar más, pero era lo que quería,  
+tener el control total y absoluto de mi dinero. 
+Algo que debemos tener todos claros es que los  
+brokers ganan con tus comisiones por sobreoperar 
+manualmente o ejerciendo como tu contrapartida  
+cuando tú pierdes quedándose tu dinero. Y los 
+gurú ganan vendiéndote formaciones subjetivas  
+atraído por la falsa sensación de ver algo mágico 
+que el resto no ve. Para el día a día, utilizo  
+herramientas estadísticas como este dashboard 
+para monitorizar los resultados de mi portfolio  
+algorítmico en tiempo real. Aquí se registran 
+todos los trades de todos los bots que hay en  
+esa cuenta y puedo ver rápidamente ratios como el 
+win rate, profit factor, spec payoff, etcétera.  
+Mis algoritmos optimizan el Age, es decir, la 
+ventaja matemática en miles de operaciones. No  
+me importa si una operación pierde, no me importa 
+el resultado agregado. Aquí podéis ver el drown  
+máximo, los retrocesos de la cuenta, porque esto 
+también es la realidad del trading cuantitativo.  
+Para llegar a ganar 120,000 € en un año con 
+este único algoritmo, tienes que soportar la  
+fase donde la varianza estadística es negativa 
+y debes hacerlo sin intervenir en el código,  
+siempre que todo siga dentro de los parámetros de 
+Montecarlo y la normalidad. Evidentemente de nada  
+sirve hacer trading algorítmico cuantitativo con 
+bots automatizado si luego estamos toqueteando  
+y modificando todo continuamente. Dicho esto, 
+el trading no es adivinar el futuro. Predecir  
+es el trabajo de los astrólogos y de los gurús de 
+redes sociales parece ser también, pero no de los  
+traders rentables como nosotros y como quieres 
+ser tú. Si quieres ser un buen trader rentable,  
+tienes que entender de probabilidades. El motivo 
+por el cual tantas personas fracasan hoy en día  
+es que operan basándose en opiniones, no en 
+datos. Se dejan llevar por sergos cognitivos,  
+estrategias de redes sociales, indicadores 
+mágicos, etcétera, etcétera. La solución para  
+alcanzar la rentabilidad es darle un enfoque 
+sistemático, cuantificable y programable. y yo  
+te voy a enseñar a través de la lógica de uno de 
+mis algoritmos rentables de reversión a la media  
+cómo enfoco el diseño, qué variables evalúo y los 
+motivos matemáticos de su rentabilidad. La lógica  
+de este sistema identifica la sobreextensión del 
+precio respecto a su media. El bot busca anomalías  
+macro en los extremos de las bandas de kelner en 
+temporalidad diaria, apoyado por indicadores como,  
+por ejemplo, el ZCore, entre otros. Le interesa 
+encontrar una desviación superior a dos o  
+tres sigmax. ¿Por qué? Porque los movimientos 
+parabólicos son insostenibles y las probabilidades  
+de una corrección son altísimas. Es una operativa 
+de muy alta probabilidad de éxito que te ayuda a  
+crecer rápido una cuenta pequeña en un mercado 
+con régimen de regresión a la media. ¿Qué evalúa  
+exactamente el bot? Primero, la desviación 
+estándar en diario y segundo, filtros de  
+momentum en intradía. El algoritmo espera a que un 
+oscilador como el RSI llegue a niveles extremos.  
+Si el bot detecta que la desviación es de más 
+tr sigmas, pero el RSI horario, por ejemplo, cae  
+por debajo de su media móvil, detecta pérdida de 
+tracción. Registra con datos que la probabilidad  
+de reversión acaba de aumentar drásticamente y 
+autoriza la ejecución de la operativa. Veamos  
+un back test sobre datos del mercado real. 
+Aquí lo tienes claro, sin trampa ni cartón,  
+solo matemáticas y estadísticas aplicadas al 
+trading. Así es como un portfolio dinámico  
+construye esa rentabilidad auditada a lo largo de 
+los años, agregando muchas operaciones con ventaja  
+estadística. Antes de continuar con el vídeo, 
+quiero recordarte que en la primera línea de  
+la descripción tienes un enlace para unirte a mi 
+comunidad privada de school totalmente gratuita.  
+Dentro he creado una formación de 14 días 
+totalmente gratis, donde te enseño a crear  
+tu primer bot y te comparto alguna de las 
+estrategias que me han permitido ser rentable  
+en la última década. Al unirte vas a tener acceso 
+totalmente gratuito a un ecosistema de networking  
+donde compartirás espacio con personas como tú que 
+quieren avanzar y crecer, aparte de con ingenieros  
+informáticos, matemáticos y traders profesionales 
+que avanzan en tu misma dirección y que van a  
+potenciar tu evolución técnica. Haz clic en el 
+enlace de la descripción para unirte. Nos vemos  
+dentro y ahora sí, seguimos con el vídeo. Para 
+terminar, quiero hacer una pequeña reflexión. A  
+lo largo de los años, he comprobado que en torno 
+al 90% de los traders manuales pierden porque son  
+humanos, tienen miedo, avaricia, inseguridad y 
+dudas. La forma más lógica de eliminar el factor  
+humano y escalar tu capital, como hemos visto, es 
+cuantificar tu operativa. Entiendo que la barrera  
+de entrada al trading algorítmico cuantitativo 
+parece alta, asusta ver código y métricas, pero  
+si de verdad quieres profesionalizarte y tratar 
+esto como un negocio serio del que puedas vivir  
+y ser rentable a largo plazo, tienes que aprender 
+a testear, dejar de adivinar y empezar a medir.  
+Si no mides, si no validas tu estrategia, no vas a 
+sobrevivir nunca en el mercado real y mucho menos  
+podrás llegar a ser rentable. Esto no va de ser 
+un experto programador o de tener siete carreras  
+porque hay constructores no code como estrato 
+de techin va de mentalidad. Si no entiendes la  
+estadística detrás de tu sistema, a la primera 
+racha perdedora lo apagarás y arruinarás el  
+interés compuesto. Si no sabes qué hace tu bot 
+de trading, nunca podrás controlar nada. Por eso  
+es vital formarse en la mentalidad cuantitativa 
+correcta para poder tener opciones reales de ser  
+rentable con tu trading. Cuando fundé Chain, me 
+focalicé en enseñar las bases de la estadística,  
+porque si entiendes cómo validar una idea, 
+podrás crear sistema rentable de por vida, tal  
+como lo están haciendo decenas de personas que he 
+mentorizado a lo largo de los años, que tras meses  
+de estrés perdiendo salud en el scalping manual, 
+aprendieron a automatizar y ahora dejan que la  
+máquina trabaje por ellos. Así que si quieres 
+dar el salto cuantitativo, abajo en el primer  
+comentario fijado y en la descripción te dejaré el 
+enlace a mi comunidad gratuita de school, desde la  
+que podrás acceder a la formación que he creado 
+para ti totalmente gratis, donde te comparto las  
+bases del trading cuantitativo y te ayudo a crear 
+tu primer bot de trading, además de más recursos  
+que podrás descargar de forma 100% gratuita. 
+Pero sé lo que te estás preguntando ahora  
+mismo tras ver esta auditoría. Vale, Ignacio, los 
+números cuadran, el notario oficial lo certifica,  
+pero ¿cómo aplico yo esto si no sé programar un 
+algoritmo? La respuesta para derribar esa barrera  
+hoy en día es la inteligencia artificial. y quiero 
+demostrártelo ahora mismo. Haz clic en este vídeo  
+que está apareciendo aquí en pantalla porque 
+en él te enseño paso a paso cómo crear un bot  
+de trading completamente real utilizando la IA. 
+Vamos a desglosar su lógica juntos y te explicaré  
+exáciona por dentro para que puedas tener tu 
+primer sistema listo para llevar a Metatrader.
+[música]

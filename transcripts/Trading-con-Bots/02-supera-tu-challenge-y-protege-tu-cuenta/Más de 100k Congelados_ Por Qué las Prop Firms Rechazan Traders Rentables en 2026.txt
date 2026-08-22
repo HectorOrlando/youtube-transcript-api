@@ -1,0 +1,500 @@
+Titulo              : Más de 100k Congelados: Por Qué las Prop Firms Rechazan Traders Rentables en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-06-27
+Duracion            : 24:14
+Vistas              : 1,098
+URL                 : https://www.youtube.com/watch?v=9P_sBUpTl3o
+----------------------------------------------------------------------
+
+Una de las empresas de fondeo más grande e 
+importantes de toda la industria a nivel mundial  
+me acaba de banear de forma fulminante, eliminando 
+por completo una cuenta operativa con un saldo  
+de más de $100,000. Y la razón detrás de esta 
+drástica decisión te dejará con la boca abierta,  
+porque no me han cerrado la cuenta por perder 
+dinero o por romper alguna regla de gestión,  
+sino por el simple hecho de ser demasiado rentable 
+para el modelo de negocio que manejan las empresas  
+de fondeo. No es un caso aislado ni un error 
+administrativo del sistema, sino una revelación  
+directa del oscuro y multimillonario entramado 
+corporativo que se esconde detrás de cada examen  
+de fondeo que compras en internet. En este vídeo 
+vas a descubrir con lujo de detalle la cruda  
+realidad del sector. Entenderás los motivos 
+exactos por los que decidieron congelar los  
+fondos sin justificación real y verás de forma 
+matemática por qué te van a hacer exactamente  
+lo mismo a ti en el preciso momento en el que 
+comience a ganar dinero de manera constante y  
+sólida en sus plataformas. Quédate hasta el final 
+porque te voy a enseñar una cuenta auditada ante  
+notario con esta misma estrategia para que 
+entiendas perfectamente por qué pasó. Te voy  
+a revelar por qué me hicieron este bloqueo y 
+te daré las herramientas clave para que puedas  
+proteger tu capital antes de que sea demasiado 
+tarde. Toda esta aventura comenzó una tarde en  
+las oficinas de Techain aquí en Dubai. Era el 
+típico viernes por la tarde donde el ambiente,  
+pues bueno, pues ya lo sabéis, se relaja un poco 
+del estrés de toda la semana. Estuve charlando  
+con algunos miembros del equipo en el office 
+tomando un café, entre ellos Víctor, algunos  
+ya los conoceréis si eh habéis venido a visitarnos 
+aquí en las oficinas. Víctor [música] en concreto  
+le ha puesto mucha ilusión, mucho trabajo duro y 
+empeño al tema del del fondeo. Diseñó su propio  
+algoritmo con estrato, no con poca dedicación, 
+y superó algunos challeng de fondeo. Entonces,  
+en ese momento, con esa ilusión, pues me propuso 
+que me sacase alguna cuenta para que viese cómo  
+funcionaba todo. él había hecho ya algún retiro 
+sin problemas y como experimento para aprender  
+más sobre el mundo del fondeo y poder aportar 
+más valor a vosotros, a la comunidad, pues dije,  
+"Venga, me pongo a ello." Para que comprendas 
+la gravedad de lo que te estoy contando,  
+necesitas saber que yo no dependo económicamente 
+de las empresas de Fondeo para mantener mi estilo  
+de vida ni para financiar mis operaciones diarias, 
+ya que mi trayectoria profesional en los mercados  
+financieros comenzó hace ya más de 15 años con 
+una cuenta pequeña de apenas 1000 € de capital  
+propio. A lo largo de esta última década de 
+formación profesional y experiencia real,  
+no solo por trabajar como trader cuantitativo, 
+sino como desarrollador y analista profesional, he  
+demostrado en repetidas ocasiones la efectividad 
+de mi operativa con mis algoritmos de trading.  
+De hecho, te he traído hoy aquí un ejemplo muy 
+interesante de resultado auditado ante notario.  
+Aquí te los enseño de todas formas. Te pondré 
+zoom aquí ahora para que lo veas en pantalla,  
+donde vas a poder ver cómo lleve una cuenta de 
+tan solo unos 3,000 € a más de 27,000 en menos  
+de 2 meses y en un momento preciso de extrema 
+dificultad en el que el 95% de los traders,  
+incluso la mayoría de las instituciones, estaban 
+quebrando por todos los lados por el COVID-19. Fue  
+un algoritmo que diseñé y vendí específicamente 
+para este tipo de crashes de mercado  
+radicales, [carraspeo] estos cines negros donde 
+nadie quiere operar. Por eso tuve que auditarlo  
+ante notario para descertificar sus resultados 
+porque fueron increíbles. Aunque de esto hace  
+ya casi 6 años lo guardo como un recuerdo a 
+modo de victoria profesional, por así decirlo,  
+porque fue una rentabilidad extraordinaria de 
+más del 800% en un periodo extremadamente corto  
+que evidentemente no se ha vuelto a repetir y 
+que desde luego me hubiese gustado pues meter  
+mucho más de esos 3,000 € en esta cuenta. Lo 
+que te quiero transmitir es que todo lo que  
+te cuento es desde la experiencia profesional real 
+de más de una década sufriendo los mercados. Tengo  
+cuentas auditadas de hace años y años, cuando 
+ya era rentable y retiraba miles de euros con mi  
+trading todos los meses. No te muestro resultados 
+del último año o 2 años o de hace unos meses y  
+mucho menos con historias de web de broker. Si 
+he utilizado las cuentas de fondeo hoy en día,  
+es únicamente porque me pareció algo interesante 
+como una herramienta estratégica complementaria  
+que me permitiese incubar mi bot de trading en 
+entornos de ejecución real arriesgar mi propio  
+capital principal. Ya sabéis que antes de llevar 
+un bot a mi cuenta con capital real, capital  
+propio, lo dejo unos meses siempre en incubación 
+en cuenta demo para que los bots que tengo  
+seleccionados como candidato vayan demostrando 
+resultado consistentemente antes de pasar a real.  
+Estos bots que pongo en estas cuentas demo 
+en el mercado real depurados, por lo que  
+suelen ser ya rentables todos y me pareció pues 
+buena idea el que en lugar de estar en una demo,  
+pues estuviesen en una cuenta de fondeo y si podía 
+ir generando algo por ahí pues también era genial,  
+¿no? Al fin y al cabo el trabajo era el mismo. 
+Con esa filosofía de aprovechamiento de recursos  
+constantes, me puse a ello y construí una fuente 
+de ingresos secundaria con el tema del fondeo. No  
+es que tuviese en mente que esto iba a funcionar a 
+largo plazo. De hecho, soy totalmente realista. Sé  
+cómo funcionan las cosas. No me llevo a engaño. 
+Soy consciente de que las cuentas de fondeo son  
+pan para hoy y hambre para mañana. Pero sí que 
+pensaba que algún retiro casual pues podría ir  
+haciendo, ¿no? De hecho, por ejemplo, Víctor los 
+ha hecho y otras personas que conozco también los  
+han hecho. También es cierto que cabe mencionar 
+que no conozco a nadie que haya hecho más de dos,  
+tres retiros siendo rentable y que no le hayan 
+cerrado la cuenta luego. Mi consistencia no  
+se basa en corazonada. sino en tres pilares 
+inquebrantables que he perfeccionado con los  
+años. El primero es el rigor estadístico, 
+que consiste en operar de forma puramente  
+analítica y demostrable, evitando dejarse llevar 
+por intuiciones o gurú de las redes sociales. Se  
+basa en entender las ineficiencias del mercado 
+y aplicar lógicas matemáticas y cuantitativas  
+probadas a largo plazo. Segundo es la gestión 
+paramétrica del riesgo, que implica básicamente  
+que el riesgo se calcula matemáticamente por 
+código antes de abrir cualquier posición.  
+El objetivo no es buscar grandes pelotazos, 
+sino limitar el dry down, las pérdidas para  
+permitir que el interés compuesto funcione con 
+el tiempo. Y el tercero es la automatización,  
+que básicamente es la delegación de la ejecución 
+a una máquina o un bot de trading para operar de  
+forma impecable 247, eliminando por completo 
+el factor humano y emocional como la duda,  
+el miedo, la fatiga, etcétera. Y es exactamente 
+la aplicación milimétrica de estos tres pilares  
+lo que me llevó a una situación absurda como 
+la que te voy a contar ahora. Como te decía,  
+monté los algoritmos en la cuenta de fondeo 
+que ya había adquirido. Ya había adquirido,  
+había pasado los challenge y la tenía operativa. 
+De hecho, pasar los challeng de fondeo no tiene  
+gran misterio. De hecho, me hice un bot para pasar 
+solo challenge de fondeo, que lo utilizo solo para  
+eso. En otro vídeo te lo voy a compartir para que 
+puedas utilizarlo. Así que si no estás suscrito al  
+canal, suscríbete si te interesan las cuentas de 
+fondeo, porque esto te va a interesar. Con todo  
+esto estaba tratando las cuentas de fondeo con la 
+misma seriedad matemática que aplico a mi capital  
+privado, porque al final son bots que están en 
+fase de incubación, pero que deben replicar una  
+situación real, porque si van bien y superan 
+esta fase, ya es la última y van a porto real.  
+Los bots empezaron a hacer lo que tenían que 
+hacer, ejecutar operaciones con precisión clínica,  
+controlar el riesgo estrictamente al céntimo y 
+acumular pequeñas ventajas estadísticas día tras  
+día. El problema vino cuando esa consistencia se 
+tradujo en números reales. En muy poco tiempo no  
+solo pasé las evaluaciones casi sin darme cuenta 
+gracias al control del dryown riguroso, sino que  
+empecé a generar beneficios consistentes en la 
+cuenta operando materias primas. especialmente  
+el petróleo, que ya sabéis cómo ha ido el mercado 
+estos últimos meses con el conflicto bélico que  
+hay en Irán. Literalmente la cuenta se duplicó 
+en poco más de un mes. Sé que es una rentabilidad  
+exagerada y difícil de creer. Por eso antes os 
+enseñaba la cuenta auditada ante notario con ese  
+ejemplo concreto que es aún mayor, porque si no me 
+creéis a mí, creer al notario y creer a los datos.  
+para que veáis que situaciones así son posibles. 
+Es cierto que no es lo habitual, pero puede darse  
+en momentos críticos del mercado. Y ojo, inciso 
+importante que nos conocemos, que no quiero que  
+nadie se lleve a engaño. Estas rentabilidades tan 
+altas y en tan poco tiempo no son habituales y no  
+deben ser el objetivo de nadie. Incluso yo, que 
+las he hecho, soy incapaz de reproducirlas de  
+forma consistente porque están ligadas a eventos 
+radicales del mercado como el COVID-19 o la guerra  
+de Irán. De hecho, a día de hoy, si un bot me saca 
+un 15 20% mensual de media, no me da quebraderos  
+de cabeza en exceso y puedo seguir retirando 
+todos los meses, ya voy a la oficina feliz toda  
+la semana. quería dejarlo claro. Dicho esto, el 
+bot continuó operando la cuenta sin echarle mucho  
+caso, más allá de la supervisión, evidentemente, 
+que hay que hacer de los algoritmos y ver que  
+todo iba okay. Pero al llegar a duplicar 
+la cuenta, decidí hacer un retiro de todas  
+las ganancias. Fue entonces cuando recibí el 
+temido correo del departamento de compliance  
+de la empresa de fondeo. No era un correo de 
+felicitación por haber sido un trader rentable,  
+era un correo solicitando una revisión manual 
+y urgente de todas mis operativas. Me conecté  
+a una videollamada con sus analistas de riesgo. 
+Su actitud, evidentemente, no era la de alguien  
+buscando entender una estrategia exitosa, sino 
+la de auditores intentando encontrar un resquicio  
+legal para anular mis beneficios. Y digo auditores 
+por decir algo, porque he trabajado y trabajo  
+con auditores de primer nivel y estos parecían 
+empleados del departamento de atención al cliente  
+más que otra cosa. O sea, directamente no sabían 
+ni seguirme en la conversación cada vez que les  
+rebatía algo. Rápidamente me di cuenta de que todo 
+era un show para crear el argumento de por qué no  
+iban a dejar que retirase ni un solo céntimo. 
+empezaron a cuestionar por qué la ejecución de  
+mis operaciones era tan precisa en milisegundos. 
+Me preguntaban casi exigiéndome que confesara,  
+que confesara qué tipo de arbitraje de latencia o 
+técnica prohibida estaba utilizando para tener un  
+win rate y tan inusualmente alto y estable y sobre 
+todo con un control de riesgo tan paramétrico que  
+su sistema interno no lograba clasificar en los 
+perfiles típicos de sus usuarios. Realmente no  
+estaban ni están acostumbrados a que profesionales 
+como yo entrenas de fondeo y realicen este tipo de  
+ejecuciones porque operamos con capital propio. 
+Están acostumbrados al típico trader retail que  
+no tiene mucho conocimiento de de muchas cosas y 
+que se ha hecho un cursillo o que ha trasteado un  
+poco por YouTube, cree tener algo medio bueno 
+y entra al challenge sin haber validado nada y  
+sin saber aún muy bien qué va a hacer ni cómo va 
+a hacerlo. Entonces estuve hablando con ellos,  
+les expliqué con toda la paciencia del mundo que 
+no había magia negra ni arbitraje ni mucho menos  
+abuso de mercado como llegaron a insinuar. 
+Era simple y puro trading cuantitativo,  
+automatizado y basado en los tres pilares que te 
+acabo de contar. las mismas lógicas robustas con  
+la que años atrás logré este 800% auditado 
+ante notario durante el COVID-19 que te he  
+enseñado. Les demostré que mi gestión del riesgo 
+era impecable y que las operaciones estaban dentro  
+del mercado y ejecutadas correctamente. Querían 
+que les enviase el código de los bots, a lo cual,  
+evidentemente, me negué rotundamente. Importante, 
+nunca le enviéis el código de vuestros algoritmos  
+a ninguna empresa de fondeo o broker. Es lo peor 
+que podrías hacer por tantos motivos que no me  
+daría ni tiempo a decíroslo en 10 vídeos, pero 
+te lo resumo en uno rápido. El más importante  
+de todos. Si le das el código de tu algoritmo a 
+una empresa de fondeo o un broker, les acabas de  
+dar el código exacto para saber cómo funciona tu 
+estrategia de trading y saltarte todos los stops  
+una y otra vez con la volatilidad del mercado que 
+ellos mismos crean. En fin, la llamada terminó  
+con cierta frialdad y un ambiente un poco raro y 
+denso. Me dijeron que revisarían mi caso y fin.  
+Antes de continuar con el vídeo, quiero recordarte 
+que en la primera línea de la descripción tienes  
+un enlace para unirte a mi comunidad privada 
+de school totalmente gratuita. Dentro he creado  
+una formación de 14 días totalmente gratis, 
+donde te enseño a crear tu primer bot y te  
+comparto alguna de las estrategias que me han 
+permitido ser rentable en la última década.  
+Al unirte vas a tener acceso totalmente gratuito 
+a un ecosistema de networking donde compartirás  
+espacio con personas como tú que quieren avanzar 
+y crecer, aparte de con ingenieros informáticos,  
+matemáticos y traders profesionales que avanzan 
+en tu misma dirección y que van a potenciar tu  
+evolución técnica. Haz clic en el enlace de la 
+descripción para unirte. Nos vemos dentro y ahora  
+sí, seguimos con el vídeo. Como a las 24 horas, 
+poco más de esa llamada, recibí la sentencia y  
+ya estaba echada. Intenté acceder a mi panel de 
+trading para ver el estado de la cuenta, a ver  
+cómo estaba, la cual tenía ya más de $100,000 de 
+beneficio y me encontré con un mensaje de error.  
+No podía acceder. Revisé el correo y ahí estaba 
+la notificación oficial en spam, en la basura,  
+encima. Además, me costó hasta encontrarla. 
+Mi cuenta había sido cancelada inmediatamente,  
+bloqueado el acceso y los beneficios generados 
+y pendientes de retiro incautados. La excusa  
+que me dieron por escrito fue lamentable. No 
+alegaron que infringí ninguna de sus normas,  
+no alegaron que superé el límite de pérdida 
+diaria o máximo, no nada de eso. Alegaron que  
+cometí abuso de mercado. La excusa más barata y 
+peor que te puede poner un broker, por desgracia,  
+es la que de norma general más fácil es decolar. 
+Para el que no sepa qué es el abuso del mercado,  
+no os preocupéis porque os lo explico ahora 
+mismo muy rápido. En el trading tradicional  
+institucional se refiere a prácticas ilegales como 
+el abuso, el uso de información privilegiada, el  
+spoofing o aprovecharse de la latencia o retrasos 
+en los datos, pues todo hecho, evidentemente para  
+ganar una ventaja frente al propio broker. Pero yo 
+evidentemente no hice absolutamente nada de eso.  
+Mis algoritmos ejecutan operaciones que pueden 
+durar horas o días basándose en estadísticas,  
+no en aprovecharse de milisegundos de un servidor 
+del broker a otro del mismo broker. Aún así,  
+se ampararon en una cláusula abstracta de sus 
+términos y condiciones, alegando que mi operativa  
+no se ajustaba a los parámetros de un trader 
+retail convencional y que mi estilo de ejecución  
+generaba un desequilibrio injustificado en su 
+entorno de simulación. Evidentemente, nada de  
+esto era cierto y traducido al español normal para 
+que nos entendamos todos. Como aplico los tres  
+pilares de trading cuantitativo, mis algoritmos no 
+cometen errores emocionales, calculan el riesgo de  
+forma matemática y por tanto gano dinero de forma 
+demasiado constante para una empresa de fondeo  
+cuyo negocio es que tú pierdas, no que retires. Es 
+decir, quieren que pierdas, que pierdas la cuenta  
+de fondeo y que vuelvas a comprar otro challenge. 
+Y aquí es donde radica el verdadero problema del  
+sector de las cuentas de fondeo. Y por lo que 
+te decía que estas empresas son pan para hoy  
+y hambre para mañana. Primer punto que debes 
+entender aquí, en este mismo broker ejecuté una  
+operativa similar, incluso muchísimo más agresiva 
+y precisa, que me dio un 800% de rentabilidad  
+en dos meses y tuve cero problemas para retirar 
+todo mi dinero. En la empresa de fondeo doblo una  
+cuenta solo al 100% de rentabilidad y me traban 
+y me tildan de todo bloqueándome el acceso. Para  
+entender por qué una empresa de fondeo te castiga 
+así, te castiga por hacer bien tu trabajo, tienes  
+que entender cómo ganan dinero realmente. Y el 
+trading algorítmico operando, basándose en datos  
+y no en opiniones es su peor pesadilla. Quieren 
+traders emocionales, no profesionales. La inmensa  
+mayoría de estas empresas operan bajo un modelo 
+agresivo. ¿Qué significa esto? Pues esto significa  
+que no envían tus operativas al mercado real. Tú 
+estás operando en una simulación, en una cuenta  
+demo con dinero falso, chapas de Coca-Cola. No es 
+dinero real y la empresa te paga la ganancia de su  
+propio bolsillo si es que consigues ser rentable. 
+Por ello, su verdadero negocio no es que tú seas  
+rentable. Su flujo de caja real proviene de vender 
+masivamente pruebas de evaluación o challenge con  
+reglas estrictas o incluso absurdas como límites 
+de pérdida diaria muy ajustado o límites de tiempo  
+que están estadísticamente diseñadas para que el 
+90 95% de los traders manuales suspendan guiados  
+por sus sesgos cognitivos. De hecho, este año 
+os haré un documental cuando estemos en la  
+Forex Expo de Dubai 2026, el evento de trading 
+más grande del mundo, para que entendáis esto  
+directamente de la propia boca de las mayores 
+empresas de Fondeo, que el año pasado tuvimos  
+la oportunidad de coincidir con algunas de ellas e 
+incluso nos ofrecieron montar un broker de fondeo  
+y nos explicaron al detalle cómo funciona todo, 
+por lo que te hablo desde el conocimiento total.  
+Pero lo importante, ¿qué pasa aquí cuando entra 
+un portfolio algorítmico diseñado por un analista  
+profesional con reglas de regresión a la media 
+testada y una gestión de riesgo paramétrica  
+inquebrantable? Sencillamente rompemos su 
+estadística, nos convertimos en un agujero  
+negro en subbalances. Como no envían nuestras 
+operaciones al mercado, cada dólar que el bot  
+ganó operando la volatilidad del petróleo era un 
+dólar que salía directamente del dinero recaudado  
+de los usuarios que compraban y suspendían los 
+challenge. Les salía infinitamente más barato  
+inventarse que mi operativa no era de un trader 
+convencional y había hecho algo raro y banearme  
+que pagarme los retiros de un sistema matemático 
+al que no podían vencer. Básicamente yo para el  
+broker de fondeo era como una gotera en el tejado 
+de la casa que tenían que tapar. Mis algoritmos  
+simplemente optimizan el age, es [música] decir, 
+la ventaja matemática en miles de operaciones.  
+Registran con datos cuando una probabilidad de 
+reversión o continuación aumenta drásticamente  
+y autorizan la ejecución. No hay trampa, solo 
+matemáticas que ellos no quieren que uses. Para  
+que veáis que no hay magia negra, quiero mostrarte 
+exactamente lo que estaba haciendo el sistema  
+que tanto asustó a su supuesto departamento de 
+compliance. Aquí tenéis los resultados de este  
+tipo de lógicas algorítmicas ejecutándose sobre 
+el mercado del petróleo. Aquí se registran todos  
+los trades sin trampa ni cartón. Y fijaos en 
+el dry máximo, está controlado al milímetro por  
+código. El algoritmo asube pequeñas pérdidas 
+cuando la varianza estadística es negativa,  
+pero corta rápido y deja correr los beneficios 
+cuando captura esos movimientos fuertes, como pasó  
+con las materias primas en estas semanas atrás. 
+Esto es la realidad del trading cuantitativo  
+en este tipo de situaciones de mercado. No 
+toqueteamos, no nos asustamos con una vela  
+roja y no intervenimos manualmente. Simplemente 
+dejamos que la estadística de un sistema validado,  
+como os he enseñado antes con la auditoría del 
+COVID-19, haga su trabajo semana tras semana,  
+mes tras mes y año tras año. Y esta gráfica de 
+equidad ascendente y controlada es exactamente  
+lo que el modelo de negocio de una empresa de 
+fondeo no puede permitirse pagar a largo plazo. Mi  
+objetivo al contaros esta experiencia no es llorar 
+por una cuenta de fondeo bloqueada. La verdad es  
+que mi idea exactamente igual la cuenta de fondeo 
+no es más que una cuenta demo. Nunca ha sido real,  
+de hecho, ni he recurrido el email. No pierdo 
+tiempo en dinero de Monopoli. Como os dije al  
+principio, mi estilo de vida se basa en mi capital 
+propio, el cual empecé apenas con 1000 € hace más  
+de 15 años y a base de trabajo duro y disciplina 
+logré escalar por encima de las siete cifras. En  
+definitiva, os cuento esto porque no quiero que 
+necesitéis someteros a la presión y a las reglas  
+absurdas y abusivas de las empresas de fondeo, que 
+ahora ya sabéis que cuando ganéis dinero de verdad  
+os van a cerrar la cuenta. Si eres rentable de 
+verdad, tarde o temprano te chocarás contra este  
+muro de cristal. A no ser que seas un influencer 
+de trading que vive de referenciar usuarios a  
+estas empresas, en cuyo caso lejos de cerrarte la 
+cuenta, nunca te la van a cerrar, evidentemente,  
+e incluso te van a simular las ganancias y 
+retiros para que tú sigas llevándole usuarios  
+sin escrúpulos. Decidir emprender el camino 
+de ser totalmente independiente no es fácil.  
+Y cuando se tienen cuatro duros, como tenía yo 
+en aquel momento en el que tomé la decisión,  
+puede parecer hasta absurdo e imposible. Pero 
+recuerda siempre que el verdadero objetivo  
+debe ser crear y escalar tu propio capital tuyo al 
+100%. Porque si no es tuyo al 100% no tienes nada,  
+estás construyendo castillos en el aire. A lo 
+largo de los años he comprobado que el 90% de  
+los traders manuales pierden porque son humanos 
+y su entorno no les favorece. Tienen miedo,  
+avaricia y dudas. La forma más lógica de 
+eliminar el factor humano, protegerte de estos  
+bloqueos corporativo y escalar tu dinero real 
+es cuantificar tu operativa y aplicar los tres  
+pilares. Entiendo que la barrera de entrada al 
+trading algorítmico cuantitativo parece alta y que  
+asusta ver código y métricas. Pero si de verdad 
+quieres ser rentable, profesionalizarte y tratar  
+esto como un negocio serio para toda la vida, 
+sinceramente en algún momento tienes que tomar la  
+decisión firme de aprender bien de verdad, dejar 
+de adivinar y construir tu propia infraestructura.  
+Si no quieres ser la liquidez de estas empresas 
+y quieres empezar a construir tu propio capital  
+basándote en ventajas estadísticas probadas, 
+tienes el enlace a mi comunidad gratuita de school  
+en el primer [música] comentario fijado y en la 
+descripción. Allí tiene formación 100% gratis,  
+donde te enseño las bases del trading cuantitativo 
+y cómo la inteligencia artificial te puede ayudar  
+a crear tus primeros bot de trading sin saber 
+programar. Pero sé lo que estás pensando,  
+Ignacio. Ya entiendo que debo automatizar y 
+aislare de estas empresas, pero ¿qué estrategia  
+utilizo y por dónde empiezo? A lo largo de 
+mis más de 15 años de carrera profesional,  
+he desarrollado, programado y testado más de 
+10,000 algoritmos y sistemas de trading diferente.  
+La cruda realidad es que la inmensa mayoría no 
+sirven para nada. Por eso he filtrado toda esa  
+basura algorítmica y me he quedado exclusivamente 
+con las únicas estrategias que realmente funcionan  
+y son rentables a largo plazo en el vídeo que te 
+está apareciendo ahora mismo en pantalla, porque  
+en él te comparto mi selección definitiva con 
+las 100 mejores estrategias de trading rentables  
+que he validado. No pierdas más el tiempo, 
+haz clic en el vídeo y elige tu estrategia.

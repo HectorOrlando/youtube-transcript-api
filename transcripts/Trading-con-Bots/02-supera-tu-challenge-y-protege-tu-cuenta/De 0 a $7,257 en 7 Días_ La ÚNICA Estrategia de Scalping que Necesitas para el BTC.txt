@@ -1,0 +1,447 @@
+Titulo              : De 0 a $7,257 en 7 Días: La ÚNICA Estrategia de Scalping que Necesitas para el BTC
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-04-15
+Duracion            : 23:05
+Vistas              : 2,782
+URL                 : https://www.youtube.com/watch?v=TcBSAcDc_vU
+----------------------------------------------------------------------
+
+Si comenzara hoy en el trading me gustasen 
+las criptomonedas y tuviera que elegir una  
+sola estrategia para hacer scalping en 5 minutos 
+y sacar mis primeros 1000 € de forma estructurada,  
+sería exactamente la que te voy a enseñar ahora. 
+La misma que en Bitcoin lleva $7,000 de beneficio  
+en solo 7 días. No necesita 20 indicadores ni 
+análisis imposible, solo una vela de 4 horas. Tres  
+reglas brutalmente simples y si quieres llevarla 
+al siguiente nivel, un indicador para Metatrader  
+que hace el trabajo sucio por ti, dibuja el rango, 
+detecta falsa ruptura y dimensiona el stoplos con  
+ATR para que el riesgo tenga sentido en activos 
+como en Bitcoin, el oro o donde quiera que quieras  
+operar. Y te lo digo claro, si aplicas lo que vas 
+a ver en este vídeo con la ayuda del indicador que  
+te voy a regalar al final, en el mismo Bitcoin en 
+5 minutos que estás viendo aquí ahora en pantalla,  
+vas a ser capaz de encontrar entradas de alta 
+probabilidad todos los días con riesgo controlado  
+y objetivos claros. Es una estrategia ideal para 
+alguien que empieza nuevo o no quiere complicarse  
+con sistemas enrevesados, pero está construida 
+con métricas de gestión de riesgo profesional,  
+no con magia. Te digo exactamente lo que 
+vamos a hacer en los próximos 10 minutos.  
+Primero te voy a enseñar la estrategia de 
+trading paso a paso. Te voy a compartir las  
+reglas exactas para que puedas ejecutarla desde 
+hoy mismo. Después te voy a enseñar el indicador  
+que he diseñado para Metatrader específico para 
+la estrategia y te lo voy a regalar al final  
+del vídeo para que puedas ejecutarla de forma 
+ágil y directa. Y al final del vídeo te voy a  
+explicar exactamente la clave de cómo convertir 
+esta estrategia en un bot de trading automático  
+con una gestión de riesgo adaptativa y profesional 
+247. Y como siempre lo haremos con rigor, criterio  
+y objetividad porque esto es ingeniería financiera 
+real aplicada. Esto es Techain. Comenzamos.  
+La mayoría de scalpers pierden dinero porque viven 
+enganchados al gráfico de un minuto. Operan lo que  
+ven vela a vela, pero sin un rango institucional 
+de referencia, sin saber si están comprando en  
+mitad del ruido o justo donde el precio está 
+cazando liquidez. Terminan el día con 20 o 30  
+operaciones, un festival de comisiones, stop 
+los saltados por ruido y cero consistencia.  
+¿Qué hacen los traders profesionales o rentables 
+para aplicar esta estrategia con éxito? Usan un  
+rango de referencia diario, una sola vela 
+de 4 horas que les da todo el contexto que  
+necesitan para operar el resto del día. Primero, 
+contexto en 4 horas, luego ejecución en 5 minutos,  
+nunca al revés. Mientras el retail se deja engañar 
+por cualquier mecha que toca un nivel, tú solo  
+reaccionas a cierres de velas claros, cierres que 
+rompen el rango y cierres que vuelven dentro. Eso  
+cambia por completo la forma de leer el gráfico y, 
+por supuesto, los resultados. ¿Y cómo conviertes  
+esas dos líneas temporales en entradas concretas 
+de scalping de forma tan objetiva y sin pensar?  
+Ahora mismo te doy las instrucciones exactas 
+y luego te lo enseño en el indicador que las  
+automatiza por ti en Metatrader. Cuando empecé 
+en el scalping hace ya muchos años, cometí todos  
+los errores posibles. Operaba patrones en uno 
+o 5 minutos sin ningún tipo de marco teórico  
+o matemático, sin niveles claros, sin saber si 
+estaba comprando en el medio del ruido o en una  
+zona realmente defendida por dinero grande. Todo 
+era subjetividad, aunque yo pensaba que no. Aunque  
+ciertamente eso lo sé hoy. En aquel momento todo 
+me parecía totalmente lógico, objetivo y realista,  
+pero la realidad no tardo mucho en golpearme de 
+lleno. Había días en los que hacía 30 operaciones,  
+literalmente pasaba horas y horas pegado a 
+la pantalla para acabar en negativo, quemado  
+psicológicamente y sin entender por qué, más 
+allá de que el mercado me había barrido otra vez.  
+No fue hasta que inicié mi carrera profesional 
+como analista de mercado y entré en el sector  
+institucional, que conocí a un trader profesional 
+que me dijo algo que me cambió la forma de operar  
+para siempre. El scalping sin contexto es 
+suicidio. Antes de buscar entrada, define tu  
+campo de juego diario. No la entendí al principio, 
+me parecía muy general, pero tras mucho meditar  
+sobre ella, esa frase me obligó a replantear todo, 
+a dejar de operar como un ciego y a buscar una  
+estructura que pudiese escribir con reglas claras. 
+De ahí salió una de las primeras estrategias de  
+scalping con la que conseguí ser rentable. A día 
+de hoy la tengo totalmente automatizada y en mi  
+portfolio de voz de inteligencia artificial y la 
+ejecuto todos los días. Es la estrategia del rango  
+de 4 horas que te comparto ya mismo. Es tan simple 
+que parece una tontería, pero funciona en cripto,  
+fore, índice, oro, etcétera. Da igual el activo 
+porque la lógica es universal. Primero la caja,  
+luego falsa ruptura, luego movimiento fuerte 
+en sentido contrario. Solo necesitas adaptar  
+la gestión para el mercado que quieras operar. 
+Y este paso es fundamental porque si no no te  
+va a funcionar. Como era tan objetiva por aquel 
+entonces que aún no hacía trading con bots, decidí  
+dar un paso más, convertirla en un indicador para 
+Metatrader que me dibuja automáticamente el rango,  
+la ruptura y las entradas potenciales, que es 
+el indicador que te voy a regalar hoy. A partir  
+de ahí, fue trivial pasarla a un bot y dejar 
+que el sistema ejecute la misma lógica 247 con  
+gestión de riesgo matemática, real, profesional 
+y al milisegundo. ¿Quieres ver exactamente cómo  
+funciona paso a paso para que puedas ejecutarla 
+ahora mismo? Pues vamos a por ello. Los tres pasos  
+que vienen ahora son lo único que necesitas 
+memorizar. Lo primero, abrimos el gráfico del  
+activo que quieres operar, en este caso Bitcoin, 
+y lo ponemos en temporalidad de 4 horas. Cada  
+vela representa 4 horas de movimiento. Segundo, 
+ajustamos la zona horaria a Nueva York. ¿Por qué?  
+porque es el estándar del mercado institucional y 
+queremos que nuestro rango esté alineado con las  
+sesiones donde realmente se mueve el dinero. 
+Ahora localiza la primera vela completamente  
+cerrada del día después del cierre de la apertura 
+de la sesión de Asia o Londres. Es importante que  
+esté cerrada. Si está en formación, simplemente 
+esperamos. Dibujamos una línea horizontal en el  
+máximo de esa vela y otra en el mínimo y añadimos 
+un pequeño buffer de seguridad de, por ejemplo,  
+5 o 10 pip en Forex o un porcentaje equivalente 
+en otros mercados. Esto es para evitar que una  
+mecha mínima dispare señales falsas. Extendemos 
+esas líneas hasta el final del día y esa es la  
+caja. Ese es tu rango de 4 horas, tu soporte y 
+resistencia clave. Todo lo relevante ocurre en la  
+ruptura limpia de ese rango. Vale, ya tienes tu 
+caja marcada. Ahora viene la parte interesante,  
+cómo detectar la ruptura falsa que da las entradas 
+de alta probabilidad y cómo lo hace el indicador.  
+Bajamos al marco temporal de 5 minutos. Este es 
+tu gráfico de ejecución y también el time frame  
+donde debe funcionar el indicador y donde el 
+futuro bot va a analizar las velas una por una.  
+Buscamos una secuencia muy específica con 
+dos condiciones claras. Condición uno,  
+ruptura limpia del rango. El precio tiene que 
+cerrar una vela de 5 minutos fuera de la caja,  
+por encima del máximo más el buffer o por debajo 
+del mínimo, menos el buffer. No valen solo mechas.  
+Si la mecha sale pero el cuerpo cierra dentro, 
+no cuenta. Esto es lo que hace que el indicador  
+no repinte. Las señales se basan solo en vela 
+cerrada, no en lo que parece que va a pasar.  
+Condición número dos, vuelta al rango, es decir, 
+falsa ruptura. Después de esa ruptura, el precio  
+tiene que cerrar una vela completa de 5 minutos de 
+nuevo dentro del rango, es decir, un cierre fuera,  
+un cierre dentro. Dos cierres consecutivos 
+que son 100% programables y auditables sin  
+interpretación discrecional. Cuando eso ocurre, 
+asumimos que la ruptura ha sido una trampa de  
+liquidez y que hay órdenes grandes defendiendo 
+ese nivel. Si el precio rompió por arriba y  
+luego vuelva a entrar en la caja, tenemos señal 
+en corto. Si rompió por abajo y vuelve a entrar,  
+señal de largo. Esa secuencia de cierre fuera más 
+cierre dentro es exactamente lo que el indicador  
+rastrea vela a vela para marcarte la flecha. Lo 
+que vas a ver en el histórico con el indicador  
+es la misma lógica. que en vivo sin truco ni 
+repintado. Ya sabe reconocer la configuración.  
+Ahora necesita reglas de entrada, stop loss y 
+take profit tan objetivas que pueda dárselas a un  
+programa y que la ejecute o a un bot de trading de 
+Tchain y que las ejecute al pie de la letra 100%.  
+Queremos resultados medibles y auditables. Aquí 
+puedes ejecutar la estrategia de dos formas,  
+con un stop loss fijos en puntos o con un stop 
+basado en ATR que se adapta a la volatilidad del  
+momento. En el indicador ambas están integradas. 
+Modo punto para máxima simplicidad y modo ATR para  
+que el stop no quede ridículo en un activo como 
+por ejemplo el Bitcoin o el oro. Cuando activas el  
+modo ATR, el tamaño del stoploss se calcula con la 
+fórmula clásica. Para largos, stop loss es igual a  
+la entrada menos el ATR por K. Para cortos, el 
+stop loss es igual a la entrada más ATR por K,  
+donde ATR es la volatilidad media de las últimas 
+14 velas en 5 minutos y K es el multiplicador que  
+tú eliges. Eso hace que el riesgo se adapte al 
+ruido real del mercado en vez de usar un número  
+fijo que en BTC pues se quedaría pegado al precio. 
+En el backte test que estás viendo en pantalla,  
+he usado un ATR con un multiplicador concreto 
+para Bitcoin. En otro activo, el mismo sistema  
+te pedirá, pues, evidentemente, otra anatomía de 
+este stop loss. Aquí vemos una entrada en corto,  
+ruptura por arriba y vuelta al rango. Aquí 
+entramos en corto al cierre de la vela de 5  
+minutos que confirma la vuelta al rango después 
+de romper por arriba. Colocamos el stopl justo  
+por encima del máximo de la vela que hizo 
+la ruptura, máximo extremo más el buffer,  
+recuérdalo. Definimos el objetivo de beneficio al 
+doble del tamaño del stoplow, un ratio de 12. Si  
+arriesga 50 puntos, buscamos ganar 100. Entrada en 
+largo, ya sabemos que ruptura por abajo y vuelta  
+al rango. Entraríamos en largo al cierre de la 
+vela que vuelve a cerrar dentro del rango después  
+de haber roto ya por abajo previamente. Stop, pues 
+justo por debajo del mínimo de la vela de ruptura,  
+menos el buffer. Objetivo al doble del 
+riesgo, siempre mínimo 1 do. Puedes medir  
+tus resultados en R. Si arriesgas 50 € y gana 100, 
+has ganado 2 Rs. En teoría de trading profesional,  
+medimos cada operación en R, que es simplemente lo 
+que arriesgas por cada trade. Si arriesgas $100 y  
+tu objetivo está al doble, tu operación ganadora 
+vale 2 RS y tu operación perdedora vale -1 R.  
+A partir de ahí, el dato clave es la esperanza 
+matemática. En este setup, con un ratio 1 2 y un  
+win ray cercano al 50%, la esperanza matemática 
+sale positiva. De media, ganas más de lo que  
+pierdes por cada unidad de riesgo. Por eso se 
+dice que si arriesgas 50 y has ganado 100, has  
+ganado 2 RS. Ya no habla de euros sueltos ni de 
+dólares, habla de esperanza matemática positiva.  
+2 R. Y todo esto tiene una consecuencia directa 
+en cómo dimensiona la posición. En una gestión  
+de riesgo seria, no eliges el lote a ojo o por lo 
+que quieres ganar o por lo que quieres arriesgar,  
+sino que usas una fórmula muy simple. Si por 
+ejemplo tienes $10,000, arriesga un 1%, son $100,  
+y tu stop está a $50 de distancia, tu tamaño ideal 
+serían dos contratos. La estrategia te va a dar ya  
+la distancia del stop y la fórmula te va a decir 
+cuántos contratos puedes permitirte. El indicador  
+te da siempre esa distancia en punto. Tú solo 
+tienes que decidir qué porcentaje de tu cuenta  
+quieres arriesgar por cada trade. Y cuando activa 
+la autocalibración del indicador, no se trata solo  
+de buscar el back test más bonito, sino de imponer 
+filtro. Mínimo de operaciones resuelta, win rate  
+mínimo, penalización por dryown y validación 
+en un tramo reciente del histórico. El propio  
+indicador puntúa las combinaciones y favorece las 
+que tienen un beneficio sólido con stop razonable,  
+no las que clavan un TP al tic. Vamos a ver ahora 
+la gestión de casos especiales, es decir, las  
+típicas velas enormes. A veces la vela de ruptura 
+es gigantesca y te deja un stop loss absurdo para  
+tu cuenta. En esos casos añadimos una regla de 
+seguridad muy simple. Si la distancia entre el  
+extremo de la vela de ruptura y el borde del rango 
+supera un máximo que tú definas, por ejemplo,  
+1.5 veces el rango original, en lugar de usar 
+ese extremo, utiliza el siguiente nivel técnico  
+relevante como el soporte o resistencia previo, 
+bloque de órdenes visibles, etcétera, todo para  
+colocar el stop loss. El objetivo sigue siendo 
+un ratio de 12 con respecto a ese nuevo stop.  
+Esto mantiene la lógica de la estrategia, pero 
+evita que un solo trade te obligue a asumir  
+un riesgo desproporcionado para el tamaño de tu 
+cuenta. Mira este ejemplo. Rompe por abajo, vuelve  
+a entrar. Esto bajo la vela de ruptura. Un RR12. 
+Objetivo alcanzado. Ahora mira este otro ejemplo  
+en corto. Rompe por arriba, vuelve a entrar. Mismo 
+proceso. Evidentemente no todos los tres se ganan.  
+No te voy a decir algo que no es. De hecho, el 
+propio indicador ya te muestra las estadísticas  
+real en la esquina superior derecha. Lo configuré 
+así para no perder tiempo en un mercado en el que  
+la estrategia no funcione. Esto es 100% real, 
+sin trampa ni cartón. En cuanto lo cargues te  
+va a decir si la estrategia funciona o no en ese 
+mercado. Ejemplo claro. Mira esta falsa ruptura  
+que no funciona. Stop loss saltado. Menos un R. 
+Pero mira el siguiente. Con una configuración  
+válida + 2R, resultado neto + 1 R, el indicador 
+te muestra lo que hay para que no pierdas tiempo.  
+Si no te arroja buenos resultados, modifica 
+los parámetros y si no hay nada que hacer en  
+ese mercado, pasa al siguiente. Hasta aquí tienes 
+la estrategia completa para operarla manualmente.  
+Ahora, como me lo habéis pedido mil veces, he 
+creado un indicador específico para Metatrader  
+4 y Metatrader 5, que hace todo esto por ti y 
+dibuja el rango de 4 horas, le añade el buffer,  
+detecta la ruptura y te marca en el gráfico las 
+entadas potenciales basadas en la falsa ruptura,  
+pero no os acostumbréis a que haga todo siempre 
+para ambos Metatrader, en especial este tipo  
+de indicadores que se tienen que programar 
+manualmente. Así que darle un pedazo de like al  
+vídeo si aún no le has dado y suscríbete si no lo 
+estás porque el siguiente vídeo que viene te va a  
+hacer replantearte muchas cosas sobre tu trading. 
+Pero vamos al lío. Primero, marca el campo de  
+juego diario con una caja de 4 horas y un buffer 
+para que dejes de operar en el vacío del minuto.  
+Segundo, define la falsa ruptura por cierre, 
+no por mechas y solo dispara señal cuando hay  
+un cierre fuera y cierre dentro. Tercero, trabaja 
+siempre con vela cerrada. Esto evita el repintado  
+y las flechas no van a cambiar en el pasado, ni en 
+el presente ni futuro. Cuarto, puede dimensionar  
+el stoplos y el take profit por punto o con ATR en 
+M5 para adaptar el riesgo a la volatilidad real.  
+Quinto, si quieres ir a otro nivel, tiene un modo 
+de autocalibración que prueba combinaciones en  
+todo el histórico y te muestra cuáles tienen un 
+score de beneficio mayor, un profit factor más  
+rentable, un dryown menor y todo lo hace en el 
+último tramo reciente del mercado. Sexto, todo  
+esto lo ves en un panel totalmente transparente. 
+¿Cuántas señales hay? ¿Cuántas han sido ganadoras?  
+¿Cuántas perdedoras? el win rate, el profit lo 
+simulado con el tamaño que tú defines por lote,  
+etcétera. La diferencia entre ser rentable o no es 
+tener más indicadores, es tener reglas de contexto  
+objetivas y medibles, reglas de confirmación 
+por cierre y de tamaño de riesgo que un humano  
+puede auditar y que un bot puede ejecutar 
+exactamente igual en automático. Eso es chain,  
+objetividad y resultado automatizados. Por eso 
+esta misma lógica la he llevado a mi plataforma  
+Techain para diseñaros y regalaros el bot de 
+la estrategia que voy a quedar subido aquí en  
+la biblioteca de bots para que podáis descargarlo 
+hoy mismo para Metatrader 4 o Metatrader 5. Aunque  
+no es una estrategia compleja para llevar a 
+la práctica manualmente, el automatizarla es  
+otra historia muy diferente, ya que requiere de 
+muchísimos controles y cálculos. Para no crear  
+un proyecto excesivamente complejo, he diseñado 
+y creado un único nodo que engloba la lógica del  
+indicador y la automatiza por completo. Es este 
+de aquí, el nodo de range scalper, y lo podréis  
+encontrar en la categoría indicadores subcategoría 
+de algorítmicos. No voy a entrar en detalle de qué  
+hace y cómo funciona, porque es exactamente igual 
+que el indicador, pero en un nodo. La lógica es  
+muy sencilla y además ya viene preconfigurado como 
+el indicador. No obstante, se muestran todos los  
+parámetros para que podáis adaptarlo al mercado 
+que queráis, ya sea como una estrategia individual  
+o como parte del flujo de una estrategia mayor. 
+De esta forma vais a poder crear bot de trading  
+muy potente. Y ahora en un momento os daré un tip 
+que os ayudará a entender mejor cómo hacerlo. Pero  
+antes vamos a crear el bot de la estrategia. 
+Como veis, el nodo tiene varias salidas,  
+la de la señal de compra, la de la señal de venta, 
+el nivel de take profit, el del stop law y el del  
+precio de entrada. Para el caso en el que queremos 
+automatizar la estrategia solamente, el proceso es  
+muy sencillo. Directamente arrastramos al Canva 
+un nodo de compra mercercado y uno de venta. Le  
+conectamos la salida de compra a la de compra, la 
+de venta a la de venta y lo mismo con la salida de  
+take profit y stop loss. Listo. Así de sencillo. 
+Hemos creado y automatizado nuestra estrategia  
+al 100% para Copere 247 en nuestro mercado 
+favorito. Ahora construyo el bot. Descargo el  
+código y nos vamos a Metatrader a ver si hace lo 
+que tiene que hacer. Aquí lo tengo en la carpeta  
+de asesores experto. Hago doble clic, se me abre 
+el metaeditor. Aquí simplemente no tengo que hacer  
+nada, le doy a compilar y listo. Nada más ya lo 
+tengo en el Metatrader. Automáticamente ya se  
+crea el archivo de bot en la carpeta y es este que 
+estáis viendo aquí. El Metatrader ya lo reconoce  
+automáticamente, no tenéis que hacer nada, por 
+lo que ya directamente me cojo, me voy aquí al  
+Metatrader, selecciono el bot, miro que esté en 5 
+minutos el mercado, el mercado, pues podéis poner  
+el que queráis, ir viendo a ver cuál os va mejor 
+y cuál os va peor y quedaros con los que os vaya  
+mejor. Le doy al play y adelante. Vamos a ver qué 
+hace. Aquí va. Vemos que funciona correctamente.  
+Dibuja las cajas y los puntos de las entradas. 
+No es obligatorio. Las podéis desactivar desde  
+el nodo, pero yo las he dejado, pues porque quiero 
+ir teniendo un control visual sobre la estrategia.  
+Vemos como el balance es ascendente. No nos vamos 
+a hacer millonarios en un par de meses, que nadie  
+corra ya a hacer la reserva del Lambo aún, pero es 
+real. Estamos viendo la realidad de la estrategia,  
+es ganadora y eso ya es mucho más de lo normal, 
+teniendo en cuenta que la mayoría pierde dinero  
+en el trading. Lo he probado en muchos mercados 
+y no funciona sobre todo, evidentemente, ninguna  
+estrategia funciona sobre todos los mercados. Tal 
+cosa no existe, por lo que debéis buscar sobre qué  
+mercado funciona y sobre cuáles no y directamente 
+realizar optimizaciones para eh adaptarlo. Al  
+tener el bot vais a poder optimizar los parámetros 
+y eso os va a ayudar enormemente a encontrar el  
+mejor mercado con la mejor configuración. Todo 
+lo que has visto aquí en el Bitcoin en 5 minutos  
+durante este vídeo no son velas elegidas 
+a mano, son las mismas reglas aplicadas de  
+forma sistemática durante 7 días. seguido sobre el 
+mismo activo con 41 operaciones y más de $7,000 de  
+beneficio bruto usando el tamaño de posición que 
+ves en pantalla. Pero aquí viene lo interesante.  
+Este rendimiento no viene solo de la caja de 4 
+horas y de la falsa ruptura. El mayor salto en el  
+ratio de acierto llega cuando filtras las rupturas 
+que tienen sentido matemáticamente. Y eso lo hago  
+con algo que casi nadie explica en el trading, 
+la entropía de Shano. La entropía, dicho simple,  
+mide el nivel de desorden o aleatoriedad en la 
+secuencia de precios. Cuando la entropía es alta,  
+el mercado está caótico y la rupturas son mucho 
+más aleatorias. Cuando la entropía cae significa  
+que el movimiento se mueve más ordenado y más 
+predecible. Esta ruptura no hay que hacerlas con  
+este sistema. Y justo ahí es donde despega la 
+estrategia, porque solo realizamos las ruptura  
+falsas según como nos la marque la entropía de 
+sano. Si quieres ver exactamente cómo calculo esa  
+entropía en tiempo real, cómo defino los umbrales 
+de mercado caótico versus mercado estructurado  
+y cómo uso ese filtro para eliminar la mayoría 
+de falsos breakout antes de que aparezcan en el  
+gráfico, tienes que ver el siguiente vídeo donde 
+te enseño cómo utilizar la entropía de Sanon para  
+filtrar falsa ruptura y poder operarlas. Te 
+lo dejo todo enlazado aquí en el vídeo de la  
+descripción y aquí en el vídeo que estás viendo 
+en pantalla. En este vídeo vas a ver la parte más  
+cuantitativa del sistema y vas a poder escalar la 
+rentabilidad de forma explosiva. Nos vemos dentro.
+[música]
