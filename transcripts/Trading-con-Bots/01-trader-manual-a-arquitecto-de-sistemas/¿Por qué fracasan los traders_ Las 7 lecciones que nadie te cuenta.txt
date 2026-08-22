@@ -1,0 +1,350 @@
+Titulo              : ¿Por qué fracasan los traders? Las 7 lecciones que nadie te cuenta
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-02-08
+Duracion            : 18:53
+Vistas              : 759
+URL                 : https://www.youtube.com/watch?v=190QCfqbskA
+----------------------------------------------------------------------
+
+He estado trabajando como analista de mercados 
+y tradeando desde 2012 y realmente desearía que  
+alguien me hubiera dicho estas 10 cosas antes de 
+desperdiciar años descubriéndolas a la fuerza.  
+Mi nombre es Ignacio Yago y llevo más de 15 años 
+en trading algorítmico. He ayudado a cientos de  
+traders principiantes a construir voz rentable sin 
+necesidad de escribir una sola línea de código y  
+he colaborado en el desarrollo y despliegue de 
+todo tipo de sistemas de trading profesionales.  
+Si estás atrapado, abrumado o dudando de tu 
+estrategia, déjame ahorrarte más de 10 años en  
+solo 10 minutos. Hoy vamos a hablar de Techain, la 
+plataforma de bot de trading no code desde la que  
+hemos ayudado a cientos de traders a automatizar 
+sus estrategias. Si esto te suena interesante,  
+quédate conmigo. La primera lección que debes 
+comprender es que no necesitas conocer todos  
+los indicadores técnicos ni de lejos. Cuando 
+comencé, todo me parecía tan extenso y complejo  
+que pensé que los traders profesionales tenían 
+toda la biblioteca de indicadores memorizada y  
+que esa era la única forma de ser rentable, como 
+si los traders profesionales estuvieran hechos de  
+manera diferente al resto de los mortales. creía 
+que los verdaderos traders podían despertar,  
+agarrar su teclado y escribir la estrategia 
+perfecta al instante, como si tuvieran el  
+análisis técnico complejo guardado en su cerebro. 
+Spoiler, no lo tienen. Nadie lo tiene. Todos somos  
+humanos y tenemos las mismas limitaciones en mayor 
+o en menor medida. Imagina que estás aprendiendo  
+a cocinar. No necesita memorizar cada receta, 
+solo necesitas conocer lo básico, cómo cortar,  
+cómo sazonar o cómo no quemar la casa. El trading 
+es lo mismo. Se trata más de entender patrones que  
+de recordar cada detalle. En mis comienzos solía 
+sentirme mal por buscar en Google cómo calcular  
+el RSI y cómo interpretarlo. No sé, se suponía que 
+ya debería saberlo, pero aquí está el secreto. Yo  
+todavía busco información sobre muchos temas, 
+incluso a día de hoy nunca dejo de aprender y  
+también lo hacen los traders que llevan mucho 
+más tiempo que yo en esto. Ser un buen trader  
+no se trata de tener todo memorizado, se trata de 
+saber dónde encontrar las respuestas, cómo pensar  
+a través de los problemas y cómo mantener la 
+calma cuando tu algoritmo tiene un drynow del 30%.  
+Aprende sobre cómo aprender a hacer trading. De 
+nada sirve aprender una estrategia de trading  
+si no sabes hacer trading. La mayoría de los 
+principiantes fallan estrepitosamente porque  
+intentan aprender a ejecutar cualquier bot 
+que han comprado o les han regalado antes de  
+aprender a construir un bot correctamente o antes 
+incluso de entender que es tan siquiera un bot de  
+trading y cómo se opera con ellos. Porque créeme, 
+operar con bot no se trata solo de [ __ ] un bot y  
+arrastrarlo a la gráfica, es mucho más profundo. 
+Vi a muchos que decían, "Si veo suficientes  
+tutoriales de trading, eventualmente lo entenderé 
+y podré ser rentable." Spoiler, 10 tutoriales  
+después podían seguir la lógica, pero no podían 
+ejecutarla ni entenderla realmente. Solo seguían  
+instrucciones a ciega sin obtener resultados. Es 
+como aprender a montar en bicicleta viendo vídeos  
+de YouTube. Te sientes productivo y que estás 
+avanzando justo hasta que realmente te subes  
+a la bicicleta, intentas pedalear y chocas contra 
+el primer árbol. La solución necesita diferenciar  
+entre el modo de crear y el modo de consumir. 
+Lo que realmente cambió todo para mí fue pasar  
+de consumir tutoriales y realizar formaciones a 
+crear mis propias estrategias con teche. En lugar  
+de solo ver a alguien más construir un botar una 
+estrategia, empecé a construir los míos propios.  
+Aunque debo reconocer que los primeros bots de 
+trading que diseñé al inicio fueron terribles,  
+pero los meses pasaron y mejoré muchísimo, tanto 
+en la lógica como en el entendimiento del trading  
+algorítmico. Aprendí a aprender con cada bot que 
+construía y se estrellaban en el mercado. Hoy,  
+tras varios años diseñando y creando algoritmos 
+de trading, debo decir que nada me ayudó a avanzar  
+más rápido para ser rentable que la propia 
+práctica y ejecución que os comento. Para  
+cada hora que pases viendo tutoriales, invierte 
+al menos 4 horas construyendo tu bot sin guía.  
+Quédate atrapado en el problema, busca soluciones, 
+rompe cosas y arréglas. Ese es el verdadero  
+aprendizaje en Techain. Esto es exactamente lo 
+que pasará. Arrastras nodos, conecta indicadores,  
+haz tu back testing de tu estrategia y no te 
+preocupes por fallar, solo avanza. Tengo que  
+confesarte algo. Al principio de mi viaje en 
+el trading, cuando aún programaba todo a mano y  
+apenas estaba comenzando a programar, una vez pasé 
+casi 3 horas intentando nombrar una variable en mi  
+bot. No estoy bromeando. Tenía tantas variables 
+que solo miraba la pantalla y me preguntaba cómo  
+debería nombrarla para no liarme o mezclarla con 
+las otras. Debería llamarse entrada RSI o debería  
+llamarse señal principal de trading. ¿Por qué? 
+Porque pensé que todo lo que construyera tenía  
+que ser perfecto. Ahí estaba mi futuro. Pero aquí 
+está el problema. La perfección es una mentira.  
+Nunca diseñarás una estrategia de trading 
+perfecta, nadie lo hace. Incluso el trader senior  
+al que admira tiene voz que a veces pierden. 
+La diferencia es que él sabe cómo arreglarlo  
+más rápido. Es como aprender a pintar, pero nunca 
+poner el pincel en el lienzo porque tienes miedo  
+de que el primer trazo no sea una obra maestra y 
+arruine toda la pintura. Bueno, la realidad es que  
+no lo será, pero tampoco se supone o se espera que 
+lo sea. Una vez que dejé de obsesionarme con hacer  
+todo perfecto y simplemente comencé a testear los 
+bots que había creado, las cosas cambiaron. Los  
+back test se completaron. Aprendí más rápido y 
+adivina que la estrategia mejoró como resultado,  
+no porque persiguiera la perfección, sino porque 
+me di espacio para equivocarme y pude aprender  
+de mis errores, corregirlos y seguir avanzando. 
+El bot de trading perfecto es el que está hecho,  
+gane o pierda. Lo importante es que esté 
+hecho, que puedas probarlo y seguir mejorando  
+y evolucionándolo sobre el mercado. Un bot 
+que no parezca muy lógico o profesional,  
+pero que genera dinero, te enseñará más y más 
+rápido que un algoritmo hermoso y muy profesional,  
+pero que nunca llega al mercado. Así que deja de 
+pulir y comienza a tradear. No quieres un bot del  
+que presumir en una comunidad de trading, de lo 
+profesional que es su lógica y de lo bien hecho  
+que está. ¿Quieres un bot de trading que te dé 
+una rentabilidad, sea o no superanzado y perfecto?  
+Nunca te sentirás listo. No te sentirás listo para 
+construir tu primer bot. No te sentirás listo para  
+aplicar a ese trabajo como trader. No te sentirás 
+listo para cobrar dinero por tu estrategia.  
+Yo mismo estuve esperando ese momento mágico donde 
+me sintiera como un verdadero trader algorítmico,  
+pero nunca llegó. Incluso después de terminar mi 
+carrera en administración y dirección de empresas,  
+incluso después de terminar ingeniería 
+informática e incluso después de años  
+de experiencia y certificarme como asesor 
+financiero y analista profesional, aún todo eso,  
+a día de hoy aún pienso, ¿quién me permitió tocar 
+una cuenta real? La respuesta es sencilla. Nadie,  
+nadie debe permitirte nada. Tú eres el arquitecto 
+de tu propio destino y debes avanzar o quedarte  
+estancado. Pero no esperes que nadie apruebe tus 
+decisiones. Es como ir al gimnasio. No esperas a  
+estar en forma para comenzar a entrenar. solo 
+te presentas, empiezas con poco peso, incluso  
+lo mismo, haces algún mal ejercicio y te lesionas 
+o lastimas, pero pasan los días y te vuelves más  
+fuerte con el tiempo. Lo mismo ocurre con el 
+trading. La confianza se construye haciendo,  
+no esperando. Aún recuerdo mi primer día de 
+trabajo como analista junior. Estaba aterrado,  
+síndrome del impostor activado. Me preguntaba 
+cada minuto qué estaba haciendo allí. sentía  
+que no sabía nada de nada y que iba a fallar 
+en algo fijo, pero dije que sí, de todos modos,  
+acepté con seguridad. Recuerdo que cada hueco 
+que tenía buscaba en Google muchos conceptos  
+que se comentaban y que no entendía pese a toda 
+mi formación previa, porque ninguna formación te  
+prepara para la vida real y en especial para 
+la batalla aquí en los mercados financieros.  
+Pero terminé ese día con éxito y el día siguiente 
+y el día siguiente a ese día y así todos los días  
+y años hasta el día de hoy. Y ese único sí 
+inicial me abrió puertas que ni siquiera sabía  
+que existían y me permitió avanzar y crecer 
+no solo como profesional, sino también como  
+persona. Porque el trading, créeme que tiene un 
+factor psicológico tan fuerte que te cambia por  
+completo. Estás más listo de lo que crees. No 
+necesitas sentirte confiado. Solo tienes que  
+estar dispuesto y necesitarlo realmente. Debes 
+entender la diferencia clave entre querer y  
+necesitar. Todos queremos cosas, más dinero, 
+más tiempo, más salud, más de todo lo bueno,  
+pero solo cuando realmente lo necesitamos 
+es cuando nos movemos. Queremos más salud,  
+pero solo cuando sufrimos una enfermedad que 
+nos pone en jaque es cuando nos damos cuenta  
+de que necesitamos cuidados. Y solo en ese 
+momento es cuando cambiamos nuestros hábitos,  
+dejamos de fumar, comemos más sano y hacemos 
+más ejercicio. Comienza desordenado, comienza  
+asustado, comienza nervioso, pero comienza. 
+El mundo gira a diario. Si no avanzas con él,  
+está retrocediendo, porque el resto de personas 
+que sí avanzan te están sacando ventaja. Una regla  
+de oro que aplico yo para la toma de decisiones es 
+la siguiente. No me toman más de 5 minutos y son  
+solo tres preguntas. Pregunta número uno, ¿qué es 
+lo que realmente necesitas y cuánto lo necesitas?  
+Escríbelo en un trozo de papel de forma clara 
+y directa. Pregunta número dos, ¿cuál es el  
+precio que debes pagar para conseguirlo? Plásmalo 
+claramente, defínelo. ¿Qué precio debes pagar para  
+conseguirlo? Ser más disciplinado, dedicar más 
+tiempo, tomártelo más en serio, el precio que sea,  
+defínelo claramente. Pregunta número tres, ¿estás 
+dispuesto a pagarlo? Porque si no estás dispuesto  
+a pagarlo, mejor dedica tu tiempo a otra cosa, 
+porque nunca conseguirás resultados reales. No  
+te engañes. No existen las estrategias de trading 
+mágicas o los bots que imprimen dinero gratis.  
+Los resultados reales conllevan como mínimo 
+esfuerzo, compromiso y disciplina. Aquí hay algo  
+que ningún gurú de YouTube dice jamás, porque 
+si lo dijesen no venderían ningún curso más.  
+La verdadera habilidad en el trading algorítmico 
+no es escribir código o diseñar la estrategia  
+perfecta, es resolver problemas. Cualquiera 
+puede entender un cruce de medias móviles simple,  
+cualquiera puede programar cualquier chorrada 
+con chat GPT, pero puedes descomponer una  
+estrategia completa en pequeños componentes 
+construibles. Puedes descubrir por qué tu botógica
+se ve correcta. Puedes detectar qué parte 
+de la estrategia es realmente la que está  
+fallando y corregirla. Piensa en ser trader como 
+en ser un detective. El panel de Canva de Techa  
+Chain es solo tu cuaderno, pero la verdadera 
+magia está en hacer las preguntas correctas,  
+trazar pistas, encontrar los nodos correctos 
+y armar todo el rompecabeza. Al principio me  
+congelaba cada vez que algo no funcionaba. Es 
+normal. pensaba que como mis bots no funcionaba,  
+algo debería estar roto o que yo debería ser 
+terrible y que quizás no servía para esto de  
+ser trader. Pero eventualmente me di cuenta de que 
+diseñar bots que no servían para nada y quebraban  
+los back test en segundos es parte del trabajo, 
+es parte del diseño del bot final, no es un fallo,  
+es el proceso natural y correcto. Los traders que 
+admiras no son solo expertos en análisis técnico,  
+son solucionadores de problemas implacables, 
+se mantienen curiosos, hacen preguntas y siguen  
+cabando. Si quieres llegar a nivel pro rápido, 
+comienza enfocándote menos en qué construir y  
+más en por qué se construye de esa manera y no 
+de otra. Construye tu músculo de pensamiento,  
+no solo el bot. No se trata solo de construir 
+bots, se trata también de construir una forma de  
+pensar que te acerque cada día un poco más a tus 
+objetivos, a la rentabilidad. Esto duele un poco,  
+pero tienes que escucharlo. A nadie le importa tu 
+voz de trading. No le importa a los demás traders,  
+no le importa a tu broker, no le importa tu 
+pareja, no le importa a tu perro y desde luego no  
+le importa al mercado. Podrías diseñar y construir 
+el bot de trading más elegante, más limpio y bien  
+optimizado, conocido por la humanidad. Pero si 
+el bot genera pérdida o toma demasiado tiempo en  
+ejecutar órdenes es inútil. Recuerdo que construí 
+una estrategia hermosamente abstracta. Una vez  
+era perfecta. Estaba tan orgulloso de ella que la 
+enseñé a varias personas. Me sentía como un niño  
+con zapatos nuevos. Era reutilizable, eficiente, 
+no repetía código, era muy ágil en el cálculo,  
+todo en ella era perfecto. Pero un compañero me 
+destruyó simplemente cuando me dijo, "Está bien,  
+pero puede tradear en Bitcoin." También no 
+les importó nada, solo querían resultados,  
+querían saber si servía para operar su mercado 
+favorito. Piensa en tu bot como en una plomería.  
+A nadie le importa si tus tuberías están 
+ordenadas y son bonitas. Solo quieren que  
+el agua fluya y no les rebose de vuelta por 
+el VC. Diseña un bot que funcione. Diseña un  
+bot que resuelva problemas de trading. Si es 
+elegante y eficiente, genial, pero no pierdas  
+el sueño por la solución perfecta que nadie verá 
+y que tampoco te aportará nada realmente. Seamos  
+honestos por un segundo. El Bornout es real 
+y puede golpear duro. Comienzas emocionado,  
+motivado, viendo tutoriales a velocidad de 1.5, 
+cinco, bebiendo demasiado café, durmiendo poco  
+y soñando mucho con el futuro perfecto que te 
+aguarda. Avancemos unos meses desde que te inicia  
+en el mundo del trading. Estás agotado, confundido 
+y te preguntas si incluso estás hecho para el  
+trading o no. He estado ahí y lo sé. Una vez pasé 
+un fin de semana completo intentando depurar un  
+B de mi EA. Comí adecuadamente apenas. Dormí, 
+no realmente, solo miré la pantalla esperando  
+que el código se arreglara mágicamente. Cuando 
+finalmente lo arreglé, claro, el bug desapareció,  
+pero también mi energía. Y honestamente eso 
+no fue una victoria, fue una advertencia.  
+No podemos meternos en esta montaña rusa de 
+emociones que es el trading sin un plan claro.  
+La idea de que todos los traders profesionales son 
+grinder 247 es una absoluta y total mentira. Los  
+mejores traders que conozco, los que duran, 
+toman descanso a media mañana para el café.  
+tienen límites, descansan los fines de 
+semana, se van de vacaciones con su familia,  
+juegan con sus hijos, juegan a videojuegos, 
+pasan horas y tiempo con su familia, etcétera,  
+etcétera, etcétera. Piensa en tu cerebro como 
+una batería. No ejecutarías tu teléfono móvil  
+al 1% todo el día. ¿Por qué hacerlo contigo 
+mismo? No necesitas trabajar cada segundo  
+para demostrar algo. La productividad no se trata 
+de quemarte, se trata de sostenibilidad. Duerme,  
+sal a caminar, toca la hierba, que te dé el sol. 
+Tu bot y tu cuenta de trading te lo agradecerán.  
+Recapitulemos rápido. No necesitas conocer 
+todos los indicadores. Aprende patrones.  
+Aprende cómo aprender. Cambia de consumidor a 
+creador. La perfección es una trampa. Testea  
+ya tu bot. Nunca te sentirás listo. Comienza de 
+todos modos. El verdadero trading es resolución de  
+problemas. A nadie le importa tu bot, solo importa 
+que funcione. Y el burnout es real, protege  
+tu energía. Si aunque sea solo uno de estos 
+conceptos te golpea y te sientes identificado,  
+entonces este vídeo cumplió su función. Y ahora 
+quiero escucharte a ti. ¿Cuál de estos desearías  
+haber sabido antes? Deja un comentario abajo 
+y ayudémonos mutuamente a evitar este tipo  
+de dolores. Y si este vídeo te ayudó, asegúrate 
+de suscribirte al canal, darle like, activar la  
+campanita de notificaciones. Somos una comunidad 
+de trading que se ayuda. Y si quieres comenzar a  
+construir tus primeros bots de trading sin código 
+con Techain, pero no sabes cómo comenzar, no te  
+preocupes porque he creado este vídeo de aquí para 
+ti donde te muestro la plataforma y construimos  
+juntos tus primeros bots de trading. Vamos a 
+automatizar tu trading juntos. Nos vemos dentro.
+[música]
+[música]
