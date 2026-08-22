@@ -259,5 +259,20 @@ git log HEAD..upstream/master --oneline
   el archivo se reemplaza.
 - Las transcripciones viven dentro de `transcripts/` (o la subcarpeta que
   elijas); la raiz del repositorio queda limpia.
+- Puedes organizar la salida en categorias creando subcarpetas dentro de tu
+  carpeta elegida: el menu `[3]` del script las lista y te deja elegir entre
+  ellas. Ejemplo real de este repositorio:
+
+```
+transcripts/Trading-con-Bots/
+├── 01-trader-manual-a-arquitecto-de-sistemas/
+├── 02-prop-firms-challenge/
+├── 03-trading-cuantitativo-indicadores/
+├── 04-crear-bot-sin-programar/
+└── 05-bots-que-queman-cuentas/
+```
+
+  Consejo: usa nombres sin emojis ni tildes (la consola de Windows puede
+  mostrarlos mal) y numera las carpetas para conservar el orden.
 - Este script depende de endpoints no documentados de YouTube: puede dejar de
   funcionar si YouTube cambia su API.
