@@ -1,0 +1,486 @@
+Titulo              : Desmonté la Estrategia Más Viral de TikTok y Esto Pasó
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-04-19
+Duracion            : 25:03
+Vistas              : 1,052
+URL                 : https://www.youtube.com/watch?v=j7-fGO4ysd0
+----------------------------------------------------------------------
+
+He automatizado la estrategia más viral de TikTok. 
+Sí, esa en la que dicen que la solución a la  
+psicología del trading es operar una sola vez 
+al día mediante esta misma estrategia, la cual  
+incluso se vende en formaciones de trading por 
+miles de dólares como altamente rentable, sencilla  
+y eficaz. Evidentemente tiene sentido intuitivo, 
+dinero fácil y rápido, por eso se vende también.  
+Pero cuando cuantificamos esta estrategia de 
+trading tan popular sobre cientos de operaciones,  
+lo que observamos empíricamente es que restringir 
+la frecuencia sin una ventaja estadística  
+demostrable no protege tu capital, simplemente 
+hace que la cuenta sangre más despacio. Pero  
+no te lo cuento, te lo demuestro en directo y al 
+terminar este vídeo tendrás el marco algorítmico  
+exacto de la estrategia más viral de internet 
+auditada sin ruido ni emociones. Si llevas  
+meses viendo a supuesto Curus pintar líneas en el 
+gráfico a posterior y haciéndote creer que fallas  
+por falta de disciplina, cuando tu verdadero 
+problema es que estás operando un sistema  
+con esperanza matemática negativa, este vídeo te 
+interesa. Vamos a convertir sus promesas a código,  
+a ejecutarlo contra datos reales del mercado 
+y a obtener el diagnóstico real de si esta  
+estrategia de trading realmente funciona o no. 
+En los sistemas algorítmicos que he construido  
+durante este ciclo de mercado, he aprendido que el 
+código no miente. Vamos a empezar desmontando el  
+mito del setup visual. Luego traduciremos sus 
+reglas a lógica para crear un bot que ejecuta  
+la estrategia en automático y después veremos 
+qué pasa cuando los datos reales chocan contra  
+la teoría y al final veremos por qué la regla de 
+gestión de riesgo más sagrada de esta estrategia  
+es irónicamente la que la destruye. Spoiler, esta 
+estrategia lo único que hace consistentemente es  
+perder dinero, pero el objetivo del vídeo no es 
+solo auditarla con datos reales para que aprendas  
+a evitar este tipo de sistemas de trading abocado 
+a la quiebra, sino que entiendas por qué falla  
+y cómo evitar ese gran error en tus propios 
+bot de trading. Porque fallar falla y mucho,  
+pero con un buen marketing imagino que todo se 
+vende en internet. Hoy vamos a intentar darle la  
+vuelta y volverla rentable. No sé si será posible, 
+pero lo vamos a intentar. Y si lo consigo,  
+sabrás cómo operarla de forma correcta, evitándote 
+pasar por el gasto económico y la inversión de  
+tiempo en la formación donde se enseña. La idea 
+detrás de la estrategia de un solo trade al día se  
+basa en aislar las decisiones del ses emocional. 
+Las reglas son claras. Entras, defines tu riesgo  
+y pase lo que pase, cierras la plataforma. 
+Sobre el papel parece la cura definitiva para  
+el overtrading, pero la disciplina por sí sola 
+no genera alfa. Para saber si esta estrategia  
+tiene base real, vamos a deconstruirla. Primero 
+definiremos la ventana temporal y el filtro de  
+volatilidad. Después mapearemos la estructura 
+de confirmación que dictan los creadores de  
+la estrategia y finalmente la pasaremos por la 
+criba del mercado real para ver los resultados.  
+El primer mandamiento de esta estrategia es operar 
+exclusivamente durante, como ellos lo denominan,  
+una kill zone, típicamente la sesión de Londres 
+o Nueva York. No debes perseguir vela fuera de  
+ese horario. Esto en términos técnicos, para 
+llamar a las cosas por su nombre se conoce  
+como estacionalidad intradiaria de liquidez y es 
+básicamente la concentración predecible de volumen  
+en ventanas horarias específicas y esto es debido 
+a la apertura simultánea de las plazas financieras  
+principales a nivel mundial. Aterrizando el 
+concepto es exactamente como el tráfico de  
+Laura Punta en una autopista. No tiene sentido 
+abrir un negocio de comida rápida en una ruta  
+secundaria a las 3 de la mañana. Quieres estar 
+abierto en el flujo de cliente, donde está el  
+flujo máximo y ahí los mercados financieros, ese 
+flujo es la liquidez. Hasta aquí todo correcto y  
+la estrategia tiene sentido. Por lo tanto, vamos 
+a programar el bot para operar exclusivamente de  
+9:00 de la mañana hasta las 11:59. Pero atención, 
+aquí usamos el parámetro de hora del servidor del  
+broker. Si tu servidor no está en GMT, tu Londres 
+es ficticio. Configurar mal el offset horario es  
+la primera razón por las que las estrategias 
+de sesión fallan en cuentas reales. Revisa  
+esto antes de continuar siempre con una estrategia 
+horaria. Además, le imponemos el límite estricto,  
+un solo trade por activo al día. Si salta el 
+stop, el algoritmo se apaga hasta mañana. Y para  
+asegurar que no es obra apalancamiento encubierto, 
+el código debe prohibir disparar u operar si ya  
+hay órdenes abiertas en ese mismo símbolo. Hasta 
+aquí el marco temporal es claro, pero hay un  
+supuesto implícito en esta idea del trade único 
+que todavía no hemos cuestionado y es exactamente  
+donde falla. Ese supuesto es la dirección. 
+La estrategia de un trade al día asume que  
+sabes hacia dónde va el flujo institucional. La 
+estrategia popular dicta mirar el gráfico de una  
+o 4 horas para obtener el sesgo y luego bajar a 5 
+minutos para ejecutar. En diseños de sistemas de  
+trading cuantitativo llamamos a esto alineación de 
+múltiples marcos temporales. Básicamente consiste  
+en filtrar el ruido microestructural exigiendo que 
+la tendencia superior valide la entrada inferior.  
+Es como navegar en el mar. Las olas de 5 minutos 
+pueden ir en cualquier dirección, pero si la marea  
+de una hora está subiendo, apostar en contra 
+es un suicidio estadístico. Para eliminar la  
+subjetividad, programamos el sesgo. El precio de 
+cierre en el marco temporal superior debe estar  
+por encima de una media móvil exponencial de 50 
+periodos para habilitar las compras y por debajo  
+para las ventas. Si la marea no acompaña, el bot 
+ni siquiera debería mirar el gráfico de 5 minutos.  
+Una vez definido el horario y la dirección, 
+llegamos al terreno de batalla, el gráfico de  
+entrada. El operador manual busca un rompimiento 
+de estructura o voz y luego espera un retroceso a  
+un bloque de órdenes. Aquí es donde la narrativa 
+visual se vuelve una trampa altamente subjetiva.  
+Lo que un humano ve como un bloque claro, 
+otro lo puede ver como ruido. El algoritmo  
+no tiene imaginación. Le insertamos un detector de 
+break off structure con un periodo de oscilación  
+de cinco velas. Si no hay una señal matemática 
+clara de que la estructura se ha roto a favor de  
+nuestra EMA de 50, el sistema bloquea la orden. Si 
+queremos analizar correctamente la estrategia para  
+extraer conclusiones reales, debemos ser objetivo 
+y crear un entorno estricto y reproducible.  
+Todo parece lógico y correcto, pero el modelo que 
+acabamos de construir tiene una grieta operativa  
+y vamos a encontrarla antes de que el mercado la 
+encuentre por nosotros. La grieta es el spread.  
+En las redes sociales no hay comisiones ni 
+deslizamiento, pero en la vida real abrir  
+un trade en el eurodólar a las 9 en punto de 
+la mañana puede enfrentarte a una horquilla  
+de precios que destroce tu margen. Para evitarlo, 
+vamos a introducir un filtro de spread asimétrico,  
+una condición excluyente que prohíbe la ejecución 
+si la diferencia entre el bit y el AS supera,  
+por ejemplo, los 30 puntos. Esto parece menor, 
+pero cuando tienes un límite de un solo disparo  
+o trade diario, desperdiciarlo en un momento 
+de liquidez momentánea arruina tu estadística  
+mensual. Con el Sprit bajo control construimos la 
+zona de gatillo. En lugar de dibujar rectángulos a  
+ojos, el bot calcula el máximo y el mínimo de las 
+últimas 20 velas. Esa es nuestra zona dinámica de  
+soporte o resistencia. pide una entrada confirmada 
+en esa zona con un margen de solo, por ejemplo,  
+dos puntos. Para operar exigimos un patrón, un 
+engulfing alcista o un martillo para largos y un  
+engulfing bajista o una estrella fugaz para 
+cortos. Y finalmente, como redestructural,  
+el precio debe estar cruzando a favor de una EMA 
+de 20 periodos en ese mismo marco temporal de 5  
+minutos. Fíjate en lo que acabamos de hacer. Hemos 
+convertido la intuición de la pantalla en una  
+lista de validación secuencial, solo si el horario 
+es correcto, el spread es bajo, la tendencia de H1  
+es favorable, hay ruptura de estructura reciente, 
+el precio visita la zona de las últimas 20 velas,  
+hay un patrón de rechazo y el movimiento cruza 
+la EMA de 20, solo entonces operamos. Suficiente  
+teoría del setup perfecto por ahora. Vamos a ver 
+qué dice la realidad matemática cuando ensamblamos  
+la gestión de riesgo. La promesa de la estrategia 
+es un ratio de riesgo beneficio asimétrico. En  
+este caso lo he parametrizado con valores duros 
+e inamovibles para todas las órdenes. Un stoploss  
+estático clavado en -300 y un T profy de más 600. 
+Un ratio exacto de 1 a dos. Esto se fundamenta en  
+el concepto de esperanza matemática condicional. 
+Al forzar un ratio asimétrico de 1 a 2, el sistema  
+requiere una tasa de acierto superior al 33% para 
+alcanzar el punto de equilibrio. Es como jugar en  
+un casino donde pierdes $ el 66% de las veces, 
+pero ganas dos el 33% de las veces restantes. A  
+largo plazo, las matemáticas defienden tu propia 
+ineficiencia sobre predicción del futuro. El  
+voto automatiza esto aplicando la regla sin 
+excepciones. Cada vez que dispara o opera,  
+incrustan el mercado las órdenes de salida rígidas 
+en -300 y más 600, ignorando por completo la  
+volatilidad de ese día específico. El operador 
+humano duda o ajusta manualmente. La máquina  
+simplemente ejecuta el parámetro fijo. El bote 
+está listo para ejecutarse, pero hay un detalle  
+técnico en la gestión posterior de la orden que 
+invalida todo lo anterior si no lo tienes en  
+cuenta. El consejo final de la estrategia viral 
+es mueve tu stop a break even rápido en cuanto  
+el precio avance un poco a tu favor. En nuestro 
+entorno algorítmico de testin hemos insertado los  
+nodos correspondientes para emular esto. Un nodo 
+que mueve el stone llob a break even protegiendo  
+la posición en cuanto el precio tiene un impulso. 
+Visualmente es la gestión perfecta, riesgo cero.  
+Pero aquí es donde la realidad de los mercados 
+financieros destroza nuevamente el marketing de  
+trading generalista. Cuando compilas este código 
+AMQL5 y lo lanzas contra los datos de ti reales  
+del mercado y aplicas la regla de un trade al día, 
+descubres el veneno de la estrategia. Si mueves  
+tu stop estructural precio de entrada al mínimo 
+respiro a favor, la probabilidad de ser sacado de  
+la operación por el ruido normal del mercado, 
+lo que conocemos como volatilidad intrabarra,  
+se dispara masivamente. El mercado retrocede, te 
+saca en cero y luego continúa para alcanzar esos  
+más 600 puntos de T profile original. Como vemos, 
+la mayoría de las operativas que van a positivo  
+cierran en cero en el break even al girarse y las 
+que no llegan a positivo cierran directamente con  
+la totalidad del stop loss. La gestión psicológica 
+de asegurar a break even y dejar correr los  
+beneficios sin riesgo, evidentemente suena 
+realmente bien como argumento de venta. Suena  
+cómodo y promete dinero fácil, pero vemos que 
+en este caso asegurar a break even no es viable.  
+Pero recuerda la regla estricta, solo tienes 
+un trade al día. Si el sistema te saca en break  
+even por un retroceso normal en medio del ruido 
+microestructural, tu día ha terminado. No puedes  
+volver a entrar. Si operas manualmente basándote 
+en estas premisas de TikTok, te frustra, rompes la  
+regla de un trade al día, entras por venganza en 
+el retroceso, tu riesgo se descontrola y terminas  
+quemando la cuenta. Después de todo el trabajo de 
+diseñar y automatizar el flujo de la estrategia,  
+decidí darle una segunda oportunidad y eliminar el 
+break even y dejarla correr con el take profit y  
+el stop los 1 a dos. Y esto es lo que pasó. 
+Aparentemente comienza bien el balance. va  
+subiendo poco a poco. Aquí el argumento de venta 
+perfecto sería que como tiene un ratio de 1 dos,  
+con acertar solo el 33.4% de las operativas, la 
+estrategia sería rentable. Y tengo que admitirlo,  
+es un argumento de venta realmente bueno y un 
+trader novato te lo compraría rápido simplemente  
+por la lógica de pensamiento de que necesita 
+acertar muy poco y que seguro que lo va a hacer  
+y será rentable. Pero fijaros cómo se desarrolla 
+el balance. A continuación cae en picado y ni el  
+ratio 1 2 puede salvar la cuenta de la quiebra. En 
+este punto podemos pensar la típica idea de darle  
+la vuelta, que cuando compre venda y que cuando 
+venda compre. Ya os digo que esto no funciona así  
+y de hacerlo pues no habría estrategias perdedoras 
+porque le daríamos la vuelta a todas. No obstante,  
+os quiero enseñar por qué esto es así. Así que me 
+fui al Can de Techain e intercambié las señales de  
+venta por las de compra y volví al Metatrader. 
+Aquí comienza. Fijaros que donde antes hacía  
+un buy, ahora hace un sell, pero aún así sigue 
+perdiendo. De hecho, vemos cómo quiebra un 50%  
+de la cuenta en un momento, luego recupera poco a 
+poco y quizá de haber comenzado a ejecutar en esa  
+fecha concreta, pues estaríamos felices y sería 
+un buen back testing para enseñar por las redes  
+sociales, pero el caso es que simplemente 
+comenzamos cuando comenzamos y no sabemos  
+cuándo es el mejor momento para cada estrategia. 
+Fijaros aquí en el tramo final, vuelve a perder.  
+Conclusión, pierde igualmente de todas. Y aquí 
+sé que muchos os preguntaréis, pero Ignacio,  
+¿por qué pasa esto si incluso los stop loss y los 
+take profits eran muy amplios? Las comisiones no  
+deberían haber afectado. Y si donde abríamos un 
+cell, ahora abrimos un buy, y donde estaba el stop  
+loss del cell, ahora está el take profit del buy. 
+¿Qué está pasando? ¿Qué clase de brujería es esta?  
+Y esta es una de las claves del vídeo que quiero 
+que comprendas perfectamente porque es una de las  
+mayores falacias del trading que más incautos 
+atrapa y conocer por qué pasa esto te va a  
+ahorrar muchos dolores de cabeza y de dinero. 
+Evidentemente que no es brujería y obviamente  
+que el mercado no va en tu contra, es matemática 
+financiera pura. Vamos a diseccionar esto en dos  
+partes. Primero, la trampa probabilística del 
+caso en cuestión, donde tenemos un ratio 12 y  
+segundo el misterio del ratio 11 perfecto 
+y porque aún así seguiremos perdiendo. El  
+error fundamental que cometen los trader retails 
+o inexpertos es creer que el trading es un juego  
+binario de blanco o negro, como lanzar una moneda 
+donde solo existe cara o cruz. En nuestro caso,  
+o sube o baja, pero el mercado es tridimensional. 
+No solo importa la dirección, importan también el  
+tiempo o timing y la trayectoria o volatilidad. En 
+las finanzas académicas existe un concepto central  
+llamado la teoría del paseo aleatorio o random 
+walk theory y está ampliamente respaldada por  
+el consenso de economistas. Esta teoría demuestra 
+que a corto plazo la trayectoria del precio tiene  
+un alto componente de ruido impredecible. 
+Por eso, cuanto más bajamos de time frame,  
+más probable será que nuestra estrategia pierda y 
+cuanto más subimos de time frame, más fácil será  
+que sea ganadora. De ahí a que los fondos y las 
+gestoras profesionales tienden a operar en time  
+frame alto y las mayores estrategias perdedoras 
+de trading se ejecutan en sistemas como scalping.  
+Si tu estrategia es 1 do, por ejemplo, como el 
+caso actual, donde ponemos el stop loss a -300  
+puntos y buscamos un take profit a 600 puntos, la 
+matemática de la probabilidad dicta que el precio  
+tiene el doble de probabilidades de tocar tu 
+stop loss simplemente porque está más cerca. Esta  
+probabilidad del doble de stops frente a los take 
+profit destruye matemáticamente el ratio famoso  
+de la estrategia de 12. Piénsalo de esta forma 
+más allá del marketing de trading para captar  
+novatos. Si tienes un ratio de 1 dos, necesitas 
+acertar solo el 33.3% de las operaciones para  
+comenzar a ser rentable. Hasta aquí, perfecto. 
+Pero claro, este ratio de 1 que suena genial  
+sobre el papel también implica que por estadística 
+pura el stop lo saltará mínimo dos veces por cada  
+una que salte tu take profit. Sencillamente 
+porque está a la mitad de camino que el take  
+profit y en un mercado aleatorio, la volatilidad 
+inherente del mercado no jugará una mala pasada,  
+como hemos visto ya en el back test. Si tu 
+estrategia original pierde sistemáticamente porque  
+la volatilidad y el ruido de mercado tocan, es 
+esto lo cercano antes de poder recorrer el largo  
+camino hacia el take profit, invertir la dirección 
+del trade no cambia la geometría de tu problema.  
+El mercado seguirá teniendo que viajar el doble 
+de distancia para darte la razón y el ruido te  
+seguirá sacando en tu stop loss, vayas en largo o 
+vayas en corto. Aterrizando el concepto para que  
+lo entiendas fácil, imagina que estás en un 
+pasillo muy estrecho con los ojos vendados y  
+el suelo está completamente cubierto de hielo muy 
+resbaladizo. Moverte por ahí dando resbalones sin  
+control. Eso es la volatilidad y el ruido diario 
+del mercado. A un solo paso, detrás de ti un foso  
+lleno de pinchos. Eso es tu stoploss cercano. A 
+dos pasos por delante de ti, es decir, al doble de  
+distancia, está la puerta de salida con el dinero. 
+Ese es tu take profit al doble de distancia.  
+Como estás patinando el azar hacia delante y 
+hacia atrás sobre el hielo, la pura probabilidad  
+matemática dice que es muchísimo más fácil que 
+des un solo resbalón y te caigas en el foso que  
+está más cerca antes de que logres dar dos pasos 
+perfectos hacia la puerta. En ese punto pensamos  
+y queremos hacer un trading más inteligente e 
+invertir la estrategia. Nos damos media vuelta  
+en el pasillo para mirar hacia el otro lado. ¿Se 
+soluciona el problema? No se soluciona porque no  
+importa hacia qué lado del pasillo mires. Si el 
+suelo resbala siempre te vas a caer por el foso  
+con mayor probabilidad simplemente porque está 
+más cerca. El mercado no te castiga por elegir  
+mal la dirección en la que estás mirando en 
+el pasillo. Te castiga porque tu siempre es el  
+primer obstáculo con el que se tropieza el ruido 
+del precio. Y siento ser yo quien te lo explique,  
+porque entender esto correctamente elimina 
+e invalida como el 80% de las formaciones y  
+estrategias de trading de internet, pero esta es 
+la realidad y hay que conocer las reglas del juego  
+para poder jugar correctamente y no ser eliminados 
+por desconocimiento como le pasa a la mayoría.  
+Y aquí te estarás preguntando, ¿vale? Eso en 
+el caso del de un ratio mayor, pero en el ratio  
+uno a un el ratio que es exactamente igual, 
+pues vamos a verlo rápidamente en este bast
+en este caso 300 de stop loss y 300 de take 
+profit. Vamos con ello. Como vemos no es ganadora.  
+Tampoco pierde tanto o tan rápido como antes, pero 
+poco a poco irá desangrándose por las comisiones.  
+Pero, ¿qué está pasando aquí? Déjame que te lo 
+explico. La lógica pura y dura nos dice que si  
+la estrategia pierde siempre, la estrategia 
+invertida, llamémosla - a, debería ganar. Es  
+un juego de suma cero. Pero cuando los traders 
+hacen esto en la vida real, terminan estancados  
+o perdiendo igual. ¿Por qué la matemática parece 
+fallar aquí? La matemática no falla. Y para  
+entenderlo tenemos que recurrir a la hipótesis 
+de los mercados eficientes y a la estadística  
+pura. El problema no está en la inversión, está 
+en la ilusión de tu estrategia original. Aún  
+aplicando un ratio de uno a uno en finanzas, la 
+volatilidad de un sistema se mide por su esperanza  
+matemática o spec value. Para que al invertir 
+tu estrategia ganes dinero de forma consistente,  
+el EV original de tu sistema tendría que ser 
+profundamente negativo. Es decir, tu estrategia  
+tendría que ser brillantemente mala prediciendo 
+el mercado. Pero la teoría del paseo aleatorio o  
+random wal demuestra que el mercado es altamente 
+impredecible a corto plazo. La realidad es que tu  
+estrategia perdedora no tiene un EV negativo 
+porque sea capaz de predecir equivocadamente  
+el mercado. Tiene un EV igual a cer, es decir, 
+es aleatoria. Es importante que entiendas esto  
+correctamente porque en el sector retail se ha 
+puesto muy de moda en el último tiempo hablar  
+de esperanza matemática positiva o negativa para 
+sonar profesional sin entender a qué se refieren  
+realmente. Pero déjame que te lo explico. La 
+esperanza matemática, en términos simples, es el  
+promedio exacto de dinero que ganarías o perderías 
+por cada operación si repitieras ese mismo trade  
+miles y miles de veces. te dice simplemente 
+si tienes una ventaja real sobre el mercado o  
+no. Para que el truco de invertir tu estrategia 
+funcione, tu sistema original tendría que tener  
+una esperanza matemática profundamente negativa. 
+Es decir, tendría que ser una máquina brillante  
+detectando el comportamiento del precio, pero 
+operándolo sistemáticamente al revés. Pero aquí  
+está la dura bofetada de realidad que necesitas 
+entender. La inmensa mayoría de las estrategias  
+retail que vas a poder encontrar no son brillantes 
+máquinas de equivocarse, son estructuralmente  
+ruido aleatorio. Carecen de cualquier tipo de 
+ventaja predictiva, ya sea a favor o en contra,  
+lo que significa que su esperanza matemática 
+bruta es cero. No es negativa ni positiva,  
+aunque comúnmente para simplificar la llamemos 
+negativa. Y este es el problema inquebrantable  
+de la aritmética. Si intentas invertir una 
+estrategia multiplicando sus resultados por -1,  
+pero su ventaja subyacente es cero, el resultado 
+sigue siendo exactamente cero, por lo que  
+invertirla no funciona. No estás convirtiendo un 
+sistema perdedor en uno ganador, simplemente estás  
+pensando de lanzar una moneda con la mano 
+derecha a lanzarla con la mano izquierda.  
+Al operar un sistema de trading sin una ventaja 
+estadística real, tu cuenta simplemente oscilará  
+sin rumbo, estancándose hasta que el mínimo 
+error o la psicología te hagan quebrar. Y por  
+si piensas que la solución sería que deberíamos 
+volver al ejemplo del pasillo de hielo y cambiar  
+las tornas alejando el foso al doble y acercando 
+el T profy a la mitad para mantener el ratio 21,  
+mira, esto tampoco funciona, termina perdiendo 
+inevitablemente, solo es cuestión de tiempo.  
+Créeme que he auditado tantos sistemas de trading 
+en estos 15 años que reconozco rápidamente cuando  
+uno es perdedor o ganador simplemente viendo el 
+back test. Y esta estrategia, por mucho que la  
+queramos adornar, es perdedora. Podríamos estar 
+eternamente realizando inversiones y reajustes y  
+nunca conseguiríamos que la estrategia gane porque 
+es de suma cero. Es perdedora por naturaleza.  
+Dedicar tiempo en ella es como dedicar tiempo para 
+enseñar a una tortuga a volar. Solo conseguiremos  
+frustrarnos. Debes tener claro que en los mercados 
+financieros lo contrario a una mala estrategia  
+no es una estrategia buena, es simplemente el 
+mismo caos visto desde el otro lado del espejo.  
+Si tu sistema no tiene una ventaja estadística 
+real basada en el contexto actual del precio,  
+el mercado te barrerá sin importar qué botón 
+apriete o qué cambio realices. Si quieres aprender  
+a construir una ventaja estadística real, un 
+verdadero age, alejándote de los dibujos del  
+gráfico y empezando a explorar ineficiencias 
+matemáticas del mercado común profesional,  
+haz clic en el vídeo que te aparece aquí ahora 
+en pantalla y te enseño cómo hacerlo paso a paso.

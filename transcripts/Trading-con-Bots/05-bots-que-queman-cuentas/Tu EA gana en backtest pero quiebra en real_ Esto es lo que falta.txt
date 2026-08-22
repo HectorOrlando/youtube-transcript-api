@@ -1,0 +1,704 @@
+Titulo              : Tu EA gana en backtest pero quiebra en real? Esto es lo que falta
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-06-06
+Duracion            : 31:07
+Vistas              : 3,404
+URL                 : https://www.youtube.com/watch?v=Vgmo3mxDOmM
+----------------------------------------------------------------------
+
+La única forma posible de alcanzar la
+rentabilidad en el trading no es
+adivinar hacia dónde va a ir el precio,
+es tener un sistema algorítmico que
+detecte en cuál de los siete regímenes
+de mercado posible está operando y se
+adapte a él en milisegundos. Si estás
+viendo este vídeo es porque estás harto
+de devolverle tu ganancia al mercado y
+hoy te voy a entregar exactamente la
+solución para que puedas ser rentable de
+una vez por todas. Vas a aprender a
+identificar estos siete estados
+estructurales y te voy a dar la
+tecnología de inteligencia artificial
+para que tu bot cambie de estrategia
+automáticamente y gane dinero sin
+importar cuántas veces cambie el
+gráfico, sin programar ni una sola línea
+de código. Porque la realidad es que
+seguramente llevas semanas o meses
+optimizando una estrategia, ya sea en
+manual o con un bot, la tienes ya pulida
+y terminada como querías. Has hecho un
+backtest impecable de los últimos dos,
+tres, cuatro, cinco años. Tu gráfica
+sube en diagonal perfecta. Incluso tiras
+hacia atrás en el gráfico para una
+última comprobación y todo sale
+perfecto, lo tienes todo.
+Pero cuando la pones en el mercado real
+a las tres semanas o poco más, esa misma
+estrategia te lleva a la ruina.
+Literalmente, o la detienes o pierdes
+todo tu dinero. ¿Qué ha pasado? ¿El
+broker te persigue? ¿Has tenido mala
+suerte? ¿El mercado está en tu contra?
+No, nada de todo eso.
+Dejemos de lado las conspiraciones
+paranoicas. Nadie está luchando oculto
+en las sombras para que no seas rentable
+ni feliz. La realidad es más simple que
+todo esto. Lo que ha pasado es que estás
+operando bajo una mentira monumental,
+ampliamente extendida en el sector
+retail, totalmente desprofesionalizado
+y ciego, donde lo único que se propaga
+son los gurús y su marketing. La mentira
+bajo la que vives y que no te deja ser
+rentable es creer que el mercado es un
+entorno estático y que vas a poder
+encontrar o crear un sistema de trading
+manual o un bot que va a hacerte ganar
+dinero siempre, sin tener que hacer
+nunca nada más, de forma fácil y
+sencilla. Pero hoy voy a destruir esa
+mentira con datos matemáticos para
+mostrarte la única verdad que te hará
+ser rentable. Si ignoras esto que te voy
+a compartir, créeme que no podrás ser
+rentable jamás.
+Voy a darte la masterclass definitiva
+sobre regímenes de mercados y lo vamos a
+estructurar en tres pasos exactos para
+que salgas de aquí con una ventaja real
+y accionable hoy mismo. Paso número uno.
+Voy a explicarte y a mostrarte con datos
+por qué las estrategias de trading
+manual, es decir, trading discrecional,
+y los bots estáticos quiebran
+inevitablemente.
+Paso número dos. Te voy a enseñar los
+siete estados matemáticos en los que se
+divide cualquier mercado financiero. Y
+paso número tres. Cómo puedes usar la
+inteligencia artificial para que tu bot
+se adapte a estos siete ecosistemas en
+tiempo real, sin escribir ni una sola
+línea de código. Y para los que se
+queden hasta el final, os daré acceso a
+una formación completamente gratuita
+donde estructuramos todo esto paso a
+paso, porque esto es ingeniería
+financiera real aplicada a los mercados
+financieros. Esto es The Chain.
+Comenzamos.
+La diferencia entre el trader que gana a
+largo plazo y el que pierde su dinero
+cada tres meses no es su nivel de
+disciplina, ni cuántas horas mira la
+pantalla, ni cuántos cursos haya hecho,
+ni su intuición, es su sistema. Si tu
+sistema asume que el euro dólar o el
+estándar and poor 500 o el bitcoin,
+etcétera, se comportan igual en enero
+que en marzo, estás matemáticamente
+condenado a perder todo tu dinero, fin.
+El error vital, la causa raíz que
+destruye el 99%
+de los traders retail es ignorar la
+entropía del mercado. Un mercado
+financiero no es un sistema adaptativo
+complejo, no es estacionario. De hecho,
+por definición, los mercados financieros
+son no estacionarios. Esto significa que
+las reglas del juego cambian
+continuamente y para cuando tú has
+logrado optimizar o adaptar tu
+estrategia manual o tu bot de trading
+para actual con datos pasados, este ya
+ha comenzado a cambiar de nuevo. A esta
+fase donde el comportamiento estadístico
+del precio, la liquidez y las
+correlaciones divergen radicalmente de
+su estado anterior en la economía
+cuantitativa lo llamamos régimen de
+mercado. Y escúchame bien, un régimen no
+cambia cada 10 años como algunos creen.
+Puede cambiar tres veces en un mismo mes
+o incluso más. En time frames menores,
+de hecho, cambia más rápido aún, por eso
+es más difícil ser rentable en ellos.
+Imagina que intentas jugar un partido de
+fútbol, pero cada 20 minutos, sin previo
+aviso, las reglas cambian a las del
+baloncesto y luego a las del rugby y
+luego a las del tenis. Si tú sigues
+intentando patear el balón cuando toca
+tirar a canasta con las manos, vas a
+perder. Eso es exactamente lo que haces
+cuando usas un bote estático o una
+estrategia manual rígida. Optimiza para
+un mercado alcista de baja volatilidad.
+Haces curve fitting. Te haces trampas al
+solitario creyendo que has encontrado el
+Santo Grial y de repente el Banco
+Central habla, la liquidez se seca, el
+mercado entra en un régimen de alta
+volatilidad y turbulencia. Tu estrategia
+de reversión a la media es aniquilada en
+una sola tarde.
+Vamos a los datos porque los datos no
+mienten. Históricamente el modelo de
+gestión de riesgo más usado era el VAR
+paramétrico, que asume que los retornos
+siguen una distribución normal. Durante
+años de mercados tranquilos, antes de la
+adopción masiva de los algoritmos de
+trading automático, todo iba
+relativamente bien. Pero llegó la crisis
+del 2008 y luego el colapso del COVID en
+2020. Los modelos paramétricos
+proyectaban pérdidas máximas del 2%
+diario y el mercado cayó en un 9% en un
+solo día. Los modelos estáticos se
+desintegraron. O mira otro ejemplo en el
+año 2022. Durante 40 años la regla de
+oro era la cartera 60-40,
+es decir, acciones y bonos. Si las
+acciones caían, los bonos subían. Era
+una correlación negativa estructural,
+pero la Reserva Federal subió los tipos
+de interés agresivamente
+y el régimen mutó. La correlación se
+invirtió. Acciones y bonos cayeron a la
+vez. Quien operaba con intuición o con
+sistemas que no entendían este nuevo
+régimen multidimensional perdió el
+capital de toda una década en cuatro
+tardes.
+La intuición tiene un techo muy bajo. Tu
+cerebro no está diseñado para procesar
+una matriz de covarianza dimensional en
+tiempo real. Seguramente no sepas ni qué
+es, pero no te preocupes porque no
+tienes que hacerlo para ser rentable,
+pero tu sistema de trading sí. Y ahora
+viene lo que marca la diferencia entre
+jugar a los dados e imprimir una
+probabilidad a tu favor. A nivel
+institucional, los analistas
+cuantitativos no miramos si el precio ha
+roto un soporte que trazaron a mano en
+TradingView los traders retails.
+Utilizamos matemáticas y probabilidades.
+Medimos el estrés sistémico con el
+índice de turbulencia y la distancia de
+Mahalanobis. Calculamos la eficiencia
+direccional con el ratio de Kauffman.
+Utilizamos modelos ocultos de Markov,
+que son algoritmos que asumen que el
+mercado tiene estados invisibles para
+deducir en qué fase estamos y filtrar el
+ruido, etcétera, etcétera.
+La última vez que tracé una línea fue
+pintando con mi hija en un cuaderno de
+dibujo infantil y, sin embargo, retiro
+dinero todos los meses. En Stratos, el
+método del ingeniero financiero
+encapsula toda esta complejidad en
+bloques visuales sin código para que no
+tengas que aprenderte nada de todo lo
+que yo me tuve que aprender, pero que
+puedas ejecutarlo al mismo nivel, solo
+con arrastrar una caja. Pero no te
+preocupes, que te explico cómo.
+Para que traders como tú, sin formación
+profesional extensa de años, puedan
+dominar el mercado, hemos creado el
+cartógrafo definitivo, el nodo
+clasificador de régimen canónico con
+inteligencia artificial.
+Es este nodo de aquí de color púrpura.
+Este nodo de orquestación lee decenas de
+características en tiempo real, retornos
+logarítmicos, componentes direccionales,
+anchuras de banda, etcétera, etcétera.
+Las normaliza, aplica funciones
+probabilísticas avanzadas, como por
+ejemplo, Softmax y algoritmo de
+transición Viterbi, y te clasifica el
+mercado exactamente
+en uno de siete regímenes universales.
+Internamente son decenas de líneas y
+cálculos. Externamente para ti es solo
+un nodo que arrastrar para incorporar a
+la lógica de tu bot de trading. El
+trabajo pesado ya lo hemos hecho todo
+nosotros por ti. ¿Por qué siete
+regímenes? Porque la ciencia de datos
+nos ha demostrado que son los siete
+estados estructurales necesarios para
+crear un sistema robusto e
+indestructible. Resumiendo, son los
+estados que necesita entender y
+controlar para poder crear un bot de
+trading rentable. Si no los conoce, no
+te preocupes porque los vamos a
+diseccionar en esta masterclass uno por
+uno. Coge papel y lápiz o tablet porque
+estos son los siete ecosistemas donde tu
+dinero inevitablemente vive o muere.
+Régimen cero, tendencia alcista o bull
+trend. ¿Qué es? Es el crecimiento
+estructural y sostenido. No es una vela
+grande verde, es una deriva alcista
+constante. ¿Cómo se forma? Pues cuando
+hay un desequilibrio de liquidez donde
+la demanda institucional absorbe
+continuamente la oferta, generalmente en
+entorno de optimismo macroeconómico y
+baja aversión al riesgo. Estrategia
+favorable, pues por ejemplo, seguimiento
+de tendencia clásico, cruce de medias
+móviles alineadas y piramidación de
+posiciones ganadoras. Estrategias
+destructivas, las de reversión a la
+media pura. Si intentas ponerte en corto
+porque el RSI está en sobrecompra y por
+encima de 90, el mercado te va a
+arrollar. Para que lo entiendan mejor,
+piensa en un tren de mercancías
+pesadísimo subiendo una pendiente suave,
+pero infinita. No va a 300 por hora,
+pero tiene tanta masa que nada puede
+detenerlo. Si te subes a favor del
+movimiento, es decir, operas a favor de
+la tendencia, llegarás a tu destino.
+Pero si intentas ponerte en las vías
+para frenarlo porque crees que ya ha
+subido mucho, ese tren de mercancías te
+va a arrollar sin piedad. Tip de
+ingeniero financiero que te lleva ya
+puesto. En este régimen, tu stop loss
+dinámico debe ser holgado para no
+salirte del movimiento por culpa del
+ruido intradia
+y debes dejar correr todos los
+beneficios lo máximo que puedas.
+Régimen número uno, tendencia bajista o
+bear trend. Cuidado aquí, el error
+número uno del 90% de los traders es
+creer que una tendencia bajista es igual
+que una tendencia alcista, pero al
+revés. Falso. ¿Qué es? Es una fase de
+contracción acelerada y pánico. En los
+mercados bajistas, las colas de
+distribución estadística son pesadas, es
+decir, las caídas son violentas,
+asimétricas y con huecos de liquidez.
+¿Cómo se forma? Pues se detona por
+pánico, margin calls institucionales y
+venta forzada. La correlación entre
+activos tiende a uno y todo cae a la
+vez. Estrategia favorable aquí, pues por
+ejemplo, seguimiento de tendencia
+bajista muy reactivo o ruptura de
+volatilidad a la baja. Estrategias
+destructivas, comprar la caída o buy the
+dip. Intentar adivinar el suelo con
+soportes estáticos es tu ruina total.
+Para que lo entiendas, imagina un
+edificio en demolición controlada. No
+cae poco a poco, la gravedad y el pánico
+hacen que los pisos colapsen
+violentamente uno sobre otros. La
+estrategia que te salva aquí es saltar
+con un paracaídas lo más rápido que
+puedas y salir del edificio. La
+estrategia que te destruye es quedarte
+abajo mirando el colapso intentando
+atrapar los escombros con las manos
+desnudas creyendo que el suelo está
+cerca. Tip de ingeniero financiero que
+te lleva ya puesto. Reduce el tiempo de
+exposición. Las operaciones cortas deben
+ser rápidas, porque los rebotes en un
+mercado bajista son los más violentos de
+toda la historia financiera.
+Hasta aquí hemos visto los entornos
+direccionales, pero el mercado pasa
+hasta un 70% del tiempo sin ir a ninguna
+parte. Y aquí es donde la mayoría
+devuelve su ganancia al mercado.
+Régimen dos, rango o range. ¿Qué es? Es
+la consolidación lateral. El precio
+oscila entre bandas definidas sin crear
+nuevos máximos ni nuevos mínimos
+direccionales. El ratio de eficiencia de
+Kaufman en este régimen es cercano a
+cero. Es decir, el mercado se mueve
+mucho, pero no avanza nada. ¿Cómo se
+forma? Pues es un equilibrio temporal
+entre compradores y vendedores, a menudo
+a la espera de un catalizador
+macroeconómico que le dé direccionalidad
+al precio. Estrategia favorable,
+reversión a la media. Aquí funcionan los
+osciladores con estrategias tan simples
+y que rara vez funcionan como comprar en
+las bandas de Bollinger inferior y
+vender en la parte superior. Estrategias
+destructivas. Estrategias tendenciales.
+Usar cruces de media aquí es comprar el
+techo y vender el suelo, muriendo por
+mil cortes. Para que lo entiendas claro,
+visualízalo como un partido de tenis
+visto desde la grada. La pelota viaja de
+un lado a otro con muchísima energía.
+Pero nunca sale de las líneas de la
+pista. Si te quedas plantado en la
+mitad, en la red, esperando que la
+pelota siga de largo en una tendencia
+infinita, te van a pasar por todos los
+lados. Lo que tienes que hacer es
+ponerte en los extremos de la pista y
+devolver el golpe siempre hacia el
+centro geométrico con una estrategia de
+reversión a la media. Tip de ingeniero
+financiero que te lleva ya puesto. Si el
+nodo canónico de delta rango exige
+confirmación de rebote en los extremos,
+apaga tus indicadores direccionales y
+opera buscando siempre el centro
+magnético del precio.
+Régimen tres, ruptura o breakout. ¿Qué
+es? Es el instante en el que la energía
+acumulada tras un rango se libera. Es la
+transición crítica hacia una nueva
+tendencia. ¿Cómo se forma? Ocurre cuando
+un nivel de liquidez clave es consumido
+masivamente. Muchas veces incluso
+provocado por una noticia o la apertura
+de una sesión. Estrategias aquí, pues
+básicamente estrategia de momento
+inicial, canales de Donchian, compras
+por encima de máximo relativo, etcétera.
+Estrategias destructivas. Mantener
+operativa de rango. Para que lo
+entiendas fácil, es pura termodinámica.
+Imagina una olla a presión en el fuego.
+El agua hierve con furia rebotando
+contra las paredes metálicas sin salir,
+que sería el ejemplo del rango, hasta
+que la válvula cede y el vapor sale
+disparado en una sola dirección. Si tu
+bot está programado para atrapar el
+primer chorro a presión direccional,
+ganarás dinero, pero si intentas volver
+a tapar la válvula a la fuerza con la
+mano vendiendo en esa resistencia, te
+vas a quemar vivo. Tip de ingeniero
+financiero que te lleva ya puesto. Una
+ruptura real suele venir acompañada de
+un salto en la distancia de Mahalanobis
+y un aumento de volumen. El algoritmo de
+Estrato filtra la falsa ruptura
+exigiendo una permanencia estadística.
+Presta mucha atención ahora. Los tres
+regímenes que nos faltan no dependen de
+la dirección, sino del combustible del
+mercado, la volatilidad. Y aquí es donde
+los sistemas profesionales se separan de
+los bots de los aficionados.
+Régimen cuatro, alta volatilidad o high
+volatility. ¿Qué es? Es el estrés
+sistémico. El VIX se dispara y las velas
+son gigantes para ambos lados. ¿Cómo se
+forma? Con incertidumbre extrema,
+guerra, datos de inflación, sorpresa
+económica o caída repentina de liquidez.
+Estrategias favorables aquí, pues por
+ejemplo, operativa de opciones vendiendo
+volatilidad, scalping con bot de trading
+ultrarrápido con toma de beneficio
+milimétrica, etcétera. Estrategias
+destructivas, sistemas de cuadrícula o
+grid estrecho y sobre todo martingalas.
+Para que lo entiendas, piénsalo como
+intentar navegar en un barco de vela en
+medio de un huracán categoría cinco. Las
+olas te lanzan 20 m arriba y 20 m abajo
+en cuestión de segundos. Si intentas
+mantener tus velas desplegadas al máximo
+con una estrategia rígida de grid, el
+viento te va a destrozar el mástil y te
+va a hundir el barco. Aquí el sistema
+debe recoger las velas, reducir la
+exposición a la mitad como poco y
+maniobrar solo para sobrevivir. Tip de
+ingeniero financiero que te lleva ya
+puesto. En este régimen la liquidez es
+escasa y el deslizamiento o slippage es
+brutal. La prioridad aquí no suele ser
+ganar, suele ser sobrevivir. Si el nodo
+te marca alta volatilidad, tu bot
+debería reducir el tamaño del lote a la
+mitad o directamente pausar la
+operativa.
+Régimen cinco, volatilidad o low
+volatility. ¿Qué es? Pues se da cuando
+el mercado está anestesiado o en calma.
+El precio se comprime y las velas son
+minúsculas. ¿Cómo se forma? Ocurre
+típicamente antes de grandes anuncios,
+como por ejemplo los de la Reserva
+Federal o en sesiones asiáticas que
+carecen de catalizadores. Estrategia
+favorable, pues por ejemplo, acumulación
+sigilosa o preparación de órdenes
+pendientes. Estrategia destructiva,
+scalping sobre todo con objetivos
+amplios o seguimiento de tendencia puro.
+Para que lo entiendas claro, el símil
+mecánico perfecto aquí sería el de un
+muelle de acero que una prensa
+hidráulica está comprimiendo poco a poco
+milímetro a milímetro. A simple vista no
+pasa nada, el mercado parece
+anestesiado. Si intentas operar
+direccionalmente aquí, el mercado no se
+moverá lo suficiente para tomar o tocar
+tu beneficio y vas a pagar las
+comisiones eternas sin sentido. Lo que
+debes hacer es colocar tus trampas
+alrededor del muelle, preparándote para
+el instante exacto en el que la prensa
+lo suelte y la energía cinética explote.
+Tip de ingeniero financiero que te lleva
+ya puesto. La baja volatilidad es la
+madre de la alta volatilidad. Estrecha
+tus parámetros y prepárate porque el
+régimen va a cambiar violentamente muy
+pronto. Régimen seis, momentum. ¿Qué es?
+Pues básicamente es la aceleración
+explosiva a corto plazo. Es distinto de
+una tendencia alcista madura. Es
+básicamente un pico de inercia casi
+irracional. El mercado avanza en una
+línea recta y aquí es donde se suelen
+iniciar las tendencias. ¿Cómo se forma?
+Pues por euforia compradora o pánico
+vendedor puro, a menudo impulsado por
+liquidación de posiciones contraria o
+short squeezes. Estrategias favorables
+aquí, continuación agresiva, indicadores
+de cero rezagado, etcétera. Estrategias
+destructivas, operar a la contra
+buscando el rebote. Para que lo
+entiendas claro, esto ya no es un tren
+subiendo una colina, es más como un
+cohete espacial quemando combustible
+sólido en pleno despegue vertical.
+Avanza en línea recta propulsado por las
+liquidaciones en cadena. La única
+estrategia que funciona es agarrarte al
+asiento y colocar tu stop loss dinámico
+por debajo del fuego de los propulsores
+si no quieres quemar tu cuenta. El error
+fatal de la intuición humana aquí es
+mirar arriba, pensar "esto ya ha subido
+muy rápido, tiene que caer por pura
+gravedad" e imponerte, porque imponerse
+en un despegue te desintegra la cuenta
+por completo. Tip de ingeniero
+financiero que te lleva ya puesto.
+Surfea la ola pero blinda tus
+operaciones con un trailing stop
+dinámico pero inteligente y muy
+ajustado. El momentum puro rara vez dura
+mucho tiempo sin una corrección
+violenta.
+Estamos en la recta final. Ya tienes el
+mapa de los siete ecosistemas donde vive
+tu dinero. Y quiero hacer un inciso
+crítico aquí. Con este mapa en la
+cabeza, ahora entiendes perfectamente
+por qué esa estrategia manual o ese bot
+estático que te venden por redes
+sociales a veces ganan durante un mes y
+luego te destrozan la cuenta en dos
+días. Porque como te decía al principio
+del vídeo, no es mala suerte ni hay una
+conspiración oculta en el mercado contra
+ti ni contra tu felicidad. Lo que sucede
+es que por pura casualidad tu estrategia
+rígida coincidió temporalmente con su
+ecosistema favorable, con su régimen de
+mercado. Y cuando el mercado mutó, el
+sistema colapsó y tu cuenta quebró. Esta
+ceguera estructural es la causa
+matemática exacta por la que el 95% de
+los sistemas retail fracasan
+inevitablemente a diario. Ya sabes por
+qué optimizar un bot solo para un
+escenario concreto con años de backtest
+es el camino más rápido para quemar tu
+cuenta. Ahora la pregunta es, ¿cómo
+orquestas todo esto sin programar ni
+pasar años estudiando estadística
+bayesiana? Déjame que te lo muestro.
+Antes de continuar con el vídeo, quiero
+recordarte que en la primera línea de la
+descripción tienes un enlace para unirte
+a mi comunidad privada de School
+totalmente gratuita. Dentro he creado
+una formación de 14 días totalmente
+gratis donde te enseño a crear tu primer
+bot y te comparto alguna de las
+estrategias que me han permitido ser
+rentable en la última década. Al unirte
+vas a tener acceso totalmente gratuito a
+un ecosistema de networking donde
+compartirás espacio con personas como tú
+que quieren avanzar y crecer. Aparte de
+con ingenieros informáticos, matemáticos
+y traders profesionales que avanzan en
+tu misma dirección y que van a potenciar
+tu evolución técnica. Haz clic en el
+enlace de la descripción para unirte.
+Nos vemos dentro. Y ahora sí, seguimos
+con el vídeo.
+Ahora sí, aquí es donde pasamos de la
+teoría a la ingeniería financiera de
+ejecución, es decir, a la práctica. Y te
+voy a poner un ejemplo muy sencillo, muy
+básico, pero muy potente.
+Dentro de la app de Stratos coges el
+nodo régimen canónico de IA y lo
+arrastras a tu camba, a tu mesa de
+trabajo de trading. En cada nueva vela,
+este motor estadístico hace todos los
+cálculos matemáticos pesados que hemos
+visto por ti en milisegundos y te arroja
+los datos críticos. Veámoslos al
+detalle. Primero, el número de uno de
+los siete regímenes que hemos aprendido,
+identificado en tiempo real, del cero al
+seis. Segundo, el nombre del régimen,
+por si lo queremos imprimir o mostrar en
+el registro de nuestro MetaTrader.
+Tercero, el nivel de confianza de cero a
+uno, para que filtremos los regímenes
+que no están totalmente consolidado y
+que por lo tanto no sean operables. Y
+cuarto, la dirección, si es alcista o
+bajista.
+Para mí, ese nivel de confianza es oro
+puro. Si la inteligencia artificial me
+dice, "Estamos en rango con una
+confianza de 0,9 o 90% de confianza", el
+mercado está clarísimo. Si me da un 0,3
+o 30% de confianza, el mercado es ruido
+puro, una transición ambigua. Yo no lo
+opero. Mediante este dato de nivel de
+confianza, logramos que el algoritmo o
+bot de trading bloquee todas las señales
+y proteja el capital. Solo con esto
+acabamos de eliminar el error humano
+completamente.
+Solo con un clic y arrastrar un nodo ya
+podemos crear un bot de nivel
+institucional que opere en base a una
+venta real sobre el mercado. Pero la
+magia real, el gran potenciador para tu
+bot de trading es el ensamblaje que
+hacemos a continuación. Para ello vamos
+a sacar el nodo de Smart Router. Para
+activarlo e incorporarlo al flujo solo
+tenemos que conectar la salida del nodo
+de clasificador de régimen canónico al
+nodo de Smart Router. Este nodo es algo
+así como el semáforo inteligente de
+nuestra estrategia. Tiene siete ranuras,
+una para cada régimen. Tú diseñas tu bot
+y conectas, por ejemplo, una estrategia
+de RSI a la ranura de rango, conectas
+una de Dogecoin, por ejemplo, a la de
+ruptura, etcétera. Conectas una orden de
+reducir el lotaje al mínimo, por
+ejemplo, a la ranura de alta
+volatilidad.
+El resultado, has construido el bot
+camaleón definitivo. Empieza el día en
+rango, la IA lo detecta, el router abre
+el canal de la operativa de reversión a
+la media y opera perfecto. Sale el dato
+de empleo a las 2:30 de la tarde y tú no
+estás delante del ordenador, no pasa
+nada. El mercado automáticamente entrará
+en caos. En menos de lo que parpadea, el
+régimen canónico detecta el salto de
+alta volatilidad y se adapta. La señal
+llega al router, el router apaga la
+estrategia de rango al instante,
+salvando tu cuenta de una pérdida segura
+y activa la protección de tu cuenta.
+Todo en automático, sin que te suden las
+manos, sin dudar ni un momento. Esto es
+dejar de ser un trader reactivo y
+convertirte en un gestor de portfolio de
+gente autónomo totalmente proactivo.
+De depender de la la
+a depender de un sistema verificado,
+respaldado por la misma tecnología
+algorítmica que usan los fondos de
+inversión, pero diseñado visualmente en
+tu navegador para que sea sencillo y
+fácil de implementar.
+Desde The Chain hemos trabajado muy duro
+para crear, diseñar y trasladar a
+nuestra app Straton algunos de los
+mejores algoritmos profesionales y
+rentables de todo el sector para que
+puedas acceder a ellos cómodamente desde
+desde con solo unos clicks. Te dejo el
+link a la app Straton en la descripción.
+Pero la teoría sin ejecución no sirve de
+absolutamente nada. Puedes conocer la
+diferencia estadística entre un rango y
+una ruptura, pero si no lo aplicas
+seguirás quemando cuentas cada vez que
+el mercado cambie sus propias reglas. Si
+quieres dar el paso real, estructurar tu
+operativa con el método del ingeniero
+financiero y alcanzar la rentabilidad
+fundamentada en datos, en la descripción
+tienes el enlace a mi comunidad privada
+de School. Ahí tienes acceso a una
+formación completamente gratuita donde
+aprenderás junto conmigo y otros
+compañeros paso a paso a construir tu
+primer bot de trading totalmente
+funcional y listo para llevar a tu
+MetaTrader.
+Pero lo que está claro que de nada te
+sirve tener un mapa de los siete
+regímenes y el motor de IA más potente
+del mundo si alimentas tu sistema con
+indicadores basura que repintan, tienen
+lag estadístico inaceptable, etcétera,
+etcétera. He visto a demasiados traders
+perder meses de su vida haciendo
+backtests ciegos con herramientas
+obsoletas. Para que no pierdas ni un
+solo minuto de tu tiempo probando a
+ciegas, he analizado matemáticamente y
+clasificado los mejores indicadores
+reales que existen para hacer trading
+rentable con bots. Haz click en el vídeo
+que te aparece ahora en pantalla, porque
+te ahorro el trabajo sucio, te doy la
+conclusión directa y te enseño las
+piezas exactas que sí tienen ventaja
+estadística comprobada para que las
+conectes hoy mismo a tu bot de trading.

@@ -1,0 +1,278 @@
+Titulo              : El peligro oculto de los Backtests: Lo que nadie te cuenta
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-02-26
+Duracion            : 16:05
+Vistas              : 714
+URL                 : https://www.youtube.com/watch?v=bCC-vjqGh_I
+----------------------------------------------------------------------
+
+Tardé más de un año en programar un sistema 
+que fuera capaz de sobrevivir al mercado. No  
+estoy hablando de perder un par de operaciones 
+manuales, estoy hablando de diseñar algoritmos  
+que en el back test mostraban millones de dólares 
+en ganancias, pero que al conectarlos a una cuenta  
+real con capital privado desintegraban el dinero 
+sistemáticamente. Si hubieras visto mis modelos  
+matemáticos de hace algo más de una década, 
+parecían el Santo Grial. Si hubieras visto mi  
+cuenta de trading era una historia de terror, 
+pero si miras mis terminales de ejecución hoy,  
+verás algo muy diferente. Aburrimiento. Una 
+ejecución algorítmica fría, sin emociones y  
+matemáticamente consistente. ¿Qué cambió? No 
+aprendí C+ avanzado ni descubrí un indicador  
+secreto. El fallo no estaba en el código, el fallo 
+estaba en el arquitecto. Cuando comenzamos como  
+traders algorítmicos, tenemos un defecto fatal. 
+Creemos que podemos resolver el mercado como si  
+fuera una ejecución diferencial. El 90% de los 
+que intentan automatizar su trading fallan,  
+no porque no sepan programar o porque no sepan 
+crear un bot, sino porque intentan imponer un  
+orden lógico a un caos irracional. En los próximos 
+minutos voy a desmontar la arrogancia intelectual  
+que casi me cuesta mi carrera como inversor 
+durante mi primer año. Voy a explicarte cómo  
+pasé de tener back test perfecto y cuentas rotas 
+a gestionar una cartera algorítmica real con más  
+de seis cifras de capital propio aquí en Dubai. No 
+te voy a vender humo, de hecho no vendo nada. Solo  
+quiero hablarte de la transición dolorosa de ser 
+un teórico del mercado a un operador cuantitativo  
+rentable con la esperanza de que te ayude a 
+avanzar más y más rápido hacia un trading rentable  
+y consistente. Vamos a auditar mi primer año al 
+que yo llamo con cariño el desierto cuantitativo,  
+porque realmente me sentía perdido en medio de un 
+desierto enorme, sin ver una salida. a lo lejos  
+y con menos agua cada día dentro de mi botella. 
+Primero analizaremos la trampa del overfeitting  
+o sobreoptimización del primer año, donde el ego 
+matemático te ciega y no te deja avanzar cegado  
+por los back test que realizas casi a diario. 
+Luego entraremos en la parálisis del dryown,  
+ese momento crítico donde tu bote empieza 
+a perder y tú como humano cometes el error  
+capital de intervenir manualmente empeorando aún 
+más la situación. Y finalmente te entregaré la  
+variable de robustez, el único ajuste en la 
+gestión de cartera y expectativa matemática  
+que transformó mis bot de trading de máquinas de 
+casino a instrumento de inversión privada. Si no  
+entiendes esto, tus bots serán solo juguetes muy 
+caros. Hablemos del mes un para un perfil técnico  
+como el nuestro, como el tuyo, el mío y el de 
+cualquiera que quiera hacer trading con bots,  
+esta es la fase más peligrosa, la fase del Dios 
+todopoderoso. Descubres el trading algorítmico,  
+entiendes que existe la oportunidad de ganar 
+dinero en automático. Tienes datos histórico,  
+empieza a optimizar parámetros, haces un back 
+test del eurodólar en 2025 y bingo. Tu curva de  
+equidad crece exponencialmente, ratio de 6 de 3.0 
+y piensas, "He hackeado el mercado, soy más listo  
+que eso de Goldman Sach." Realmente crees que 
+tienes algo único y efectivo hasta el punto que  
+decides conectar el bot al capital real y durante 
+las primeras semanas quizás hasta funciona. Tu ego  
+se infla. ¿Crees que tu intelecto ha domado la 
+bestia? e incluso quizás hasta te hayas atrevido  
+a soñar a lo grande con ese coche nuevo o las 
+próximas vacaciones. Pero aquí está el primer  
+Inside doloroso que te golpea de lleno y que todos 
+los que viven del negocio del trading no quieren  
+que sepas porque se les acabaría el negocio. 
+Un back test perfecto suele ser sinónimo de  
+una estrategia frágil. Lo que yo estaba haciendo 
+trading, era cure fitting. Estaba ajustando mi  
+estrategia al pasado con tanta precisión que era 
+incapaz de respirar en el futuro. A veces tardaba  
+un día, otras una semana y, en el mejor de los 
+casos quizá un mes, pero terminaba quebrando la  
+cuenta con total seguridad. Como analista 
+profesional, mi obsesión era tener razón.  
+Quería que mi código predijera el giro exacto. 
+Estudiaba macroeconomía, flujos de órdenes,  
+correlaciones, volumen, cientos de indicadores y 
+estrategias de todo tipo. Trataba de meterlo todo  
+en el algoritmo. Pensaba que algo debía funcionar 
+a la fuerza, pero el mercado me enseñó una lección  
+brutal que quiero compartir contigo hoy. La 
+complejidad es enemiga de la rentabilidad.  
+Mis sistemas complejos fallaban ante el ruido 
+aleatorio del mercado y mientras más complejos,  
+más y más rápido fallaban. Mientras tanto, mi 
+sistema estúpidamente simple ganaban dinero.  
+Aceptar que mi inteligencia estaba jugando en 
+mi contra fue el primer paso para dejar de ser  
+un académico y convertirme en un inversor. No 
+es fácil. Tuve muchas horas y horas de dolorosa  
+reflexión, como seguramente tú las hayas tenido 
+y si no las vas a tener. Podrías pensar que el  
+mayor riesgo de un Quan Trader es un error de 
+código o un flash crash y estarías totalmente  
+equivocado. El riesgo más destructivo para un 
+inversor privado que usa bots no es el mercado,  
+es su propia incapacidad para no hacer nada. El 
+deseo humano de arreglar el algoritmo cuando entra  
+en una racha negativa, ahí es donde se destruye 
+el capital. Bienvenido a los siguientes meses  
+de tu carrera como trader algorítmico. Aquí es 
+donde muere el trader novato. Es donde la mayoría  
+abandonan por agotamiento o por frustración ante 
+la imposibilidad de poder crear un algoritmo que  
+funcione como ellos quieren. Ya tienes los bots 
+que deberían funcionar, pero el mercado cambia de  
+régimen. Entra en volatilidad, tu sistema entra 
+en dryown y ¿qué haces? Como trader, tu instinto  
+te grita, "El mercado está mal, tengo que filtrar 
+estas entradas." Y aquí cometí mi pecado capital,  
+la intervención híbrida. Tenía un bot operando, 
+veía una noticia macroeconómica y apagaba el bot  
+manualmente. O peor, cerraba operaciones antes de 
+tiempo porque sentía que el mercado se iba a girar  
+y por lo menos quería recoger algo de ganancias. 
+Estaba operando con capital privado, mi propio  
+patrimonio y el miedo a perder me hacía sabotear 
+la ventaja estadística de mi propia estrategia,  
+de mi propio código. El resultado era irónico. 
+Mi bot en simulación recuperaba las pérdidas y  
+terminaba el mes en positivo. Pero en real, al 
+haber intervenido yo y tras tocar el sistema,  
+terminaba en negativo. Yo era el back, el error 
+de mi propio software. Pensaba que necesitaba  
+mejores entradas o inteligencia artificial más 
+avanzada. Pero al auditar mis datos descubrí la  
+verdad. Si me hubiera ido de vacaciones y hubiera 
+dejado el servidor correr solo, quizá no hubiera  
+sido rico porque mi capital era modesto en 
+ese momento. Pero desde luego hubiera ganado  
+mucho más de lo que gané. El problema no era la 
+estrategia, el problema era que yo como inversor  
+no confiaba en la ley de los grandes números. 
+Quería la certeza en cada trade individual,  
+algo que matemáticamente es imposible. El cambio 
+real ocurrió cuando dejé de ver el trading como  
+ganar operaciones y empecé a verlo como gestión de 
+varianza. Dejé de buscar el bot perfecto que nunca  
+pierde porque eso no existe, y empecé a construir 
+una cartera de sistemas descorrelacionados,  
+un portfolio de bots. En lugar de invertir todo mi 
+capital privado en un solo mercado y estrategia,  
+diversifiqué el riesgo en múltiples lógicas 
+que fallaban en momentos diferentes. Esto  
+parece una tontería, pero suavizó mi 
+curva de equidad. Y lo más importante,  
+suavizó mi psicología. Cuando un sistema fallaba, 
+otro ganaba. Sé que puede parecer una estupidez,  
+pero realmente eso me dio la paz mental para dejar 
+de tocar el botón de apagado y trastocar todo el  
+tiempo. Seamos honestos entre nosotros. ¿Cuántos 
+de vosotros tenéis gigabyte de datos históricos?  
+Script de Python, una carpeta en el PC llena de 
+bots, de indicadores, de ideas y de back testing,  
+pero seguís perdiendo dinero hoy en real. 
+Ser un trader algorítmico de papel es fácil.  
+Cualquiera puede optimizar un RSI en Metatrader, 
+grabar un vídeo con una estrategia chorra o  
+comentar cualquier publicación de otro o publicar 
+en un foro. Pero gestionar capital privado, tus  
+ahorros requiere aceptar la incertidumbre y esto 
+requiere mucho valor y fortaleza mental. Requiere  
+entender que un dry del 10% no es un error, es el 
+costo de hacer negocios. Si no puedes soportar ver  
+a tu algoritmo perder dinero durante dos semanas 
+sin intervenir, no eres un trader algorítmico,  
+eres un micromanager asustado. Yo tuve que matar 
+al analista que quería predecir el futuro y tuve  
+que matar al programador que quería el código 
+perfecto para que naciera el gestor de riesgos  
+que necesitaba para ser rentable. El mercado 
+no paga por la elegancia de tu código ni lo  
+bonito que sea tu bot. Paga por la robustez de 
+tu gestión de riesgo ante la incertidumbre del  
+mercado. No lo olvides nunca. La gestión es el 80% 
+de tu rentabilidad. Sin ella nunca será rentable.  
+Aún no sé bien cómo, pero llegué al final de mi 
+primer año como trader contra todo pronóstico.  
+Tenía sistemas robustos, tenía diversificación, 
+tenía capital, pero seguía buscando home runs,  
+seguía sobreapalancando mi sistema ganadores, 
+buscando retorno del 20% mensual para hacerme rico  
+rápido. Y esa avaricia matemática era mi último 
+punto de fallo. La revelación final fue aburrida,  
+como todas las verdades importantes aquí en 
+las finanzas. Me hice una pregunta. ¿Qué pasa  
+si reduzco el riesgo a la mitad y simplemente 
+dejo que el interés compuesto actúe sobre el  
+volumen de operaciones automatizadas? Los 
+bots no duermen. Los bots no se cansan.  
+Un humano necesita ganar mucho en pocos trades. 
+Un bot puede ganar mi gaja en miles de trades  
+al mes. Cambié mi enfoque de alta rentabilidad 
+con alto riesgo a baja rentabilidad por trade  
+con alta frecuencia y bajo riesgo. Y empecé a 
+buscar singles, es decir, ganancias marginales,  
+pero repetidas miles de veces a interés compuesto 
+diariamente. Tenía una mentalidad de trabajador.  
+calculaba mi rentabilidad por horas de trabajo 
+como quien depende de un empleo. Estaba convencido  
+de que si quería alcanzar la libertad financiera 
+más rápido, realmente necesitaba sistemas más  
+agresivos de trading y con mayor apalancamiento. 
+Como el trabajador que cree que para ganar más  
+a final de mes necesita trabajar más horas o si 
+está a desto, necesita aumentar su productividad.  
+Pero comprendí que el trading algorítmico no 
+funcionaba así. No necesitaba sobreapalancar  
+un bot que funcionaba bien para exprimirlo al 
+máximo, poniendo mi cuenta en riesgo, quebrándola  
+y volviéndome a la casilla de salida una y 
+otra vez. Tomé consciencia de que cuando un bot  
+trabaja bien con un riesgo controlado y aceptable, 
+debía dejarlo trabajar. Y como buen empresario,  
+si necesitaba aumentar la rentabilidad de mi 
+negocio, la mejor opción era buscar otro empleado,  
+otro bot que se uniese al equipo en lugar de 
+explotar al bot que ya tenía y que funcionaba.  
+La velocidad máxima en el trading es hacer las 
+cosas bien, no sobrepapalancar, no subir el riesgo  
+y querer hacer un sprint cuando lo que estamos 
+corriendo es un maratón. Hoy tengo semanas o  
+meses donde algunos de mis sistemas o bots pierden 
+dinero. Ojalá pudiera deciros todo lo contrario,  
+pero yo también pierdo. Es parte del proceso y no 
+conozco a nadie que gane siempre, al menos en el  
+mundo real. Ya me entendéis. Pero no me importa 
+que algunos de mis bots pierdan eventualmente  
+no toco ni uno solo porque entiendo la esperanza 
+matemática positiva a largo plazo. Tengo un plan  
+muy estricto de gestión de mi portfolio de bot y 
+solo ajusto o realizo ajustes cuando el plan lo  
+indica, ni antes ni después. La rentabilidad para 
+un trader algorítmico no es una línea recta hacia  
+arriba, es una serie de dientes de sierra que 
+con el tiempo y el volumen suficiente siempre  
+apuntan hacia el norte. Cuando acepté que la 
+pérdida es simplemente un dato estadístico más  
+y no un fracaso personal, mis cuentas despegaron. 
+Hoy mi trading es 100% manos libres. Mi rol ya no  
+es operar, mi rol es investigar y supervisar. Soy 
+el dueño, por así decirlo, de mi empresa de bots,  
+no el operador, no el inversor. Y esa es la 
+posición en la que quieres estar. Quieres que tus  
+algoritmos trabajen para ti, no ser tú el esclavo 
+de tus propias pantallas de trading. Pero para  
+llegar a este nivel de confianza en tu sistema, 
+necesitas construirlo sobre un cimiento sólido,  
+no sobre esperanza y falsas promesas de grandes 
+rentabilidades imaginarias. Necesitas entender  
+la arquitectura del mercado, la latencia y la 
+gestión de riesgo dinámica. Si quieres dejar de  
+jugar a ser un trader y empezar a construir una 
+infraestructura de inversión cuantitativa seria,  
+he preparado un análisis profundo sobre 
+arquitectura de bots aquí en este vídeo. Ahora es  
+el momento en el que dejas de analizar el pasado y 
+empieza a automatizar tu futuro. Nos vemos dentro.

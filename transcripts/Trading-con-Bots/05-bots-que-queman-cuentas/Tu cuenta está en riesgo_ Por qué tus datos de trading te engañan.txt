@@ -1,0 +1,809 @@
+Titulo              : Tu cuenta está en riesgo: Por qué tus datos de trading te engañan
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2025-12-23
+Duracion            : 34:24
+Vistas              : 2,513
+URL                 : https://www.youtube.com/watch?v=oV8zvE_BpQc
+----------------------------------------------------------------------
+
+Hoy vas a aprender a auditar tu
+estrategia de trading con de forma
+profesional. Porque ese bot que acabas
+de comprar o diseñar y que muestra un 70
+o 90% de acierto en el back testing es
+una mentira matemática. Lo que estás
+viendo en tu pantalla no es un test de
+rentabilidad, es un simulador de
+fantasía diseñado para hacerte perder
+todo tu dinero. Los traders queman sus
+cuentas completas no porque su
+psicología sea débil, sino porque están
+operando sistemas basados en datos
+sucios. han construido un castillo sobre
+arena movediza. He auditado miles de
+sistemas automáticos en los últimos 15
+años y te puedo asegurar que el mercado
+real destroza cualquier back test hecho
+con la configuración incorrecta. Si
+ignoras la ingeniería de datos que te
+voy a enseñar hoy, estás operando a
+ciegas y terminarás perdiendo todo tu
+dinero. Pero este gran problema se acaba
+hoy porque en los próximos minutos vamos
+a convertir tu ordenador y tu Metatrader
+4 una plataforma de hace casi 20 años en
+un laboratorio cuantitativo de grado
+institucional. Primero vamos a hackear
+la base de datos para inyectar tic
+reales con precisión del 99.9%.
+Segundo, automatizaremos la extracción
+de datos ocultos que Metatrader 4 no te
+muestra. Tercero, y aquí está la clave,
+utilizaremos la inteligencia artificial
+especializada para encontrar los fallos
+de tu estrategia que tu ojo humano jamás
+vería y vamos a corregirlos para que sea
+rentable de verdad. Vamos a construir
+una máquina de la verdad, una que no
+solo te ayuda a mejorar tu estrategia de
+trading, sino que la eleve a lo más alto
+mientras tú adquieres un conocimiento
+profesional valorado en cientos de
+dólares. Con este vídeo, para entender
+por qué perdemos dinero, tenemos que
+entender cómo piensa la máquina. Cuando
+le das clic al botón iniciar en el
+probador de estrategia, Metatrader tiene
+un problema. No tiene los datos de lo
+que pasó segundo a segundo hace 3 años.
+Solo tiene el precio de apertura, el
+máximo, el mínimo y el cierre. ¿Qué hace
+entonces? Se lo inventa. Utiliza un
+proceso llamado interpolación fractal.
+crean movimientos totalmente aleatorios
+dentro de la vela para simular
+actividad, pero no son movimientos
+reales. Imagina que operas con cruces de
+medias móviles. Tu estrategia depende de
+que el precio genere una señal de cruce
+al tic exacto para entrar y salir en el
+precio correcto. En el backtest normal,
+Metatrader te dice, si el precio tocó y
+luego subió, tienes una operación
+ganadora. Enhorabuena, ya puedes ir a
+reservar el Lambo, pero en la realidad
+el precio pudo haber bajado 3 pips más
+antes de subir de nuevo, activando tu
+stop loss, provocando una pérdida donde
+tú crees que había una ganancia. El back
+test te dice que eres rico. La realidad
+te dice que está fuera de juego y te
+toca arrimar la tarjeta de crédito de
+nuevo para hacer otro depósito en el
+broker. Y quizás te pregunte, pero ¿a
+qué se debe esto? ¿Qué está pasando? Y
+lo más importante, ¿cómo puedes
+evitarlo? Esto se conoce como el engaño
+de la interpolación, aunque comúnmente
+quizás lo conozcas como calidad de
+modelado. Y si no lo solucionas ahora,
+tu back test es pura basura.
+Puedes ignorarlo por completo porque
+literalmente son datos falsos inventados
+que carecen de rigor alguno y no te
+harán ningún bien. Aquí te muestro un
+ejemplo que hay diseñado para ti, con el
+que lo vas a entender perfectamente. Lo
+que estás viendo ahora en tu pantalla
+representa un movimiento del mercado tal
+como tú lo ves en tu plataforma de
+trading cuando realizas un back testing.
+Con este movimiento, con estos precios,
+es con los que se realiza tu back
+testing, pero son datos planos que no
+están captando el movimiento real del
+mercado y están ignorando gran parte de
+los movimientos reales que hizo. Ahora,
+presta atención. Vamos a revelar el
+movimiento real al tic.
+Esto que ves ahora representa el mismo
+movimiento alcista en zigzag anterior,
+pero fíjate cómo cambia la estructura,
+llegando incluso a tu entrada, por lo
+que cualquier nivel de gestión de stop
+loss o take profit o incluso la propia
+entrada que quieras back testear será
+falso. De ahí que cuando muchas
+estrategias rentables en el back testing
+se llevan al mercado real, terminan
+cerrando tu cuenta de trading por
+completo. Ahora que ya sabes esto, la
+solución lógica es utilizar datos reales
+de calidad y fuera todos los problemas
+solucionados todos de golpe. No, pues
+no. Y aquí es donde el 99% de los
+traders cometen el error fatal. piensan,
+"Bueno, ya tengo datos de calidad, ahora
+pues voy a realizar el back testing y
+listo." Eso suena lógico, ¿verdad? Pero
+esta es la razón exacta por la que tu
+cuenta real no crece y te lo voy a
+demostrar matemáticamente. Te falta una
+pieza crucial y si no la aplicas,
+perderás todo tu dinero en el mercado
+real. El mercado no es estático, eso lo
+tenemos todos claro, ¿cierto? Me
+explico, a las 11 de la noche, hora del
+servidor, o durante una noticia de alto
+impacto o ante cualquier acontecimiento
+relevante, el sprint no será siempre de
+2 pips, es decir, no será fijo. Puede
+ser de dos, de 10, de 20 o de 50 pips.
+Por lo que si tu back test usa un spread
+fijo, como hace la mayoría por defecto o
+por desconocimiento, estás simulando un
+mundo perfecto, un mundo que no existe.
+Un ejemplo clarificador es el que te
+muestro aquí en pantalla, donde el
+mercado mantiene un sprint fijo
+constantemente. En este escenario, una
+simple estrategia de ruptura o de
+reversión nocturna puede parecer una
+mina de oro con un spray fijo, pero este
+es el mundo real y en el mundo real esas
+ampliaciones de spre te sacarán del
+mercado antes de que tengas oportunidad
+de parpadear. Por lo tanto, para
+resolver estos problemas de raíz y de
+una vez por todas, necesitamos datos al
+tic, datos reales con spread variable. Y
+eso es lo primero que vamos a solucionar
+ahora mismo. Olvídate del centro de
+historiales de Metatrader. Estos datos
+vienen de metacuote y están llenos de
+huecos. son de la peor calidad que te
+puedas encontrar y no exagero. Pido
+perdón a los señores de Metacote, ya que
+no quiero ofender a nadie, pero esto es
+cierto y su propia herramienta así lo
+certifica en la calidad de modelado.
+Esto baja la calidad de los datos dentro
+de la plataforma, nos obliga a utilizar
+herramientas externas como Tic Story o
+Tic Data Suite. Estas herramientas se
+conectan directamente a servidores como
+los de Ducascopi y descargan cada
+movimiento de precio que ha ocurrido en
+la última década. No promedios, sino
+cada transacción real de compra y de
+venta. Y no, no me pagan por hablar de
+ella, simplemente os digo alguna
+referencia para los que andéis un poco
+perdidos, pero cualquier base de datos
+de calidad os servirá utilizar la que
+mejor os resulte. Pero Ignacio, eso es
+de pago, es que no quiero gastar dinero.
+Los hay de pago como Tick Data Suite,
+pero también ofrecen triales con pruebas
+de 14 días, por lo que tienes tiempo más
+que de sobra para poner en ejecución lo
+que vas a aprender hoy aquí, porque no
+te va a llevar literalmente más de 5
+minutos. De igual forma, buscando por
+internet encontrarás historiales de
+mercado de calidad gratis. Desde luego,
+desde la propia página web de Ducascopi,
+por ejemplo, los puedes descargar, pero
+pensábamos que con descargar los datos
+bastaba, pero aquí viene el problema
+técnico que frustra a todos. Si
+descargas gigabyte de datos reales y
+luego abres tu Metatrader desde el icono
+del escritorio, como hace siempre, todo
+ese trabajo se borra. Metatrader
+detectará los archivos y los
+identificará como extraño
+sobreescribiéndolos con sus datos
+basura. Así que presta atención. Para
+evitar esto tienes dos opciones. Opción
+uno, usar Titic Data Suite. Importas los
+datos, lanzas Metatrader desde la
+herramienta y todo está protegido
+automáticamente contraescritura. Fin.
+Opción dos, gratuita, pero manual.
+Descargas los datos del archivo CSV
+desde la propia web de Ducas Copy.
+Impórtalo a Metatrader. Ajusta el time
+frame según tu broker y zona horaria
+para alinear las velas. Esto es crítico
+para evitar las típicas velas de domingo
+que distorsionan los indicadores y
+protege los archivos importados para que
+Metatrader no lo sobreescriba.
+Cualquiera de las dos opciones es
+válida. Tus datos van a estar seguros y
+Metatrader no podrá modificarlo. Elige
+la que mejor se adapte a tu situación.
+Sé que todo esto suena denso, pero mira
+la recompensa. Fíjate en la velocidad y
+la calidad. Lo que estamos viendo es una
+estrategia de medias móviles avanzadas
+con gestión automatizada, buscando tomas
+de liquidez en la sesión americana. Cada
+vez que el precio quiere romper en un
+movimiento tendencial, el bot dispara.
+La lógica es simple. El algoritmo
+interbancario busca liquidez y la
+liquidez está en los stoploss por encima
+de los máximos y por debajo de los
+mínimos. Nuestro bot espera esos
+movimientos, esa manipulación y entra en
+la reversión de la tendencia. En el modo
+visual se ve increíble. La curva de
+equidad sube y sube y sube. Si quieres
+el bot gratis, ya hice un vídeo donde te
+enseño a crear la estrategia y te lo
+regalo. Te dejo el enlace en la
+descripción. Pero cuando termina el
+test, ¿qué nos da Metatrader? Un reporte
+HTML estático e infumable. Un simple
+resumen que nos dice, "¿Ganaste X o
+perdiste I?" Con ciento o miles de datos
+de operaciones que no se pueden
+interpretar. Este reporte HTML es inútil
+para un profesional. No te dice si
+fallas más los martes o los jueves, no
+te dice si tus pérdidas ocurren cuando
+la volatilidad es baja, no te da los
+porqué. Pensábamos que el back test
+había terminado aquí, pero para nosotros
+esto es solo el comienzo. Necesitamos
+extraer el ADN de cada operación para
+extraer la máxima rentabilidad del
+mercado. Aquí tenemos dos opciones
+viables posibles para extraer los datos
+de la forma correcta. y elegir una u
+otra dependerá de cómo prefiramos
+analizarlos posteriormente. Te lo
+explico. La opción uno, extraer los
+datos tal como los necesitamos para
+trabajar sobre ellos. Si eliges hacer
+esta opción, he preparado un pequeño
+script en MQL4 para que haga todo el
+trabajo por ti de forma automática. No
+te asustes, te dejaré todo listo en la
+descripción para que lo descargues y
+ejecute fácilmente. Lo que hace este
+código es entrar en el historial de la
+simulación y extraer el precio de
+entrada y salida, sino la duración del
+trade, la hora exacta, el dry máximo que
+sufrió esa operación específica y el
+comentario del algoritmo. Para
+ejecutarlo, simplemente cógelo,
+arrástralo sobre la gráfica y dale a
+aceptar. Ahí ya vemos que se ha generado
+la exportación completa. Simplemente nos
+vamos a la dirección MQL4 files y ahí
+tendremos el archivo CSV que necesitamos
+para alimentar el análisis de nuestra
+inteligencia artificial. La opción dos
+es algo más rápida y sencilla. Consiste
+simplemente en descargar directamente el
+HTML con todo tal cual nos da el
+Metatrader. Para ello, simplemente
+tenemos que hacer clic derecho en el
+informe, guardar informe y guardarlo en
+la ubicación que nosotros queramos. Como
+digo, elegir la uno o la dos depende de
+cómo queramos analizar nuestros datos.
+Si queremos llevarlo, por ejemplo, a
+Google Drive para analizarlo en una hoja
+de cálculo, tenéis que hacer la opción
+uno. Yo voy a hacer la opción dos porque
+lo voy a analizar con una diseñada para
+esta tarea específica, analizar basic de
+trading, por lo que es suficiente que le
+dé el propio informe en crudo, porque
+ella ya limpia todo, clasifica,
+sintetiza todos los datos del informe.
+Aquí ahora es donde todo encaja. Ya
+tenemos los datos de nuestro back test
+real y válido realizado de forma
+profesional. Tenemos datos de calidad
+institucional, una estrategia de medias
+móviles avanzada, ejecutada sobre ello y
+ahora tenemos los resultados crudos
+listos para analizarlos con nuestra IA.
+A porque una hoja de cálculo o un HTML
+con 5000 filas es ilegible para el
+humano medio o al menos para mí. Aquí
+entra la IA y por lo que más queráis
+intentar no soltarle los datos a un chat
+GPT pidiendo el típico pron de
+analízamelo, etcétera, porque estas IAs
+o modelos LLM no se comportan nada bien
+con datos estructurados como estos y
+hacerlo sería tirar por el suelo todo el
+trabajo previo y de calidad del mismo
+que hemos realizado ya. Por lo que si
+queréis, pues recurrir a la hoja de
+cálculo de Drive, por ejemplo, y
+apoyaros en Gemini para que os ayude a
+ir creando los cálculos del análisis de
+forma consistente o hacer como yo, que
+en mi caso voy a utilizar el algoritmo
+de IA de la plataforma No Code Generator
+MQL, que está diseñado y adaptado
+específicamente para esta tarea. En
+cualquiera de los dos casos, lo mejor de
+todo es que no necesitamos ser
+científicos de datos ni saber Python
+para interpretar de forma profesional y
+coherente nuestro back testing. La IAP
+va a actuar como nuestro analista
+cuantitativo personal.
+Yo para realizar el análisis del back
+testing directamente voy a la plataforma
+nocode generator de tchain.
+En el iconio superior de analizar back
+testing, el analizador de back testing.
+Se me abre un menú con dos opciones.
+Opción uno, analizar un back testing de
+Metatrader 4. Opción dos, analizar uno
+de Metatrader 5. Como yo he realizado el
+B testing, el Mentaer 4, directamente
+cojo el archivo, lo arrastro y lo
+suelto. Y fijaros, esto es prácticamente
+instantáneo. Y mucha atención con los
+datos que vamos a extraer de aquí,
+porque esta es la clave. Lo primero que
+me encuentro en la parte superior es la
+plataforma en la que he realizado el B
+testing, el nombre del bot que realizó
+el B testing y la operativa el día en el
+que ejecuté la estrategia. En este caso
+fue el día de hoy. Ahora mismo, mientras
+que estoy grabando este vídeo, la
+calificación va desde A plus, siendo la
+máxima puntuación A, B, C, D, E o F,
+siendo F, algo desastroso, la puntuación
+más baja. En este caso tenemos una
+calificación general de A, por lo que es
+una estrategia bastante buena sobre la
+que vamos a poder trabajar para
+mejorarla, porque el objetivo de este
+vídeo es precisamente ese, realizar una
+optimización sobre nuestra estrategia.
+¿Qué quiere decir eso? que este Basting
+no está optimizado. Aún así, vamos a ver
+los parámetros que tiene y dónde falla y
+cómo podemos mejorarlo. Lo siguiente que
+vemos es el beneficio neto, el beneficio
+total que ha obtenido la cuenta. Más
+$2,636
+de rentabilidad, un ROY del 26.36%.
+Un factor de beneficio o profit factor
+del 1.25,
+que nos dice ya que es aceptable. Está
+bien, no es nada fuera del otro mundo,
+pero es aceptable. Un dedown máximo del
+13.94
+y en un total de operaciones de 672
+con una tasa de acierto o win rate de
+90.9.
+Bueno, no está nada mal. ha hecho
+prácticamente 700 operaciones, el 90%
+las ha acertado. Sí que es cierto que el
+dry down es un poco alto, pero bueno,
+como hemos dicho, es una estrategia que
+queremos mejorar y para eso estamos
+viendo este vídeo, para ver dónde falla
+o dónde tiene margen de mejora. Si
+bajamos hacia abajo vemos la gráfica de
+curva de capital y dry down. Básicamente
+aquí tenemos una línea horizontal donde
+estaría nuestro depósito inicial. La
+línea azul sería la curva de balance,
+que puede ser ascendente o descendente.
+Y por debajo tenemos de color rojo el
+dry down, donde vamos a poder ir viendo
+en qué periodo hemos tenido qué dry y
+cómo lo ha ido salvando o no la
+estrategia. Si bajamos un poco más hacia
+abajo, tenemos el análisis de
+fiabilidad. Aquí nos da la puntuación de
+fiabilidad, es decir, ya el propio
+algoritmo de inteligencia artificial
+realiza una reestructuración de los
+datos, una limpieza, unos cálculos y nos
+da una serie de conclusiones. Y nos está
+diciendo que la fiabilidad de esta
+estrategia, de este back testing, es de
+70 sobre 100. ¿Qué quiere decir? Que es
+bastante estable, tiene una puntuación
+bastante alta. Lo mínimo aceptable sería
+sobre 5560.
+todo lo que sea de ahí en adelante, pues
+va a indicar un comportamiento, una
+fiabilidad de la estrategia bastante
+robusta, por lo que va a ser más fácil
+que se pueda mantener en el largo plazo.
+El nivel de riesgo es de 4 sobre 10, por
+lo que ya entra en el perfil de
+moderado. Sí que sería bueno intentar
+bajarlo. Vamos a ver si podemos bajarlo.
+La esperanza matemática, muy importante,
+es positiva de 3.92.
+Si no tuviésemos una esperanza
+matemática positiva, directamente esta
+estrategia poco podría hacerse sobre
+ella y mejor que no perdiésemos tiempo.
+El ratio, riesgo beneficio vemos que
+relativamente está bien, la consistencia
+es de 75% y si nos vamos a
+calificaciones generales sobre el bas
+testing nos dice que la rentabilidad
+está en el promedio, la estabilidad es
+moderada y la frecuencia del trading es
+alta. Efectivamente, es una estrategia
+de scalping ejecutada en el eurodólar en
+un minuto, por lo que abre muchísimas
+operaciones. Bajamos un poco más hacia
+abajo y aquí tenemos el análisis de
+estadística detallada. Aquí vemos que la
+las posiciones largas han sido 562,
+se han acertado el 95.4%,
+posiciones cortas han sido 110, se han
+acertado el 68.2%, 2%, la mayor ganancia
+fue de 100, la mayor pérdida fue de
+-514,
+tenemos una ganancia promedio de 21 y
+una pérdida promedio de 172. La ganancia
+máxima consecutiva fueron 32 operativas
+con más 654 y las pérdidas máximas
+consecutivas fueron de 3-15.
+De aquí podemos ya extraer, como veis,
+conclusiones bastante interesantes. Ya
+entraría un poco más cómo funciona
+vuestra estrategia y qué datos de aquí
+son los más relevantes para tocar, por
+ejemplo, quizás sea pues no realizar
+operaciones cortas con este bot, lo cual
+disminuiría bastante la pérdida y
+aumentaría bastante más la ganancia. Si
+vamos un poco más hacia abajo, vemos
+otro dato muy interesante, el análisis
+por día de la semana. Y aquí viene un
+punto clave muy importante que es tan
+sencillo, pero que es muy potente y
+ayuda a que una estrategia pase de 0 a
+100 en un momento y os lo voy a enseñar.
+Aquí tenemos el mejor día de la semana y
+el peor día de la semana. En este caso,
+el mejor día de la semana nos dice que
+son los jueves con un 92.1%
+de win rate y que el promedio de todos
+los jueves ha sido 2189.
+$2,189
+de rentabilidad. ¿Qué quiere decir esto?
+Pues en una estrategia en la que el
+total ha sido 2636
+de rentabilidad,
+esa rentabilidad, el 95%
+se ha obtenido solo operando los jueves.
+Por lo que si solo hubiésemos operado
+los jueves, nuestro win rate subiría al
+92% y hubiésemos tenido una rentabilidad
+del 2189,
+evitando todas las pérdidas, por lo que
+la rentabilidad al final, el win rate,
+la tasa de acierto, el ROY, el profit
+factor aumentarían considerablemente y
+el drown bajaría. Y fijaros, otro dato
+curioso también, si por ejemplo no
+quisieseis solo operar los jueves, sino
+que quisieseis operar más días para
+diversificar esta estrategia, fijaros en
+el punto clave, tenemos la contraparte,
+el peor día los martes, que a pesar, y
+cuidado con esto, a pesar de tener un
+88.2%
+2% de win rate, el promedio de todos los
+martes, todos los martes juntos
+operando, se ha perdido un 635,
+un total de ,635.
+¿Qué quiere decir esto? Que operar los
+martes no tiene ningún beneficio para
+nuestra estrategia, por lo que aquí ya
+tendríamos otra decisión. Podemos optar
+por ejecutar este bot solo los jueves y
+el resto de la semana ejecutar otro tipo
+de bots y este sería bueno para los
+jueves o ejecutarlo toda la semana, pero
+prohibirle ejecutarse los martes, que
+esto lo haríamos muy sencillo
+directamente en no code generator, en el
+flujo de trabajo, añadiríamos un filtro
+por días de la semana y pondríamos los
+martes prohibido operar. hubiésemos
+eliminado una pérdida de 1635,
+por lo que tendríamos una rentabilidad
+total en la cuenta de más de $3,000 y
+hubiésemos bajado mucho el dryown. Si
+bajamos un poco más hacia abajo, ya lo
+vemos desgranado por días de la semana,
+el mejor el jueves, donde de 117 se
+pierden solo 10. le sigue lunes,
+viernes, miércoles y martes, donde a
+pesar de tener un win rate alto es donde
+se han acumulado la mayor parte de las
+operativas. ¿Por qué? porque son
+operativas que se han girado bastante y
+a pesar de que se han acertado muchas,
+las pocas que se han fallado, que han
+sido han sido solo 11 perdidas, nos han
+dado la mayor parte del negativo de la
+cuenta, por lo que ya estamos extrayendo
+claves, tips y conclusiones para mejorar
+esta estrategia. Si bajamos un poco más
+hacia abajo, tenemos otro apartado muy
+interesante que es el análisis horario.
+Aquí nos dice las horas más activas. Ya
+hemos visto que podemos aplicar un
+filtro por día de la semana. Pues bien,
+también podríamos aplicar un filtro por
+horarios. ¿En qué horario le va bien a
+mi estrategia operar y en qué horario no
+le va bien. Y aquí ya vemos que las
+horas más activas son de las 3 a las 6
+de la tarde, 128
+operaciones, es decir, el 19% del total
+de las operaciones con un win rate de
+85.2, 2, pero que aún así, aún teniendo
+un win rate alto, por eso es lo que os
+digo siempre, lo importante de que no
+hay que fijarse tanto en querer acertar
+mucho, sino hay que hacer más hincapié
+en la gestión. Un win rate alto 80 90%
+es solo el 20% de la estrategia. El 80%
+de la estrategia de la rentabilidad y de
+que la cuenta crezca es la gestión.
+Siempre es la gestión. No es tan
+importante el acertar mucho, sino el
+gestionar bien para exprimir. Y aquí
+vemos que si directamente le
+prohibiésemos al bot, aún operando todos
+los días de la semana, no operar entre
+las 3 y las 6 de la tarde, hubiésemos
+evitado un -846
+de pérdida, por lo que automáticamente
+nuestro beneficio sería mayor. Y aquí
+vemos las horas menos activas, que es de
+las 5 a las 8 de la mañana.
+Evidentemente, cuando el mercado está
+mucho más tranquilo y hay menos
+operaciones, hay menos movimiento, aquí
+se ha hecho solo un 5.2%
+del total de las operaciones, por lo que
+también en este horario podríamos
+aplicar un filtro para que directamente
+no operase. Si esto lo queremos
+desgranar más, simplemente iríamos por
+encima de las velas, viendo cada hora
+dónde se acierta más y dónde se pierde
+más. Y podríamos tomar decisiones
+accionables para mejorar nuestra
+estrategia. Si bajamos un poco más,
+llegamos a la parte final. Métrica de
+las operaciones. Resultado medio por
+operación $4. Media o mediana en este
+caso por operación 9.06.
+Racha máxima ganadora 32, perdedora 3.
+Aquí vemos duración media de las
+operaciones. Se cierran y se abren muy
+rápido. Rendimiento buy versus sell.
+Vemos que el BY evidentemente gana. Aquí
+vemos al final fortaleza y debilidades,
+los puntos fuertes de nuestra
+estrategia, los puntos débiles,
+recomendaciones finales y conclusiones
+del análisis. Simplemente con esto
+fácil, efectivo y visual podemos extraer
+ya conclusiones clave que nos ayuden a
+mejorar nuestra estrategia desde ahora
+mismo. Jamás hubiéramos visto esto en el
+reporte de Metatrader 4. El reporte
+general decía que éramos rentables, pero
+la IA nos acaba de decir qué pautas y
+acciones debemos implementar o modificar
+para que nuestra estrategia sea mejor
+aún. Es decir, estamos eliminando la
+grasa de la estrategia. Con esta
+información, ahora simplemente volvemos
+a nuestro código. Añadimos un filtro de
+una hora para que no realice operaciones
+de 12 a 14 horas. Bueno, ejecuto el
+nuevo bot, lo creo con los nuevos
+filtros, volvemos a hacer back testing y
+ahí está. Curva de equidad más suave,
+más rentable y más robusta. Y lo más
+importante, validada con datos reales y
+lógica estadística. Esto, como vemos ya
+no es suerte, es ingeniería del trading.
+Pues bien, volvemos de nuevo al
+analizador de back testing. Aquí tenemos
+el back testing viejo y vamos a
+repasarlo rápido. 2600 de beneficio
+neto, 1.25 de profit factor, 13.94, o
+sea, 14% de dryown, 672
+operativas. Bien, le doy a nuevo
+análisis y cojo y adjunto el nuevo back
+testing. ¿Y qué hemos hecho aquí?
+Simplemente he eliminado el peor tipo de
+operativa que eran los selles. Le he
+dicho que no hiciese ningún cell, no he
+aplicado nada más, simplemente los sells
+no tenía buen ratio, los elimino de la
+ecuación. Y fijaros lo que pasa, porque
+esto es lo importante, lo impactante y
+es lo que va a girar por completo
+vuestra estrategia de trading. Pasamos
+de una rentabilidad de 2,600 a una de
+más de 6,500, por lo que estamos
+literalmente duplicando la ganancia, el
+beneficio. Pasamos de un profit factor
+de 1.25 a uno de punto90 con la
+calificación de excelente. el dry down
+pasamos del 14 al 10% por lo que
+reducimos un 3% y pico nuestro dry down
+y el total de operaciones nos mantenemos
+sobre las 700. ¿Por qué nos mantenemos
+sobre el mismo número de operaciones a
+pesar de que hemos eliminado de la
+ecuación los sals? Pues muy sencillo,
+porque casi que todos los robots que se
+construyen o todos los automatismos de
+trading tienen o deberían tener un
+filtro de overtrading, es decir, un
+filtro para evitar la sobreoperativa,
+porque si operasen y operasen y
+operasen, abriesen operativas
+continuamente, nos quedaríamos sin
+margen, dispararíamos el dry y podríamos
+tener un problema serio en nuestra
+cuenta de trading. Para evitar esto se
+añaden filtros, regulaciones, etcétera,
+para evitar el overtrading, la
+sobreoperativa. ¿Qué quiere decir esto?
+que por ejemplo en este caso de este bot
+cuando tenía operaciones en una
+direccionalidad como en este caso
+abierta sales, no tenía permitido seguir
+abriendo nuevas operativas en nuevas
+direccionalidades para no comerse el
+margen de la cuenta o crear un caos de
+operativa que terminase pues en una
+catástrofe. Pero aliminar los de la
+ecuación, dejamos periodos libres donde
+se realizaban esas operativas para los
+buy. Esto al final conlleva a que la
+operativa ganadora para nuestra
+estrategia los movimientos que mejor
+identificaban eran los movimientos
+alcista en este mercado. En el
+eurodólar, eran los que mejor operaba
+nuestra estrategia. Le damos el 100% del
+tiempo libre para realizar este
+movimiento, para realizar el tipo de
+operativa que mejor sabe detectar en el
+eurodólar. Esto aumenta el número de
+byes, por lo que aumenta también
+exponencialmente el beneficio neto.
+Reducimos la pérdida eliminando los
+sell, que es el tipo de operativa que no
+le va bien a nuestro bot ni a este
+mercado, y aumentamos el número de los
+bytes, que es el tipo de operativa que
+mejor se le da a nuestro bot en este
+mercado. Pese a esto, la calificación
+baja de A a B. ¿Por qué la calificación
+general baja y disminuye? Pues muy
+sencillo, porque la puntuación de
+fiabilidad disminuye del 70 al 63. ¿Por
+qué? Porque sencillamente eliminamos los
+sels. ¿Qué quiere decir? eliminamos el
+componente de diversificación, con lo
+cual el nivel de riesgo sube de 4 a 7 y
+la puntuación final baja de 63 de 70,
+perdón, a 63, lo que disminuye la
+calificación general de nuestra
+operativa, pero nosotros somos
+conscientes de que hemos disminuido
+voluntariamente
+este componente de diversificación. Si
+bajo hacia abajo, vemos directamente que
+las posiciones cortas se han hecho 0%.
+La hemos eliminado de la ecuación. Y si
+bajo hacia abajo vemos las operativas
+por días de la semana. Y aquí viene algo
+muy curioso. Fijaros, los martes era el
+peor día de la semana cuando hacíamos
+sals con un menos 1600 de pérdida y
+ahora los martes que solo hacemos buy
+son el día más rentable de toda la
+semana con un +s 3097.
+¿Qué quiere decir esto? Pues que el día
+martes de la semana era un mal día
+porque el mercado solía hacer más martes
+alcistas que bajistas. Al eliminarla
+pasa a ser el mejor día de la semana. ¿Y
+ahora qué tenemos aquí? Pues que el peor
+día de la semana es el viernes con una
+media de -71.51.
+¿Qué quiere decir insignificante? No
+tendríamos que hacer nada aquí en este
+en este tramo. Y fijaros, nos dice que
+la mejor hora ahora para comprar es de
+las 8 a las 11 de la noche, momento en
+el que el servidor también disminuye y
+cae en la operativa, por lo que poner
+este bot desde las 6 7 de la tarde y que
+cortarse a las 10:30 o las 11:15 sería
+el momento óptimo. y el resto del día,
+el resto de horario, podríamos hacer
+este back testing con otros bots y ver
+qué bot es mejor para cada mercado, con
+qué condiciones. Y de ahí es donde
+creamos nuestro portfolio de bot y
+sabemos qué día de la semana tenemos que
+activarlos, qué día y en qué horario
+tienen que ejecutarse y simplemente es
+abrir el mercado en el Metatrader, todos
+los mercados, lanzar todos los bots con
+los filtros horarios y ello
+automáticamente se van a ir activando
+los días y las horas. No tenemos que
+hacer nada más que mantener el
+Metatrader abierto con los mercados y
+los bot lanzados sobre los mercados.
+ellos mismos se van a ejecutar los días
+y las horas indicados. Y si lo hacemos
+bien y lo planificamos correctamente,
+nunca vamos a tener más de un bot
+operando a la vez, ni el mismo día ni el
+mismo horario. Ahora tienes el sistema,
+tienes los datos con el 99.9% 9% de
+calidad de modelado, tienes el script de
+extracción y tienes a la IA auditando
+tus decisiones. Tienes una ventaja que
+el 99% de los traders minoristas
+sencillamente no tiene. Pero tener un
+coche bonito no te convierte en un
+piloto. De nada sirve tener un Ferrari
+en el garaje si le ponen gasolina
+adulterada. De nada te sirve analizar un
+B testing de forma profesional si la
+estrategia base que estás analizando es
+mediocre y podría haber sido muchísimo
+mejor. Si alimentas a la inteligencia
+artificial con dato basura, la IA te
+devolverá más basura, solo que procesada
+más rápido. Necesitas ver el vídeo de
+optimización que he creado para ti,
+donde aprenderás a sacar los mejores
+parámetros y los escenarios más robustos
+para tu estrategia antes de realizar un
+back testing. Si no, estarás
+construyendo tu trading sobre cimiento
+de barro. No desperdicies tu tiempo
+analizando una estrategia perdedora
+cuando existe la opción de partir con
+una base más rentable. Haz clic en el
+vídeo que te comparto aquí porque vamos
+a optimizar esa bestia para sacar los
+escenarios ganadores de verdad y
+entonces sí tendremos algo que valga la
+pena analizar con un bad testing
+profesional como este. Nos vemos dentro.
+[música]
