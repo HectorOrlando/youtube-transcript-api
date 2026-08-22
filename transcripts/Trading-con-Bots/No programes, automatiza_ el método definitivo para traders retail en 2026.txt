@@ -1,0 +1,842 @@
+Titulo              : No programes, automatiza: el método definitivo para traders retail en 2026
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-07-14
+Duracion            : 35:50
+Vistas              : 1,449
+URL                 : https://www.youtube.com/watch?v=mOibRdNtSso
+----------------------------------------------------------------------
+
+Hoy vas a crear tu primer bot de trading
+en menos de 5 minutos sin programar ni
+una línea de código. Te enseño las seis
+formas profesionales que existen en este
+2026 de hacerlo y sin tener que pelearte
+con la IA de turno. De la más fácil que
+tarda segundos a la más potente que
+prueba 9,000 combinaciones de parámetros
+por ti. Y ojo, crear el bot es lo fácil.
+Al final te enseño cómo validarlo porque
+eso es lo que separa un bot que dura de
+uno que quiebra tu cuenta. Me llamo
+Ignacio Yago, soy graduado en ADE,
+ingeniero informático. Llevo más de 15
+años ejerciendo como analista de mercado
+y operando en los mismos como trader
+cuantitativo. Opero en real con mis
+propios bots de trading y he diseñado y
+construido Stratos, la plataforma que
+vas a ver hoy precisamente para resolver
+este problema. Esto no es teoría de un
+tutorial de redes sociales, es mi flujo
+de trabajo real. El plan es simple, te
+voy a mostrar los seis métodos ordenados
+como una escalera para que consigas hoy
+tu bot de trading. Peldaño uno, la
+biblioteca de bots listos para importar
+en un click. Peldaño dos, un bot
+generado con tres preguntas que
+respondes en 5 segundos. Peldaño 3, una
+IA que investiga las mejores estrategias
+reales y rentables de todo internet y te
+construye la mejor. Peldaño 4, un
+diseñador que convierte los datos
+históricos de tu mercado favorito en un
+bot de trading multirégimen rentable.
+Peldaño 5co, un ingeniero de
+inteligencia artificial al que le
+describe tu estrategia con tus palabras
+como si le enviases un WhatsApp a un
+colega. Y el peldaño seis, ese lo
+reservo porque no crea bots. Hace algo
+mejor y te va a dejar boquiabierto. Pero
+una cosa antes de empezar, hay un error
+que comete casi todo el mundo que genera
+bots con inteligencia artificial. Un
+error que convierte un back test
+espectacular en una cuenta quemada. Te
+lo desmonto en la fase cuatro para que
+no te ocurra a ti. Quiero dejar claro
+que ninguno de estos métodos garantiza
+la rentabilidad. El mercado implica
+riesgo real de pérdida, eso lo sabemos
+todos. Lo que te voy a dar es el método
+y el criterio que necesitas para poder
+ser rentable, que es lo único que te va
+a acercar a la rentabilidad de verdad.
+Empezamos con el método más rápido de
+todos, la biblioteca de bots.
+Directamente es un catálogo público de
+estratos, estrategias completas con
+todos sus nodo y conexiones curadas por
+el equipo listas para importar a tu
+lienzo de trabajo. Pero ojo, no
+confundas esto con tus proyectos
+personales. La biblioteca es algo así
+como la tienda de muebles de exposición.
+Tus proyectos, tus bots personales son
+tu casa. Lo que importa de la tienda
+luego lo adapta a tu salón.
+Evidentemente aquí puedes filtrar por
+plataforma Metatrader 4, Metatrader 5,
+por mercado, por frecuencia y ahora
+viene lo interesante, por régimen de
+mercado y por exponente de harst. ¿Qué
+es el harst? Es la memoria del precio.
+Un valor por encima de 0.5
+indica comportamiento tendencial. El
+precio se comporta como una bola cuesta
+abajo, tiende a seguir rodando por
+debajo de 0,5 comportamiento de
+reversión, es decir, el precio actúa
+como una goma elástica que vuelva a su
+sitio una y otra vez tras cada
+estiramiento. Para poder filtrar bot
+esto es algo que realmente no he visto
+nunca en ninguna plataforma. No sé si
+vosotros lo habéis visto antes, dejámelo
+saber en comentarios. Como veis, también
+cada voz tiene su perfil, un perfil
+analítico con tendencia, complejidad,
+riesgo, robustez, etcétera, etcétera. Y
+aquí toca ser claros. Ese perfil se
+calcula analizando el diseño del bot, su
+grafo de nodo, su carácter y perfil. Es
+decir, no es un back test, es una
+radiografía de cómo está construido, no
+una promesa de cómo va a rendir. Esto es
+su perfil, sus características. La
+propia guía integrada ya dentro de la
+plataforma lo dice con estas palabras
+muy claras. Los bots de las bibliotecas
+no son máquinas de imprimir dinero.
+Importar uno y operarlo directamente en
+el mercado que a ti te apetece sobre el
+time frame que a ti te guste, es muy
+poco probable que haciendo eso llegue a
+ser real. Es decir, son estrategias que
+hay que pulir y optimizar antes de
+llevar a cualquier mercado,
+evidentemente. Y esto conecta con un
+dato de la industria. Según Traders
+Union, los bots de trading legítimos
+rondan tasas de acierto de entre el 50 y
+el 70%.
+Suena bien, pero una tasa de acierto
+elevada, una tasa del 70% puede ser
+ruinoso si cuando pierdes pierdes el
+doble de lo que ganas. Imagina un
+ejemplo con un trader cualquiera, ¿no?
+Con una cuenta de, por ejemplo, 3,000 €
+que importa un bot de scalping, lo
+compila y lo enchufa a su cuenta real
+esa misma tarde sin back test, sin
+optimizar en un par de divisas para el
+que nadie recalibró ese bot, pero a él
+le apetecía ponerlo ahí en ese mercado y
+en ese time frame. Eso evidentemente no
+es trading algorítmico cuantitativo, eso
+es una lotería pero con más pasos. El
+flujo correcto es filtras, abres el
+perfil, lees el detalle e importas al
+Canva. Directamente eliges el bot que te
+guste, le das a importar y en unos
+segundos lo tienes ya aquí en el cana.
+Como veis, es un bot muy completo al que
+seguramente habrá que hacerle muy poco
+para que lo podamos aplicar sobre el
+mercado que queramos. Aquí tenemos la
+estrategia completa, nodo a nodo, todo
+editable, listo para estudiar y
+construir encima de ella sin tener que
+comenzar desde cero. Ese es el valor
+real de este método. Es la mejor escuela
+de arquitectura de estrategias que
+existe en todo internet. La biblioteca
+de bot te da un bot en un click, pero es
+el punto de partida más básico de los
+seis que vamos a ver hoy. El segundo
+método ya no importa nada hecho. La
+inteligencia artificial te construye un
+bot desde cero a tu medida en unos 30
+segundos y solo necesita hacerte tres
+preguntas. El método dos es el método
+Wizard. Su nombre en la plataforma ya lo
+dice todo. Crear un bot en tres
+preguntas. Funciona como la revisión del
+óptico. El óptico no te pide que
+entiendas de lentes, te pregunta, "¿Ves
+mejor así o así?" Y con tres ajustes te
+da tu graduación. Y aquí haremos lo
+mismo con tu voz de trading. Pregunta
+número uno, tu estilo de trading,
+scalping, day trading, swing trading?
+Por ejemplo, voy a elegir swing trading.
+Pregunta número dos, tu nivel de riesgo.
+Elige entre uno de los que tengas aquí
+para según tu perfil de riesgo. Bajo
+riesgo, riesgo moderado o alto riesgo.
+Voy a poner riesgo moderado. Y pregunta
+número tres, ¿qué familias de
+indicadores prefieres? Puedes elegir
+hasta máximo dos. Yo, por ejemplo, voy a
+elegir eh tendencia y volumen.
+Directamente ahora le damos a diseñar
+bot. Cuesta solo un par de créditos de y
+en unos 10 a 60 segundos tienes un bot
+completo en el canvas, pero lo
+importante es lo que pasa por debajo.
+Aquí lo tenemos terminado. Le doy
+entendido y le doy crear el bot en el
+canva. Y fijaros, aquí tengo el bot ya
+en el cano.
+La IA no genera el bot de un tirón para
+darte cualquier cosa rápido. Esta IA
+trabaja en un pipeline profesional
+estructurado. Primero diseña la
+estrategia, luego genera los nodos
+dentro del catálogo de nodo, luego
+conecta los indicadores y la lógica,
+luego conecta la lógica con acciones de
+compra o venta y al final de todo lo
+valida todo algorítmicamente y busca
+ciclos, nodos huérfanos, tipos
+incompatibles, etcétera, etcétera. Y si
+hay algún fallo, lo repara sobre la
+marcha. Es la diferencia entre pedirle a
+Cloud o a tu cuñado que te monte un
+mueble del IKEA y que te lo monten a su
+manera o pedírselo a una cadena de
+montaje con control profesional de
+calidad al final y en cada paso. Y
+detalle que me encanta, si se te cae la
+conexión o recargas el navegador por
+error a mitad del trabajo, el trabajo
+continúa en los servidores de Strat y
+cuando te reenganchas tienes ela ya
+listo y guardado en tus proyectos
+personales. Igualmente, como sucede con
+todo lo que hacemos en estrato, todo es
+editable, todo es 100% editable y
+controlable. Sabemos qué es lo que
+hacemos en cada momento. Pongamos un
+ejemplo de un trader cualquiera, por
+ejemplo, un trader con 2000 € y un
+perfil conservador. En un minuto tiene
+un bot aquí ahora alineado con su
+tolerancia al riesgo sin saber que es un
+cruce de medias móviles. Pero es un
+sistema definitivo este que estamos
+viendo aquí, ¿no? Deamos claros, el
+Wizard genera bot de uno a tres
+indicadores bastante sencillos, sin
+mirar datos de mercado actuales. Es
+básicamente un prototipo avanzado casi
+listo para llevar al mercado. Incluso
+algunos así tal cual como salen aquí,
+los he testeado y han resultado hasta
+ser rentables y han terminado finalmente
+siendo en modelo bastante bueno sin
+hacerle nada más, tal cual como estaba
+aquí. Pero como digo, son prototipos, ya
+que como norma general son un boceto
+funcional para llevar al back test y
+para eso es imbatible en velocidad.
+Wizard es rápido, pero el tercer método
+hace algo que no he visto en ninguna
+otra plataforma de este sector nunca.
+Antes de construir un bot de trading, la
+inteligencia artificial sale a internet
+a fuentes profesionales a investigar qué
+estrategias están realmente funcionando
+de verdad ahora, en este momento. Deja
+de improvisar de memoria y empieza a
+documentarse. El método tres es el bot
+legendario. La diferencia de este bot
+con el Wizard es de concepto, es decir,
+el Wizard es como un cocinero que cocina
+con lo que tiene en la despensa y B
+legendario es el cocinero que primero
+baja a la lonja, mira qué pescado ha
+entrado hoy fresco y después decide el
+plato. Aquí trabajan dos inteligencias
+artificiales en cadena. Primero, una
+especializada en investigación que al
+arrancar la función, que vamos a hacerlo
+aquí ahora, empieza a investigar en
+internet en tiempo real. Estrategias de
+trading profesionales documentadas,
+ajustada a tus preferencias y va a crear
+lo que vendría a ser como la receta de
+tu bot. Después, otra inteligencia
+artificial especializada en trading y
+con un conocimiento total de estratos
+construye el bot completo a partir de
+esa investigación. Sería algo así como
+el cocinero que cocina sobre la receta
+anterior. En este caso tú configuras
+cinco dimensiones, no tres como en el
+caso anterior. Tenemos la primera, el
+estilo de trading. Luego tenemos
+condición de mercado, time frame y nivel
+de riesgo. Para la demo voy a elegir,
+por ejemplo, swing trading. Luego voy a
+poner condiciones de mercado, mercado en
+tendencia. El tipo de estrategia, voy a
+poner seguimiento de tendencia y en el
+time frame voy a dejarlo en M15H1 y en
+un riesgo le voy a poner un riesgo alto
+para que sea una estrategia que cace las
+tendencias y que cuando se detecte una
+vaya a tope con ella. Cuesta solo cuatro
+créditos de IA, es decir, solo unos
+céntimos de dólar y tarda
+aproximadamente entre 1 a 3 minutos.
+¿Por qué? Pues porque está investigando.
+Tarda un poco más que, por ejemplo, el
+Wizard. Aquí hay una investigación en
+internet, como vemos que la está
+haciendo ahora investigando en internet.
+Entonces, ahora está buscando
+estrategias de trading rentable en base
+a nuestras preferencias que hemos
+seleccionado previamente. Y aquí llega
+mi momento favorito del proceso. Al
+final del proceso de la generación, la
+plataforma te muestra la ficha de la
+estrategia que ha encontrado, su nombre,
+su descripción, su lógica. No es una
+caja negra. ¿Ves? en cada momento en que
+se basa tu bot antes de llevarlo al
+Canva, por lo que lo entiendes total y
+perfectamente. El resultado es otra liga
+en complejidad, donde Wizard te daba de
+uno a tres eh indicadores. Por ejemplo,
+el B legendario construye con tres,
+cinco y hasta ocho o más capas de
+lógica, filtros de sesión y de
+volatilidad y gestión de riesgo
+avanzada. Además, fuerza, diversidad, es
+decir, cada generación parte de una
+semilla aleatoria para que no te
+devuelva siempre el mismo bot. Es decir,
+cada vez que lo utilices vas a tener una
+estrategia de trading diferente. Y ahora
+transparencia total porque la propia
+plataforma así lo exige. La interfaz te
+advierte clara y literalmente de que la
+IA puede cometer algún error, dejar un
+nodo huérfano o una conexión incorrecta.
+Tu obligación simplemente es supervisar
+el proyecto. Yo lo hago con todos los
+míos. En este caso veo que está todo
+correcto, no tengo ningún error. Aquí
+arriba. Si hubiese algún error, me
+aparecería un error en rojo, le daría,
+me saldría el cartel de qué es ese
+error, cómo se soluciona, lo solventaría
+y tiraría adelante con el bot sin ningún
+problema. Y añado mi propia advertencia
+de trader. Más complejidad no es igual a
+más rentabilidad. Un bot de ocho
+indicadores tiene más piezas que ajustar
+y eso, evidentemente abre la puerta al
+error del que te hablé al principio. Y
+estamos a una fase de destaparlo.
+Hasta aquí todo ha sido diseño guiado,
+plantillas, preguntas, investigación,
+todo para facilitarte la vida. Pero a
+partir de aquí, del cuarto método,
+cambiamos de juego por completo. Ya no
+le decimos a la IA lo que queremos. Le
+vamos a dar datos del mercado real y
+vamos a dejar que los datos manden. Es
+decir, vamos a aplicar técnicas
+avanzadas de minería de datos y
+validaciones robustas. Y aquí es donde
+pago la deuda que tengo contigo. Método
+cuatro, el diseñador Autopro.
+La idea aquí es muy sencilla, te la digo
+en una frase. O subes el histórico de tu
+mercado favorito o seleccionas uno de
+los que tienes ya aquí en estratos, que
+ojo al dato, son todos datos
+actualizados, supervisado y de calidad
+literalmente institucional. Y
+literalmente diseñador Autopro te va a
+diseñar, optimizar y validar un bot de
+trading multirégimen automáticamente,
+todo en unos minutos. Para este caso,
+por ejemplo, voy a buscar el eurodólar.
+Lo voy a elegir, lo voy a poner en una
+hora y le voy a dar a usar este mercado.
+Algunos lo ven como la evolución de
+plataformas como Strategic Quant que
+hacen algo parecido, pero con menor
+rigor y menor profesionalidad, tardando
+días o semana en darte un bots
+que luego terminan evidentemente
+pereciendo en el mercado porque son bots
+estáticos. En estratos no. Aquí
+obtenemos un bot dinámico, o sea, el
+resultado de aquí va a ser un bot
+adaptativo al mercado, que se adapta al
+mercado en tiempo real, un bot dinámico,
+un bot que te costaría, en el mejor de
+los casos, un par de miles de dólares
+por lo menos, que es lo que cuesta este
+tipo de algoritmos si lo quisiésemos
+programar desde cero. Y aquí lo vais a
+tener por menos de lo que cuesta el café
+que te has tomado hoy por la mañana y
+solo en unos minutos. Pero antes la
+deuda, el error que comete casi todo el
+mundo que genera botch, la
+sobreoptimización.
+Cuando prueba miles de parámetros sobre
+datos pasados y te quedas con el mejor
+resultado, no has encontrado una
+estrategia rentable. Has memorizado la
+respuesta del examen del año pasado y el
+mercado este año pone nuevas preguntas.
+Por eso hay tantos bot de trading a 20,
+100 o $500 en marketplace de todo tipo
+con la etiqueta de inteligencia
+artificial o hecho con cloud. Hay
+cientos o miles de verificaciones en MyF
+XB que se desmoronan al mes de comprarlo
+en el mejor de los casos porque muchas
+veces no te dura ni la primera semana.
+La verificación es una foto del pasado.
+Recordar siempre que no es garantía del
+futuro. Este diseñador está construido
+contra ese error específico y ahora vas
+a ver cómo funciona. Fijaros, aquí lo
+tengo ya terminado. Para ti como
+usuario, ya has visto que simplemente es
+arrastrar un CSV o seleccionar un
+mercado de los que tienes en la lista.
+Le das a confirmar, arranca el pipeline
+de nueve pasos visibles y nada de
+ocultismo. Tú ves lo que pasa en cada
+paso, ya lo has visto aquí en tiempo
+real, en todo momento sabes qué está
+pasando y qué se está haciendo. Primer
+detalle importante de todo este proceso.
+Se procesa al 100% en tu navegador, es
+decir, los datos no salen de tu
+ordenador. Al servidor solo viaja un
+resumen de contexto para monitorización
+de fallos. Aquí tenemos un bot con un
+profit factor de 7.2, dry de 0.2, win
+rate del 92.1 y un número de trade de 38
+trades. Pero, ¿qué ha pasado aquí? ¿Cómo
+se ha hecho esto? ¿Cómo se ha llegado a
+este bot? Os lo voy a enseñar ahora en
+el canvas. Pero básicamente lo que ha
+pasado aquí es que el sistema ha
+clasificado tu histórico en siete climas
+de mercado diferentes. Tendencia
+alcista, bajista, rango, ruptura, alta y
+baja volatilidad y momentum. Después, lo
+que ha hecho la inteligencia artificial
+es elegir diferentes estrategias dentro
+de un catálogo profesional de cientos y
+cientos de estrategias, todas
+prevalidad, una para cada régimen
+detectado dentro de tu mercado favorito.
+Ahora le voy a dar a importar al Canva.
+Y fijaros en lo que pasa aquí. ¿Qué
+tenemos aquí ahora? Pues lo que podemos
+ver son todos los tipos de estrategias
+diferentes unidas con el Smart Router,
+este nodo que tenemos aquí en pantalla,
+os lo pongo más grande.
+El Smart Router es el enrutador para
+cada una de las estrategias para cada
+tipo de régimen de mercado. Básicamente,
+para que lo entienda, sería algo así
+como la caja de cambio automática de un
+coche. Detecta la pendiente del terreno
+y mete la marcha adecuada sin que tú
+tengas que tocar nada.
+Automáticamente, cuando el mercado
+cambie de régimen, el enrutador cambiará
+de estrategia, de forma que tendrá un
+bot totalmente dinámico que se adapta al
+mercado en tiempo real. Pero antes de
+darnos esta estrategia, lo que ha hecho
+el proceso tras todo esta primera parte
+de selección de estrategias ha sido
+optimizar en paralelo con hasta 16
+procesos según la potencia que tú elijas
+con tu ordenador y hace un back test
+sobre el histórico completo que tiene. Y
+aquí viene la parte antihumo, evalúa
+contra umbrales, es decir, profit factor
+mínimo de 1.1, eh, dry máximo del 30% o
+lo que tú le elijas. Si el diseño no lo
+pasa directamente no te lo cuela, cambia
+de estrategia y lo reintenta con otra
+diferente, solo te entrega lo mejor. Y
+por supuesto, dentro del apartado de
+opciones avanzadas vosotros podéis
+activar o desactivar funciones como, por
+ejemplo, Wall Forward, Montecarlo,
+etcétera, ¿no? Pero esto lo veremos más
+a fondo en la fase número seis. Ya veis
+que al terminar simplemente importamos
+al Canva y ya tendríamos aquí nuestro
+bot. Pura ingeniería financiera, los
+nodos todos organizados por régimen y
+con el router en el centro apuntando
+hacia los nodos de compra y venta.
+Básicamente lo que tenemos aquí es un
+bot de trading que no reza para que el
+mercado no cambie. está diseñado
+asumiendo que va a cambiar y preparado
+para combatir ese cambio. Ahora bien,
+pero ¿y si tú ya tienes tu estrategia de
+trading en la cabeza, esa que llevas
+meses operando a mano con tus reglas
+exactas? Ni tres preguntas, ni
+preferencia, ni fichero. ¿Quieres esa?
+Un bot que opere exactamente esa y no
+otra. Esto nos lleva al quinto método
+que te deja hablar con la inteligencia
+artificial de estrato directamente como
+hablaría con un programador
+cuantitativo. Y no, no es como pedírselo
+a Chat GBT o a Cloud, es mucho mejor y
+te voy a demostrar el por qué. El método
+cinco es el chat de inteligencia
+artificial ingeniero cuantitativo. El
+chat de estratos tiene dos modos, el
+modo asistente para dudas rápidas y el
+modo ingeniero que diseña voz de trading
+completo por conversación. Literalmente
+diseña y construye la estrategia que le
+pida. Vamos con la prueba. Directamente
+le escribo y le envío, "Créame un bot de
+tendencia con cruces de medias
+exponenciales de 50 y 200, filtro ADX
+mayor que 25, stop loss de dos veces el
+ATR y take profit de 1 a 1,5 para el
+euroólar en una hora. Y aquí tenemos la
+respuesta. Como vemos, no es un párrafo
+de consejos, es un diseño de ingeniería
+financiera real, la lista con los nodos
+exactos, el diagrama, catálogo de nodos
+que va a utilizar, las conexiones cable
+a cable, los parámetros sugeridos y como
+siempre un diagrama de flujo para que
+podamos tenerlo todo. Pero lo mejor de
+todo no es esto. Lo mejor de todo es que
+podemos descargar tanto el diagrama como
+el PDF del bot completo. Le doy a
+descargar y aquí lo tengo. Fijaros lo
+que es esto. Qué locura. El bot que
+acabo de diseñar, que le acabo de pedir,
+aquí lo tengo todo puesto detallado,
+cómo va a hacer los indicadores, la EMA
+de 50, D2, ATR, los nodos que va a
+utilizar, las conexiones, sus detalles,
+parámetros clave explicados para que yo
+tenga claro en todo momento qué es este
+bot, qué hace y cómo opera, qué es lo
+que va a hacer, la lógica de la
+estrategia, todo 100% en un PDF para que
+yo lo tenga claro de mi estrategia. Con
+esto directamente sabéis en todo momento
+qué está haciendo, cómo y qué hará el
+bot. Es decir, no es una caja negra o
+código que no entiende, pero en el que
+tienes que confiar ciegamente tu dinero,
+como con cualquier bot que descargues de
+internet o que te generes con cloud,
+etcétera, etcétera. Y ahora la pregunta
+que me hacéis siempre, ¿por qué no le
+pido esto a cloud o chat GPT gratis o
+con un plan básico? Pues te lo explico
+muy rápido. Primero, porque pedirle a
+Chat GPT o a Cloud pagándole por un plan
+básico para que te diseñen herramientas
+de trading, cuando tienes una
+herramienta de trading específica para
+generar bot de trading, no tiene ningún
+sentido. Pero desde luego pedirle una a
+Cloud Chat GPT o cualquier otra
+inteligencia artificial es pedirle a un
+arquitecto que te dibuje la casa en una
+servilleta. El dibujo al final puede ser
+bonito, pero luego tú tienes que
+construirla, copiar el código en el
+metaeditor, pelearte con errores de
+compilación, con indicadores que el
+modelo se ha inventado o directamente
+que no existen. O peor aún, con el
+problema de que le pediste que para tu
+casa quería cinco ventanas y tres
+puertas, pero tienes dos ventanas y cero
+puertas. Y cuando le dices que tiene que
+haber puertas, te pone 20 puertas, pero
+omite todas las ventanas. Porque seamos
+sinceros, esto es lo que tienen las
+generativas. Por mucho marketing que se
+les quiera hacer en el trading. Al final
+todo es incertidumbre y frustración.
+Aquí en estrato lo eliminamos por
+completo. El ingeniero de estratos es
+totalmente diferente. Es el arquitecto
+que trabaja dentro de la constructora.
+Solo usa piezas del catálogo real
+probadas y 100% funcionales. ¿Por qué
+tiene una lista blanca de todos los
+nodos que existen dentro de estrato?
+Cada diseño pasa validación automática,
+conexiones reparadas, ciclo eliminado,
+entrada huérfana corregida, etcétera,
+etcétera. Es decir, la casa se construye
+sola porque ya tenemos el arquitecto y
+los materiales. Directamente ahora pulso
+el botón constrúyelo, que no cuesta
+ningún tipo de crédito adicional. Y ya
+tengo aquí el bot en el cana
+directamente. Fijaros, aquí tendría mi
+bot completo, listo ya para compilar y
+para llevar a mi Metatrader. Ese diseño
+que hemos visto se materializa aquí en
+nuestro canvas, simplemente dando clic a
+constrúyelo y de ahí a un clic más, por
+ejemplo, aquí arriba, dándole a
+compilar. Como digo, tendría ya el bot
+listo y preparado para llevar a mi
+Metatrader 4, Metatrader 5, compilación
+exitosa, sin tener que copiar y pegar
+códigos, sin rezar, sin pelear, sin
+sufrir y por menos de lo que cuesta un
+café. Y lo mejor de todo, puedo iterar
+sobre mi bot, puedo saber qué es lo que
+hace porque lo tengo clarísimo, pero
+puedo seguir mejorándolo y
+modificándolo. Por ejemplo, le voy a
+escribir aquí abajo, añade un trailing
+stop basado, por ejemplo, en ATR.
+Directamente le doy a constrúyelo y aquí
+tengo la nueva parte. Fijaros, aquí en
+esta parte tendría el nuevo flujo listo
+para incorporar en mi bot y ya lo
+tendría aquí.
+es decir, el diseño se actualiza siempre
+conservando todo lo anterior. Eso con un
+formulario de tres preguntas sería
+imposible. Pero seamos honestos, este
+chat no ve lo que tiene en tu canva.
+Para eso ya está el copilota, es decir,
+que es literalmente tu copiloto de
+inteligencia artificial para ayudarte en
+todo y construir contigo paso a paso,
+pero eso ya lo veremos en otro vídeo. Y
+por primera vez en el vídeo tengo
+exactamente el bot que yo quería, mis
+reglas, mi gestión, mi estrategia, todo
+convertida en un bot de trading,
+convertida en una máquina que opere por
+mí 247.
+Ya tenemos el bot exactamente que
+queríamos, pero un bot recién diseñado
+es un diamante en bruto, hay que
+trabajarlo como mínimo, un back test,
+ajustes de parámetro y más back test. Y
+eso hasta ahora significaba horas o días
+delante del estrategy tester de
+Metatrader probando combinaciones a mano
+[música] hasta ahora, porque el sexto
+método existe exactamente para que no
+tengas que hacer esto nunca más. No crea
+bots, coge el que ya tienes y lo exprime
+al máximo. Prepárate porque esto va a
+revolucionar tu trading por completo.
+Entramos en el método número seis, el
+optimizador Autopro. Con el bot que
+hemos diseñado en el ingeniero todavía
+aquí dentro del canvas, abrimos el
+optimizador Autoplo con clic derecho en
+el canvas directamente vamos aquí ahora
+arrastramos CSV o elegimos uno de los
+mercados que tengamos. Yo, por ejemplo,
+voy a seguir el mismo ejemplo y voy a
+poner el eurodólar, el eurodólar. Y lo
+voy a dejar también en una hora. Le doy
+a cargar dato y aquí está cargado el
+dataset. Ya veis, no tenemos que pelear
+con nada ni pagar ninguna suscripción
+adicional porque los datos que tenemos
+aquí son datos de calidad, literalmente
+institucional, comprobado y revisado uno
+por uno siempre por todo el equipo de
+Teche. Ahora sí, tres cosas importantes
+antes de empezar. Uno cuesta cero
+créditos. ¿Por qué? Porque no hay
+inteligencia artificial, es computación
+pura en tu navegador. Ya hemos
+programado y automatizado todo. Dos, el
+proceso completo otra vez no sale de tu
+máquina. Y tres, no configuras nada,
+solo dale click y disfruta del proceso.
+Fijaros en esto de aquí. El sistema
+automáticamente ya ha detectado qué
+parámetros de tu bot merece la pena ser
+optimizado y cuáles no. O sea, es decir,
+olvídate ya de las horas y horas
+cambiando, probando, etcétera, etcétera.
+Eso es arqueología de trading. Tú hoy ya
+está un paso muy por delante de todo
+eso. Mira los números de mi bot. No
+hablamos de cientos ni de miles, ni de
+millones, ni de miles de millones. O
+sea, fíjate la barbaridad de parámetro
+optimizables que podríamos hacer y de
+combinaciones. Probarlas todas sería
+totalmente absurdo, pero si lo hacéis a
+mano o con cualquier otro tipo de
+plataforma, las va a probar todas o casi
+todas. ¿Por qué? porque no tiene
+criterio sobre lo que está haciendo.
+Pero aquí en Estratos el bot es nuestro,
+es de estratos, es nuestro propio
+sistema operativo. Creamos los nodos, no
+solo los conocemos, sino que los creamos
+y diseñamos nosotros, por lo que sabemos
+dentro de cada nodo qué es lo que merece
+la pena ser optimizado y qué es lo que
+no. Así que el optimizador funciona como
+el banco de potencia de un taller, es
+decir, no desmonta el motor entero
+simplemente porque ve número y tienes
+que probarlos todos. Va a hacer una
+prueba inteligente. Si miramos aquí en
+parámetro, vemos que tenemos diferentes
+modos. en modo equilibrado va a evaluar
+aproximadamente unas 100 combinaciones.
+En modo máximo serían aproximadamente
+unas 9,000 y todas ellas dentro de los
+rangos de cada parámetro que más efecto
+tienen realmente en el modelo de tu bot,
+es decir, en tu estrategia. Directamente
+le doy a optimizar. Ya veis que solo he
+tenido que elegir el mercado y
+directamente lo inicializo. Para que
+entiendas el proceso, te lo explico muy
+rápido. Primero se realiza un barrido
+grueso, luego hace un zoom mucho más
+fino alrededor de las zonas que mejores
+resultados han dado y al final lo que
+hace es ejecutar un pase canónico sobre
+el histórico completo del mercado, es
+decir, con el mismo motor exacto del
+backst runner. Es decir, lo que se está
+haciendo aquí ya va validado también por
+back testing, no solo es una
+optimización. Fijaros en esto. Qué
+barbaridad. En tiempo real, ni un
+minuto, ni un minuto para hacer una
+optimización de más de 4500
+combinaciones de parámetros y minutos
+después lo que hace es devolvernos esto
+de aquí. No devuelve un ganador, me
+devuelve cinco escenarios. Escenarios
+que son totalmente distintos entre sí,
+¿no? Cinco clones. El lotaje con el que
+realiza la simulación es el mínimo, el
+0.01.
+Por eso tiene una ganancia marginalmente
+eh moderada. Y aquí tenemos el ranking
+de los 5 bots. Y como vemos, no los
+ordena simplemente por beneficio bruto,
+que es la trampa clásica. utiliza un
+score robusto donde va a medir métricas
+como el profit factor, la recuperación,
+el seis ratio, eh va a penalizar los dry
+down y también, evidentemente va a
+analizar la significancia estadística
+del de cada escenario. Es decir, si hay
+pocas operaciones, no hay una muestra
+estadística eh válida, solo hay una
+anécdota, por lo que va a penalizar esos
+escenarios. Ahora solo tendría que
+elegir la optimización que yo quisiera.
+Por ejemplo, me voy a quedar con esta.
+le daría a verificar reproducibilidad.
+Directamente le doy y aquí me sale que
+está okay. Confirmada. Aquí lo que ha
+hecho ahora es un back test ultra rápido
+en milisegundos. Ya lo veis, es la
+ventaja que tiene estar todo dentro del
+mismo sistema operativo de estrato, la
+facilidad y la optimización con la que
+podemos correr años, meses de datos,
+como en este caso del eurodólar. nos
+dice que es correcto y que esto es
+totalmente reproducible dentro del
+backtest. Así que le doy a cargar set.
+Me sale set de escenario uno cargado.
+Cojo y cierro. Pienso algo así. Lo que a
+un trader cualquiera, el de, por
+ejemplo, la fase uno que vimos, le
+habría costado semanas en Metatrader,
+aquí son literalmente de un a 2 minutos
+y con más rigor estadístico del que
+aplica la mayoría de los traders en el
+sector retail. Y lo más importante, con
+data de calidad institucional
+garantizada.
+Y ahora lo que te prometí, la gran
+revelación, porque el verdadero secreto
+no es ninguno de los seis métodos por
+separado, es el circuito completo. Así
+que apunta porque este es mi flujo
+exacto. Paso uno, biblioteca para
+estudiar arquitectura y educar al ojo.
+Paso número dos, el chat ingeniero para
+diseñar tu estrategia con tus propias
+reglas. Paso número tres, el optimizador
+Autopro. para recalibrarla con datos del
+mercado real y timeframe exactos donde
+vas a operar luego con tu voten real.
+Paso número cuatro, validación con
+cuatro filtros innegociables antes de
+plantearte siquiera una demo. Uno, el
+profit factor por encima de 1,1 en el
+pase completo, es decir, no solo en el
+tramo de optimización. Dos, dry down de
+equity, es decir, el equity la flotante,
+no solo sobre el balance, por debajo de
+tu límite personal. Tres, mínimo 30
+operaciones en el back test y con menos
+no tienes datos, solo tienes suerte,
+recuérdalo. Y cuatro, wall forward con
+veredicto robusto. Y si tu bot no pasa
+los cuatro, no está listo. Y descartarlo
+a tiempo, recuerda que también es ganar.
+El mercado del trading algorítmico va
+camino de los 75,000
+millones de dólar hacia 2032.
+Las herramientas ya no son la barrera.
+La barrera es el criterio y el criterio
+te lo acabas de llevar gratis. Si
+quieres recorrer este circuito conmigo
+paso a paso y desde cero tienes mi
+training gratuito de 14 días de cero a
+tu primer bot de trading con estrato y
+Metatrader en mi comunidad privada de
+school. El enlace lo tiene en la
+descripción justo debajo y en el primer
+comentario fijado. Y si te ha volado la
+cabeza el Smart Router de la fase 4, tu
+siguiente parada obligatoria es el vídeo
+donde te enseño a construir un bot con
+inteligencia artificial que aprende solo
+y se autorrepara. Lo tiene aquí en
+pantalla ahora mismo. Nos vemos dentro.
+[música]
+[música]
