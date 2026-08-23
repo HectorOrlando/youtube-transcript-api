@@ -1,0 +1,1518 @@
+Titulo              : Directo Dubai 2026: El poder del trading cuantitativo: ¿Cómo funciona y por qué es efectivo?
+Canal               : Ignacio Ayago | Trading con Bots
+Fecha de publicacion: 2026-08-23
+Duracion            : 1:03:33
+Vistas              : 332
+URL                 : https://www.youtube.com/watch?v=uxcPi6AEZyc
+----------------------------------------------------------------------
+
+Muy buenas a todos y a todas.
+Bienvenido. En los próximos minutos vais
+a entender algo que probablemente
+lleváis años sin ver claro, aunque
+hayáis dedicado miles de horas a esto. Y
+os aviso desde ya, cuando lo entendáis,
+no vais a volver a mirar vuestra forma
+de operar de la misma manera. Dejadme
+empezar con una pregunta simple. Cada
+vez que abrís una operación en el
+mercado, ¿quién está exactamente al otro
+lado? ¿Habéis pensado alguna vez en
+esto? ¿Lo tenéis claro realmente? Porque
+la respuesta a esa pregunta explica por
+qué el 96% de los traders no gana dinero
+de forma consistente. Y explica muy
+probablemente por qué muchos de vosotros
+seguís en el mismo punto por mucho que
+estudiéis y os esforcéis. Antes de
+seguir, escribidme en el chat de dónde
+me estáis viendo y cuánto tiempo lleváis
+en el trading. Quiero saber quién está
+hoy por aquí, meses, años, escribidlo y
+así nos vamos conociendo todo mejor.
+Esto es lo que os prometo para hoy, tres
+cosas. Primero vais a entender
+exactamente cómo gana dinero el sector
+institucional, los fondos y las mesas
+profesionales. No en teoría abstracta,
+os voy a meter dentro de un fondo para
+que veáis quién trabaja ahí y qué hace
+cada uno. Segundo, vais a ver con total
+honestidad la diferencia abismal entre
+[música]
+entrar al mercado con conocimiento
+retail autodidacta por muchos años que
+lleves y hacerlo con formación y
+metodología profesional. Este es el
+corazón de todo lo de hoy. Y tercero,
+vais a ver cómo se cruza de un lado al
+otro, cómo se pasa de aficionado a
+profesional y por qué ya no hacen falta
+los más de 15 años que me costó a mí.
+Solo os pido tres cosas para que esto
+funcione. Una, estad presente de verdad.
+cerrar las otras pestañas porque esto no
+es un vídeo más de YouTube. Si estáis
+aquí es por algo. Si no os tomáis en
+serio vuestro resultado, nadie lo hará
+por vosotros, creerme. Dos, sedutos
+con vosotros mismos en el chat, porque
+lo que os voy a enseñar solo sirve si os
+aplicáis el espejo. De nada sirve el
+autoengaño, por muy placentero que este
+sea. [música] Y tres, quedaos hasta el
+final porque la última parte, como se
+consigue todo esto es la que da sentido
+a todo lo demás. Trato hecho. Escribidme
+sí en el chat si estáis dentro.
+Empecemos por lo primero. Llevo años
+diciéndoos en mis vídeos que competís
+contra el sector institucional, pero
+eso, dicho así, es abstracto. Suena
+lejano como una nube. Hoy quiero que
+dejéis de verlo como una idea y lo veáis
+como lo que realmente es un edificio con
+gente dentro, con puestos de trabajo
+concretos y sueldos concretos. He
+visitado decenas de gestoras e
+instituciones de todo tipo en mis más de
+15 años en el sector profesional. Y hoy
+vamos a entrar juntos en un fondo de
+inversión cuantitativo y vamos a ver
+quién trabaja ahí y qué hace cada uno
+realmente, porque cuando abrís una
+operación en el otro lado no hay un
+señor mirando una vela en su casa como
+vosotros. Hay un equipo, un equipo de
+especialistas y os los presento uno a
+uno. El primero es el analista
+cuantitativo. Normalmente son
+matemáticos, físicos, estadísticos de
+formación o ingenieros como yo. En
+definitiva, gente muy preparada. Y su
+único trabajo es buscar ineficiencias en
+los datos, encontrar dónde el mercado
+tiene una ventaja estadística real y
+medible. No operan por intuición, no
+miran una vela y sienten que el mercado
+va a subir. Modelan probabilidades,
+calculan la esperanza matemática de una
+estrategia antes de que nadie arriesgue
+un solo dólar. El segundo es el
+ingeniero, porque una ventaja
+estadística no vale absolutamente nada
+si no hay quien la convierta en un
+sistema que la ejecute a la perfección.
+Este perfil coge lo que encontró el
+analista cuantitativo y lo programa en
+un algoritmo que opera 24 horas sin
+fatiga, sin dudas y sin miedo. La
+máquina no se salta la regla, la máquina
+no cierra la operación antes de tiempo
+porque se puso nerviosa. El tercero, y
+prestar muchísima atención porque este
+es el puesto que el retail ni siquiera
+sabe que existe, es el gestor de riesgo.
+es el perfil más respetado en cualquier
+fondo sedio y su trabajo no es ganar, su
+trabajo es evitar la ruina. Calcula por
+código y antes de cada operación cuánto
+se puede arriesgar. controla el dryown y
+se asegura de que ningún sistema pueda
+quebrar la cuenta, ni tan siquiera
+ponerla en riesgo, porque en un fondo se
+sabe algo que el retail ignora por
+completo. Sobrevivir es lo que permite
+que el interés compuesto haga su magia
+durante meses y años. Y el cuarto es el
+auditor, el escéptico profesional. Su
+trabajo es desconfiar de todo hasta que
+los datos lo demuestren. Su trabajo es
+literalmente intentar destruir y
+desacreditar la estrategia de trading.
+Ningún sistema entra a operar con dinero
+real sin pasar por él. Back testing
+riguroso, W forgoard, pruebas en las
+peores crisis de la historia, etcétera,
+etcétera. Si un sistema no sobrevive a
+un 2008, a un COVID o a la inflación de
+2022 en las pruebas, no llega jamás al
+mercado real. Matemático, ingeniero,
+gestor de riesgo y auditor. Cuatro
+especialistas, cuatro carreras distintas
+trabajando en cadena. Uno encuentra la
+ventaja, otro la construye, otro la
+protege y el último la verifica. Así se
+gana dinero de verdad en los mercados,
+con proceso, con rigor y con un equipo
+de profesionales. Grabaos esta imagen a
+fuego porque es la referencia contra la
+que vamos a medir absolutamente todo lo
+demás de hoy. Si alguien tiene aún en la
+cabeza la idea de que haciendo lo
+mínimo, sin un plan, sin un proceso y
+sin rigor, haciendo cuatro cosas mínimas
+y con la ayuda de Cloud va a poder ser
+rentable, va a sufrir mucho en el
+trading. Pero eso ya lo sabréis
+vosotros. mejor que yo, al menos el que
+haya ya pasado por ese camino. Y por si
+alguien piensa que esto es cosa de
+cuatro fondos raros, entre el 60 y el
+75% del volumen de los grandes mercados
+ya se ejecuta así, con algoritmos
+diseñados por equipos como este que
+acabas de ver en Forex, cerca del 75%
+del mercado. seas que cuando operáis a
+mano con vuestro indicador favorito o
+con la última estrategia de moda ruinosa
+de redes sociales, no competís contra
+otros traders como vosotros, competís
+contra este equipo entero, todas y cada
+una de las veces que abrís una posición
+sin excepción. Y ahora sí, os cuento mi
+historia porque conecta directamente con
+lo que acabáis de ver. Yo empecé en el
+trading exactamente igual que la mayoría
+de vosotros, en manual con muchísima
+ilusión, comprando cursos, siguiendo a
+supuesto experto y probando indicador
+tras indicador. Tenía días buenos. Claro
+que sí, es pura estadística, incluso
+comprando o vendiendo sin mirar el
+gráfico se acertará algunas veces y
+habrá incluso rachas buenas. Pero al
+final de este mes o al final del
+siguiente, la cuenta estaba igual o peor
+y me repetía la misma frase que os
+habéis repetido vosotros. Me falta
+disciplina. Sceros en el chat. ¿Cuántos
+os habéis dicho esto alguna vez? El
+problema es que me falta disciplina.
+Escribidme sí los que sí. Hasta que un
+día me hice la pregunta correcta, la que
+lo cambió todo. ¿Cómo ganan los que
+ganan de verdad? No los del buen mes o
+dos meses buenos, no los del pantallazo
+en Instagram, sino los que llevan años
+siendo rentables, los fondos y las mesas
+institucionales. Y cuando investigué en
+serio, gracias al acceso que me daba mi
+posición como analista junior, descubrí
+exactamente lo que os acabo de enseñar,
+ese equipo de cuatro especialistas. Y
+ahí entendí la verdad más dura. Yo
+estaba jugando en un juego completamente
+distinto al suyo. Era yo solo con un
+indicador de internet, una estrategia de
+YouTube y un curso de un gurú de redes
+sociales contra un fondo entero de
+profesionales y especialistas
+cualificados. Así que tomé una decisión
+que marcó mi vida. Si quería competir
+contra ellos con mi propio capital,
+tenía que convertirme yo solo en ese
+fondo entero, en las cuatro sillas a la
+vez. Y eso me costó varios años de
+formación profesional reglada. Mirad, me
+formé como analista profesional de
+mercado en el Instituto BME en el
+Palacio de la Bolsa de Madrid para poder
+ocupar la silla del analista
+cuantitativo. Me gradué en ingeniería
+informática y me especialicé en
+programación, algoritmo e inteligencia
+artificial para ser el ingeniero capaz
+de construir los sistemas. Me gradué en
+ADE y me formé en el lado financiero y
+regulado bajo normativa MiFit 2 para ser
+mi propio gestor de riesgo. Y llevo años
+auditando sistemas tanto de terceros
+como colaborador y desarrollador como
+los míos propios y están certificados
+mucho de ello ante notario para ser mi
+propio auditor. Lo que en un fondo son
+cuatro personas con cuatro carreras
+diferentes, yo tuve que reunirlo en una
+sola persona a lo largo de estos 15
+años. Y os lo cuento, no para
+impresionaros porque mi currículum es
+aún mucho más extenso. Os lo cuento para
+que entendáis la magnitud del abismo que
+os voy a enseñar en un momento. Y estos
+son mis resultados reales. Tenéis los
+vídeos completos en el canal de YouTube.
+Aquí os doy solo unas pinceladas. Aquí
+podéis verlos en Interactive Broker, el
+broker de los fondos institucionales
+donde los números no se pueden
+maquillar. Aquí os enseño un portfolio
+de cerca de 30 VS operando 247 en un
+Metatrader 5. Este portfolio en concreto
+está operando desde el año 2022. De
+todas las cuentas de trading o de gran
+parte de ellas, tengo auditoría ante
+notario de todos los resultados, más que
+nada porque debido a mi trabajo como
+analista cuantitativo y desarrollador de
+algoritmos de trading, pues a veces se
+ha requerido una auditoría. No os los
+enseño para presumir, es algo que me da
+exactamente igual. Para mí es
+básicamente como un panadero presumiendo
+de que el pan no se le ha quemado o un
+albañil enseñando una foto de una casa
+que ha construido y no se ha derrumbado.
+No le veo mucho sentido, pero soy
+consciente de que para vosotros en el
+sector retail es importante y por eso
+los muestro por nada más. Pero
+principalmente os los enseño por una
+razón, para que veáis que el camino de
+convertirse en un fondo funciona de
+verdad, que esto no es teoría, que es
+totalmente posible. Ahora bien, nadie
+debería necesitar 15 años para todo esto
+y a eso llegaremos. Y aquí está la idea
+más importante de todo el directo de
+hoy. Por encima de cualquier técnica,
+por encima de todo, existe un abismo
+entre dos formas de entrar al mercado. Y
+en qué lado de ese abismo estéis va a
+determinar absolutamente vuestros
+resultados. A un lado está el trader
+retail autodidacta de internet. Al otro
+el trader con formación y metodología
+profesional. Y ahora quiero destruir el
+mito más caro de este sector, el que
+mantiene a miles de personas atrapada
+durante décadas en la ruina sin
+conseguir resultados. Llevar muchos años
+no te convierte en un profesional.
+Puedes llevar 5, 10, 15 o 20 años
+estudiando trading por tu cuenta y
+seguir siendo en esencia un trader
+retail autodidacta. con más
+conocimiento, sí, con más cicatrices
+también, pero con el mismo paradigma
+roto de base. Exactamente igual que leer
+libros de medicina durante 20 años no te
+convierte en cirujano. Pensadlo con
+cualquier profesión seria. Si
+necesitarais una operación de corazón,
+dejaríais que os operara alguien que
+lleva 15 años viendo vídeos de cirugía
+en YouTube o en TikTok. Si os jugáis un
+juicio que pueda arruinaros y llevaros a
+la cárcel el resto de vuestra vida,
+¿contrataríais a alguien que se ha leído
+muchos libros de derecho, pero que no es
+abogado? ¿Verdad que no? En ninguna
+profesión seria aceptamos competir sin
+formación reglada, sin experiencia real.
+Y sin embargo, en el mercado donde os
+jugáis vuestro dinero real contra fondos
+institucionales, con equipos como el que
+os enseñé, os han vendido que concurso
+de gurús, que quizás hace 4 años era
+camarero en un bar de Albacete,
+indicadores retail de internet o creados
+con cloud, sin lógica alguna real y
+muchas horas de pantalla delante de un
+gráfico, podéis competir de igual a
+igual, no podéis. Y nunca fue por falta
+de esfuerzo ni por inteligencia, fue por
+el método, por el paradigma desde el que
+operáis. Una pregunta honesta para el
+chat. ¿Alguien os había puesto esto así
+retail contraprofesional uno al lado del
+otro alguna vez? ¿Sí o no? Ahora que
+tenéis clarísima la referencia
+profesional, el fondo, las cuatro
+sillas, vamos a hacer una cosa incómoda
+pero necesaria. Vamos a poner enfrente
+vuestra columna. Vamos a ver todos los
+caminos que habéis probado como retail
+autodidacta y por qué ninguno os ha
+sacado del mismo sitio. Pero antes,
+necesito dejar claro qué significa de
+verdad salir del sitio, porque aquí está
+la confusión más cara de todas. Necesito
+que entendáis esto antes de seguir,
+porque hasta que no lo resolváis, nada
+de lo demás tiene sentido. ¿Cuál es el
+objetivo real de un trader? Y no, la
+respuesta no es ganar dinero. Casi todo
+el mundo gana dinero en algún momento.
+Es pura estadística. El objetivo real,
+el único que de verdad importa es ser
+consistente a largo plazo. Y esa palabra
+consistente casi nadie la entiende bien.
+Todos habéis escuchado la famosa
+estadística de el 96% de los traders
+retail pierden dinero y os la habéis
+creído. Pero lo que casi nadie entiende
+es lo que significa esa frase de verdad.
+Ese 96% no pierde siempre. Ese es el
+error de concepto. La mayoría de esa
+gente tiene rachas ganadoras, semanas
+buenas, meses buenos. Algunos encadenan
+tr cu 5 meses en verde y piensan, "Ya
+está, por fin lo tengo, ya soy
+rentable." Y luego el mercado cambia y
+llega la racha mala y devuelven todo lo
+ganado y encima en muchos casos un
+poquito más. Por eso esa estadística es
+tan tradicionera, porque la gente
+confunde una racha positiva con ser
+ganador, con ser rentable y no tienen
+absolutamente nada que ver. Dejadme
+marcar la diferencia con total claridad,
+porque esto lo cambia todo. Uno, tener
+una racha positiva no es ser
+consistente. Un jugador en un casino, en
+juegos de azar, también tiene rachas
+ganadoras. que ganes unos meses puede
+significar simplemente que el régimen
+del mercado favoreció por casualidad a
+tu estrategia. En cuanto cambia el
+régimen, se acabó todo. Dos, llegar a
+break even, quedarte en tablas tampoco
+es ser consistente. Mucha gente celebra,
+oye, ya no pierdo. Pero pasarte meses
+arriesgando tu capital para acabar donde
+empezaste no es rentabilidad, es haber
+trabajado gratis y con estrés. Es como
+llegar a final de mes en tu trabajo y
+que no te paguen. Tú no pagas por ir a
+trabajar, pero tu empleador tampoco te
+paga a ti. Es otra forma de no ser
+rentable el trabajar gratis. Tres,
+[música]
+ser consistente de verdad es otra cosa
+completamente distinta. Es que no tengas
+la necesidad de tener otro trabajo para
+mantener tu vida o tu casa
+económicamente. Ser rentable es que
+retires dinero cada mes y todos los
+meses sin excepción. que te llegue el
+dinero al banco directo de tu cuenta de
+trading y que con ese dinero cubras los
+gastos de tu vida diaria. En esencia,
+ser rentable es que tu sistema sobre
+cientos o miles de operaciones tenga una
+ventaja estadística positiva y
+demostrable que se mantenga en el tiempo
+y a través de distintos regímenes de
+mercado. Como enseño en mis clases, el
+trader rentable no piensa en la
+operación de hoy ni en el mes bueno que
+acaba de tener, piensa en distribuciones
+de resultados. Funciona como un casino.
+No sabe si la próxima mano gana o
+pierde, pero sabe con certeza matemática
+que sobre 10,000 manos habrá ganado un
+porcentaje predecible y podrá ser
+rentable. Y aquí está la conclusión que
+quiero que os llevéis grabada. Sin una
+metodología profesional, el largo plazo
+siempre os llevará a perder, a no ser
+rentable de verdad. podéis tener suerte
+un mes o incluso medio año por pura
+estadística. Eso es posible totalmente.
+De hecho, lo he visto en muchas
+ocasiones a lo largo de estos 15 años,
+pero el tiempo, cada nueva operativa que
+abrís en el mercado, sin un sistema con
+esperanza matemática positiva y
+verificada juegan vuestra contra. Igual
+que en el casino, cuanto más juegas
+contra la casa, más seguro es que
+perderás. Por eso, ser un retail
+autodidacta con rachas buenas es una
+trampa todavía más peligrosa que perder
+desde el principio, porque la racha
+buena os convence de que vais por buen
+camino justo antes de que el largo plazo
+os pase la factura final, la ruina. El
+objetivo de un trader nunca fue tener un
+buen mes, es construir algo que
+sobreviva a los años y eso solo se
+consigue con metodología profesional.
+Ahora vais a ver con honestidad total
+por qué ninguno de los caminos que
+habéis probado os llevais. Y quiero que
+entendáis de dónde sale todo lo que os
+voy a decir ahora. Esto no es una
+opinión mía ni teoría de manual, esto es
+lo que hemos visto una y otra vez en
+nuestras llamadas de acceso a la
+academia en nuestra comunidad y en cada
+alumno de la primera y la segunda
+edición de Strat VIP. Y aquí viene lo
+que más me importa. Los patrones que os
+voy a describir no aparecen solo en el
+que empieza y lleva unos meses. Aparecen
+exactamente igual en gente que lleva 5,
+10, 15 y hasta 20 años en esto. Personas
+serias, inteligentes, que han invertido
+mucho tiempo y mucho dinero en
+informarse, pero siguen atrapadas en el
+mismo punto. Así que da igual si lleva 2
+meses o dos décadas. Esto va contigo
+porque el problema nunca fue el tiempo
+que le dedicasteis, fue el paradigma
+desde el que lo hicisteis. El primer
+gran camino por el que todos empezamos
+por ser el más rápido y accesible es el
+trading manual. Y lo primero, aquí no
+hay ninguna vergüenza. Todos,
+absolutamente todos, empezamos aquí
+creyendo que podemos llegar a ser
+rentables. Yo también lo hice. El
+paradigma manual es este. Tú delante de
+la pantalla intentando leer el mercado y
+decidir cuándo entrar y cuándo salir. Y
+las metodologías que habéis usado para
+hacerlo son casi siempre las mismas.
+Dejadme nombrarlas y decidme en el chat
+con cuántas os identificáis. El análisis
+técnico clásico, soporte, resistencias,
+tendencia, figura, etcétera. Los
+indicadores, un RCSI, un MACD, medias
+móviles, estocástico, bandas de
+Bollinger, volumen profile, etcétera.
+las velas japonesas y sus patrones, el
+price action puro o metodología más de
+moda actualmente como Smart Money
+Concept, Order Block, liquidez u
+estructura de mercado y para muchos el
+cóctel de todo a la vez. Cinco
+indicadores en pantalla buscando la
+confluencia perfecta. Escribite en el
+chat cuáles habéis usado. Quiero que
+veáis en tiempo real que no sois los
+únicos. Seguro que muchos aún en nivel
+de conciencia cero, porque llevan poco
+tiempo, siguen pensando que todo eso
+puede funcionar. Pero haceros una
+pregunta, ¿por qué después de años
+estudiando todo esto la cuenta sigue
+igual? Seguro que hay gente ahora en el
+directo con mayor experiencia que haya
+pasado por todo ello y quiera dar fe de
+que no le ha funcionado nada de todo lo
+que he dicho. Os doy la razón de fondo,
+la que casi nadie os dice y os la voy a
+demostrar, no os pido que me creáis.
+Primero, el problema matemático. La
+inmensa mayoría de estas herramientas
+testeadas con rigor estadístico real no
+tienen esperanza matemática positiva
+demostrable. No es que sean malas, es
+que por sí solas no dan ventaja
+estadística. Miradlo aquí. RSI por
+encima de 70 en sobrepra durante
+semanas, mientras el precio no para de
+subir. Si vendisteis por sobrecompra,
+estuvisteis vendiendo contra la
+tendencia una y otra vez. El indicador
+no es una señal, es solo un dato. Por
+eso a veces os funciona y a veces no.
+Podéis dominar el RCI a la perfección,
+pero si la herramienta no tiene ventaja,
+dominarla mejor no os hará rentables. Y
+segundo, el problema humano, todavía más
+grave. Aunque tuvierais una estrategia
+con ventaja real, la ejecución depende
+de vosotros, de si dormisteis bien, de
+si acabáis de ver perder una operación,
+de si hoy estáis eufóricos o asustados.
+Como enseño en clase, el trader manual
+vive haciéndose la pregunta equivocada,
+¿hacia dónde va el precio? Y predecir es
+el trabajo de los astrólogos, no de un
+trader. Y ahora hablo directamente a los
+que lleváis muchos años en esto, porque
+sé que algunos estáis pensando, yo ya no
+soy un novato, yo sé leer el mercado. Y
+os creo, probablemente leéis un gráfico
+mejor que el 95% de la gente. Pero
+dejadme haceros la pregunta incómoda. Y
+después de 10 o 15 años estudiando
+gráfico vuestra cuenta no ha crecido de
+forma consistente, no será que el
+problema no es cuánto sabéis de
+gráficos, sino que el enfoque manual en
+sí tiene un techo en el trading moderno.
+Lo hemos visto decenas de veces en todas
+las llamadas de acceso a la comunidad.
+Gente con un conocimiento técnico
+brutal, con años de experiencia y sin
+consistencia, no porque le falte
+estudiar más. porque llevan 15 años
+perfeccionando la silla equivocada y más
+años haciendo lo mismo, no saca de ahí.
+Solo un cambio de paradigma lo hace. Y
+aquí muchos de vosotros, sobre todo los
+que lleváis tiempo, disteis un paso muy
+inteligente. Os disteis cuenta de que
+operar a mano no funcionaba y
+pensasteis, voy a automatizar, voy a
+quitar las emociones de la ecuación. Ese
+razonamiento es correcto, es exactamente
+la dirección profesional, pero aquí está
+la trampa que hemos visto una y otra
+vez. Pasar trading algorítmico no salva
+si lo hacéis con los mismos paradigmas
+erróneos del trading manual. Y quiero
+marcar esta diferencia con toda la
+claridad del mundo porque es la clave de
+todo el directo. No es lo mismo operar
+de forma algorítmica que tener una
+gestión profesional. Puedes tener un bot
+y seguir pensando exactamente como un
+trader manual. Y si automatizas un
+paradigma erróneo, lo único que
+consigues es perder dinero más rápido y
+de forma más consistente, de forma
+automatizada. Estos son los cuatro
+patrones que vemos constantemente en las
+llamadas de acceso y en nuestros propios
+alumnos. Antes de entrar en la academia
+y aprender nuestra metodología, mirad
+cuál es el vuestro. El primero es
+pelearse con plataformas como Strategic
+One u otras herramientas parecidas. No
+son malas herramientas, algunas son
+potentísimas, pero están enfocadas como
+modelos de negocio para el sector retail
+y han sido diseñadas para ofrecer
+esperanzas, no resultados. El resultado,
+pasáis semanas aprendiendo la
+herramienta, generáis cientos de
+sistemas por fuerza bruta y no tenéis
+criterio para saber cuál tiene ventaja
+real y cuál es puro overfitting. Tenéis
+una máquina, pero no la mentalidad para
+usarla ni el conocimiento para juzgarla.
+El segundo, cada vez más común, por
+desgracia, para el sector retail, es
+crear bots con cloud, chat GPT u otra
+inteligencias artificiales. He visto una
+estrategia que funciona y ahora le pido
+a la IA que me la programe y como enseño
+en mis clases, cuando alguien se
+descarga o crea un bot que no sabe qué
+hace, extraído de un vídeo de YouTube o
+de internet en general, termina
+perdiendo porque está automatizando una
+idea. Y no automatizamos una idea, somos
+traders cuantitativos, automatizamos un
+sistema. La IA te da la sintaxis, pero
+no te da la ventaja estadística ni
+válida la robustez. Conia solo
+automatiza una corazonada más rápido,
+nada más. Es decir, aceleras tu quiebra,
+no la rentabilidad. El tercero, comprar
+áreas y bot de trading ya hechos en
+MQL5, en grupos de Telegram o a algún
+vendedor con una curva de equity
+preciosa. Y aquí lo hemos visto todo,
+incluido el caso más doloroso, el bot
+que promete un 98% de acierto. Mirad
+esto, pierde y dobla. 50, 100, 200, 400,
+800, 1600 € Es una martingala
+disfrazada. gana un poquito, muchas
+veces, y lo pierde todo de golpe en una
+sola vez, en media tarde. La curva sube
+perfecta durante meses, claro que sí,
+pero desaparece en 4 horas. Pero aunque
+el bot no sea una bomba, hay un problema
+de fondo. Si no entiendes lo que hace,
+no puedes saber si aguantará en real, no
+puedes modificarlo y dependes
+eternamente de quién te lo vendió. Y el
+cuarto, y este es el más importante de
+todos, porque voy a ser radicalmente
+honesto con vosotros, hemos visto gente
+usar incluso estratos sin una
+metodología profesional detrás y no
+conseguir nada. Y os digo una cosa que
+ningún vendedor os diría jamás. La mejor
+plataforma del mundo en mano de un
+paradigma erróneo, sigue dando
+resultados erróneos. Estrato os da las
+cuatro sillas de la mesa del fondo
+profesional que vimos, pero si os
+sentáis en ellas pensando como un trader
+manual, buscando adivinar el mercado,
+obsesionados con el win rate sin
+entender la esperanza matemática, la
+herramienta no os va a salvar. Por eso
+trato sin la academia es solo media
+solución. La plataforma es el vehículo.
+La metodología es saber conducir. Y
+ahora tengo que romper el paradigma más
+difícil de todos. Porque algunos estáis
+pensando, "Pero Ignacio, si yo tengo
+resultado, mi voz lleva meses en
+positivo." Y os creo. También lo hemos
+visto muchísimo, gente con bots que
+ganan durante un tiempo. Pero escuchadme
+muy bien, porque esto es lo que separa
+un aficionado con suerte de un
+profesional. Tener resultados no es lo
+mismo que tener un sistema. Un trader
+cuantitativo no piensa en operaciones
+individuales ni en el buen ME que acaba
+de tener. Piensa en distribuciones de
+resultados sobre cientos o miles de
+operaciones. Sin una metodología
+profesional detrás, no sabéis por qué
+estáis ganando. Y si no sabéis por qué
+ganáis, no sabéis [música] cuándo vais a
+dejar de ganar y cuándo vais a perder
+todo. No sabéis si es una ventaja
+estadística real o simplemente un
+régimen de mercado favorable que va a
+cambiar. No sabéis vuestro dry máximo
+real, ni si vuestro sistema aguantaría
+un 2008, un COVID, un 2022 o una guerra
+de Irán. Ese resultado que hoy os da
+tranquilidad es en realidad una bomba de
+tiempo silenciosa, porque un sistema sin
+verificación robusta no falla el lunes
+que viene, falla el día que menos os lo
+esperáis y normalmente se lleva por
+delante todo lo ganado y algo más. Mirad
+la balanza ahora a la izquierda. Todo lo
+que habéis probado. Manual con
+indicadores, señales, bot comprados,
+IAS, plataforma sin método. A la derecha
+cómo opera de verdad la mesa
+profesional, el fondo. Y fijaos en algo
+que quiero que os llevéis grabado. En
+ningún momento os he dado mi opinión. Os
+he dado matemática y os he dado lo que
+hemos visto en cientos de personas
+reales, tanto de las que empiezan como
+de las que llevan 20 años. El
+denominador común nunca fue el tiempo,
+ni el dinero invertido, ni la
+inteligencia. Fue operar sin una
+metodología profesional que convierta la
+intuición en sistema. Y la buena noticia
+es esta. Cruzar de una columna a la otra
+no requiere 15 años, ni un par de
+carreras, ni un máster y ni varias
+formaciones de especialización como
+necesité yo. Requiere un cambio de
+mentalidad y las herramientas correctas.
+Y eso es exactamente lo que empezamos
+ahora mismo con las cinco claves. Todo
+lo que hemos visto hasta ahora era el
+diagnóstico, ahora viene la
+transformación que necesitas para ser
+rentable. Y quiero que entendáis una
+cosa, pasar de vuestra columna a la
+profesional no es aprender más
+indicadores ni estudiar más velas. Es un
+cambio de mentalidad completo, una
+revolución cognitiva. Hay tres preguntas
+que dominan la mente de todo trader
+manual y mientras sigáis haciéndoos esas
+preguntas seguiréis [música]
+atrapados. Hayáis invertido cer o 5,000
+€ en formaros. El trader cuantitativo se
+hace preguntas completamente distintas.
+Os las voy a enseñar una a una y con
+cada clave os voy a enseñar también cómo
+la academia y estratos os llevan de una
+mentalidad a la otra. ¿Cómo pensáis hoy?
+La primera pregunta del trader manual
+es, ¿hacia dónde va el precio? ¿Qué va a
+hacer ahora? Y da igual si lo decidís
+con un indicador gratis o con la
+mentoría más cara del mercado. Si
+vuestra operación nace de intentar
+adivinar el próximo movimiento, os
+estáis haciendo la pregunta equivocada.
+¿Cómo piensa el profesional? Porque como
+enseño en mi formación, predecir es el
+trabajo de los astrólogos, no de un
+trader. Nadie puede predecir el futuro y
+por eso programar un algoritmo que
+intente adivinar hacia dónde va a ir el
+precio no funciona directamente porque
+no existe. La pregunta correcta es,
+¿cuál es la probabilidad de que suba o
+baje dado el estado actual del mercado?
+Nunca tendréis el 100%. Pero si tenéis
+un 55% de probabilidad de que suba
+frente a un 45 de que baje y apostáis a
+la subida, a la larga la estadística os
+dará la razón y el sistema será
+rentable. ¿Cómo lo resolvéis con
+nosotros y cómo pasáis de la intuición a
+la probabilidad sin ser matemáticos?
+Aquí entra Estratos. La plataforma
+evalúa los arquetipos de mercado sobre
+histórico real y os dice con datos cuál
+tiene probabilidad favorable. Ahora
+mismo. En la academia aprendéis a leer
+esas probabilidades. La IA hace de
+matemático por vosotros. Vosotros dejáis
+de adivinar. ¿Cómo pensáis hoy? Pues la
+segunda pregunta que tenéis que enterrar
+es, ¿cuánto puedo ganar con esta
+operación? Mucha gente se fija, mi
+objetivos son 50 € por operación, 100 €
+al día o 3,000 € al mes. Y ese es el
+peor pensamiento que podéis tener. Y os
+lo digo sin rodeo porque me importa. ¿Y
+cómo piensa el profesional? Porque una
+persona rentable sabe que no va a ganar
+lo que él quiera ganar, sino lo que
+pueda ganar y que lo que se gana no es
+lo de esta operación ni lo de este mes.
+Es la suma total de todas tus
+operaciones, es decir, la suma de todo
+tu sistema. Pensadlo como un casino. El
+casino no sabe si la próxima mano ganará
+o perderá. Y le da exactamente igual
+porque sabe con certeza matemática y
+absoluta que tras 10,000 manos habrá
+ganado un porcentaje predecible de todo
+lo apostado. Eso es esperanza
+matemática, el beneficio promedio
+esperado por operación, considerando la
+tasa de aciertos y la magnitud de
+ganancia y pérdida. Es el concepto más
+importante de toda la profesión. ¿Cómo
+lo resolvéis con nosotros? Estratos nos
+muestra cuánto ganasteis ayer. Os
+muestra la esperanza matemática de
+vuestro sistema sobre miles de
+operaciones, su profit factor y su win
+rate real. Dejáis de mirar la foto de
+una operación y veis la película
+completa del sistema. En la academia os
+enseño a construir sistemas con
+esperanza matemática positiva, que es
+literalmente lo único que se para un
+trader rentable de uno que no lo es.
+¿Cómo pensáis hoy muchos de vosotros?
+Pues la tercera pregunta que hay que
+enterrar es, ¿tengo razón sobre el
+mercado? Se escucha hasta en
+profesionales. Si tengo razón, el
+mercado me la dará y si no, me la
+quitará. Suena maduro, pero es un error
+de raíz. ¿Cómo piensa el profesional
+realmente rentable? Porque querer tener
+razón sobre un acontecimiento futuro que
+desconoces es pensar que puedes predecir
+el futuro y nadie puede. La pregunta
+correcta es, ¿tiene mi sistema una
+ventaja estadística demostrable? Razón
+no la puedes tener, pero sí un sistema
+con ventaja estadística positiva
+demostrable en 500, 1000 o 10,000
+operaciones. Ahí vive la rentabilidad
+real, no en tener razón, sino en tener
+una ventaja probada. ¿Cómo lo resolvéis
+con nosotros y cómo demostráis esa
+ventaja antes de arriesgar un solo euro
+o un solo dólar? con el auditor de la
+mesa, que en estratos es el backter
+runner riguroso integrado y la suite de
+validación con Wall Forward, opto
+sample, condiciones adversas de 2008,
+del COVID, del 2022, etcétera. [música]
+En la academia aprendéis a distinguir
+una ventaja real de un overfeitting que
+os va a arruinar tarde o temprano.
+Dejáis de necesitar tener razón y
+empezáis a exigir pruebas. ¿Cómo pensáis
+hoy? ¿Creéis que para ganar necesitáis
+acertar más del 50% de las veces? Por
+eso os seduce el típico bot de redes
+sociales que acierta el 98 o el 83%. Y
+por eso descartáis estrategias que
+pierden más veces de las que ganan.
+¿Cómo piensa el profesional? El
+profesional sabe que no necesita acertar
+más del 50% siempre que la gestión tenga
+esperanza matemática positiva. Incluso
+perdiendo el 60% de las veces se puede
+ser rentable. Hay dos vías, una alta
+tasa de aciertos con ratio equilibrado,
+otra contrainttuitiva pero más potente,
+baja tasa de acierto con ratio
+asimétrico, es decir, aciertas el 30%
+pero cuando gana, gana mucho más de lo
+que pierdes. Y lo crucial, el ratio
+tiene que encajar con el perfil del bot.
+Si le pones un ratio que no le
+corresponde, es como intentar enseñar a
+volar a una tortuga y una tortuga no
+vuela. Por eso tantos bots retail
+pierden, porque usan un win rate y un
+ratio incompatibles con su estrategia.
+¿Cómo lo resolvéis con nosotros? Aquí
+Stratos es vuestro gestor de riesgo.
+Detecta el perfil real de vuestro bot en
+un back test con datos de calidad y lo
+cruza con la relación win rate ratio y
+os dice si ese sistema tiene salvación
+antes de que perdáis tiempo y dinero.
+[música] Y la gestión de riesgo
+paramétrica calcula el riesgo por código
+en cada operación. En la academia
+aprendéis a leer esa tabla y a no perder
+ni un mes más con una tortuga intentando
+enseñarla volar. ¿Cómo pensáis hoy
+muchos de vosotros? ¿Creéis que el error
+resume todos los anteriores? Alguien se
+descarga un bot que no sabe qué hace o
+lo crea con cloud o chat GPT porque vio
+una estrategia que funciona y termina
+perdiendo. ¿Por qué? Porque está
+automatizando una idea. ¿Cómo piensa el
+profesional? Y aquí la frase que quiero
+que os grabéis a fuego, la síntesis de
+todo el directo. No automatizamos una
+[música] idea. Somos traders
+cuantitativos. Automatizamos un sistema,
+una ventaja real. Cuando automatizas una
+idea, difícilmente llegará a ser
+rentable. Y no es culpa del trading ni
+del mercado, es culpa de una mala
+ejecución de base. Además, el trader
+cuantitativo no piensa nunca en
+operaciones individuales, sino en
+distribuciones de resultados. Ahí es
+donde desaparecen las emociones. Cuando
+dejáis de sufrir por cada trade y
+confiáis en la certeza matemática del
+conjunto, ¿cómo lo resolvéis con
+nosotros? Y esto es literalmente lo que
+es Stratos, no una herramienta para
+automatizar ideas sueltas, sino una
+plataforma para construir sistemas
+verificados sin escribir ni una sola
+línea de código y desplegarlos en un
+portfolio diversificado que opera 247
+sin que vuestras emociones toquen un
+botón. La academia os lleva de la mano
+de la idea al sistema. Ese es el salto
+completo. Mirad la balanza ahora. Tres
+preguntas nuevas en lugar de las tres
+viejas. Esperanza matemática en lugar de
+objetivo de 50 € Ventaja demostrable en
+lugar de tener razón. Un sistema en
+lugar de tener una idea. Y eso es cruzar
+de vuestra columna a la profesional. Y
+no lo hacéis con 15 años de carreras
+como tuve que hacer yo. Lo hacéis con la
+academia y con estratos haciendo de
+matemático, ingeniero, gestor de riesgo
+y auditor por vosotros. ¿Habéis visto el
+cambio de paradigma completo? Ya sabéis
+pensar distinto, pero saber qué hay que
+pensar como un profesional no os
+convierte en profesionales. Igual que
+saber que hay que operar con esperanza
+matemática, nos dice cómo construir un
+sistema que la tenga. Yo tardé varios
+años en reunir las cuatro sillas del
+fondo y la pregunta que me hice al
+crearte chain fue, "¿Y si nadie más
+tuviera que pasar por esos 15 años? Y si
+pudiéramos recoger todo ese recorrido y
+condensarlo en un camino claro, paso a
+paso, para cualquier persona que hable
+español y le ponga compromiso. Eso es
+exactamente la academia de Techen. Os
+enseño cómo funciona por dentro. La
+formación os lleva literalmente de 0 a
+100. No es una recopilación de vídeos
+sueltos. Es un sistema estructurado por
+fase. Primero, la mentalidad y
+fundamentos. Exactamente el cambio de
+paradigma que hemos empezado hoy. Luego
+la arquitectura de los bots y los
+regímenes de mercado. No solo cuáles
+son, sino cuáles son las ineficiencias
+explotables que hay que automatizar en
+cada uno para ser rentable. Y os doy
+flujos ya diseñados para empezar a
+explotar esas ineficiencias desde el
+principio. Después entramos en la silla
+del gestor de riesgo, la que el retail
+ni conoce. cuatro módulos dedicados a
+gestión de riesgo con flujos altamente
+profesionales y luego la estrategia,
+todos los tipos de estrategias de
+trading rentables que hay, cómo
+funcionan sus ineficiencia, cómo
+estructurarla y siempre construyendo
+bots sobre ellas para que ya tengáis los
+bots hechos. Y aquí está lo que hace que
+funcione aunque partáis desde cero.
+Todos los módulos tienen la misma
+arquitectura, la clase, la práctica y el
+examen. Está hecho para que aunque no
+sepáis nada, simplemente sabiendo
+español y prestando atención, superéis
+el examen y construyáis vuestro primer
+bot. Y no os dejamos solos, os doy las
+instrucciones para la práctica. Si lo
+conseguís, genial. Si no, tenéis el
+tutorial donde lo construimos paso a
+paso con muchos tips que mejoran los
+bots de forma consistente y dan una
+ventaja excepcional. Y os vais con
+herramientas para vosotros, ocho
+plantillas profesionales de supervisión
+y análisis, porque el trader
+cuantitativo no está pegado a la
+pantalla, es el supervisor de su
+sistema. Diseña y supervisa, no va a la
+lucha. Con 15, 30 minutos a la semana
+gestionáis todo el portfolio, el
+resultado final y dónde termináis.
+Termináis con un portfolio de trading ya
+construido e iniciado con los documentos
+del pipeline completo, desde tengo una
+idea hasta tengo un portfolio de botch
+rentable. Aprendéis todo el proceso y
+esto conecta con lo que hablamos del
+objetivo real. No buscamos que tengáis
+un buen mes, buscamos que salgáis
+sabiendo qué hacéis, por qué lo hacéis y
+cuál es la dirección y objetivo que
+tenéis en mente. Eso es consistencia a
+largo plazo. Eso es estar en el lado
+profesional del abismo. Todo esto que a
+mí me costó más de 15 años de
+sacrificio, lo tenéis condensado en 4
+meses. 4 meses para pasar de cero a
+trader cuantitativo profesional,
+diseñando vuestro propio portfolio de
+bot con estrato como vuestro fondo y la
+academia enseñándoos a dirigirlo. Pero
+no quiero que os lo creáis solo porque
+yo lo diga, porque yo tuve que hacer el
+recorrido largo y podríais pensar que yo
+soy un caso aislado. Así que quiero
+presentaros a alguna de las personas que
+forman parte de mi equipo. Ellos
+empezaron como muchos de vosotros, no
+venían de fondo ni de carreras cuánticas
+ni de ingeniería. Entraron en la
+academia, siguieron exactamente el
+método que os acabo de enseñar y en poco
+tiempo aprendieron a operar como
+profesionales y a ser rentables de forma
+consistente. Consistencia real, la del
+largo plazo, no la de la racha buena. Y
+hoy son mentores de la academia, de la
+comunidad, ayudando a la siguiente
+generación. son la prueba de que no
+necesitáis 15 años, necesitáis el método
+correcto y compromiso. Escuchadles. Hola
+a todos, soy Leonardo y bueno, lo
+primero de todo gracias a Ignacio y a
+todos los presentes en este directo
+desde Dubai. Y bueno, quiero contarles
+un poquito cómo pasé de de ser un
+espectador, como puede ser cualquiera de
+los de los que nos esté viendo ahora en
+este mismo momento, a estar aquí
+sentado, ¿no? Eh, y formando parte del
+equipo. Mi historia empezó hace poco más
+de 5 años, en el año 2021, en el que vi
+un curso de una persona que
+supuestamente eh sabía mucho de trading.
+Yo en aquel momento realmente no sabía
+nada o mi conocimiento era era muy
+básico. Yo en ese momento creía que no,
+porque había dedicado realmente muchas
+horas a a ver vídeos, a leer de todo y
+creía que estaba avanzando, pero hoy
+realmente con lo que sé me doy cuenta de
+que realmente no estaba avanzando porque
+al final sí que terminé comprando
+formaciones eh con ciertos gurús que a
+día de hoy algunos siguen vendiendo y a
+día de hoy con la que he aprendido con
+Ignacio me doy cuenta que que ellos
+realmente no saben nada y lo que dicen
+no te vale para nada. Pero claro, ¿qué
+pasaba? que que en aquel momento mi
+nivel de conciencia estaba entre 0 y un
+y hoy puedo decir que que con lo que he
+aprendido eh quizás no esté en un 10,
+pero sí que puedo estar entre entre, por
+ejemplo, un seis o un siete y hoy tengo
+la capacidad de juzgar, ¿no? Y y de ver
+de que si hubiera sabido lo que sea
+ahora mismo, no hubiera hecho esos
+cursos. Pero bueno, entiendo que en
+aquel momento cuando uno recién está
+empezando, estás perdido, eh, hay
+muchísima información, parece todo muy
+muy complejo y ves que esta gente, ¿no?
+Los gurús que que te lo simplifican todo
+demasiado, ellos saben saben cómo
+hacerlo, te lo pintan muy fácil, bonito,
+te dicen que te garantizan
+rentabilidades, te enseñan dinero los
+coches, lujos, resultados, ¿no? Lo que
+es el lifestyle. Evidentemente hay
+ciertas cosas que son muy exageradas y
+no te las crees, ¿no? Pero bueno, está
+claro que esa gente sabe vendértelo muy
+bien, están preparados y al final te
+convencen, te enganchan y terminas
+comprando, ¿no? Y qué pasa luego luego
+ves que realmente no te servía de nada y
+todo el dinero que pusiste y el tiempo
+que que has invertido al final está
+tirado. Entonces, en esa búsqueda de
+algo más serio, que tuviese otro tipo de
+resultados, ya vas subiendo en el trade,
+en ese nivel de conciencia, ¿no?
+a base de los palos también que te vas
+dando, ya vas viendo esos patrones
+repetitivos de siempre lo mismo, te vas
+alejando de las promesas de lo fácil, de
+rentabilidades garantizadas, del dinero
+rápido, ¿no?, que siempre te te ofrecen
+con esa metodología ABC que te dicen que
+haz esto, haz esto y haz esto y te lo
+dan todo hecho, te vas alejando de todo
+eso que al final es el 99% de de lo que
+normalmente te va saliendo en las redes,
+¿no? En esa búsqueda encontré a Ignacio
+con su canal pequeño de YouTube, que al
+principio normalmente los canales
+pequeños igual uno los descarta, ¿no?
+Porque se tiende a pensar que que igual
+porque si es un canal pequeño es quizás
+porque porque no irá bien o porque no es
+bueno lo que ofrece, ¿no? O no interesa,
+¿no? Y y bueno, en mi caso yo le di una
+oportunidad y me di cuenta que Ignacio
+es diferente. Es una persona que te dice
+las cosas tal cual como son, te explica
+la realidad de todo y muy importante, no
+te simplifica las cosas, no te no te
+pone filtros. Entonces eso a la gente
+quizás no le suele gustar y por eso a lo
+mejor quizás en aquel momento él tenía
+una audiencia pequeña, ¿no? Pero bueno,
+después de todos los palos que me que me
+había dado, me di cuenta de que ese era
+el camino. Evidentemente, al principio,
+cuando uno está empezando en el trading,
+a ver, si yo hubiera conocido a Ignacio
+eh al principio de todo, ¿no?
+Seguramente no le hubiera hubiera dado
+con el canal, no le hubiera dado la
+importancia y no le hubiera hecho caso.
+Es así, es una realidad. Pero, ¿qué
+pasaba? porque mi nivel estaba de
+conciencia estaba entre un cer y uno y
+estaba buscando otra cosa y bueno, me di
+cuenta que que ese era el camino.
+Evidentemente es un camino que hay que
+trabajarlo, hay que tener disciplina y
+hay que hacer un esfuerzo, ¿no? Pero
+bueno, a los cuatro o 5 meses
+aprendiendo con él, empecé a ver
+resultados. Ya empecé a dejar de perder
+o de tener rachas de perder, porque
+cuando estás empezando eh te crees que
+por haber tenido una racha positiva ya
+eres rentable. Y no es así. tener a
+veces rachas rentables no te convierten
+rentable, no hay un sistema realmente. Y
+ahora sí, después de haber tenido rachas
+prolongadas de 4 o 5 meses ganando, que
+no, la verdad que no lo había tenido
+nunca, no me lo no me lo terminaba de
+creer, la verdad, eh, porque siempre me
+la terminaba pegando y siempre me pasaba
+eso, ¿no? Pero bueno, al final fueron,
+ahora fueron pasando los meses y al
+final del año seguía siendo rentable.
+Entonces, ya sí que empecé, de verdad
+que empecé a tomármelo con otra ilusión,
+obviamente, y con otra disciplina, ¿no?
+Ignacio vio, bueno, Ignacio vio el
+empeño que le puse y me ofreció la
+oportunidad de entrar en la comunidad
+también como moderador del equipo para
+para ayudar, ¿no? Y y bueno, aquí estoy.
+A día de hoy hago trading 30 minutos a
+la semana, que es supervisar los bots
+con el pipeline profesional que se
+enseña en la formación y el resto del
+tiempo me dedico a otras cosas. Aquí con
+Ignacio también. Bueno, estoy, la verdad
+que estoy bastante involucrado en
+techain, eh, en otras tareas también. Y
+bueno, ese es un poco el resumen de cómo
+llegué aquí y es algo que, bueno, que
+realmente le estoy muy agradecido a
+Ignacio porque estoy seguro, estoy
+convencido que si no lo hubiera conocido
+seguiría dando vueltas perdiendo tiempo
+y dinero, no como como me estaba pasando
+y es una realidad.
+Hola a todos. Pues bien, hoy quiero
+contaros algo muy personal. Quiero
+hablaros de cómo empezó mi camino en el
+trading, donde estoy a día de hoy y
+sobre todo de todos los golpes que me
+tuve que llevar por el camino. Si te
+llama la atención este mundo, estoy casi
+seguro de que has estado a punto de caer
+o ya has caído en la misma trampa que
+yo. La verdad que mis andaduras
+empezaron ya hace muchos años. Debo
+decir que hoy por hoy ya tengo
+consistencia y nunca he parado de
+formarme, pero por aquel entonces yo
+tenía mi trabajo, mis rutinas. Pero un
+día un amigo que trasteaba con el
+trading me animó a probar. Me metió en
+un grupo de Discord donde vendían la
+moto de las señales gratuitas. Todo era
+precioso. Cada dos por tres, los
+administradores subían fotos de su vida
+de ensueño, lujos, fajos de dinero,
+coches deportivos. Lo típico para atraer
+a los incautos como moscas a la miel. Y
+es que es así. Cuando tienes una
+necesidad o ganas de cambiar tu vida, lo
+peor que te puede pasar es que jueguen
+con esa ilusión. Deseas tanto un cambio
+que te llevas por delante lo que haga
+falta con tal de alcanzarlo. ¿Qué pasó
+después? Lo inevitable. El siguiente
+paso era pagar por un curso, no era
+barato, pero se veía bien. Tengo que
+admitir que aprendí los conceptos más
+básicos del trading, pero solo eso, la
+superficie. Estaba a luz de lo que
+realmente se necesitaba para alcanzar el
+nivel que esta gente prometía.
+Literalmente el gran curso era un
+escueto PDF de pocas páginas. Tampoco es
+que yo fuera el más listo del mundo,
+pero sabía perfectamente que en el
+negocio más competitivo del planeta no
+bastaba con leerse un par de folios.
+Pero no me iba a rendir. Ya le había
+cogido el gusto a este mundo, así que
+seguí buscando formarme como era debido
+y volví a caer en las garras de otro
+gurú. Este me vendió un sistema para
+crear botch que ni él mismo sabía bien
+cómo funcionaba. Necesitabas poco menos
+que un ordenador de la NASA para
+ejecutarlo y por si fuera poco, cuando
+tenías una duda, estabas completamente
+solo. No había nadie al otro lado. Tras
+haber pagado un dineral y ver que no
+avanzaba nada, decidí parar. Una
+retirada a tiempo es una victoria. En
+esa época ocurrió algo que me revolvió
+por dentro. Mi amigo, el que me había
+metido en esto, empezaba a ser
+consistente. [música] Me frustré
+muchísimo. Sentía que yo solo daba palos
+de ciego. Luego se vio que había sido un
+espejismo, un golpe de suerte. Resulta
+que con 600 € llegó a crecer la cuenta a
+2200 en un solo día. Ojo, yo nunca
+busqué hacerme millonario de la noche a
+la mañana. sabía que las mansiones y los
+superdeportivos eran puro humo. El que
+realmente gana dinero en esto no se
+exhibe en redes. Lo único que yo quería
+era un sobresueldo y con suerte poder
+dejar mi trabajo para dedicarme al
+trading al 100%. Con eso me bastaba,
+pero me hallaba en un callejón sin
+salida. Dos cursos, dos fraudes. Me puse
+delante del espejo y me pregunté, ¿qué
+hago? ¿Sigo buscando arriesgándome a
+toparme con otra llena que solo quiera
+mi dinero o me retiro definitivamente y
+me olvido de esto? Y justo ahí, haciendo
+un scroll infinito en YouTube por puro
+aburrimiento, la vida me cambió. Me
+apareció un vídeo de Ignacio, el primero
+de su canal, tu bot de trading
+automático. No sé por qué, pero algo
+dentro de mí hizo click para pulsar en
+ese vídeo. Sinceramente, de todo el
+contenido que había consumido en redes,
+Ignacio era el único que hablaba claro,
+sin humo, sin falsas promesas. Te
+enseñaba un sistema absurdamente simple,
+pero eficaz. crear tus propios bots sin
+saber código y por menos de lo que
+cuesta un [música] café. Pensé, ¿por qué
+no probar? Ya no tengo nada que perder.
+Fue un faro en mitad de la tormenta. Me
+abrió los ojos. Ignacio dejaba algo muy
+claro desde el primer minuto. Da igual
+la estrategia que uses. Si no le pones
+disciplina, no llegas a ningún lado. Es
+como ir en bicicleta. Es muy fácil, sí,
+pero para sostenerte sin caerte, has
+tenido que pasar por ese proceso de
+disciplina. Se me abrió un abanico de
+posibilidades increíbles. Ya no hacía
+falta estudiar durante años un universo
+infinito de patrones o análisis técnico.
+Cualquier persona con o sin experiencia
+podía crear un bot en cuestión de
+minutos. El entorno es tan intuitivo que
+te lleva de la mano. Si la plataforma ya
+era potente en sus inicios, lo que es
+hoy en día dados todos los avances
+implementados es una locura. lo
+entendería hasta un niño. Y lo que
+remató todo fue cuando lanzó la
+comunidad encima de acceso gratuito, ver
+que el propio CEO daba la cara y te
+contestaba directamente a las dudas. No
+conozco ninguna empresa donde pase eso.
+La confianza que transmite es brutal. A
+día de hoy las cosas han cambiado
+drásticamente. No solo me he convertido
+en un trader holgadamente rentable con
+bots, sino que Ignacio, al ver mi empeño
+y dedicación, me dio la oportunidad de
+unirme al equipo como mentor de la
+comunidad. Hoy paso mis días con
+vosotros resolviendo dudas,
+acompañándoos y sobre todo dándos ánimo
+para que no tiréis la toalla,
+especialmente teniendo a mano un sistema
+tan accesible y potente como Strator.
+Honestamente, no conozco nada igual en
+el mercado. Me siento enormemente
+afortunado de formar parte de este
+proyecto desde sus inicios. Si estás
+pasando por esa fase de frustración por
+la que yo pasé, solo te digo una cosa,
+no te rindas, pero busca el camino
+correcto. Nos vemos dentro.
+Hola, mi nombre es Víctor y me comienzo
+en trading fue sobre el año 2022
+haciendo trading manual y por aquel
+entonces buscaba cursos de teóricamente
+formadores profesionales dentro del
+sector, los cuales te enseñan tirar
+cuatro líneas de tendencia y utilizando
+una sola estrategia ya iba a ser
+rentable en el mercado. Viendo que
+tenían cientos o mil de usuarios, están
+reportando beneficio de forma constante
+de sus brokers, pues decidí hacerlo.
+Pero una vez acabado el curso y
+realizado y empezado a pegar en real, lo
+único que conseguí fue perder todas mis
+cuentas de trading y una alta
+frustración debido a la alta cantidad de
+horas que pasaba delante de la pantalla
+analizando los mercados y viendo como
+mis operativas iban a negativo y mi
+negativo aumentaba hasta que perdía
+todas mis cuentas. Otro problema
+ocasionado con estas pérdidas es que mis
+emociones empezaron a influir en el
+mercado, ya sea por miedo o por avaricia
+o no entraba en el mercado o dejaba las
+operativas más tiempo del necesario con
+el consiguiente aumento de pérdidas y
+vuelta otra vez a la línea de salida.
+Como quería acabar desde ya con esta
+situación, di el salto al trading
+algorítmico en trading con bot, pero en
+mi caso, como no tengo nociones de
+programación, busqué información sobre
+plataformas de trading no code o
+plataformas de trading sin tener que
+ponerlo sola línea de código. Eh,
+buscando por YouTube en diferentes
+tutoriales, me salía en aquel entonces
+me salía siempre la misma plataforma que
+seguramente muchos ya conoceréis. Y
+viendo que tenía una versión de prueba
+dije, "Bueno, voy a probarlo a ver si a
+ver qué resultados da. Lo primero que me
+llamó la atención de esta plataforma es
+que no era nada intuitiva, como decían
+en los tutoriales, y que para que me
+dieran 10 estrategias, que fue lo que le
+pedía en aquel entonces, tenía que dejar
+la plataforma 247 conectada y que me
+tardaba un mes en darme los resultados.
+Digo, bueno, es gratis, lo pongo en VPS
+y a ver qué resultados me da. Mientras
+tanto, sigo buscando otras opciones a
+ver qué qué encuentro.
+[música]
+Pues seguía buscando tutoriales y vídeos
+en YouTube y sé hasta que siempre
+siempre me salían lo mismo, hasta que
+tuve la gran suerte [música] de que en
+su experiencias en YouTube me salió un
+vídeo de Ignacio que hablaba de
+diferencia entre trading algorítmico y
+trading manual y al ver su descripción
+me llamó mucho la atención, así que
+decidí verlo. Lo primero que me llamó la
+atención de de este vídeo de Ignacio es
+que lo directo, claro, y sin guardarse
+nada que explicaba todo. Por primera vez
+en mi vida, después de ver varios ver
+cientos de tutoriales, una persona decía
+las cosas tal cual eran. Y aparte todo
+lo que decía del trading manual es lo
+que yo me había pasado durante mi tiempo
+y dije, "No, este canal me lo guardo y
+sigo viendo vídeos porque de este voy a
+de esta persona voy a aprender mucho." Y
+eso fue lo que hice. Seguí viendo vídeos
+y cada vez veía que aprendía mucho más
+de sus vídeos. Eran siempre eran una
+masterclass te enseñaba cosas nuevas y y
+era muy enriquecedora. y vi que uno de
+sus vídeos hablaba sobre su plataforma
+de trading no code, que era lo que yo
+estaba buscando para hacer bot de
+trading extracto, y a su vez iba a sacar
+una iba a sacar una formación sobre
+trading cuantitativo y dije, "Espera,
+con todo lo que estoy aprendiendo en sus
+vídeos, ¿qué no voy a aprender yo de
+Ignasio en esta formación?" Así que cogí
+las riendas y decidí decidí hacerlas y
+por ahora en la actualidad es la mejor
+decisión que he tomado en mi vida. Pues
+una vez finalizada la formación, al cabo
+de unos cinco o se meses, por primera
+vez en mi vida, eh mis operativas
+ganadoras [música]
+eran constantes. Con todo lo que me
+había de golpes que me había llevado,
+decidí, "No, vamos a dejarlo más tiempo
+y a ver si si esto sigue." Así que eso
+fue lo que lo que hice al cabo de hasta
+finales de año. Dejé que mis bot o el
+portfolio de bot operar y veía que mis
+operativas ganadoras seguían aumentando
+y la rentabilidad iba también iba
+subiendo. Y por primera vez en mi
+vida estoy siendo rentable.
+[música]
+Pero una cosa os quiero decir, algo muy
+importante es que hay que seguir a raja
+tabla, que fue lo que yo hice. Eh, los
+pasos que se explican en la formación
+son como unas siete fases y van desde la
+creación de tus bot de trading por
+varias subfases hasta llegar a la fase
+final, que es la gestión de tu portfolio
+de bot, que es lo que realmente utilizas
+para operar los mercados. Pues una vez
+pasado ese tiempo, no solo mis
+operativas ganadoras seguían ahí, sino
+se estaban aumentando y mi rentabilidad
+iba aumentando mes a mes. Pero algo muy
+importante es [música] que solo dedico
+al trading una hora a la semana. Hoy es
+bien, [música] solo una hora a la
+semana. Y lo único que hago, tal cual se
+explica en la formación, es gestionar mi
+portfolio de bot, ya sea eh si tengo que
+hacer algún cambio y cambiar algún bot o
+dejarlo porque va muy bien. Todo depende
+de cómo esté el mercado. Y el resto de
+tiempo pues lo dedico a hacer otras
+cosas. Entre ellas y gracias a Ignacio,
+tras ver toda mi evolución que tuve con
+mis operativas y mi gestión de portfolio
+de bot, me dio la oportunidad junto a
+otros compañeros de formar parte de este
+gran proyecto que es Techen y esta gran
+familia que se está convirtiendo en mi
+caso en dar soporte y solucionar dudas o
+inquietudes que tenga la gente tanto en
+la comunidad school como en el campus de
+la de la formación de de trading
+cuantitativo que se da en Stratos Bit.
+Nada, este ha sido mi camino en el
+trading hasta la fecha y solo dar las
+gracias a Ignacio por la gran
+oportunidad que me ha dado y os espero
+por tanto por la comunidad de School
+como por la el campo.
+La única diferencia entre ellos y las
+miles de personas que siguen atrapadas
+en el lado autodidacta del abismo fue
+una decisión, dejar de estudiar por su
+cuenta y entrar en un método
+profesional. Y esa misma decisión la
+tenéis vosotros delante ahora mismo. La
+entrada a la Stratop VIP Academy no es
+un botón de comprar ahora. Y esto es a
+propósito, porque esto no es un curso
+que descargas y ves solo. Es una
+formación profesional con acompañamiento
+real y queremos asegurarnos de que es
+para ti y de que tú eres para ella. Por
+eso, el siguiente paso es una llamada de
+acceso, una conversación sin compromiso,
+donde vemos de dónde parte, cuál es tu
+situación real y si la academia es el
+camino correcto para ti o no. Es
+exactamente el mismo tipo de llamada que
+tuvieron en su día los alumnos que hoy
+operan de forma consistente y que los
+miembros de mi equipo que acabáis de ver
+tuvieron antes de convertirse en
+mentores. Si algo de lo que has visto
+hoy te ha resonado, si te has reconocido
+en el lado autodidacta del abismo, hayas
+empezado ayer o lleve 20 años y quieres
+cruzar por fin al lado profesional,
+agenda tu llamada ahora. Las plazas de
+cada edición son limitadas, como ya
+sabéis, y lo son de verdad, porque el
+acompañamiento es real y personal. No
+podemos atender a todo el mundo a la
+vez. Recordad lo que hemos visto hoy.
+Sin metodología profesional, el largo
+plazo os lleva a perder. Cada mes que
+pasa en el lado autodidacta es un mes de
+capital y de oportunidades quemadas. La
+pregunta no es si podéis permitiros
+entrar, es si podéis permitiros seguir
+otro año más en el mismo sitio. Reserva
+tu llamada, cuéntanos tu caso y damos
+juntos el primer paso para que dejes de
+competir contra el fondo y empieces a
+operar como uno. Nos vemos en esa
+llamada.
+Ah.
